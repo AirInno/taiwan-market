@@ -48,7 +48,7 @@ tr:hover td{background:#1e2533}
 .bar-row{display:flex;align-items:center;gap:7px;font-size:0.77rem}
 .bar-lbl{width:120px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#a0aec0}
 .bar-track{flex:1;background:#2d3748;border-radius:3px;height:18px;overflow:hidden}
-.bar-fill{height:100%;display:flex;align-items:center;padding:0 6px;font-size:0.68rem;font-weight:700;white-space:nowrap;border-radius:3px}
+.bar-fill{height:100%;display:flex;align-items:center;padding:0 6px;font-size:0.68rem;font-weight:700;white-space:nowrax;border-radius:3px}
 .bar-fill.buy{background:linear-gradient(90deg,#065f46,#059669);color:#6ee7b7;justify-content:flex-end}
 .bar-fill.sell{background:linear-gradient(90deg,#991b1b,#dc2626);color:#fca5a5}
 .prog-track{background:#2d3748;border-radius:5px;height:9px;margin:6px 0}
@@ -324,6 +324,7 @@ $('t-5day-body').innerHTML=L5.map((r,i)=>{
 }).join('');
 const s5f=L5.reduce((a,r)=>a+r.外資億元,0),s5i=L5.reduce((a,r)=>a+r.投信億元,0);
 $('t-5day-foot').innerHTML=`<tr style="border-top:1px solid #2d3748"><td class="muted" style="font-size:.75rem">近5日合計</td><td class="${s5f>=0?'pos':'neg'}" style="font-weight:700">${fmt(s5f)}</td><td class="${s5i>=0?'pos':'neg'}" style="font-weight:700">${fmt(s5i)}</td><td colspan="3" class="muted">${s5f.toFixed(2)} 億累計</td></tr>`;
+}
 
 // Bars
 function bars(id,items,sell){
