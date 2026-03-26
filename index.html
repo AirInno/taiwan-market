@@ -1,1 +1,323 @@
-<html><head><meta charset="UTF-8"><title>台股外資動向追蹤</title></head><body><p>網站建置中，請稍候...</p></body></html>
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>台股外資動向追蹤｜AirInno</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Noto Sans TC",sans-serif;background:#0f1117;color:#e2e8f0;min-height:100vh}
+.header{background:linear-gradient(135deg,#1a1f2e,#16213e);border-bottom:1px solid #2d3748;padding:20px 28px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+.header h1{font-size:1.3rem;font-weight:700}
+.header p{font-size:0.78rem;color:#718096;margin-top:3px}
+.header-right{font-size:0.75rem;color:#4a5568;text-align:right}
+.alert-banner{margin:20px 28px 0;border-radius:10px;padding:16px 22px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.alert-banner.normal{background:linear-gradient(135deg,#064e3b,#065f46);border:1px solid #059669}
+.alert-banner.caution{background:linear-gradient(135deg,#78350f,#92400e);border:1px solid #d97706}
+.alert-banner.high{background:linear-gradient(135deg,#7c2d12,#9a3412);border:1px solid #ea580c}
+.alert-banner.extreme{background:linear-gradient(135deg,#7f1d1d,#991b1b);border:1px solid #ef4444}
+.alert-icon{font-size:2rem}
+.alert-text h2{font-size:1.3rem;font-weight:800}
+.alert-text p{font-size:0.84rem;color:rgba(255,255,255,.75);margin-top:3px}
+.alert-banner.normal h2{color:#6ee7b7}.alert-banner.caution h2{color:#fcd34d}
+.alert-banner.high h2{color:#fb923c}.alert-banner.extreme h2{color:#fca5a5}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;padding:20px 28px}
+.card{background:#1a202c;border:1px solid #2d3748;border-radius:10px;padding:18px}
+.card.span2{grid-column:span 2}.card.span3{grid-column:span 3}
+.card-title{font-size:0.73rem;font-weight:600;color:#718096;text-transform:uppercase;letter-spacing:.05em;margin-bottom:12px}
+.metric-val{font-size:2rem;font-weight:800;line-height:1}
+.metric-val.neg{color:#f87171}.metric-val.pos{color:#34d399}
+.metric-sub{font-size:0.77rem;color:#a0aec0;margin-top:8px;padding-top:8px;border-top:1px solid #2d3748}
+.badge{display:inline-block;padding:2px 9px;border-radius:20px;font-size:0.72rem;font-weight:700}
+.badge.normal{background:#064e3b;color:#6ee7b7;border:1px solid #059669}
+.badge.caution{background:#78350f;color:#fcd34d;border:1px solid #d97706}
+.badge.high{background:#7c2d12;color:#fb923c;border:1px solid #ea580c}
+.badge.extreme{background:#7f1d1d;color:#fca5a5;border:1px solid #ef4444}
+.stock-pair{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.stock-side{flex:1}
+.stock-label{font-size:0.72rem;color:#718096;margin-bottom:3px}
+.chart-wrap{position:relative;height:220px}
+table{width:100%;border-collapse:collapse;font-size:0.8rem}
+th{text-align:left;padding:7px 9px;background:#1e2533;color:#718096;font-weight:600;font-size:0.72rem;border-bottom:1px solid #2d3748}
+td{padding:8px 9px;border-bottom:1px solid #1e2533}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:#1e2533}
+.neg{color:#f87171;font-weight:600}.pos{color:#34d399;font-weight:600}.muted{color:#718096}
+.bar-list{display:flex;flex-direction:column;gap:7px}
+.bar-row{display:flex;align-items:center;gap:7px;font-size:0.77rem}
+.bar-lbl{width:120px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#a0aec0}
+.bar-track{flex:1;background:#2d3748;border-radius:3px;height:18px;overflow:hidden}
+.bar-fill{height:100%;display:flex;align-items:center;padding:0 6px;font-size:0.68rem;font-weight:700;white-space:nowrap;border-radius:3px}
+.bar-fill.buy{background:linear-gradient(90deg,#065f46,#059669);color:#6ee7b7;justify-content:flex-end}
+.bar-fill.sell{background:linear-gradient(90deg,#991b1b,#dc2626);color:#fca5a5}
+.prog-track{background:#2d3748;border-radius:5px;height:9px;margin:6px 0}
+.prog-fill{height:100%;border-radius:5px}
+.prog-fill.low{background:linear-gradient(90deg,#7f1d1d,#dc2626)}
+.prog-fill.med{background:linear-gradient(90deg,#78350f,#d97706)}
+.prog-fill.hi{background:linear-gradient(90deg,#065f46,#059669)}
+.radar-row{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid #1e2533;font-size:0.8rem}
+.radar-row:last-child{border-bottom:none}
+.section-label{padding:8px 28px 0;font-size:0.73rem;color:#4a5568;letter-spacing:.05em;font-weight:600;text-transform:uppercase}
+.footer{margin:20px 28px;padding:14px 18px;background:#1a202c;border:1px solid #2d3748;border-radius:8px;font-size:0.72rem;color:#4a5568}
+.footer a{color:#4299e1;text-decoration:none}
+.nav-tabs{display:flex;gap:0;padding:16px 28px 0;border-bottom:1px solid #2d3748}
+.nav-tab{padding:8px 18px;font-size:0.82rem;cursor:pointer;border-bottom:2px solid transparent;color:#718096;transition:all .2s}
+.nav-tab.active{color:#e2e8f0;border-bottom-color:#4299e1}
+.tab-content{display:none}.tab-content.active{display:block}
+@media(max-width:768px){
+  .header,.grid,.section-label,.footer,.nav-tabs{padding-left:14px;padding-right:14px}
+  .alert-banner{margin:14px 14px 0}
+  .card.span2,.card.span3{grid-column:span 1}
+  .metric-val{font-size:1.6rem}
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <div>
+    <h1>📊 台股外資動向追蹤</h1>
+    <p id="hdr-date">載入中...</p>
+  </div>
+  <div class="header-right" id="hdr-meta"></div>
+</div>
+
+<div id="alert-banner" class="alert-banner high">
+  <div class="alert-icon">⚠️</div>
+  <div class="alert-text">
+    <h2 id="alert-title">載入中...</h2>
+    <p id="alert-desc"></p>
+  </div>
+</div>
+
+<div class="nav-tabs">
+  <div class="nav-tab active" onclick="switchTab('today')">今日簡報</div>
+  <div class="nav-tab" onclick="switchTab('history')">歷史走勢</div>
+  <div class="nav-tab" onclick="switchTab('stocks')">個股排行</div>
+</div>
+
+<div class="tab-content active" id="tab-today">
+  <div class="grid" style="margin-top:4px">
+    <div class="card">
+      <div class="card-title">🌐 外資整體</div>
+      <div class="metric-val" id="t-foreign"></div>
+      <div class="metric-sub" id="t-foreign-sub"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">🏦 投信整體</div>
+      <div class="metric-val" id="t-it"></div>
+      <div class="metric-sub" id="t-it-sub"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">🔵 台積電（2330）</div>
+      <div class="stock-pair">
+        <div class="stock-side">
+          <div class="stock-label">外資</div>
+          <div class="metric-val" id="t-tsmc-f" style="font-size:1.4rem"></div>
+          <div style="margin-top:5px" id="t-tsmc-f-badge"></div>
+        </div>
+        <div class="stock-side">
+          <div class="stock-label">投信</div>
+          <div class="metric-val" id="t-tsmc-i" style="font-size:1.4rem"></div>
+          <div style="margin-top:5px;font-size:0.73rem;color:#34d399" id="t-tsmc-i-note"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">🟠 元大台灣50（0050）</div>
+      <div class="stock-pair">
+        <div class="stock-side">
+          <div class="stock-label">外資</div>
+          <div class="metric-val" id="t-0050-f" style="font-size:1.4rem"></div>
+          <div style="margin-top:5px" id="t-0050-f-badge"></div>
+        </div>
+        <div class="stock-side">
+          <div class="stock-label">投信</div>
+          <div class="metric-val" id="t-0050-i" style="font-size:1.4rem"></div>
+          <div style="margin-top:5px;font-size:0.73rem" id="t-0050-i-note"></div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">🛡️ 投信護盤強度</div>
+      <div id="t-hedge-vals" style="font-size:0.8rem;margin-bottom:6px"></div>
+      <div class="prog-track"><div class="prog-fill" id="t-hedge-bar"></div></div>
+      <div style="display:flex;justify-content:space-between;font-size:0.8rem;margin-top:4px">
+        <span id="t-hedge-pct" style="font-weight:700"></span>
+        <span id="t-hedge-badge"></span>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">🔔 反轉訊號雷達</div>
+      <div id="t-radar"></div>
+    </div>
+  </div>
+  <div class="section-label">▸ 近5日彙整</div>
+  <div class="grid">
+    <div class="card span3">
+      <div class="card-title">📋 近5日三大法人動向</div>
+      <div style="overflow-x:auto">
+        <table>
+          <thead><tr><th>日期</th><th>外資（億）</th><th>投信（億）</th><th>合力</th><th>台股收盤</th><th>漲跌點</th></tr></thead>
+          <tbody id="t-5day-body"></tbody>
+          <tfoot id="t-5day-foot"></tfoot>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="tab-content" id="tab-history">
+  <div class="grid" style="margin-top:4px">
+    <div class="card span2">
+      <div class="card-title">📈 外資 vs 投信 走勢（億元）</div>
+      <div class="chart-wrap"><canvas id="h-flow"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-title">📉 台股加權指數</div>
+      <div class="chart-wrap"><canvas id="h-index"></canvas></div>
+    </div>
+    <div class="card span2">
+      <div class="card-title">🔵 台積電(2330) 外資張數歷史</div>
+      <div class="chart-wrap"><canvas id="h-tsmc"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-title">🟠 0050 外資張數歷史</div>
+      <div class="chart-wrap"><canvas id="h-0050"></canvas></div>
+    </div>
+  </div>
+</div>
+
+<div class="tab-content" id="tab-stocks">
+  <div class="grid" style="margin-top:4px">
+    <div class="card span2">
+      <div class="card-title">▲ 外資買超前5名</div>
+      <div class="bar-list" id="s-fb"></div>
+    </div>
+    <div class="card span2">
+      <div class="card-title">▼ 外資賣超前5名</div>
+      <div class="bar-list" id="s-fs"></div>
+    </div>
+    <div class="card span2">
+      <div class="card-title">▲ 投信買超前5名</div>
+      <div class="bar-list" id="s-ib"></div>
+    </div>
+    <div class="card span2">
+      <div class="card-title">▼ 投信賣超前5名</div>
+      <div class="bar-list" id="s-is"></div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <strong>官方資料：</strong>
+  <a href="https://www.twse.com.tw/zh/trading/foreign/twt38u.html" target="_blank">外資買賣超</a> ·
+  <a href="https://www.twse.com.tw/zh/trading/foreign/t86.html" target="_blank">三大法人日報</a> ·
+  <a href="https://www.twse.com.tw/zh/trading/foreign/bfi82u.html" target="_blank">買賣金額統計</a> ·
+  <a href="https://www.twse.com.tw/zh/afterTrading/FMTQIK" target="_blank">市場成交資訊</a>
+  <span style="float:right">⚠️ 僅供參考，不構成投資建議</span>
+</div>
+
+<!-- ===MARKET_DATA_START=== -->
+<script id="market-data-block">
+const MARKET_HISTORY = [
+  {"date":"20260324","dateLabel":"03/24","外資億元":-123.06,"投信億元":23.80,"收盤":32612.24,"漲跌":-110.26,"連續賣超":4,"警示":"高度警戒","tsmc外資":-5178,"tsmc投信":691,"tsmc警示":"正常","etf0050外資":-21894,"etf0050投信":0,"etf0050警示":"高度警戒","護盤比":19.3,"外資買超":[{"code":"2408","name":"南亞科","張":13066},{"code":"3702","name":"大聯大","張":12926},{"code":"2605","name":"新興","張":11816},{"code":"1303","name":"南亞","張":10307},{"code":"2337","name":"旺宏","張":10214}],"外資賣超":[{"code":"6770","name":"力積電","張":-80806},{"code":"3481","name":"群創","張":-42489},{"code":"2409","name":"友達","張":-25184},{"code":"0050","name":"元大台50","張":-21894},{"code":"00637L","name":"滬深300正2","張":-17416}],"投信買超":[{"code":"2887","name":"台新新光金","張":18009},{"code":"2891","name":"中信金","張":5949},{"code":"2882","name":"國泰金","張":4522},{"code":"2881","name":"富邦金","張":2687},{"code":"3036","name":"文曄","張":2365}],"投信賣超":[{"code":"2344","name":"華邦電","張":-17506},{"code":"00935","name":"野村新科技50","張":-11300},{"code":"2408","name":"南亞科","張":-8818},{"code":"9941","name":"裕融","張":-2676},{"code":"2337","name":"旺宏","張":-2111}]}
+];
+</script>
+<!-- ===MARKET_DATA_END=== -->
+
+<script>
+const $=id=>document.getElementById(id);
+const fmt=(v,u='億')=>(v>=0?'+':'')+v.toFixed(2)+u;
+const fmtZ=v=>(v>=0?'+':'')+v.toLocaleString()+'張';
+const BC={正常:'normal',注意:'caution',高度警戒:'high',極度警戒:'extreme'};
+const badge=lvl=>`<span class="badge ${BC[lvl]||'normal'}">【${lvl}】</span>`;
+
+function switchTab(n){
+  document.querySelectorAll('.nav-tab').forEach((t,i)=>t.classList.toggle('active',['today','history','stocks'][i]===n));
+  document.querySelectorAll('.tab-content').forEach(t=>t.classList.remove('active'));
+  $('tab-'+n).classList.add('active');
+  if(n==='history')renderHistory();
+}
+
+const D=MARKET_HISTORY;
+const L=D[D.length-1];
+const L5=D.slice(-5);
+
+// Header
+$('hdr-date').textContent='最新資料：'+L.dateLabel+' 盤後｜來源：台灣證券交易所官方 API';
+$('hdr-meta').innerHTML='資料庫累積：'+D.length+' 個交易日<br>關泫股：2330・0050<br>每個交易日盤後自動更新';
+
+// Alert
+const ab=$('alert-banner');
+ab.className='alert-banner '+(BC[L.警示]||'normal');
+$('alert-title').textContent='【'+L.警示+'】';
+$('alert-desc').textContent='0050 外資'+(L.etf0050外資<0?'賣超':'買超')+' '+Math.abs(L.etf0050外資).toLocaleString()+'張｜連續賣超第'+L.連續賣超+'日';
+
+// Today cards
+const fv=$('t-foreign');fv.textContent=(L.外資億元>=0?'+':'')+L.外資億元.toFixed(2)+'億';fv.className='metric-val '+(L.外資億元>=0?'pos':'neg');
+$('t-foreign-sub').innerHTML='連續賣超第 <strong style="color:#fb923c">'+L.連續賣超+'</strong> 日';
+const iv=$('t-it');iv.textContent=(L.投信億元>=0?'+':'')+L.投信億元.toFixed(2)+'億';iv.className='metric-val '+(L.投信億元>=0?'pos':'neg');
+$('t-it-sub').innerHTML=L.投信億元>0&&L.外資億元<0?'<span style="color:#34d399">逆向護盤 ✓</span>':'同向';
+const tf=$('t-tsmc-f');tf.textContent=fmtZ(L.tsmc外資);tf.className='metric-val '+(L.tsmc外資>=0?'pos':'neg');
+$('t-tsmc-f-badge').innerHTML=badge(L.tsmc警示);
+const ti=$('t-tsmc-i');ti.textContent=fmtZ(L.tsmc投信);ti.className='metric-val '+(L.tsmc投信>=0?'pos':'neg');
+$('t-tsmc-i-note').textContent=L.tsmc投信>0&&L.tsmc外資<0?'逆向護盤':'';
+const ef=$('t-0050-f');ef.textContent=fmtZ(L.etf0050外資);ef.className='metric-val '+(L.etf0050外資>=0?'pos':'neg');
+$('t-0050-f-badge').innerHTML=badge(L.etf0050警示);
+const ei=$('t-0050-i');ei.textContent=fmtZ(L.etf0050投信);ei.className='metric-val '+(L.etf0050投信>=0?'pos':'neg');
+const n0050=$('t-0050-i-note');n0050.textContent=L.etf0050投信>0&&L.etf0050外資<0?'逆向護盤':L.etf0050投信===0?'無護盤':'';n0050.style.color=L.etf0050投信>0?'#34d399':'#718096';
+
+// Hedge
+const hp=L.護盤比;
+$('t-hedge-vals').innerHTML='外資賣超 <span class="neg">'+Math.abs(L.外資億元).toFixed(2)+'億</span>｜投信買超 <span class="pos">'+L.投信億元.toFixed(2)+'億</span>';
+const hb=$('t-hedge-bar');hb.style.width=Math.min(hp,100)+'%';hb.className='prog-fill '+(hp>=40?'hi':hp>=20?'med':'low');
+$('t-hedge-pct').textContent=hp.toFixed(1)+'%';$('t-hedge-pct').style.color=hp>=40?'#34d399':hp>=20?'#fcd34d':'#f87171';
+$('t-hedge-badge').innerHTML='<span class="badge '+(hp>=40?'normal':hp>=20?'caution':'high')+'">護盤：'+(hp>=40?'高':hp>=20?'中':'低')+'</span>';
+
+// Radar
+$('t-radar').innerHTML=[
+  ['外資買超反轉？',L.外資億元>=0,L.外資億元>=0?'是':'否'],
+  ['投信逆向護盤？',L.投信億元>0&&L.外資億元<0,L.投信億元>0&&L.外資億元<0?`是（${L.護盤比.toFixed(1)}%）`:'否'],
+  ['台積電 外資',L.tsmc警示==='正常',badge(L.tsmc警示)],
+  ['0050 外資',L.etf0050警示==='正常',badge(L.etf0050警示)],
+  ['單日異常(>600億)',Math.abs(L.外資億元)<600,Math.abs(L.外資億元)<600?'否':'是⚠️'],
+].map(([l,ok,v])=>`<div class="radar-row"><span>${l}</span><span style="color:${ok?'#34d399':'#f87171'};font-weight:700">${v}</span></div>`).join('');
+
+// 5-day table
+$('t-5day-body').innerHTML=L5.map((r,i)=>{
+  const last=i===L5.length-1;
+  const syn=r.外資億元<0&&r.投信億元>0?'<span style="color:#34d399">逆向護盤</span>':r.外資億元<0&&r.投信億元<0?'<span class="neg">同向賣出</span>':'<span class="muted">震盪</span>';
+  return `<tr ${last?'style="background:#1e2533"':''}><td>${last?'<strong>':''}${r.dateLabel}${last?'★</strong>':''}</td><td class="${r.外資億元>=0?'pos':'neg'}">${fmt(r.外資億元)}</td><td class="${r.投信億元>=0?'pos':'neg'}">${fmt(r.投信億元)}</td><td>${syn}</td><td>${r.收盤.toLocaleString()}</td><td class="${r.漲跌>=0?'pos':'neg'}">${r.漲跌>=0?'+':''}${r.漲跌.toFixed(2)}</td></tr>`;
+}).join('');
+const s5f=L5.reduce((a,r)=>a+r.外資億元,0),s5i=L5.reduce((a,r)=>a+r.投信億元,0);
+$('t-5day-foot').innerHTML=`<tr style="border-top:1px solid #2d3748"><td class="muted" style="font-size:.75rem">近5日合計</td><td class="${s5f>=0?'pos':'neg'}" style="font-weight:700">${fmt(s5f)}</td><td class="${s5i>=0?'pos':'neg'}" style="font-weight:700">${fmt(s5i)}</td><td colspan="3" class="muted">${s5f.toFixed(2)} 億累計</td></tr>`;
+
+// Bars
+function bars(id,items,sell){
+  const mx=Math.max(...items.map(x=>Math.abs(x.張)));
+  $(id).innerHTML=items.map(x=>`<div class="bar-row"><span class="bar-lbl">${x.code} ${x.name}</span><div class="bar-track"><div class="bar-fill ${sell?'sell':'buy'}" style="width:${Math.round(Math.abs(x.張)/mx*100)}%">${sell?'':'+'}${Math.abs(x.張).toLocaleString()}張</div></div></div>`).join('');
+}
+bars('s-fb',L.外資買超,false);
+bars('s-fs',L.外資賣超.map(x=>({...x,張:Math.abs(x.張)})),true);
+bars('s-ib',L.投信買超,false);
+bars('s-is',L.投信賣超.map(x=>({...x,張:Math.abs(x.張)})),true);
+
+// History charts (lazy)
+let hDone=false;
+function renderHistory(){
+  if(hDone)return;hDone=true;
+  const lbl=D.map(r=>r.dateLabel);
+  const cf={responsive:true,maintainAspectRatio:false,plugins:{legend:{labels:{color:'#a0aec0',font:{size:11}}}},scales:{x:{ticks:{color:'#718096'},grid:{color:'#2d3748'}},y:{ticks:{color:'#718096'},grid:{color:'#2d3748'}}}};
+  const af=D.map(r=>r.外資億元),ai=D.map(r=>r.投信億元);
+  new Chart($('h-flow').getContext('2d'),{type:'bar',data:{labels:lbl,datasets:[{label:'外資（億）',data:af,backgroundColor:af.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:af.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3},{label:'投信（億）',data:ai,type:'line',borderColor:'#60a5fa',backgroundColor:'rgba(96,165,250,.1)',pointRadius:4,tension:.3,fill:false}]},options:{...cf,scales:{x:{ticks:{color:'#718096'},grid:{color:'#2d3748'}},y:{ticks:{color:'#718096',callback:v=>v+'億'},grid:{color:'#2d3748'}}}}});
+  const idx=D.map(r=>r.收盤);
+  new Chart($('h-index').getContext('2d'),{type:'line',data:{labels:lbl,datasets:[{label:'加權指數',data:idx,borderColor:'#a78bfa',backgroundColor:'rgba(167,139,250,.1)',pointRadius:4,tension:.3,fill:true}]},options:{...cf,scales:{x:{ticks:{color:'#718096'},grid:{color:'#2d3748'}},y:{ticks:{color:'#718096',callback:v=>(v/1000).toFixed(1)+'K'},grid:{color:'#2d3748'}}}}});
+  const at=D.map(r=>r.tsmc外資);
+  new Chart($('h-tsmc').getContext('2d'),{type:'bar',data:{labels:lbl,datasets:[{label:'2330外資（張）',data:at,backgroundColor:at.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:at.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...cf,scales:{x:{ticks:{color:'#718096'},grid:{color:'#2d3748'}},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}});
+  const a0=D.map(r=>r.etf0050外資);
+  new Chart($('h-0050').getContext('2d'),{type:'bar',data:{labels:lbl,datasets:[{label:'0050外資（張）',data:a0,backgroundColor:a0.map(v=>v>=0?'rgba(251,146,60,.7)':'rgba(248,113,113,.7)'),borderColor:a0.map(v=>v>=0?'#fb923c':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...cf,scales:{x:{ticks:{color:'#718096'},grid:{color:'#2d3748'}},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}});
+}
+</script>
+</body>
+</html>
