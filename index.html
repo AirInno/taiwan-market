@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>台股外資動向追蹤｜AirInno</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Noto Sans TC",sans-serif;background:#0f1117;color:#e2e8f0;min-height:100vh}
@@ -12,7 +12,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Noto
 .header h1{font-size:1.3rem;font-weight:700}
 .header p{font-size:0.78rem;color:#718096;margin-top:3px}
 .header-right{font-size:0.75rem;color:#4a5568;text-align:right}
-.alert-banner{margin:20px 28px 0;border-radius:10px;padding:16px 22px;display:flex;align-items:cen4er;gap:16px;flex-wrap:wrap}
+.alert-banner{margin:20px 28px 0;border-radius:10px;padding:16px 22px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
 .alert-banner.normal{background:linear-gradient(135deg,#064e3b,#065f46);border:1px solid #059669}
 .alert-banner.caution{background:linear-gradient(135deg,#78350f,#92400e);border:1px solid #d97706}
 .alert-banner.high{background:linear-gradient(135deg,#7c2d12,#9a3412);border:1px solid #ea580c}
@@ -61,7 +61,7 @@ tr:hover td{background:#1e2533}
 .section-label{padding:8px 28px 0;font-size:0.73rem;color:#4a5568;letter-spacing:.05em;font-weight:600;text-transform:uppercase}
 .footer{margin:20px 28px;padding:14px 18px;background:#1a202c;border:1px solid #2d3748;border-radius:8px;font-size:0.72rem;color:#4a5568}
 .footer a{color:#4299e1;text-decoration:none}
-.nav-tabs{disp,ay:flex;gap:0;padding:16px 28px 0;border-bottom:1px solid #2d3748}
+.nav-tabs{display:flex;gap:0;padding:16px 28px 0;border-bottom:1px solid #2d3748}
 .nav-tab{padding:8px 18px;font-size:0.82rem;cursor:pointer;border-bottom:2px solid transparent;color:#718096;transition:all .2s}
 .nav-tab.active{color:#e2e8f0;border-bottom-color:#4299e1}
 .tab-content{display:none}.tab-content.active{display:block}
@@ -226,7 +226,7 @@ tr:hover td{background:#1e2533}
 <!-- ===MARKET_DATA_START=== -->
 <script id="market-data-block">
 const MARKET_HISTORY = [
-  {"date": "20260324", "dateLabel": "03/24", "外資億元": -123.06, "投信億元": 23.8, "收盤": 32612.24, "漲跌": -110.26, "連續賣超": 4, "警示": "高度警戒", "tsmc外資": -5178, "tsmc投信": 691, "tsmc警示": "正常", "etf0050外資": -21894, "etf0050投信": 0, "etf0050警示": "高度警戒", "護盤比": 19.3, "外資買超": [{"code": "2408", "name": "南亞科", "張數": 13066}, {"code": "3702", "name": "大聯大", "張數": 12926}, {"code": "2605", "name": "新興", "張數": 11816}, {"code": "1303", "name": "南亞", "張數": 10307}, {"code": "2337", "name": "旺宏", "張數": 10214}], "外資賣超": [{"code": "6770", "name": "力積電", "張數": -80806}, {"code": "3481", "name": "奇美", "張數": -42489}, {"code": "2409", "name": "友達", "張數": -25184}, {"code": "0050", "name": "元大台灣50", "張數": -21894}, {"code": "00637L", "name": "元大滬深300正2", "張數": -17416}], "投信買超": [{"code": "2887", "name": "台灣永豐金", "張數": 18009}, {"code": "2891", "name": "中信金", "張數": 5949}, {"code": "2882", "name": "國泰金", "張數": 4522}, {"code": "2881", "name": "富邦金", "張數": 2687}, {"code": "3036", "name": "文曄", "張數": 2365}], "投信賣超": [{"code": "2344", "name": "華邦雷", "張數": -17506}, {"code": "00935", "name": "野村臺灣新科技50", "張數": -11300}, {"code": "2408", "name": "南亞科", "張數": -8818}, {"code": "9941", "name": "裕融", "張數": -2676}, {"code": "2337", "name": "旺宏", "張數": -2111}]},
+  {"date": "20260324", "dateLabel": "03/24", "外資億元": -123.06, "投信億元": 23.8, "收盤": 32612.24, "漲跌": -110.26, "連續賣超": 4, "警示": "高度警戒", "tsmc外資": -5178, "tsmc投信": 691, "tsmc警示": "正常", "etf0050外資": -21894, "etf0050投信": 0, "etf0050警示": "高度警戒", "護盤比": 19.3, "外資買超": [{"code": "2408", "name": "南亞科", "張數": 13066}, {"code": "3702", "name": "大聯大", "張數": 12926}, {"code": "2605", "name": "新興", "張數": 11816}, {"code": "1303", "name": "南亞", "張數": 10307}, {"code": "2337", "name": "旺宏", "張數": 10214}], "外資賣超": [{"code": "6770", "name": "力積電", "張數": -80806}, {"code": "3481", "name": "奇美", "張數": -42489}, {"code": "2409", "name": "友達", "張數": -25184}, {"code": "0050", "name": "元大台灣50", "張數": -21894}, {"code": "00637L", "name": "元大滬深300正2", "張數": -17416}], "投信買超": [{"code": "2887", "name": "台灣永豐金", "張數": 18009}, {"code": "2891", "name": "中信金", "張數": 5949}, {"code": "2882", "name": "國泰金", "張數": 4522}, {"code": "2881", "name": "富邦金", "張數": 2687}, {"code": "3036", "name": "文曄", "張數": 2365}], "投信賣超": [{"code": "2344", "name": "華邦電", "張數": -17506}, {"code": "00935", "name": "野村臺灣新科技50", "張數": -11300}, {"code": "2408", "name": "南亞科", "張數": -8818}, {"code": "9941", "name": "裕融", "張數": -2676}, {"code": "2337", "name": "旺宏", "張數": -2111}]},
   {"date": "20260325", "dateLabel": "03/25", "外資億元": 374.75, "投信億元": 11.58, "收盤": 33439.11, "漲跌": 826.87, "連續賣超": 0, "警示": "正常", "tsmc外資": 979, "tsmc投信": 265, "tsmc警示": "正常", "etf0050外資": -2975, "etf0050投信": -3670, "etf0050警示": "正常", "護盤比": 0, "外資買超": [{"code": "00919", "name": "群益台灣精選高息", "張數": 23930}, {"code": "00991A", "name": "主動復華未來50", "張數": 23286}, {"code": "00990A", "name": "主動元大AI新經濟", "張數": 23181}, {"code": "2313", "name": "華通", "張數": 23164}, {"code": "00981A", "name": "主動統一台股增長", "張數": 22177}], "外資賣超": [{"code": "2344", "name": "華邦電", "張數": -56510}, {"code": "6770", "name": "力積電", "張數": -22096}, {"code": "2489", "name": "瑞軒", "張數": -15874}, {"code": "2409", "name": "友達", "張數": -12522}, {"code": "00953B", "name": "群益優選非投等債", "張數": -11516}], "投信買超": [{"code": "0052", "name": "富邦科技", "張數": 5000}, {"code": "2885", "name": "元大金", "張數": 4924}, {"code": "00988A", "name": "主動統一全球創新", "張數": 2000}, {"code": "2458", "name": "義隆", "張數": 1532}, {"code": "2891", "name": "中信金", "張數": 1301}], "投信賣超": [{"code": "00935", "name": "野村臺灣新科技50", "張數": -3917}, {"code": "3005", "name": "神基", "張數": -3806}, {"code": "0050", "name": "元大台灣50", "張數": -3670}, {"code": "2344", "name": "華邦電", "張數": -2755}, {"code": "9941", "name": "裕融", "張數": -2684}]}
 ];
 </script>
