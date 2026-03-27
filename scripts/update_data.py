@@ -60,7 +60,10 @@ def fetch_bfi82u(date_str):
     """三大法人買賣金額統計 → 外資整體、投信整體（億元）"""
     url = f'https://www.twse.com.tw/rwd/zh/fund/bfi82u?date={date_str}&response=json'
     r = requests.get(url, headers=HEADERS, timeout=30)
-    d = r.json()
+    try:
+        d = r.json()
+    except Exception:
+        return None, None
     if d.get('stat') != 'OK' or not d.get('data'):
         return None, None
 
@@ -86,7 +89,10 @@ def fetch_t86(date_str):
     """個股三大法人買賣超 → top5 排行 + 台積電/0050 個別資料"""
     url = f'https://www.twse.com.tw/rwd/zh/fund/T86?date={date_str}&selectType=ALL&response=json'
     r = requests.get(url, headers=HEADERS, timeout=30)
-    d = r.json()
+    try:
+        d = r.json()
+    except Exception:
+        return None
     if d.get('stat') != 'OK' or not d.get('data'):
         return None
 
@@ -109,7 +115,10 @@ def fetch_fmtqik(date_str):
     """大盤每日行情 → 收盤指數、漲跌點數"""
     url = f'https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?date={date_str}&response=json'
     r = requests.get(url, headers=HEADERS, timeout=30)
-    d = r.json()
+    try:
+        d = r.json()
+    except Exception:
+        return None, None
     if d.get('stat') != 'OK' or not d.get('data'):
         return None, None
 
