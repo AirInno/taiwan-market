@@ -215,7 +215,7 @@ def main():
         'tsmc外資':    tsmc['f'],
         'tsmc投信':    tsmc['i'],
         'tsmc警示':    tsmc_alert(tsmc['f']),
-      2 'etf0050外資': e0050['f'],
+        'etf0050外資': e0050['f'],
         'etf0050投信': e0050['i'],
         'etf0050警示': etf0050_alert(e0050['f']),
         '護盤比':      hedge,
