@@ -101,9 +101,10 @@ def fetch_t86(date_str):
         code = row[0].strip()
         name = row[1].strip()
         try:
-            # 欄位 4 = 外陸資買賣超股數，欄位 7 = 投信買賣超股數
+            # 欄位 4 = 外陸資買賣超股數，欄位 10 = 投信買賣超股數
+            # （欄位 5-7 為外資自營商三欄，8-10 才是投信三欄）
             f_net = int(row[4].replace(',', '').replace('+', '')) // 1000  # 轉張
-            i_net = int(row[7].replace(',', '').replace('+', '')) // 1000
+            i_net = int(row[10].replace(',', '').replace('+', '')) // 1000
         except (ValueError, IndexError):
             continue
         stocks.append({'code': code, 'name': name, 'f': f_net, 'i': i_net})
