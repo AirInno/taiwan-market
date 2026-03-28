@@ -533,7 +533,10 @@ async function fetchUS(){
   ];
   try{
     const res=await Promise.allSettled(pairs.map(p=>
-      fetch(`https://query2.finance.yahoo.com/v8/finance/chart/${p.s}?interval=1d&range=5d`,{mode:'cors'}).then(r=>r.json())
+      Promise.race([
+        fetch(`https://query2.finance.yahoo.com/v8/finance/chart/${p.s}?interval=1d&range=5d`,{mode:'cors'}).then(r=>r.json()),
+        new Promise((_,reject)=>setTimeout(()=>reject(new Error('timeout')),8000))
+      ])
     ));
     $('usl').style.display='none';
     const el=$('usi');el.style.display='flex';
