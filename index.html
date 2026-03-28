@@ -10,7 +10,7 @@
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-serif;background:#0f1117;color:#e2e8f0;min-height:100vh}
 .hdr{background:linear-gradient(135deg,#1a1f2e,#16213e);border-bottom:1px solid #2d3748;padding:14px 22px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
 .hdr h1{font-size:1.15rem;font-weight:700}
-.hdr p{font-size:.74rem;color:#718096;margin-top:2px}
+.hdr p{font-size:.73rem;color:#718096;margin-top:2px}
 .hdr-r{font-size:.7rem;color:#4a5568;text-align:right;line-height:1.7}
 .us-bar{background:#12172a;border-bottom:1px solid #1e2533;padding:6px 22px;display:flex;align-items:center;gap:18px;flex-wrap:wrap;font-size:.72rem;color:#718096;min-height:30px}
 .us-ttl{color:#4a5568;font-weight:600}
@@ -28,12 +28,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-
 .ab-body h2{font-size:.95rem;font-weight:700;margin-bottom:3px}
 .ab-body p{font-size:.78rem;opacity:.85}
 .trigs{display:flex;gap:7px;flex-wrap:wrap;margin-top:7px}
-.tc{padding:3px 9px;border-radius:20px;font-size:.vrem;font-weight:600}
+.tc{padding:3px 9px;border-radius:20px;font-size:.7rem;font-weight:600}
 .tc.ok{background:rgba(52,211,153,.15);border:1px solid #34d399;color:#34d399}
 .tc.warn{background:rgba(249,115,22,.18);border:1px solid #f97316;color:#fb923c}
 .tc.hi{background:rgba(239,68,68,.18);border:1px solid #ef4444;color:#f87171}
 .tc.crit{background:rgba(147,51,234,.2);border:1px solid #9333ea;color:#c084fc}
-.wr{background:rgba(255,255,255,.05);border-radius:6px;padding:7px 11px;margin-top:8px;font-size:.vrem;line-height:1.7;color:#a0aec0}
+.wr{background:rgba(255,255,255,.05);border-radius:6px;padding:7px 11px;margin-top:8px;font-size:.7rem;line-height:1.7;color:#a0aec0}
 .wr strong{color:#e2e8f0}
 .navs{display:flex;padding:0 22px;margin-top:14px;border-bottom:1px solid #2d3748;overflow-x:auto}
 .nt{padding:8px 18px;cursor:pointer;font-size:.83rem;color:#718096;border-bottom:2px solid transparent;transition:all .15s;white-space:nowrap;user-select:none}
@@ -42,7 +42,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-
 #dbar{padding:9px 22px 0;display:flex;align-items:center;gap:9px;flex-wrap:wrap}
 #dbar label{font-size:.76rem;color:#718096}
 #dsel{background:#1a1f2e;border:1px solid #2d3748;color:#e2e8f0;padding:4px 9px;border-radius:6px;font-size:.78rem;cursor:pointer}
-#dhint{font-size:.vrem;color:#4a5568;font-style:italic}
+#dhint{font-size:.7rem;color:#4a5568;font-style:italic}
 .tc-wrap{display:none;padding:14px 22px 28px}
 .tc-wrap.active{display:block}
 .cg{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px;margin-bottom:18px}
@@ -52,7 +52,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-
 .cs{font-size:.73rem;color:#718096;margin-top:2px;min-height:16px}
 .c5{font-size:.7rem;color:#4a5568;margin-top:7px;padding-top:7px;border-top:1px solid #2d3748;display:flex;justify-content:space-between}
 .c5 .v{font-weight:700}
-.bdg{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.vrem;font-weight:700;margin-left:3px}
+.bdg{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.7rem;font-weight:700;margin-left:3px}
 .bdg.normal{background:#065f46;color:#34d399;border:1px solid #059669}
 .bdg.caution{background:#92400e;color:#fcd34d;border:1px solid #d97706}
 .bdg.high{background:#9a3412;color:#fca5a5;border:1px solid #ea580c}
@@ -92,10 +92,14 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 .bfill{height:100%;display:flex;align-items:center;padding-left:7px;font-size:.68rem;font-weight:600;border-radius:4px;white-space:nowrap}
 .bfill.buy{background:linear-gradient(90deg,rgba(52,211,153,.4),rgba(52,211,153,.18));color:#34d399}
 .bfill.sell{background:linear-gradient(90deg,rgba(248,113,113,.4),rgba(248,113,113,.18));color:#f87171}
-.b5t{font-size:.63rem;white-space:nowrax;min-width:66px;text-align:right}
+.b5t{font-size:.63rem;white-space:nowrap;min-width:66px;text-align:right}
 .ft{text-align:center;padding:18px;font-size:.68rem;color:#2d3748;border-top:1px solid #1e2533;margin-top:10px}
 .ft a{color:#3b4e6b;text-decoration:none}
 .ft a:hover{color:#60a5fa}
+.pd-sel{display:flex;gap:6px;padding:10px 0 6px;margin-bottom:6px;flex-wrap:wrap}
+.pd-btn{background:#1a1f2e;border:1px solid #2d3748;color:#718096;padding:5px 16px;border-radius:20px;font-size:.76rem;cursor:pointer;transition:all .15s;font-family:inherit}
+.pd-btn:hover{border-color:#4a5568;color:#a0aec0}
+.pd-btn.active{background:rgba(96,165,250,.12);border-color:#60a5fa;color:#60a5fa;font-weight:600}
 @media(max-width:768px){
   .hdr,.ab,.tc-wrap,#dbar,.navs,.us-bar{padding-left:14px;padding-right:14px}
   .ab{margin-left:14px;margin-right:14px}
@@ -208,6 +212,12 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 </div>
 
 <div id="tab-history" class="tc-wrap">
+  <div class="pd-sel">
+    <button class="pd-btn active" data-p="1m" onclick="setHistPeriod('1m')">1個月</button>
+    <button class="pd-btn" data-p="3m" onclick="setHistPeriod('3m')">3個月</button>
+    <button class="pd-btn" data-p="6m" onclick="setHistPeriod('6m')">6個月</button>
+    <button class="pd-btn" data-p="all" onclick="setHistPeriod('all')">全部</button>
+  </div>
   <div class="chs"><div class="cht">📈 外資流向 × 台股指數（雙軸疊加）</div><div class="chw tall"><canvas id="hov"></canvas></div></div>
   <div class="chs"><div class="cht">💹 外資 vs 投信 流向（億元）</div><div class="chw"><canvas id="hfl"></canvas></div></div>
   <div class="chs"><div class="cht">📉 台股加權指數</div><div class="chw"><canvas id="hix"></canvas></div></div>
@@ -349,15 +359,15 @@ function rCards(){
   const s5i=L5.reduce((a,r)=>a+r.投信億元,0);
   const s5t=L5.filter(r=>r.tsmc外資!=null).reduce((a,r)=>a+(r.tsmc外資||0),0);
   const s50=L5.filter(r=>r.etf0050外資!=null).reduce((a,r)=>a+(r.etf0050外資||0),0);
-  const c5=(id,v,u)=>$(''+id).innerHTML=`<span class="muted">近5日</span><span class="v ${v>=0?'pos':'neg'}">${v>=0?'+':''}${typeof u==='string'?v.toFixed(2)+u:v.toLocaleString()+'張'}</span>`;
+  const c5=(id,v,u)=>$(''+id).innerHTML<`<span class="muted">近5日</span><span class="v ${v>=0?'pos':'neg'}">${v>=0?'+':''}${typeof u==='string'?v.toFixed(2)+u:v.toLocaleString()+'張'}</span>`;
   // Foreign
   const fv=$('tf');fv.textContent=(L.外資億元>=0?'+':'')+L.外資億元.toFixed(2)+'億';fv.className='mv '+(L.外資億元>=0?'pos':'neg');
   $('tfs').innerHTML='連續賣超第 <strong style="color:#fb923c">'+L.連續賣超+'</strong> 日';
-  $('tf5').innerHTML=`<span class="muted">近5日合計</span><span class="v ${s5f>=0?'pos':'neg'}">${fA(s5f)}</span>`;
+  $('tf5').innerHTML<`<span class="muted">近5日合計</span><span class="v ${s5f>=0?'pos':'neg'}">${fA(s5f)}</span>`;
   // IT
   const iv=$('ti');iv.textContent=(L.投信億元>=0?'+':'')+L.投信億元.toFixed(2)+'億';iv.className='mv '+(L.投信億元>=0?'pos':'neg');
   $('tis').innerHTML=L.投信億元>0&&L.外資億元<0?'<span style="color:#34d399">逆向護盤 ✓</span>':'同向';
-  $('ti5').innerHTML=`<span class="muted">近5日合計</span><span class="v ${s5i>=0?'pos':'neg'}">${fA(s5i)}</span>`;
+  $('ti5').innerHTML<`<span class="muted">近5日合計</span><span class="v ${s5i>=0?'pos':'neg'}">${fA(s5i)}</span>`;
   // TSMC
   const tv=$('ttf');tv.textContent=fZ(L.tsmc外資);tv.className='mv '+(L.tsmc外資>=0?'pos':'neg');
   $('ttb').innerHTML=bdg(L.tsmc警示);
@@ -370,7 +380,7 @@ function rCards(){
   const ei=$('t0i');ei.textContent=fZ(L.etf0050投信);ei.className='mv '+(L.etf0050投信>=0?'pos':'neg');
   const n0=$('t0in');n0.textContent=L.etf0050投信>0&&L.etf0050外資<0?'逆向護盤':L.etf0050投信===0?'無護盤':'';
   n0.style.color=L.etf0050投信>0?'#34d399':'#718096';
-  $('t0c5').innerHTML<`<span class="muted">外資近5日</span><span class="v ${s50>=0?'pos':'neg'}">${s50>=0?'+':''}${s50.toLocaleString()}張</span>`;
+  $('t0c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s50>=0?'pos':'neg'}">${s50>=0?'+':''}${s50.toLocaleString()}張</span>`;
 }
 
 // === HEDGE + RADAR + 5DAY TABLE ===
@@ -381,7 +391,7 @@ function rHedge(){
   $('thp').textContent=hp.toFixed(1)+'%';$('thp').style.color=hp>=40?'#34d399':hp>=20?'#fcd34d':'#f87171';
   $('thbg').innerHTML='<span class="bdg '+(hp>=40?'normal':hp>=20?'caution':'high')+'">護盤：'+(hp>=40?'高':hp>=20?'中':'低')+'</span>';
   const a5h=L5.reduce((a,r)=>a+r.護盤比,0)/L5.length;
-  $('th5').innerHTML=`<span class="muted">近5日均值</span><span class="v" style="color:#a0aec0">${a5h.toFixed(1)}%</span>`;
+  $('th5').innerHTML<`<span class="muted">近5日均值</span><span class="v" style="color:#a0aec0">${a5h.toFixed(1)}%</span>`;
   // Radar
   $('trd').innerHTML=[
     ['外資買超反轉？',L.外資億元>=0,L.外資億元>=0?'是':'否'],
@@ -424,19 +434,39 @@ function rBars(){
 }
 
 // === HISTORY CHARTS (lazy) ===
-let hDone=false;
+let hDone=false,hCharts=[],_histP='1m';
 const CF={responsive:true,maintainAspectRatio:false,
   plugins:{legend:{labels:{color:'#a0aec0',font:{size:11}}},tooltip:{mode:'index',intersect:false}},
   scales:{x:{ticks:{color:'#718096',maxTicksLimit:14},grid:{color:'#2d3748'}},y:{ticks:{color:'#718096'},grid:{color:'#2d3748'}}}};
 
+function setHistPeriod(p){
+  _histP=p;
+  document.querySelectorAll('.pd-btn').forEach(b=>b.classList.toggle('active',b.dataset.p===p));
+  hCharts.forEach(c=>c.destroy());hCharts=[];hDone=false;
+  rHist();
+}
+
+function filterHist(){
+  const all=D.slice(0,idx+1);
+  if(_histP==='all')return all;
+  const days=_histP==='1m'?30:_histP==='3m'?90:180;
+  const ref=D[idx].date;
+  const cutTs=new Date(ref.slice(0,4)+'-'+ref.slice(4,6)+'-'+ref.slice(6,8));
+  cutTs.setDate(cutTs.getDate()-days);
+  return all.filter(r=>{
+    const d=new Date(r.date.slice(0,4)+'-'+r.date.slice(4,6)+'-'+r.date.slice(6,8));
+    return d>=cutTs;
+  });
+}
+
 function rHist(){
   if(hDone)return;hDone=true;
-  const dd=D.slice(0,idx+1);
+  const dd=filterHist();
   const lb=dd.map(r=>r.dateLabel);
   const af=dd.map(r=>r.外資億元),ai=dd.map(r=>r.投信億元);
   const ix=dd.map(r=>r.收盤),at=dd.map(r=>r.tsmc外資),a0=dd.map(r=>r.etf0050外資);
   // Dual-axis overlay
-  new Chart($('hov').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[
+  hCharts.push(new Chart($('hov').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[
     {label:'外資流向（億）',data:af,type:'bar',backgroundColor:af.map(v=>v>=0?'rgba(52,211,153,.55)':'rgba(248,113,113,.55)'),borderColor:af.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3,yAxisID:'yF',order:2},
     {label:'台股指數',data:ix,type:'line',borderColor:'#a78bfa',backgroundColor:'rgba(167,139,250,.07)',pointRadius:3,tension:.3,fill:true,yAxisID:'yI',order:1}
   ]},options:{responsive:true,maintainAspectRatio:false,
@@ -448,26 +478,26 @@ function rHist(){
     }
   }});
   // Flow
-  new Chart($('hfl').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[
+  hCharts.push(new Chart($('hfl').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[
     {label:'外資（億）',data:af,backgroundColor:af.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:af.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3},
-    {label:'投信（億）',data:ai,type:'line',borderColor:'#a0a5fa',backgroundColor:'rgba(96,165,250,.08)',pointRadius:4,tension:.3,fill:false}
-  ]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v+'億'},grid:{color:'#2d3748'}}}}});
+    {label:'投信（億）',data:ai,type:'line',borderColor:'#60a5fa',backgroundColor:'rgba(96,165,250,.08)',pointRadius:4,tension:.3,fill:false}
+  ]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v+'億'},grid:{color:'#2d3748'}}}}}));
   // Index
-  new Chart($('hix').getContext('2d'),{type:'line',data:{labels:lb,datasets:[{label:'加權指數',data:ix,borderColor:'#a78bfa',backgroundColor:'rgba(167,139,250,.1)',pointRadius:4,tension:.3,fill:true}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>(v/1000).toFixed(1)+'K'},grid:{color:'#2d3748'}}}}});
+  hCharts.push(new Chart($('hix').getContext('2d'),{type:'line',data:{labels:lb,datasets:[{label:'加權指數',data:ix,borderColor:'#a78bfa',backgroundColor:'rgba(167,139,250,.1)',pointRadius:4,tension:.3,fill:true}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>(v/1000).toFixed(1)+'K'},grid:{color:'#2d3748'}}}}}));
   // TSMC
-  new Chart($('hts').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'2330外資（張）',data:at,backgroundColor:at.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:at.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}});
+  hCharts.push(new Chart($('hts').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'2330外資（張）',data:at,backgroundColor:at.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:at.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
   // 0050
-  new Chart($('h05').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'0050外資（張）',data:a0,backgroundColor:a0.map(v=>v>=0?'rgba(251,146,60,.7)':'rgba(248,113,113,.7)'),borderColor:a0.map(v=>v>=0?'#fb923c':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}});
+  hCharts.push(new Chart($('h05').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'0050外資（張）',data:a0,backgroundColor:a0.map(v=>v>=0?'rgba(251,146,60,.7)':'rgba(248,113,113,.7)'),borderColor:a0.map(v=>v>=0?'#fb923c':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
   // Win-rate table
   const lvls=['注意','高度警戒','極度警戒'];
-  let h='<table style="width:100%;border-#ollapse:collapse;font-size:.76rem"><thead><tr style="color:#4a5568;border-bottom:1px solid #2d3748"><th style="padding:5px 8px;text-align:left">等級</th><th style="padding:5px 8px">次數</th><th style="padding:5px 8px">次日均漲跌</th><th style="padding:5px 8px">上漲率</th><th style="padding:5px 8px;text-align:left">說明</th></tr></thead><tbody>';
+  let h='<table style="width:100%;border-collapse:collapse;font-size:.76rem"><thead><tr style="color:#4a5568;border-bottom:1px solid #2d3748"><th style="padding:5px 8px;text-align:left">等級</th><th style="padding:5px 8px">次數</th><th style="padding:5px 8px">次日均漲跌</th><th style="padding:5px 8px">上漲率</th><th style="padding:5px 8px;text-align:left">說明</th></tr></thead><tbody>';
   lvls.forEach(lv=>{
     const ins=D.filter(r=>r.警示===lv);
     const pf=ins.map(r=>{const i=D.indexOf(r);return i<D.length-1?D[i+1].漲跌:null}).filter(v=>v!==null);
     if(!pf.length){h+=`<tr style="border-bottom:1px solid #1e2533"><td style="padding:5px 8px">${bdg(lv)}</td><td colspan="4" style="padding:5px 8px;color:#4a5568">尚無資料</td></tr>`;return;}
     const avg=pf.reduce((a,b)=>a+b,0)/pf.length;
     const pos=pf.filter(v=>v>0).length;
-    h+=`<tr style="border-bottom:1px solid #1e2533"><td style="padding:5px 8px">${bdg(lv)}</td><td style="padding:5px 8px;color:#a0aec0;text-align:center">${ins.length}</td><td style="padding:5px 8px;text-align:center;font-weight:700;color:${avg>=0?'#34d399':'#f87171'}">${avg>=0?'+':''}${avg.toFixed(0)}點</td><td style="padding:5px 8px;text-align:center;color:#a0aec0">${Math.round(pos/pf.length*100)}%</td><td style="padding:5px 8px;color:#4a5568;font-size:.68rem">${pf.length}g��${pf.length<10?' ⚠️少':''}</td></tr>`;
+    h+=`<tr style="border-bottom:1px solid #1e2533"><td style="padding:5px 8px">${bdg(lv)}</td><td style="padding:5px 8px;color:#a0aec0;text-align:center">${ins.length}</td><td style="padding:5px 8px;text-align:center;font-weight:700;color:${avg>=0?'#34d399':'#f87171'}">${avg>=0?'+':''}${avg.toFixed(0)}點</td><td style="padding:5px 8px;text-align:center;color:#a0aec0">${Math.round(pos/pf.length*100)}%</td><td style="padding:5px 8px;color:#4a5568;font-size:.68rem">${pf.length}筆${pf.length<10?' ⚠️少':''}</td></tr>`;
   });
   $('hwr').innerHTML=h+'</tbody></table><p style="font-size:.66rem;color:#4a5568;margin-top:6px">* 樣本持續累積中，每日自動更新</p>';
 }
