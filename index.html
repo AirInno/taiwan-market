@@ -229,6 +229,8 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="chs"><div class="cht">📉 台股加權指數</div><div class="chw"><canvas id="hix"></canvas></div></div>
   <div class="chs"><div class="cht">🔵 台積電(2330) 外資張數</div><div class="chw"><canvas id="hts"></canvas></div></div>
   <div class="chs"><div class="cht">🟠 0050 外資張數</div><div class="chw"><canvas id="h05"></canvas></div></div>
+  <div class="chs" id="chs-glo" style="display:none"><div class="cht">🌎 S&P500 × VIX 走勢</div><div class="chw tall"><canvas id="hglo"></canvas></div></div>
+  <div class="chs" id="chs-bnd" style="display:none"><div class="cht">💛 美10Y債殖利率（%）× 黃金（$）</div><div class="chw tall"><canvas id="hbnd"></canvas></div></div>
   <div class="chs"><div class="cht">📊 警示等級觸發後台股表現（歷史回測）</div><div class="chw"><div id="hwr"></div></div></div>
 </div>
 
@@ -505,6 +507,38 @@ function rHist(){
   hCharts.push(new Chart($('hts').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'2330外資（張）',data:at,backgroundColor:at.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:at.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
   // 0050
   hCharts.push(new Chart($('h05').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'0050外資（張）',data:a0,backgroundColor:a0.map(v=>v>=0?'rgba(251,146,60,.7)':'rgba(248,113,113,.7)'),borderColor:a0.map(v=>v>=0?'#fb923c':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
+  // Global market charts (data.json driven)
+  const gDd=dd.filter(r=>r.global&&r.global.sp500);
+  if(gDd.length>1){
+    $('chs-glo').style.display='';$('chs-bnd').style.display='';
+    const gLb=gDd.map(r=>r.dateLabel);
+    const spx=gDd.map(r=>r.global.sp500);
+    const vix=gDd.map(r=>r.global.vix);
+    const bnd=gDd.map(r=>r.global.us10y);
+    const gld=gDd.map(r=>r.global.gold);
+    hCharts.push(new Chart($('hglo').getContext('2d'),{type:'line',data:{labels:gLb,datasets:[
+      {label:'S&P500',data:spx,borderColor:'#60a5fa',backgroundColor:'rgba(96,165,250,.07)',pointRadius:3,tension:.3,fill:false,yAxisID:'ySP'},
+      {label:'VIX（右軸）',data:vix,borderColor:'#f87171',backgroundColor:'rgba(248,113,113,.07)',pointRadius:3,tension:.3,fill:false,yAxisID:'yVIX'}
+    ]},options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{labels:{color:'#a0aec0',font:{size:11}}},tooltip:{mode:'index',intersect:false}},
+      scales:{
+        x:{ticks:{color:'#718096',maxTicksLimit:14},grid:{color:'#2d3748'}},
+        ySP:{position:'left',ticks:{color:'#60a5fa',callback:v=>v.toLocaleString()},grid:{color:'#2d3748'},title:{display:true,text:'S&P500',color:'#60a5fa',font:{size:10}}},
+        yVIX:{position:'right',ticks:{color:'#f87171'},grid:{drawOnChartArea:false},title:{display:true,text:'VIX',color:'#f87171',font:{size:10}}}
+      }
+    }}));
+    hCharts.push(new Chart($('hbnd').getContext('2d'),{type:'line',data:{labels:gLb,datasets:[
+      {label:'美10Y債（%）',data:bnd,borderColor:'#fcd34d',backgroundColor:'rgba(252,211,77,.07)',pointRadius:3,tension:.3,fill:false,yAxisID:'yB'},
+      {label:'黃金（$）',data:gld,borderColor:'#34d399',backgroundColor:'rgba(52,211,153,.07)',pointRadius:3,tension:.3,fill:false,yAxisID:'yG'}
+    ]},options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{labels:{color:'#a0aec0',font:{size:11}}},tooltip:{mode:'index',intersect:false}},
+      scales:{
+        x:{ticks:{color:'#718096',maxTicksLimit:14},grid:{color:'#2d3748'}},
+        yB:{position:'left',ticks:{color:'#fcd34d',callback:v=>v+'%'},grid:{color:'#2d3748'},title:{display:true,text:'US10Y',color:'#fcd34d',font:{size:10}}},
+        yG:{position:'right',ticks:{color:'#34d399',callback:v=>'$'+v.toLocaleString()},grid:{drawOnChartArea:false},title:{display:true,text:'黃金',color:'#34d399',font:{size:10}}}
+      }
+    }}));
+  }
   // Win-rate table
   const lvls=['注意','高度警戒','極度警戒'];
   let h='<table style="width:100%;border-collapse:collapse;font-size:.76rem"><thead><tr style="color:#4a5568;border-bottom:1px solid #2d3748"><th style="padding:5px 8px;text-align:left">等級</th><th style="padding:5px 8px">次數</th><th style="padding:5px 8px">次日均漲跌</th><th style="padding:5px 8px">上漲率</th><th style="padding:5px 8px;text-align:left">說明</th></tr></thead><tbody>';
@@ -519,63 +553,38 @@ function rHist(){
   $('hwr').innerHTML=h+'</tbody></table><p style="font-size:.66rem;color:#4a5568;margin-top:6px">* 樣本持續累積中，每日自動更新</p>';
 }
 
-// === GLOBAL MARKET (non-blocking, graceful fallback) ===
-// fmt: pct=漲跌%, vix=VIX指數, yld=公債殖利率(bp), price=商品價格, fx=匯率
-async function fetchUS(){
-  const pairs=[
-    {s:'%5EGSPC', l:'S&P500',  fmt:'pct'},
-    {s:'%5EIXIC', l:'Nasdaq',  fmt:'pct'},
-    {s:'%5EVIX',  l:'VIX',    fmt:'vix'},
-    {s:'%5ETNX',  l:'美10Y債', fmt:'yld'},
-    {s:'GC%3DF',  l:'黃金',   fmt:'price'},
-    {s:'%5ESOX',  l:'費半SOX', fmt:'pct'},
-    {s:'TWD%3DX', l:'USD/TWD', fmt:'fx'}
+// === GLOBAL MARKET (data.json driven, updated by daily scheduler) ===
+function renderGlobal(){
+  const g=L.global;
+  const el=$('usi');
+  if(!g||!g.sp500){
+    $('usl').style.display='';
+    $('usl').textContent='全球資料隨每日排程更新';
+    el.style.display='none';
+    return;
+  }
+  $('usl').style.display='none';
+  el.style.display='flex';
+  el.innerHTML='';
+  const items=[
+    {l:'S&P500',  fmt:'pct',   v:g.sp500,   c:g.sp500_chg},
+    {l:'Nasdaq',  fmt:'pct',   v:g.nasdaq,  c:g.nasdaq_chg},
+    {l:'VIX',     fmt:'vix',   v:g.vix,     c:g.vix_chg},
+    {l:'美10Y債', fmt:'yld',   v:g.us10y,   c:g.us10y_chg},
+    {l:'黃金',    fmt:'price', v:g.gold,    c:g.gold_chg},
+    {l:'費半SOX', fmt:'pct',   v:g.sox,     c:g.sox_chg},
+    {l:'USD/TWD', fmt:'fx',    v:g.usdtwd}
   ];
-  try{
-    const res=await Promise.allSettled(pairs.map(p=>
-      Promise.race([
-        fetch(`https://query2.finance.yahoo.com/v8/finance/chart/${p.s}?interval=1d&range=5d`,{mode:'cors'}).then(r=>r.json()),
-        new Promise((_,reject)=>setTimeout(()=>reject(new Error('timeout')),8000))
-      ])
-    ));
-    $('usl').style.display='none';
-    const el=$('usi');el.style.display='flex';
-    let ok=false;
-    res.forEach((r,i)=>{
-      if(r.status!=='fulfilled')return;
-      try{
-        const ch=r.value.chart.result[0];
-        const closes=ch.indicators.quote[0].close.filter(v=>v!=null);
-        if(closes.length<2)return;
-        const prev=closes[closes.length-2],cur=closes[closes.length-1];
-        const diff=cur-prev;
-        const p=pairs[i];
-        let cv,color='';
-        if(p.fmt==='pct'){
-          const pct=(diff/prev)*100;
-          cv=(pct>=0?'+':'')+pct.toFixed(2)+'%';
-          color=diff>0?'pos':diff<0?'neg':'';
-        }else if(p.fmt==='vix'){
-          const pct=(diff/prev)*100;
-          cv=cur.toFixed(2)+' ('+(pct>=0?'+':'')+pct.toFixed(1)+'%)';
-          color=cur<20?'pos':cur>=30?'neg':'';
-        }else if(p.fmt==='yld'){
-          const bp=Math.round(diff*100);
-          cv=cur.toFixed(2)+'% ('+(bp>=0?'+':'')+bp+'bp)';
-          color=diff>0?'neg':diff<0?'pos':''; // 殖利率升→資金撤出→紅
-        }else if(p.fmt==='price'){
-          const pct=(diff/prev)*100;
-          cv='$'+Math.round(cur).toLocaleString()+' ('+(pct>=0?'+':'')+pct.toFixed(1)+'%)';
-          color=diff>0?'pos':diff<0?'neg':'';
-        }else if(p.fmt==='fx'){
-          cv=cur.toFixed(3);
-        }
-        el.innerHTML+=`<div class="us-it"><span class="lb">${p.l}</span><span class="vl ${color}">${cv}</span></div>`;
-        ok=true;
-      }catch(e){}
-    });
-    if(!ok)$('usl').textContent='市場資料暫時無法載入';
-  }catch(e){$('usl').textContent='市場資料暫時無法載入';}
+  items.forEach(p=>{
+    if(!p.v&&p.v!==0)return;
+    let cv='',color='';
+    if(p.fmt==='pct'){cv=(p.c>=0?'+':'')+p.c.toFixed(2)+'%';color=p.c>0?'pos':p.c<0?'neg':'';}
+    else if(p.fmt==='vix'){cv=p.v.toFixed(2)+' ('+(p.c>=0?'+':'')+p.c.toFixed(1)+'%)';color=p.v<20?'pos':p.v>=30?'neg':'';}
+    else if(p.fmt==='yld'){cv=p.v.toFixed(2)+'% ('+(p.c>=0?'+':'')+Math.round(p.c)+'bp)';color=p.c>0?'neg':p.c<0?'pos':'';}
+    else if(p.fmt==='price'){cv='$'+Math.round(p.v).toLocaleString()+' ('+(p.c>=0?'+':'')+p.c.toFixed(1)+'%)';color=p.c>0?'pos':p.c<0?'neg':'';}
+    else if(p.fmt==='fx'){cv=p.v.toFixed(3);}
+    if(cv)el.innerHTML+=`<div class="us-it"><span class="lb">${p.l}</span><span class="vl ${color}">${cv}</span></div>`;
+  });
 }
 
 // === INIT ===
@@ -585,11 +594,11 @@ async function fetchUS(){
     idx=D.length-1;L=D[idx];L5=D.slice(Math.max(0,idx-4),idx+1);
     rPage();initDs();
     document.querySelector('.sh').classList.add('open');$('s5d').style.display='';
+    renderGlobal();
   }catch(e){
     $('hd').textContent='⚠️ 資料載入失敗，請重新整理頁面';
     $('at').textContent='資料載入失敗';
   }
-  fetchUS();
 })();
 </script>
 </body>
