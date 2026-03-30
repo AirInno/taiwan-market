@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>台股外資動向追蹤｜AirInno</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-serif;background:#0f1117;color:#e2e8f0;min-height:100vh}
@@ -100,6 +101,31 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 .pd-btn{background:#1a1f2e;border:1px solid #2d3748;color:#718096;padding:5px 16px;border-radius:20px;font-size:.76rem;cursor:pointer;transition:all .15s;font-family:inherit}
 .pd-btn:hover{border-color:#4a5568;color:#a0aec0}
 .pd-btn.active{background:rgba(96,165,250,.12);border-color:#60a5fa;color:#60a5fa;font-weight:600}
+/* === TRUMP TAB === */
+#trump-meta{display:flex;align-items:center;gap:10px;margin-bottom:18px;flex-wrap:wrap}
+#trump-meta .t-date{font-size:.85rem;color:#a0aec0}
+#trump-meta .t-badge{padding:3px 10px;border-radius:12px;font-size:.78rem;font-weight:600}
+.t-badge.bearish{background:rgba(248,113,113,.15);color:#f87171;border:1px solid rgba(248,113,113,.3)}
+.t-badge.bullish{background:rgba(52,211,153,.15);color:#34d399;border:1px solid rgba(52,211,153,.3)}
+.t-badge.neutral{background:rgba(251,191,36,.15);color:#fbbf24;border:1px solid rgba(251,191,36,.3)}
+#trump-empty{text-align:center;padding:60px 20px;color:#4a5568}
+#trump-empty .big{font-size:2.5rem;margin-bottom:12px}
+/* Markdown rendered styles */
+.md-body{background:#1a1f2e;border:1px solid #2d3748;border-radius:10px;padding:20px 24px;line-height:1.75;color:#cbd5e0;font-size:.87rem}
+.md-body h1{font-size:1.2rem;color:#e2e8f0;border-bottom:1px solid #2d3748;padding-bottom:8px;margin:0 0 16px}
+.md-body h2{font-size:1rem;color:#90cdf4;margin:20px 0 10px}
+.md-body h3{font-size:.92rem;color:#a0aec0;margin:14px 0 8px}
+.md-body p{margin:0 0 10px}
+.md-body ul{padding-left:18px;margin:0 0 12px}
+.md-body li{margin-bottom:6px}
+.md-body hr{border:none;border-top:1px solid #2d3748;margin:16px 0}
+.md-body table{width:100%;border-collapse:collapse;margin:12px 0;font-size:.82rem}
+.md-body th{background:#0f1117;padding:7px 10px;text-align:left;color:#90cdf4;border:1px solid #2d3748}
+.md-body td{padding:7px 10px;border:1px solid #2d3748;vertical-align:top}
+.md-body tr:nth-child(even) td{background:rgba(255,255,255,.03)}
+.md-body strong{color:#e2e8f0}
+.md-body a{color:#60a5fa;text-decoration:none}
+.md-body a:hover{text-decoration:underline}
 @media(max-width:768px){
   .hdr,.ab,.tc-wrap,#dbar,.navs,.us-bar{padding-left:14px;padding-right:14px}
   .ab{margin-left:14px;margin-right:14px}
@@ -142,6 +168,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="nt active" onclick="sw('today')">今日簡報</div>
   <div class="nt" onclick="sw('history')">歷史走勢</div>
   <div class="nt" onclick="sw('stocks')">個股排行</div>
+  <div class="nt" onclick="sw('trump')">🇺🇸 川普動態</div>
 </div>
 <div id="dbar">
   <label>📅 查看日期：</label>
@@ -248,6 +275,21 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <p style="font-size:.7rem;color:#4a5568;margin-top:14px;padding-top:10px;border-top:1px solid #1e2533">* 括號內為近5日外資累計張數</p>
 </div>
 
+<div id="tab-trump" class="tc-wrap">
+  <div id="trump-meta">
+    <span class="t-date" id="trump-date"></span>
+    <span class="t-badge" id="trump-badge" style="display:none"></span>
+    <span style="flex:1"></span>
+    <span style="font-size:.72rem;color:#4a5568" id="trump-updated"></span>
+  </div>
+  <div id="trump-empty" style="display:none">
+    <div class="big">🇺🇸</div>
+    <div>今日簡報尚未產生</div>
+    <div style="font-size:.75rem;margin-top:6px;color:#4a5568">每日早上 07:09 自動更新</div>
+  </div>
+  <div id="trump-body" class="md-body" style="display:none"></div>
+</div>
+
 <div class="ft">
   官方資料：
   <a href="https://www.twse.com.tw/zh/trading/foreign/twt38u.html" target="_blank">外資買賣超</a> ·
@@ -272,12 +314,48 @@ const IND={'2330':'半導體','2317':'代工','0050':'大盤ETF','0056':'高息E
 let D=[],idx=0,L,L5;
 
 // === TAB ===
+let trumpLoaded=false;
 function sw(n){
-  ['today','history','stocks'].forEach((t,i)=>{
+  ['today','history','stocks','trump'].forEach((t,i)=>{
     document.querySelectorAll('.nt')[i].classList.toggle('active',t===n);
     $('tab-'+t).classList.toggle('active',t===n);
   });
   if(n==='history')rHist();
+  if(n==='trump'&&!trumpLoaded)rTrump();
+}
+
+// === TRUMP BRIEFING ===
+async function rTrump(){
+  trumpLoaded=true;
+  try{
+    const resp=await fetch('trump-briefing.json?v='+Date.now());
+    if(!resp.ok){$('trump-empty').style.display='';return;}
+    const t=await resp.json();
+    // 日期標籤
+    $('trump-date').textContent='📅 '+t.dateLabel+' 簡報';
+    // 更新時間（台灣時間）
+    if(t.updatedAt){
+      const d=new Date(t.updatedAt);
+      const tw=new Date(d.getTime()+8*3600*1000);
+      $('trump-updated').textContent='更新：'+(tw.getUTCMonth()+1)+'/'+String(tw.getUTCDate()).padStart(2,'0')+' '+String(tw.getUTCHours()).padStart(2,'0')+':'+String(tw.getUTCMinutes()).padStart(2,'0');
+    }
+    // 情緒徽章：從全文第一行的看多/看空關鍵字偵測
+    const txt=t.fullText||'';
+    const bearish=txt.includes('看空')||txt.includes('利空');
+    const bullish=txt.includes('看多')||txt.includes('利多');
+    const badge=$('trump-badge');
+    badge.style.display='';
+    if(bearish&&!bullish){badge.textContent='📉 偏空';badge.className='t-badge bearish';}
+    else if(bullish&&!bearish){badge.textContent='📈 偏多';badge.className='t-badge bullish';}
+    else{badge.textContent='🔄 中性';badge.className='t-badge neutral';}
+    // 渲染 Markdown
+    $('trump-body').innerHTML=marked.parse(txt);
+    $('trump-body').style.display='';
+  }catch(e){
+    $('trump-empty').style.display='';
+    $('trump-empty').querySelector('.big').textContent='⚠️';
+    $('trump-empty').querySelectorAll('div')[1].textContent='簡報載入失敗，請重新整理';
+  }
 }
 
 // === SECTION TOGGLE ===
