@@ -21,7 +21,7 @@ if !ERRORLEVEL! NEQ 0 (
 )
 
 echo %CYAN%[1/3]%RESET% git add files...
-git add index.html deploy.bat data.json
+git add index.html deploy.bat data.json trump-briefing.json
 if !ERRORLEVEL! NEQ 0 (
   echo %RED%[ERROR] git add failed.%RESET%
   goto :END

@@ -277,7 +277,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 
 <div id="tab-trump" class="tc-wrap">
   <div id="trump-meta">
-    <span class="t-date" id="trump-date"></span>
+    <select id="trump-dsel" style="background:#1a1f2e;border:1px solid #2d3748;color:#e2e8f0;padding:4px 9px;border-radius:6px;font-size:.78rem;cursor:pointer;display:none"></select>
     <span class="t-badge" id="trump-badge" style="display:none"></span>
     <span style="flex:1"></span>
     <span style="font-size:.72rem;color:#4a5568" id="trump-updated"></span>
@@ -314,7 +314,7 @@ const IND={'2330':'半導體','2317':'代工','0050':'大盤ETF','0056':'高息E
 let D=[],idx=0,L,L5;
 
 // === TAB ===
-let trumpLoaded=false;
+let trumpLoaded=false, trumpData=[];
 function sw(n){
   ['today','history','stocks','trump'].forEach((t,i)=>{
     document.querySelectorAll('.nt')[i].classList.toggle('active',t===n);
@@ -325,32 +325,48 @@ function sw(n){
 }
 
 // === TRUMP BRIEFING ===
+function renderTrumpEntry(t){
+  if(t.updatedAt){
+    const d=new Date(t.updatedAt);
+    const tw=new Date(d.getTime()+8*3600*1000);
+    $('trump-updated').textContent='更新：'+(tw.getUTCMonth()+1)+'/'+String(tw.getUTCDate()).padStart(2,'0')+' '+String(tw.getUTCHours()).padStart(2,'0')+':'+String(tw.getUTCMinutes()).padStart(2,'0');
+  } else {
+    $('trump-updated').textContent='';
+  }
+  const txt=t.fullText||'';
+  const bearish=txt.includes('看空')||txt.includes('利空');
+  const bullish=txt.includes('看多')||txt.includes('利多');
+  const badge=$('trump-badge');
+  badge.style.display='';
+  if(bearish&&!bullish){badge.textContent='📉 偏空';badge.className='t-badge bearish';}
+  else if(bullish&&!bearish){badge.textContent='📈 偏多';badge.className='t-badge bullish';}
+  else{badge.textContent='🔄 中性';badge.className='t-badge neutral';}
+  $('trump-body').innerHTML=marked.parse(txt);
+  $('trump-body').style.display='';
+  $('trump-empty').style.display='none';
+}
 async function rTrump(){
   trumpLoaded=true;
   try{
     const resp=await fetch('trump-briefing.json?v='+Date.now());
     if(!resp.ok){$('trump-empty').style.display='';return;}
-    const t=await resp.json();
-    // 日期標籤
-    $('trump-date').textContent='📅 '+t.dateLabel+' 簡報';
-    // 更新時間（台灣時間）
-    if(t.updatedAt){
-      const d=new Date(t.updatedAt);
-      const tw=new Date(d.getTime()+8*3600*1000);
-      $('trump-updated').textContent='更新：'+(tw.getUTCMonth()+1)+'/'+String(tw.getUTCDate()).padStart(2,'0')+' '+String(tw.getUTCHours()).padStart(2,'0')+':'+String(tw.getUTCMinutes()).padStart(2,'0');
-    }
-    // 情緒徽章：從全文第一行的看多/看空關鍵字偵測
-    const txt=t.fullText||'';
-    const bearish=txt.includes('看空')||txt.includes('利空');
-    const bullish=txt.includes('看多')||txt.includes('利多');
-    const badge=$('trump-badge');
-    badge.style.display='';
-    if(bearish&&!bullish){badge.textContent='📉 偏空';badge.className='t-badge bearish';}
-    else if(bullish&&!bearish){badge.textContent='📈 偏多';badge.className='t-badge bullish';}
-    else{badge.textContent='🔄 中性';badge.className='t-badge neutral';}
-    // 渲染 Markdown
-    $('trump-body').innerHTML=marked.parse(txt);
-    $('trump-body').style.display='';
+    const raw=await resp.json();
+    trumpData=Array.isArray(raw)?raw:[raw];
+    trumpData.sort((a,b)=>b.date.localeCompare(a.date));
+    const sel=$('trump-dsel');
+    sel.innerHTML='';
+    trumpData.forEach(t=>{
+      const opt=document.createElement('option');
+      opt.value=t.date;
+      opt.textContent='📅 '+t.dateLabel+' 簡報';
+      sel.appendChild(opt);
+    });
+    sel.style.display='';
+    sel.onchange=function(){
+      const t=trumpData.find(x=>x.date===this.value);
+      if(t)renderTrumpEntry(t);
+    };
+    renderTrumpEntry(trumpData[0]);
   }catch(e){
     $('trump-empty').style.display='';
     $('trump-empty').querySelector('.big').textContent='⚠️';
