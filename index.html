@@ -123,7 +123,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 </div>
 
 <div class="us-bar">
-  <span class="us-ttl">🌐 全球市場</span>
+  <span class="us-ttl">🌐 全球市場</span><span id="us-date-hint" style="color:#4a5568;font-size:11px;margin-left:6px;opacity:0.7"></span>
   <span id="usl" style="color:#4a5568;font-style:italic">載入中...</span>
   <div id="usi" style="display:none;display:flex;gap:16px;flex-wrap:wrap;align-items:center"></div>
 </div>
@@ -303,7 +303,7 @@ function rPage(){rHdr();rMth();rAlert();rCards();rHedge();rBars();}
 // === HEADER ===
 function rHdr(){
   $('hd').textContent='最新資料：'+L.dateLabel+' 盤後｜來源：台灣證券交易所官方 API';
-  $('hm').innerHTML='資料庫累積：'+D.length+' 個交易日<br>關注股：2330・0050<br>每個交易日盤後自動更新';
+  $('hm').innerHTML='資料庫累積：'+D.length+' 個交易日<br>關注股：2330・0050<br>每個交易日盤後自動更新'+(window._deployedAt?'<br><span style="color:#4a5568;font-size:11px">網站更新：'+window._deployedAt+'</span>':'');
 }
 
 // === MONTHLY ===
@@ -554,16 +554,26 @@ function rHist(){
 }
 
 // === GLOBAL MARKET (data.json driven, updated by daily scheduler) ===
+function getUSCloseDate(taiwanDateStr){
+  // 計算台灣該交易日對應的美股收盤日（台灣週一→美股上週五，其餘→前一日）
+  const y=+taiwanDateStr.slice(0,4),m=+taiwanDateStr.slice(4,6)-1,d=+taiwanDateStr.slice(6,8);
+  const dt=new Date(y,m,d);
+  const sub=dt.getDay()===1?3:1; // 週一往回3天，其餘1天
+  dt.setDate(dt.getDate()-sub);
+  return (dt.getMonth()+1).toString().padStart(2,'0')+'/'+(dt.getDate()).toString().padStart(2,'0');
+}
 function renderGlobal(){
   const g=L.global;
   const el=$('usi');
   if(!g||!g.sp500){
     $('usl').style.display='';
     $('usl').textContent='全球資料隨每日排程更新';
+    $('us-date-hint').textContent='';
     el.style.display='none';
     return;
   }
   $('usl').style.display='none';
+  $('us-date-hint').textContent='（美股 '+getUSCloseDate(L.date)+' 收盤）';
   el.style.display='flex';
   el.innerHTML='';
   const items=[
@@ -590,7 +600,19 @@ function renderGlobal(){
 // === INIT ===
 (async()=>{
   try{
-    D=await fetch('data.json?v='+Date.now()).then(r=>r.json());
+    const resp=await fetch('data.json?v='+Date.now());
+    // 讀取 Last-Modified header（GitHub Pages 會回傳最新 commit 時間）
+    const lm=resp.headers.get('Last-Modified');
+    if(lm){
+      const d=new Date(lm);
+      // 轉為台灣時間（UTC+8）
+      const tw=new Date(d.getTime()+8*3600*1000);
+      window._deployedAt=(tw.getUTCMonth()+1)+'/'
+        +String(tw.getUTCDate()).padStart(2,'0')+' '
+        +String(tw.getUTCHours()).padStart(2,'0')+':'
+        +String(tw.getUTCMinutes()).padStart(2,'0')+' (台灣時間)';
+    }
+    D=await resp.json();
     idx=D.length-1;L=D[idx];L5=D.slice(Math.max(0,idx-4),idx+1);
     rPage();initDs();
     document.querySelector('.sh').classList.add('open');$('s5d').style.display='';

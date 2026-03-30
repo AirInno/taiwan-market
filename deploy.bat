@@ -31,8 +31,7 @@ echo       %GREEN%OK%RESET%
 echo %CYAN%[2/3]%RESET% git commit...
 git commit -m "update index.html %date% %time:~0,5%"
 if !ERRORLEVEL! NEQ 0 (
-  echo %YELLOW%[INFO] Nothing to commit. No changes detected.%RESET%
-  goto :END
+  echo %YELLOW%[INFO] Nothing to commit, checking if push needed...%RESET%
 )
 echo       %GREEN%OK%RESET%
 
