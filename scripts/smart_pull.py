@@ -84,8 +84,20 @@ def save_data(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 def load_data():
-    with open(DATA_PATH, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open(DATA_PATH, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        print(f'⚠️  本機 data.json 損毀（{e}），自動從 GitHub 還原...')
+        run(f'git -C "{REPO}" fetch origin', check=False)
+        remote = fetch_remote_data()
+        if remote:
+            history = sorted(remote.values(), key=lambda x: x['date'])
+            save_data(history)
+            print(f'  ✅ 已從 GitHub 還原 {len(history)} 筆')
+            return history
+        print('  ❌ GitHub 還原失敗，請手動修復')
+        sys.exit(1)
 
 # ── TWSE API ──────────────────────────────────────────
 
