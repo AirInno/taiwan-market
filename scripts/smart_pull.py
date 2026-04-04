@@ -93,11 +93,17 @@ def fetch_bfi82u(date_str):
     url = f'https://www.twse.com.tw/rwd/zh/fund/bfi82u?date={date_str}&response=json'
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30, verify=False)
+        print(f'  HTTP {resp.status_code}, len={len(resp.text)}', end='')
+        if len(resp.text.strip()) == 0:
+            print(' → 空回應（非交易日或速率限制）')
+            return None, None     # 空 body = TWSE 無此日資料
+        print(f', preview={resp.text[:80]!r}')
         d = resp.json()
     except Exception as e:
-        print(f'[連線失敗] {e}')
+        print(f'\n  [連線失敗] {e}')
         return 'ERROR', 'ERROR'   # 區分「連線失敗」與「非交易日」
     if d.get('stat') != 'OK' or not d.get('data'):
+        print(f'  stat={d.get("stat")!r} → 非交易日')
         return None, None         # 非交易日或無資料
     fb=fs=ib=is_=0
     for row in d['data']:
@@ -259,7 +265,8 @@ def backfill():
 
     changed = False
     for ds in missing:
-        print(f'[抓取] {ds}...', end=' ', flush=True)
+        print(f'[抓取] {ds}...', flush=True)
+        time.sleep(2)   # 先等一下，避免 TWSE 速率限制
         fn, it = fetch_bfi82u(ds)
         if fn == 'ERROR': print('API 連線失敗，跳過'); continue
         if fn is None: print('非交易日，跳過'); continue
@@ -300,7 +307,7 @@ def backfill():
         history.sort(key=lambda x:x['date'])
         print(f'外資{fn:+.1f}億 收盤{cl:,.0f} 成交{vol:.0f}億 ✓')
         changed = True
-        time.sleep(0.8)
+        time.sleep(3)   # 避免 TWSE 速率限制
 
     if changed:
         save_data(history)
