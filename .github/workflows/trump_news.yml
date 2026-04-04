@@ -1,0 +1,33 @@
+name: 每日川普新聞爬蟲
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 台灣時間 06:00（UTC 22:00 前一天）
+  workflow_dispatch:
+
+jobs:
+  fetch-trump-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 執行川普新聞爬蟲
+        run: python scripts/fetch_trump_news.py
+
+      - name: Commit & push（若有更新）
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trump-raw.json
+          if git diff --staged --quiet; then
+            echo "今日無新資料，跳過 commit"
+          else
+            git commit -m "📰 $(date +'%Y%m%d') 自動更新川普新聞原始資料"
+            git push
+          fi
