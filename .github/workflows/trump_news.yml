@@ -8,6 +8,8 @@ on:
 jobs:
   fetch-trump-news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -17,7 +19,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 執行川普新聞爬蟲
+      - name: 執行川普新聞爬蟲（含 DeepL 翻譯）
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/fetch_trump_news.py
 
       - name: Commit & push（若有更新）
