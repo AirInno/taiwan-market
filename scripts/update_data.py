@@ -1,149 +1,197 @@
 """
 台股外資動向追蹤 - 自動資料更新腳本
 每個交易日收盤後由 GitHub Actions 執行
-資料來源：台灣證券交易所公開 API
+
+資料來源優先順序：
+  台股資料：TWSE（主）→ FinMind（備）
+  全球市場：Yahoo Finance（自動）
 """
 
-import json
-import requests
-import sys
-import os
+import json, requests, sys, os, urllib3
 from datetime import date, timedelta
 
-# ── 設定 ──────────────────────────────────────────────
-DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-HEADERS = {
+DATA_PATH    = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
+FINMIND_TOKEN = os.environ.get('FINMIND_TOKEN', '')   # 選填，不設定則跳過 FinMind
+
+TWSE_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Referer': 'https://www.twse.com.tw/',
     'Accept-Language': 'zh-TW,zh;q=0.9',
 }
+YF_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+    'Accept': 'application/json',
+}
 
-# ── 警示等級邏輯 ───────────────────────────────────────
+# ── 警示邏輯 ──────────────────────────────────────────
 
-def market_alert(foreign_bn, consecutive):
-    """整體市場警示（依外資億元 + 連續賣超天數）"""
-    if foreign_bn >= -50 and consecutive < 3:
-        return '正常'
-    elif foreign_bn >= -100 or consecutive < 5:
-        return '注意'
-    elif foreign_bn >= -200 or consecutive < 8:
-        return '高度警戒'
-    else:
-        return '極度警戒'
+def market_alert(f, c):
+    if f >= -50 and c < 3:   return '正常'
+    elif f >= -100 or c < 5: return '注意'
+    elif f >= -200 or c < 8: return '高度警戒'
+    else:                     return '極度警戒'
 
-def tsmc_alert(net_z):
-    """台積電警示（依外資淨買賣超張數）"""
-    if net_z >= -15000:
-        return '正常'
-    elif net_z >= -25000:
-        return '注意'
-    elif net_z >= -40000:
-        return '高度警戒'
-    else:
-        return '極度警戒'
+def tsmc_alert(n):
+    return '正常' if n>=-15000 else '注意' if n>=-25000 else '高度警戒' if n>=-40000 else '極度警戒'
 
-def etf0050_alert(net_z):
-    """0050 警示（依外資淨買賣超張數）"""
-    if net_z >= -5000:
-        return '正常'
-    elif net_z >= -10000:
-        return '注意'
-    elif net_z >= -25000:
-        return '高度警戒'
-    else:
-        return '極度警戒'
+def etf0050_alert(n):
+    return '正常' if n>=-5000 else '注意' if n>=-10000 else '高度警戒' if n>=-25000 else '極度警戒'
 
-# ── TWSE API 呼叫 ─────────────────────────────────────
+# ── TWSE API ──────────────────────────────────────────
 
 def fetch_bfi82u(date_str):
-    """三大法人買賣金額統計 → 外資整體、投信整體（億元）"""
+    """三大法人整體買賣超（億元）"""
     url = f'https://www.twse.com.tw/rwd/zh/fund/bfi82u?date={date_str}&response=json'
-    r = requests.get(url, headers=HEADERS, timeout=30)
     try:
-        d = r.json()
+        d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
     except Exception:
         return None, None
     if d.get('stat') != 'OK' or not d.get('data'):
         return None, None
-
-    foreign_buy = foreign_sell = it_buy = it_sell = 0
+    fb=fs=ib=is_=0
     for row in d['data']:
         name = row[0].strip()
         try:
-            buy  = float(row[1].replace(',', ''))
-            sell = float(row[2].replace(',', ''))
-        except (ValueError, IndexError):
+            buy, sell = float(row[1].replace(',','')), float(row[2].replace(',',''))
+        except Exception:
             continue
-        if '外資及陸資(不含' in name:
-            foreign_buy, foreign_sell = buy, sell
-        elif name == '投信':
-            it_buy, it_sell = buy, sell
-
-    foreign_bn = round((foreign_buy - foreign_sell) / 1e8, 2)
-    it_bn      = round((it_buy - it_sell) / 1e8, 2)
-    return foreign_bn, it_bn
+        if '外資及陸資(不含' in name: fb, fs = buy, sell
+        elif name == '投信':          ib, is_ = buy, sell
+    return round((fb-fs)/1e8, 2), round((ib-is_)/1e8, 2)
 
 
 def fetch_t86(date_str):
-    """個股三大法人買賣超 → top5 排行 + 台積電/0050 個別資料"""
+    """個股三大法人買賣超"""
     url = f'https://www.twse.com.tw/rwd/zh/fund/T86?date={date_str}&selectType=ALL&response=json'
-    r = requests.get(url, headers=HEADERS, timeout=30)
     try:
-        d = r.json()
+        d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
     except Exception:
         return None
     if d.get('stat') != 'OK' or not d.get('data'):
         return None
-
     stocks = []
     for row in d['data']:
-        code = row[0].strip()
-        name = row[1].strip()
         try:
-            # 欄位 4 = 外陸資買賣超股數，欄位 10 = 投信買賣超股數
-            # （欄位 5-7 為外資自營商三欄，8-10 才是投信三欄）
-            f_net = int(row[4].replace(',', '').replace('+', '')) // 1000  # 轉張
-            i_net = int(row[10].replace(',', '').replace('+', '')) // 1000
-        except (ValueError, IndexError):
+            f_net = int(row[4].replace(',','').replace('+','')) // 1000
+            i_net = int(row[10].replace(',','').replace('+','')) // 1000
+        except Exception:
             continue
-        stocks.append({'code': code, 'name': name, 'f': f_net, 'i': i_net})
-
+        stocks.append({'code': row[0].strip(), 'name': row[1].strip(), 'f': f_net, 'i': i_net})
     return stocks
 
 
 def fetch_fmtqik(date_str):
-    """大盤每日行情 → 收盤指數、漲跌點數"""
+    """大盤收盤、漲跌、成交金額億"""
     url = f'https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?date={date_str}&response=json'
-    r = requests.get(url, headers=HEADERS, timeout=30)
     try:
-        d = r.json()
+        d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
     except Exception:
-        return None, None
+        return None, None, None
     if d.get('stat') != 'OK' or not d.get('data'):
-        return None, None
-
-    # 轉換民國日期格式
+        return None, None, None
     y_roc = int(date_str[:4]) - 1911
-    m, day = int(date_str[4:6]), int(date_str[6:8])
-    target = f'{y_roc}/{m:02d}/{day:02d}'
-
+    target = f'{y_roc}/{int(date_str[4:6]):02d}/{int(date_str[6:8]):02d}'
     for row in d['data']:
         if row[0].strip() == target:
             try:
-                close  = float(row[4].replace(',', ''))
-                change = float(row[5].replace(',', '').replace('+', ''))
-                return close, change
-            except (ValueError, IndexError):
+                return (float(row[4].replace(',','')),
+                        float(row[5].replace(',','').replace('+','')),
+                        round(float(row[2].replace(',',''))/1e8, 2))
+            except Exception:
                 pass
+    return None, None, None
 
-    # 找不到特定日期（非交易日）
-    return None, None
+# ── FinMind 備援 ──────────────────────────────────────
+
+def fetch_bfi82u_finmind(date_str):
+    """FinMind 備援：三大法人整體（需 FINMIND_TOKEN）"""
+    if not FINMIND_TOKEN:
+        return None, None
+    iso = f'{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}'
+    url = 'https://api.finmindtrade.com/api/v4/data'
+    params = {'dataset': 'TaiwanStockInstitutionalInvestors',
+              'start_date': iso, 'end_date': iso, 'token': FINMIND_TOKEN}
+    try:
+        rows = requests.get(url, params=params, timeout=30).json().get('data', [])
+    except Exception:
+        return None, None
+    fb=fs=ib=is_=0
+    for r in rows:
+        if r.get('name') == '外資':    fb, fs = r.get('buy',0), r.get('sell',0)
+        elif r.get('name') == '投信':  ib, is_ = r.get('buy',0), r.get('sell',0)
+    if fb == 0 and fs == 0:
+        return None, None
+    return round((fb-fs)/1e8, 2), round((ib-is_)/1e8, 2)
+
+
+def fetch_t86_finmind(date_str):
+    """FinMind 備援：個股三大法人（需 FINMIND_TOKEN）"""
+    if not FINMIND_TOKEN:
+        return None
+    iso = f'{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}'
+    url = 'https://api.finmindtrade.com/api/v4/data'
+    params = {'dataset': 'TaiwanStockInstitutionalInvestorsBuySell',
+              'start_date': iso, 'end_date': iso, 'token': FINMIND_TOKEN}
+    try:
+        rows = requests.get(url, params=params, timeout=30).json().get('data', [])
+    except Exception:
+        return None
+    if not rows:
+        return None
+    # 彙整每支股票的外資/投信淨買超
+    stock_map = {}
+    for r in rows:
+        code = r.get('stock_id','')
+        name = r.get('stock_name', code)
+        inst = r.get('name','')
+        net  = (r.get('buy',0) - r.get('sell',0)) // 1000
+        if code not in stock_map:
+            stock_map[code] = {'code': code, 'name': name, 'f': 0, 'i': 0}
+        if inst == '外資': stock_map[code]['f'] = net
+        if inst == '投信': stock_map[code]['i'] = net
+    return list(stock_map.values()) if stock_map else None
+
+# ── Yahoo Finance：全球市場 ───────────────────────────
+
+YF_SYMBOLS = {
+    'sp500':   '^GSPC',
+    'nasdaq':  '^IXIC',
+    'vix':     '^VIX',
+    'us10y':   '^TNX',
+    'gold':    'GC=F',
+    'sox':     '^SOX',
+    'usdtwd':  'TWD=X',
+}
+
+def fetch_yf_quote(symbol):
+    """Yahoo Finance 取得最新收盤與漲跌幅"""
+    url = f'https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d'
+    try:
+        d = requests.get(url, headers=YF_HEADERS, timeout=15).json()
+        meta   = d['chart']['result'][0]['meta']
+        close  = meta.get('regularMarketPrice') or meta.get('previousClose')
+        prev   = meta.get('chartPreviousClose') or meta.get('previousClose', close)
+        chg_pct = round((close - prev) / prev * 100, 2) if prev else 0
+        return round(close, 2), chg_pct
+    except Exception:
+        return None, None
+
+
+def fetch_global():
+    """抓取全球市場指標，失敗欄位留 None"""
+    result = {}
+    for key, symbol in YF_SYMBOLS.items():
+        val, chg = fetch_yf_quote(symbol)
+        if val is not None:
+            result[key]           = val
+            result[f'{key}_chg']  = chg
+    return result if result else None
 
 # ── 主流程 ────────────────────────────────────────────
 
 def get_target_date():
-    """取得最近的交易日（週末退回週五）"""
     today = date.today()
     for i in range(7):
         d = today - timedelta(days=i)
@@ -158,90 +206,96 @@ def top5(stocks, key, ascending=False):
 
 
 def main():
-    # 讀取現有資料
     with open(DATA_PATH, 'r', encoding='utf-8') as f:
         history = json.load(f)
 
     target = get_target_date()
-    existing = {d['date'] for d in history}
-
-    if target in existing:
-        print(f'[跳過] {target} 的資料已存在')
+    if target in {d['date'] for d in history}:
+        print(f'[跳過] {target} 已存在')
         sys.exit(0)
 
-    print(f'[開始] 抓取 {target} 的資料...')
+    print(f'[開始] {target}')
 
-    # 1. 整體外資、投信（億元）
+    # 1. 三大法人整體（TWSE → FinMind 備援）
     foreign_bn, it_bn = fetch_bfi82u(target)
     if foreign_bn is None:
-        print(f'[跳過] {target} 可能為非交易日（bfi82u 無資料）')
+        print('  TWSE bfi82u 無資料，嘗試 FinMind...')
+        foreign_bn, it_bn = fetch_bfi82u_finmind(target)
+    if foreign_bn is None:
+        print(f'[跳過] {target} 非交易日或無法取得三大法人資料')
         sys.exit(0)
 
-    # 2. 大盤收盤
-    close, change = fetch_fmtqik(target)
+    # 2. 大盤收盤 + 成交量
+    close, change, vol_bn = fetch_fmtqik(target)
     if close is None:
         print(f'[跳過] {target} 無大盤收盤資料')
         sys.exit(0)
 
-    # 3. 個股三大法人
+    # 3. 個股三大法人（TWSE → FinMind 備援）
     stocks = fetch_t86(target)
+    if stocks is None:
+        print('  TWSE T86 無資料，嘗試 FinMind...')
+        stocks = fetch_t86_finmind(target)
     if stocks is None:
         print(f'[錯誤] 無法取得個股資料')
         sys.exit(1)
 
-    # 衍生欄位計算
-    last = history[-1] if history else {}
-    prev_consecutive = last.get('連續賣超', 0)
-    consecutive = (prev_consecutive + 1) if foreign_bn < 0 else 0
+    # 4. 全球市場（Yahoo Finance，失敗不中止）
+    print('  抓取全球市場...')
+    global_data = fetch_global()
+    if global_data:
+        print(f'  S&P500={global_data.get("sp500")}  VIX={global_data.get("vix")}  黃金={global_data.get("gold")}')
+    else:
+        print('  全球市場資料暫時無法取得，跳過')
 
+    # 衍生欄位
+    last = sorted(history, key=lambda x: x['date'])[-1] if history else {}
+    consecutive = (last.get('連續賣超', 0) + 1) if foreign_bn < 0 else 0
     hedge = round(it_bn / abs(foreign_bn) * 100, 1) if (foreign_bn < 0 and it_bn > 0) else 0
 
-    alert = market_alert(foreign_bn, consecutive)
+    tsmc  = next((s for s in stocks if s['code'] == '2330'), {'f': 0, 'i': 0})
+    e0050 = next((s for s in stocks if s['code'] == '0050'), {'f': 0, 'i': 0})
 
-    # 個股：台積電 (2330) / 0050
-    tsmc   = next((s for s in stocks if s['code'] == '2330'), {'f': 0, 'i': 0})
-    e0050  = next((s for s in stocks if s['code'] == '0050'), {'f': 0, 'i': 0})
+    fb  = top5(stocks, 'f', ascending=False)
+    fs  = top5(stocks, 'f', ascending=True)
+    ib  = top5(stocks, 'i', ascending=False)
+    is_ = top5(stocks, 'i', ascending=True)
 
-    # Top 5 列表
-    fb = top5(stocks, 'f', ascending=False)  # 外資買超
-    fs = top5(stocks, 'f', ascending=True)   # 外資賣超
-    ib = top5(stocks, 'i', ascending=False)  # 投信買超
-    is_ = top5(stocks, 'i', ascending=True)  # 投信賣超
-
-    def fmt_list(items, key):
+    def fmt(items, key):
         return [{'code': s['code'], 'name': s['name'], '張數': s[key]} for s in items]
 
-    month, day = target[4:6], target[6:8]
-
     new_entry = {
-        'date':       target,
-        'dateLabel':  f'{month}/{day}',
-        '外資億元':    foreign_bn,
-        '投信億元':    it_bn,
-        '收盤':        close,
-        '漲跌':        change,
-        '連續賣超':    consecutive,
-        '警示':        alert,
-        'tsmc外資':    tsmc['f'],
-        'tsmc投信':    tsmc['i'],
-        'tsmc警示':    tsmc_alert(tsmc['f']),
-        'etf0050外資': e0050['f'],
-        'etf0050投信': e0050['i'],
-        'etf0050警示': etf0050_alert(e0050['f']),
-        '護盤比':      hedge,
-        '外資買超':    fmt_list(fb, 'f'),
-        '外資賣超':    fmt_list(fs, 'f'),
-        '投信買超':    fmt_list(ib, 'i'),
-        '投信賣超':    fmt_list(is_, 'i'),
+        'date':        target,
+        'dateLabel':   f'{target[4:6]}/{target[6:8]}',
+        '外資億元':     foreign_bn,
+        '投信億元':     it_bn,
+        '收盤':         close,
+        '漲跌':         change,
+        '連續賣超':     consecutive,
+        '警示':         market_alert(foreign_bn, consecutive),
+        'tsmc外資':     tsmc['f'],
+        'tsmc投信':     tsmc['i'],
+        'tsmc警示':     tsmc_alert(tsmc['f']),
+        'etf0050外資':  e0050['f'],
+        'etf0050投信':  e0050['i'],
+        'etf0050警示':  etf0050_alert(e0050['f']),
+        '護盤比':        hedge,
+        '成交金額億':    vol_bn,
+        '外資買超':      fmt(fb, 'f'),
+        '外資賣超':      fmt(fs, 'f'),
+        '投信買超':      fmt(ib, 'i'),
+        '投信賣超':      fmt(is_, 'i'),
     }
+    if global_data:
+        new_entry['global'] = global_data
 
     history.append(new_entry)
-
     with open(DATA_PATH, 'w', encoding='utf-8') as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
-    print(f'[完成] {target}｜外資 {foreign_bn:+.2f}億｜投信 {it_bn:+.2f}億｜收盤 {close:,.2f}｜{alert}')
+    print(f'[完成] {target}｜外資{foreign_bn:+.1f}億｜投信{it_bn:+.1f}億｜收盤{close:,.0f}｜成交{vol_bn:.0f}億｜{new_entry["警示"]}')
 
 
 if __name__ == '__main__':
     main()
+                                                                                                                                                                                                                                                                                                                                                                                                                   
