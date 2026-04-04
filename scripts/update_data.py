@@ -43,7 +43,7 @@ def etf0050_alert(n):
 
 def fetch_bfi82u(date_str):
     """三大法人整體買賣超（億元）"""
-    url = f'https://www.twse.com.tw/rwd/zh/fund/bfi82u?date={date_str}&response=json'
+    url = f'https://www.twse.com.tw/rwd/zh/fund/BFI82U?type=day&dayDate={date_str}&response=json'
     try:
         d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
     except Exception:

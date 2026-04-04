@@ -90,7 +90,7 @@ def load_data():
 # ── TWSE API ──────────────────────────────────────────
 
 def fetch_bfi82u(date_str):
-    url = f'https://www.twse.com.tw/rwd/zh/fund/bfi82u?date={date_str}&response=json'
+    url = f'https://www.twse.com.tw/rwd/zh/fund/BFI82U?type=day&dayDate={date_str}&response=json'
     try:
         resp = requests.get(url, headers=HEADERS, timeout=30, verify=False)
         print(f'  HTTP {resp.status_code}, len={len(resp.text)}', end='')
