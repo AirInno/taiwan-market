@@ -315,6 +315,21 @@ def backfill():
         }
         if global_data:
             entry['global'] = global_data
+
+        # ── QA 驗證 ──────────────────────────
+        qa_warn = []
+        if not (-2000 <= fn <= 2000):
+            qa_warn.append(f'外資億元異常：{fn}')
+        if cl and not (15000 <= cl <= 65000):
+            qa_warn.append(f'收盤點位異常：{cl}')
+        if vol and not (500 <= vol <= 15000):
+            qa_warn.append(f'成交金額異常：{vol}億')
+        if qa_warn:
+            print(f'  ⚠️  QA 警告：{", ".join(qa_warn)}（資料仍寫入，請確認）')
+        else:
+            print(f'  ✅ QA 通過')
+        # ──────────────────────────────────────
+
         history.append(entry)
         history.sort(key=lambda x:x['date'])
         print(f'外資{fn:+.1f}億 收盤{cl:,.0f} 成交{vol:.0f}億 ✓')
@@ -341,14 +356,25 @@ FIX_BAT = (
 BACKFILL_BAT = (
     '@echo off\r\n'
     'cd /d "C:\\Users\\lifongye\\Documents\\taiwan-market"\r\n'
-    'echo [Sync + Fix + Backfill]\r\n'
+    'echo [Sync + Fix + Backfill + Auto Push]\r\n'
     'python scripts\\smart_pull.py\r\n'
     'if errorlevel 1 ( echo [ERROR] sync & pause & exit /b 1 )\r\n'
     'python scripts\\smart_pull.py --fix\r\n'
     'python scripts\\smart_pull.py --backfill\r\n'
     'if errorlevel 1 ( echo [ERROR] backfill & pause & exit /b 1 )\r\n'
     'echo.\r\n'
-    'echo Done! Run deploy.bat to push.\r\n'
+    'echo [Auto Push] 推送資料到 GitHub...\r\n'
+    'git add data.json\r\n'
+    'git diff --staged --quiet && (\r\n'
+    '  echo [INFO] 無新資料，跳過 push\r\n'
+    ') || (\r\n'
+    '  git commit -m "backfill %date% %time:~0,5%"\r\n'
+    '  git push\r\n'
+    '  if errorlevel 1 ( echo [ERROR] push failed & pause & exit /b 1 )\r\n'
+    '  echo [OK] 已推送到 GitHub\r\n'
+    ')\r\n'
+    'echo.\r\n'
+    'echo Done!\r\n'
     'pause\r\n'
 )
 

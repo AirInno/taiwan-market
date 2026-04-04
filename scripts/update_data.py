@@ -289,6 +289,25 @@ def main():
     if global_data:
         new_entry['global'] = global_data
 
+    # ── QA 驗證 ──────────────────────────────────────────
+    warnings = []
+    if not (-2000 <= foreign_bn <= 2000):
+        warnings.append(f'外資億元異常：{foreign_bn}（預期 -2000~+2000）')
+    if not (15000 <= close <= 65000):
+        warnings.append(f'收盤點位異常：{close}（預期 15000~65000）')
+    if not (500 <= vol_bn <= 15000):
+        warnings.append(f'成交金額異常：{vol_bn}億（預期 500~15000）')
+    if len(fb) < 3:
+        warnings.append(f'外資買超個股不足：僅 {len(fb)} 筆（預期 ≥3）')
+    if warnings:
+        print('[QA 警告]')
+        for w in warnings:
+            print(f'  ⚠️  {w}')
+        print('  → 資料仍寫入，請人工確認')
+    else:
+        print('[QA] ✅ 資料驗證通過')
+    # ─────────────────────────────────────────────────────
+
     history.append(new_entry)
     with open(DATA_PATH, 'w', encoding='utf-8') as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
