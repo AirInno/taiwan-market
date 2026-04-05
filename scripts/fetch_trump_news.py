@@ -2,11 +2,12 @@
 川普新聞 RSS 爬蟲
 每天由 GitHub Actions 自動執行，結果存入 trump-raw.json
 不消耗 Claude token
+支援 DeepL Free API 自動翻譯（設定環境變數 DEEPL_API_KEY 即啟用）
 """
 import json, os, re, sys, time
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
-import urllib.request, urllib.error
+import urllib.request, urllib.error, urllib.parse
 
 REPO_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT     = os.path.join(REPO_DIR, 'trump-raw.json')
@@ -78,10 +79,36 @@ def strip_html(text):
     return re.sub(r'<[^>]+>', '', text).strip()
 
 
+def translate_batch(texts, api_key, target_lang='ZH'):
+    """呼叫 DeepL Free API 批次翻譯，回傳翻譯後文字清單"""
+    if not texts or not api_key:
+        return [''] * len(texts)
+
+    # Free API endpoint
+    url = 'https://api-free.deepl.com/v2/translate'
+    params = [('target_lang', target_lang), ('tag_handling', 'xml')]
+    for t in texts:
+        params.append(('text', t))
+
+    data = urllib.parse.urlencode(params).encode('utf-8')
+    req  = urllib.request.Request(url, data=data, method='POST')
+    req.add_header('Authorization', f'DeepL-Auth-Key {api_key}')
+    req.add_header('Content-Type', 'application/x-www-form-urlencoded')
+
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            result = json.loads(r.read().decode('utf-8'))
+            return [t['text'] for t in result.get('translations', [])]
+    except Exception as e:
+        print(f'  ⚠️  DeepL 翻譯失敗: {e}')
+        return [''] * len(texts)
+
+
 def crawl():
-    now_utc = datetime.now(timezone.utc)
-    cutoff  = now_utc - timedelta(hours=CUTOFF_HRS)
-    today   = now_utc.astimezone(timezone(timedelta(hours=8))).strftime('%Y%m%d')
+    now_utc   = datetime.now(timezone.utc)
+    cutoff    = now_utc - timedelta(hours=CUTOFF_HRS)
+    today     = now_utc.astimezone(timezone(timedelta(hours=8))).strftime('%Y%m%d')
+    deepl_key = os.environ.get('DEEPL_API_KEY', '')
 
     articles = []
     seen_titles = set()
@@ -140,6 +167,25 @@ def crawl():
     # 依時間排序（新 → 舊）
     articles.sort(key=lambda x: x['pubTime'], reverse=True)
     articles = articles[:40]  # 最多 40 則
+
+    # DeepL 自動翻譯（若有 API Key）
+    import sys
+    print(f'\n[DEBUG] deepl_key 長度: {len(deepl_key)}, articles 數量: {len(articles)}', flush=True)
+    if deepl_key and articles:
+        print(f'\n🌐 使用 DeepL 翻譯 {len(articles)} 則標題...')
+        titles = [a['title'] for a in articles]
+        descs  = [a['desc']  for a in articles]
+        title_zh = translate_batch(titles, deepl_key)
+        desc_zh  = translate_batch(descs,  deepl_key)
+        for i, a in enumerate(articles):
+            if i < len(title_zh) and title_zh[i]:
+                a['titleZh'] = title_zh[i]
+            if i < len(desc_zh) and desc_zh[i]:
+                a['descZh'] = desc_zh[i]
+        print(f'✅ 翻譯完成')
+    else:
+        if not deepl_key:
+            print('\n⚠️  未設定 DEEPL_API_KEY，跳過翻譯')
 
     result = {
         'fetchDate': today,
