@@ -1,42 +1,23 @@
 {
   "fetchDate": "20260405",
-  "fetchTime": "2026-04-05 07:02",
-  "count": 5,
+  "fetchTime": "2026-04-05 12:58",
+  "count": 2,
   "articles": [
     {
       "title": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions - Crypto Briefing",
       "desc": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions&nbsp;&nbsp;Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlBJVVNid1MyRlN2MmRwWVQ2YlFWdVBkRW53RlptMlRKZTdmc2g4VldGdzZWTnROdU9wSkxOVTJXQ1VZTmZ4eFpKT3NoV0U3cFBGOExCcFBFelQxZUhjQ1VjYXg1d1BjbEVpcVZpMFQzREoxRzdsZVN2WUUtZTlacmxzTWo5WVlMOG1HX1lVLVlVeUE3OVhIZ1dIRWZoUl9nLXJxTmVWY1U?oc=5",
       "pubTime": "2026-04-04 12:19",
-      "source": "news.google.com"
+      "source": "news.google.com",
+      "titleZh": "随着特朗普加剧贸易紧张局势，欧盟对美国商品征收关税的最后期限9月30日日益临近 - Crypto Briefing"
     },
     {
-      "title": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision - Euractiv",
-      "desc": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision&nbsp;&nbsp;Euractiv",
+      "title": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision - euractiv.com",
+      "desc": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision&nbsp;&nbsp;euractiv.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTAyY3VMb3lvbXN3ZDdVM1dGclRZZWxiTWp3MjFnWEQyaDM3VDZXTk04U1pxRUs5dlROeWMxb1IzbGVOUHFXRGlvSzY2Q0E1bkVVT1JtTDR0TUE2WW9SRTVIRkxmbXdCZFFHcC1EaHFaVlRrbk1hOURjbzVBY0NlRDlxd3FDWEY5RERHOHp5V3lrU1hjbUFvOWR3Rnk4S3N4U2czUXoyanliN1lROUI5UA?oc=5",
       "pubTime": "2026-04-04 06:01",
-      "source": "news.google.com"
-    },
-    {
-      "title": "Trump tariff tweaks smooth the way for EU-US trade deal approval - politico.eu",
-      "desc": "Trump tariff tweaks smooth the way for EU-US trade deal approval&nbsp;&nbsp;politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU01yRmRoN3UzMnhnUGF0QWtKSERwc05NY1Bmc1F6cEEyU1R1M0ZYWHBqa2hmU1FkZjc1eHE1S18xOWJBbDdHV05pV1k0ZVZNMWlUWF9DQnMwXzRPc3UtYXpLeFJ4QWQtcWIzN2xhaExBTmR0Zkgtekt3X2xaaC1HOVhlZ0YtUVllOEVsd0xR?oc=5",
-      "pubTime": "2026-04-03 22:08",
-      "source": "news.google.com"
-    },
-    {
-      "title": "Liberation Day tariffs celebrated a year out by Trump, few others - Asia Times",
-      "desc": "Liberation Day tariffs celebrated a year out by Trump, few others&nbsp;&nbsp;Asia Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXRZSXowSVBlZHdYbElWZkxSc2R5ZnUtNXhmQkhTLXZQd1d2LUFTMlNDVFU3bjFtdUJoOHg1eW9GVEJZeWpRMnUtbk1BRFN2amF0WlBRdFItQUtHSm9QdWE2T2IzcC1yQkRnQkYzQk9sV1lnbGVXMXhXMjFsaTRIUUZNeFN0SUxyOVJCMThJRFlMTXNWa1diR2tWOA?oc=5",
-      "pubTime": "2026-04-03 20:32",
-      "source": "news.google.com"
-    },
-    {
-      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later - CNBC",
-      "desc": "Trump tariff fallout: Some industries grapple with lingering effects one year later&nbsp;&nbsp;CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wQTdudlByQ24zTjlIZ19CVm82OTliTVFwZmg4amNONTVDVjNBNXA0Y1NFLTB1WlFMTHNqVWVGTENhOFNnMVJpSG5RblpLcHNnZFl0bFRLYTdSMWNqV0RYUVpDd2hfSnlsanFpRC1lUUxlMXBxQ2fSAXtBVV95cUxPbmdSTV9FQlh6WmJuVXRZempURXB1cW5QVnV6T25NVXcwejY2OHEzM3oxdDVsYjZRcXYtSzZHUXVTMkZtUzVfcTQ0UFlVaWdhaXg5QUZpSjZpd25yejFNbWVFU1VGVHVVWW9jd2Z2ZnRnMXVJZlF3ZWNUcHM?oc=5",
-      "pubTime": "2026-04-03 19:30",
-      "source": "news.google.com"
+      "source": "news.google.com",
+      "titleZh": "特朗普宣布加征关税后，业界警告称全球药品贸易面临“转折点” - euractiv.com"
     }
   ]
 }
