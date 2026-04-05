@@ -86,7 +86,7 @@ def translate_batch(texts, api_key, target_lang='ZH'):
 
     # Free API endpoint
     url = 'https://api-free.deepl.com/v2/translate'
-    params = [('target_lang', target_lang), ('tag_handling', 'xml')]
+    params = [('target_lang', target_lang)]
     for t in texts:
         params.append(('text', t))
 
@@ -169,8 +169,6 @@ def crawl():
     articles = articles[:40]  # 最多 40 則
 
     # DeepL 自動翻譯（若有 API Key）
-    import sys
-    print(f'\n[DEBUG] deepl_key 長度: {len(deepl_key)}, articles 數量: {len(articles)}', flush=True)
     if deepl_key and articles:
         print(f'\n🌐 使用 DeepL 翻譯 {len(articles)} 則標題...')
         titles = [a['title'] for a in articles]
@@ -196,11 +194,3 @@ def crawl():
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-
-    print(f'\n✅ 共抓到 {len(articles)} 則川普相關新聞，已存入 trump-raw.json')
-    return len(articles)
-
-
-if __name__ == '__main__':
-    n = crawl()
-    sys.exit(0 if n > 0 else 1)
