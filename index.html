@@ -394,7 +394,8 @@ async function rTrumpFallback(todayStr,latestEntry){
         arts.slice(0,12).forEach((a,i)=>{
           const title=a.titleZh||a.title||'';
           const desc=a.descZh||a.desc||'';
-          txt+=`**${i+1}. ${title}**\n`;
+          const link=a.url?` [🔗 原文](${a.url})`:'';
+          txt+=`**${i+1}. ${title}**${link}\n`;
           if(desc)txt+=`${desc}\n`;
           txt+=`*${a.pubTime||''} | ${a.source||''}*\n\n`;
         });
