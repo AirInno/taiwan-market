@@ -347,9 +347,12 @@ function renderTrumpEntry(t){
 }
 async function rTrump(){
   trumpLoaded=true;
+  // 台灣時間今日日期
+  const twNow=new Date(Date.now()+8*3600*1000);
+  const todayStr=twNow.toISOString().slice(0,10).replace(/-/g,'');
   try{
     const resp=await fetch('trump-briefing.json?v='+Date.now());
-    if(!resp.ok){$('trump-empty').style.display='';return;}
+    if(!resp.ok){await rTrumpFallback(todayStr,null);return;}
     const raw=await resp.json();
     trumpData=Array.isArray(raw)?raw:[raw];
     trumpData.sort((a,b)=>b.date.localeCompare(a.date));
@@ -366,12 +369,57 @@ async function rTrump(){
       const t=trumpData.find(x=>x.date===this.value);
       if(t)renderTrumpEntry(t);
     };
-    renderTrumpEntry(trumpData[0]);
+    // 若今日無 AI 分析，顯示 fallback
+    const todayEntry=trumpData.find(x=>x.date===todayStr);
+    if(!todayEntry){await rTrumpFallback(todayStr,trumpData[0]);}
+    else{renderTrumpEntry(todayEntry);}
   }catch(e){
     $('trump-empty').style.display='';
     $('trump-empty').querySelector('.big').textContent='⚠️';
     $('trump-empty').querySelectorAll('div')[1].textContent='簡報載入失敗，請重新整理';
   }
+}
+async function rTrumpFallback(todayStr,latestEntry){
+  // 顯示 trump-raw.json 自動新聞清單
+  const dl=todayStr.slice(4,6)+'/'+todayStr.slice(6,8);
+  let txt=`## ⚠️ ${dl} 今日尚未收到 AI 分析資料\n\n`;
+  txt+=`> 以下為 GitHub 爬蟲自動抓取的川普相關新聞，尚未經過 AI 整理分析。\n\n---\n\n`;
+  try{
+    const rr=await fetch('trump-raw.json?v='+Date.now());
+    if(rr.ok){
+      const rd=await rr.json();
+      const arts=rd.articles||[];
+      if(arts.length===0){txt+=`*今日爬蟲未抓到相關新聞*\n`;}
+      else{
+        arts.slice(0,12).forEach((a,i)=>{
+          const title=a.titleZh||a.title||'';
+          const desc=a.descZh||a.desc||'';
+          txt+=`**${i+1}. ${title}**\n`;
+          if(desc)txt+=`${desc}\n`;
+          txt+=`*${a.pubTime||''} | ${a.source||''}*\n\n`;
+        });
+      }
+    }
+  }catch(e){}
+  if(latestEntry)txt+=`---\n*最近一次 AI 分析：${latestEntry.dateLabel}，可從上方選單查看*\n`;
+  // 將 fallback 插入選單第一位
+  const sel=$('trump-dsel');
+  if(sel.innerHTML!==''){
+    const opt=document.createElement('option');
+    opt.value=todayStr;
+    opt.textContent='📅 '+dl+' 自動摘要 ⚠️';
+    sel.insertBefore(opt,sel.firstChild);
+    sel.value=todayStr;
+  }
+  // 用特殊徽章顯示
+  const badge=$('trump-badge');
+  badge.style.display='';
+  badge.textContent='⚠️ 無 AI 分析';
+  badge.style.cssText='display:inline-block;padding:3px 10px;border-radius:12px;font-size:.78rem;font-weight:600;background:#4a5568;color:#e2e8f0';
+  $('trump-updated').textContent='自動摘要';
+  $('trump-body').innerHTML=marked.parse(txt);
+  $('trump-body').style.display='';
+  $('trump-empty').style.display='none';
 }
 
 // === SECTION TOGGLE ===

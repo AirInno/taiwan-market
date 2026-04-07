@@ -39,11 +39,18 @@ if !ERRORLEVEL! NEQ 0 (
 )
 echo       %GREEN%OK%RESET%
 
-echo %CYAN%[3/4]%RESET% git push...
+echo %CYAN%[3/4]%RESET% git push (auto sync remote)...
 git push 2>&1
 if !ERRORLEVEL! NEQ 0 (
-  echo %RED%[ERROR] git push failed.%RESET%
-  goto :END
+  echo %YELLOW%[INFO] Remote ahead, pulling first...%RESET%
+  git stash
+  git pull --rebase
+  git stash pop
+  git push 2>&1
+  if !ERRORLEVEL! NEQ 0 (
+    echo %RED%[ERROR] git push failed after pull.%RESET%
+    goto :END
+  )
 )
 
 echo %CYAN%[4/4]%RESET% Cleanup git locks...
