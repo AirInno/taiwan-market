@@ -79,7 +79,7 @@ def strip_html(text):
     return re.sub(r'<[^>]+>', '', text).strip()
 
 
-def translate_batch(texts, api_key, target_lang='ZH'):
+def translate_batch(texts, api_key, target_lang='ZH-TW'):
     """呼叫 DeepL Free API 批次翻譯，回傳翻譯後文字清單"""
     if not texts or not api_key:
         return [''] * len(texts)
