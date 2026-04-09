@@ -12,7 +12,7 @@ import urllib.request, urllib.error, urllib.parse
 REPO_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT     = os.path.join(REPO_DIR, 'trump-raw.json')
 CUTOFF_HRS = 36   # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
-MAX_DAYS   = 60   # trump-raw.json 最多保留幾天的歷史記錄
+MAX_DAYS   = None  # 無限保留所有歷史記錄
 
 RSS_FEEDS = [
     # Google News（川普關稅貿易）
@@ -215,7 +215,8 @@ def crawl():
     existing = [r for r in existing if r.get('date') != today]
     existing.append(today_record)
     existing.sort(key=lambda x: x.get('date', ''), reverse=True)
-    existing = existing[:MAX_DAYS]  # 保留最近 N 天
+    if MAX_DAYS:
+        existing = existing[:MAX_DAYS]
 
     print(f'\n💾 累積歷史記錄：共 {len(existing)} 天')
 
