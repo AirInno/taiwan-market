@@ -345,82 +345,76 @@ function renderTrumpEntry(t){
   $('trump-body').style.display='';
   $('trump-empty').style.display='none';
 }
-async function rTrump(){
-  trumpLoaded=true;
-  // 台灣時間今日日期
-  const twNow=new Date(Date.now()+8*3600*1000);
-  const todayStr=twNow.toISOString().slice(0,10).replace(/-/g,'');
-  try{
-    const resp=await fetch('trump-briefing.json?v='+Date.now());
-    if(!resp.ok){await rTrumpFallback(todayStr,null);return;}
-    const raw=await resp.json();
-    trumpData=Array.isArray(raw)?raw:[raw];
-    trumpData.sort((a,b)=>b.date.localeCompare(a.date));
-    const sel=$('trump-dsel');
-    sel.innerHTML='';
-    trumpData.forEach(t=>{
-      const opt=document.createElement('option');
-      opt.value=t.date;
-      opt.textContent='📅 '+t.dateLabel+' 簡報';
-      sel.appendChild(opt);
+function renderRawEntry(raw){
+  const mm=raw.date.slice(4,6),dd=raw.date.slice(6,8);
+  let txt=`## 📰 ${mm}/${dd} 爬蟲新聞紀錄\n\n`;
+  txt+=`> 自動爬取 ${raw.count} 則川普相關新聞，尚未 AI 分析。\n\n---\n\n`;
+  const arts=raw.articles||[];
+  if(arts.length===0){txt+=`*未抓到相關新聞*\n`;}
+  else{
+    arts.slice(0,12).forEach((a,i)=>{
+      const title=a.titleZh||a.title||'';
+      const desc=a.descZh||a.desc||'';
+      const link=a.url?` [🔗 原文](${a.url})`:'';
+      txt+=`**${i+1}. ${title}**${link}\n`;
+      if(desc)txt+=`${desc}\n`;
+      txt+=`*${a.pubTime||''} | ${a.source||''}*\n\n`;
     });
-    sel.style.display='';
-    sel.onchange=function(){
-      const t=trumpData.find(x=>x.date===this.value);
-      if(t)renderTrumpEntry(t);
-    };
-    // 若今日無 AI 分析，顯示 fallback
-    const todayEntry=trumpData.find(x=>x.date===todayStr);
-    if(!todayEntry){await rTrumpFallback(todayStr,trumpData[0]);}
-    else{renderTrumpEntry(todayEntry);}
-  }catch(e){
-    $('trump-empty').style.display='';
-    $('trump-empty').querySelector('.big').textContent='⚠️';
-    $('trump-empty').querySelectorAll('div')[1].textContent='簡報載入失敗，請重新整理';
   }
-}
-async function rTrumpFallback(todayStr,latestEntry){
-  // 顯示 trump-raw.json 自動新聞清單
-  const dl=todayStr.slice(4,6)+'/'+todayStr.slice(6,8);
-  let txt=`## ⚠️ ${dl} 今日尚未收到 AI 分析資料\n\n`;
-  txt+=`> 以下為 GitHub 爬蟲自動抓取的川普相關新聞，尚未經過 AI 整理分析。\n\n---\n\n`;
-  try{
-    const rr=await fetch('trump-raw.json?v='+Date.now());
-    if(rr.ok){
-      const rd=await rr.json();
-      const arts=rd.articles||[];
-      if(arts.length===0){txt+=`*今日爬蟲未抓到相關新聞*\n`;}
-      else{
-        arts.slice(0,12).forEach((a,i)=>{
-          const title=a.titleZh||a.title||'';
-          const desc=a.descZh||a.desc||'';
-          const link=a.url?` [🔗 原文](${a.url})`:'';
-          txt+=`**${i+1}. ${title}**${link}\n`;
-          if(desc)txt+=`${desc}\n`;
-          txt+=`*${a.pubTime||''} | ${a.source||''}*\n\n`;
-        });
-      }
-    }
-  }catch(e){}
-  if(latestEntry)txt+=`---\n*最近一次 AI 分析：${latestEntry.dateLabel}，可從上方選單查看*\n`;
-  // 將 fallback 插入選單第一位
-  const sel=$('trump-dsel');
-  if(sel.innerHTML!==''){
-    const opt=document.createElement('option');
-    opt.value=todayStr;
-    opt.textContent='📅 '+dl+' 自動摘要 ⚠️';
-    sel.insertBefore(opt,sel.firstChild);
-    sel.value=todayStr;
-  }
-  // 用特殊徽章顯示
   const badge=$('trump-badge');
   badge.style.display='';
-  badge.textContent='⚠️ 無 AI 分析';
-  badge.style.cssText='display:inline-block;padding:3px 10px;border-radius:12px;font-size:.78rem;font-weight:600;background:#4a5568;color:#e2e8f0';
-  $('trump-updated').textContent='自動摘要';
+  badge.textContent='📰 爬蟲紀錄';
+  badge.style.cssText='display:inline-block;padding:3px 10px;border-radius:12px;font-size:.78rem;font-weight:600;background:#4a5568;color:#e2e8f0;border:none';
+  $('trump-updated').textContent=raw.fetchTime||'';
   $('trump-body').innerHTML=marked.parse(txt);
   $('trump-body').style.display='';
   $('trump-empty').style.display='none';
+}
+async function rTrump(){
+  trumpLoaded=true;
+  const twNow=new Date(Date.now()+8*3600*1000);
+  const todayStr=twNow.toISOString().slice(0,10).replace(/-/g,'');
+  // 同時載入 AI 分析 + 爬蟲歷史
+  let briefings=[], rawDates=[];
+  try{const r=await fetch('trump-briefing.json?v='+Date.now());if(r.ok){const d=await r.json();briefings=Array.isArray(d)?d:[d];}}catch(e){}
+  try{const r=await fetch('trump-raw.json?v='+Date.now());if(r.ok){const d=await r.json();rawDates=Array.isArray(d)?d:[];}}catch(e){}
+  briefings.sort((a,b)=>b.date.localeCompare(a.date));
+  rawDates.sort((a,b)=>b.date.localeCompare(a.date));
+  // 建立統一日期選單
+  const briefingDates=new Set(briefings.map(x=>x.date));
+  const sel=$('trump-dsel');
+  sel.innerHTML='';
+  briefings.forEach(t=>{
+    const opt=document.createElement('option');
+    opt.value=t.date;
+    opt.textContent='📅 '+t.dateLabel+' 簡報';
+    sel.appendChild(opt);
+  });
+  rawDates.forEach(r=>{
+    if(!briefingDates.has(r.date)){
+      const opt=document.createElement('option');
+      opt.value='raw_'+r.date;
+      const mm=r.date.slice(4,6),dd=r.date.slice(6,8);
+      opt.textContent='📰 '+mm+'/'+dd+' 爬蟲紀錄';
+      sel.appendChild(opt);
+    }
+  });
+  if(sel.children.length>0)sel.style.display='';
+  sel.onchange=function(){
+    const v=this.value;
+    if(v.startsWith('raw_')){const d=rawDates.find(x=>x.date===v.slice(4));if(d)renderRawEntry(d);}
+    else{const t=briefings.find(x=>x.date===v);if(t)renderTrumpEntry(t);}
+  };
+  // 預設：今日 AI 分析 → 今日爬蟲 → 最新任何一筆
+  const todayBriefing=briefings.find(x=>x.date===todayStr);
+  if(todayBriefing){renderTrumpEntry(todayBriefing);sel.value=todayStr;}
+  else{
+    const todayRaw=rawDates.find(x=>x.date===todayStr);
+    if(todayRaw){renderRawEntry(todayRaw);sel.value='raw_'+todayStr;}
+    else if(briefings.length>0){renderTrumpEntry(briefings[0]);sel.value=briefings[0].date;}
+    else if(rawDates.length>0){renderRawEntry(rawDates[0]);sel.value='raw_'+rawDates[0].date;}
+    else{$('trump-empty').style.display='';}
+  }
 }
 
 // === SECTION TOGGLE ===

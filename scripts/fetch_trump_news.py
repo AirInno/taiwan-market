@@ -11,7 +11,8 @@ import urllib.request, urllib.error, urllib.parse
 
 REPO_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT     = os.path.join(REPO_DIR, 'trump-raw.json')
-CUTOFF_HRS = 36   # 只保留最近 36 小時的文章
+CUTOFF_HRS = 36   # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
+MAX_DAYS   = 60   # trump-raw.json 最多保留幾天的歷史記錄
 
 RSS_FEEDS = [
     # Google News（川普關稅貿易）
@@ -185,12 +186,38 @@ def crawl():
         if not deepl_key:
             print('\n⚠️  未設定 DEEPL_API_KEY，跳過翻譯')
 
-    result = {
-        'fetchDate': today,
+    today_record = {
+        'date':      today,
         'fetchTime': now_utc.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M'),
         'count':     len(articles),
         'articles':  articles,
     }
 
+    # 讀取現有歷史，轉換舊格式（單物件 → 陣列）
+    existing = []
+    if os.path.exists(OUTPUT):
+        try:
+            with open(OUTPUT, encoding='utf-8') as f:
+                old_data = json.load(f)
+            if isinstance(old_data, list):
+                existing = old_data
+            elif isinstance(old_data, dict) and 'articles' in old_data:
+                # 舊格式：轉換為陣列（保留舊資料）
+                old_date = old_data.get('fetchDate') or old_data.get('date', '')
+                if old_date and old_date != today:
+                    old_record = {k: v for k, v in old_data.items() if k != 'fetchDate'}
+                    old_record['date'] = old_date
+                    existing = [old_record]
+        except Exception as e:
+            print(f'⚠️ 讀取舊資料失敗，從頭開始: {e}')
+
+    # 更新今日記錄（upsert）
+    existing = [r for r in existing if r.get('date') != today]
+    existing.append(today_record)
+    existing.sort(key=lambda x: x.get('date', ''), reverse=True)
+    existing = existing[:MAX_DAYS]  # 保留最近 N 天
+
+    print(f'\n💾 累積歷史記錄：共 {len(existing)} 天')
+
     with open(OUTPUT, 'w', encoding='utf-8') as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
+        json.dump(existing, f, ensure_ascii=False, indent=2)
