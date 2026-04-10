@@ -377,7 +377,7 @@ async function rTrump(){
   // 同時載入 AI 分析 + 爬蟲歷史
   let briefings=[], rawDates=[];
   try{const r=await fetch('trump-briefing.json?v='+Date.now());if(r.ok){const d=await r.json();briefings=Array.isArray(d)?d:[d];}}catch(e){}
-  try{const r=await fetch('trump-raw.json?v='+Date.now());if(r.ok){const d=await r.json();rawDates=Array.isArray(d)?d:[];}}catch(e){}
+  try{const r=await fetch('trump-raw.json?v='+Date.now());if(r.ok){const d=await r.json();rawDates=Array.isArray(d)?d:(d&&d.articles?[{date:d.fetchDate||d.date||'',fetchTime:d.fetchTime||'',count:d.count||0,articles:d.articles}]:[]);}}catch(e){}
   briefings.sort((a,b)=>b.date.localeCompare(a.date));
   rawDates.sort((a,b)=>b.date.localeCompare(a.date));
   // 建立統一日期選單
