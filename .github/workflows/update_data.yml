@@ -25,7 +25,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
+          git add data.json data-latest.json
           if git diff --staged --quiet; then
             echo "今日無新資料，跳過 commit"
           else

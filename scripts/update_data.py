@@ -13,6 +13,7 @@ from datetime import date, timedelta
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 DATA_PATH    = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
+LATEST_PATH  = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data-latest.json')
 FINMIND_TOKEN = os.environ.get('FINMIND_TOKEN', '')   # 選填，不設定則跳過 FinMind
 
 TWSE_HEADERS = {
@@ -311,6 +312,10 @@ def main():
     history.append(new_entry)
     with open(DATA_PATH, 'w', encoding='utf-8') as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
+
+    latest = sorted(history, key=lambda x: x['date'])[-10:]
+    with open(LATEST_PATH, 'w', encoding='utf-8') as f:
+        json.dump(latest, f, ensure_ascii=False, indent=2)
 
     print(f'[完成] {target}｜外資{foreign_bn:+.1f}億｜投信{it_bn:+.1f}億｜收盤{close:,.0f}｜成交{vol_bn:.0f}億｜{new_entry["警示"]}')
 
