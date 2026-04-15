@@ -24,6 +24,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-
 .ab.caution{background:linear-gradient(135deg,#78350f,#92400e);border:1px solid #d97706}
 .ab.high{background:linear-gradient(135deg,#7c2d12,#9a3412);border:1px solid #ea580c}
 .ab.extreme{background:linear-gradient(135deg,#581c87,#6b21a8);border:1px solid #9333ea}
+.ab.sig-strong{background:linear-gradient(135deg,#064e3b,#065f46);border:1px solid #059669}
+.ab.sig-mid{background:linear-gradient(135deg,#1e3a5f,#1e40af);border:1px solid #3b82f6}
+.ab.sig-weak{background:linear-gradient(135deg,#451a03,#78350f);border:1px solid #d97706}
+.ab.sig-wait{background:linear-gradient(135deg,#111827,#1f2937);border:1px solid #374151}
+.sb-score{font-size:1.8rem;font-weight:800;line-height:1}
+.sb-unit{font-size:.62rem;color:rgba(255,255,255,.5);margin-top:1px}
 .ab-ico{font-size:1.3rem;margin-top:2px}
 .ab-body{flex:1;min-width:0}
 .ab-body h2{font-size:.95rem;font-weight:700;margin-bottom:3px}
@@ -161,6 +167,18 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
     <p id="ad"></p>
     <div class="trigs" id="atr"></div>
     <div class="wr" id="awr" style="display:none"></div>
+  </div>
+</div>
+<div id="sb" class="ab sig-wait" style="margin-top:8px">
+  <div class="ab-ico" id="sb-ico">📊</div>
+  <div class="ab-body">
+    <h2 id="sb-title">進場訊號計算中...</h2>
+    <p id="sb-desc"></p>
+    <div class="trigs" id="sb-reasons"></div>
+  </div>
+  <div style="text-align:right;flex-shrink:0">
+    <div class="sb-score" id="sb-score">--</div>
+    <div class="sb-unit">/ 10 分</div>
   </div>
 </div>
 
@@ -435,7 +453,29 @@ function setIdx(i){
 }
 
 // === RENDER PAGE ===
-function rPage(){rHdr();rMth();rAlert();rCards();rHedge();rBars();}
+function rPage(){rHdr();rMth();rAlert();rSignal();rCards();rHedge();rBars();}
+
+// === ENTRY SIGNAL ===
+function rSignal(){
+  const sig=L.進場訊號;
+  if(!sig){$('sb').style.display='none';return;}
+  $('sb').style.display='';
+  const cls={強:'sig-strong',中:'sig-mid',弱:'sig-weak',觀望:'sig-wait'}[sig.訊號]||'sig-wait';
+  const ico={強:'🟢',中:'🔵',弱:'🟡',觀望:'⚫'}[sig.訊號]||'⚫';
+  const advice={
+    強:'多項指標同時對齊，進場時機明確，注意量能確認',
+    中:'部分條件符合，可小量試水，設好停損',
+    弱:'條件不足，以觀察為主，等待更多訊號',
+    觀望:'外資持續流出，不宜進場，等待翻多訊號'
+  }[sig.訊號]||'';
+  $('sb').className='ab '+cls;
+  $('sb-ico').textContent=ico;
+  $('sb-title').textContent='【進場訊號：'+sig.訊號+'】';
+  $('sb-desc').textContent=advice;
+  $('sb-score').textContent=sig.分數;
+  const tcCls={強:'ok',中:'ok',弱:'warn',觀望:'hi'}[sig.訊號]||'ok';
+  $('sb-reasons').innerHTML=(sig.依據||[]).map(r=>`<span class="tc ${tcCls}">${r}</span>`).join('');
+}
 
 // === HEADER ===
 function rHdr(){

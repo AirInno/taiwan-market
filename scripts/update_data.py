@@ -34,6 +34,42 @@ def market_alert(f, c):
     elif f >= -200 or c < 8: return '高度警戒'
     else:                     return '極度警戒'
 
+def entry_signal(foreign_bn, consecutive_buy, tsmc_f, global_data):
+    """計算進場訊號強度（0-10分）"""
+    score   = 0
+    reasons = []
+    vix     = (global_data or {}).get('vix')
+    sox_chg = (global_data or {}).get('soxChg')
+
+    # 外資買超金額 (0-3)
+    if   foreign_bn >= 300: score += 3; reasons.append(f'外資大買 +{foreign_bn:.0f}億')
+    elif foreign_bn >= 100: score += 2; reasons.append(f'外資買超 +{foreign_bn:.0f}億')
+    elif foreign_bn >    0: score += 1; reasons.append(f'外資小買 +{foreign_bn:.0f}億')
+    else:                                reasons.append(f'外資賣超 {foreign_bn:.0f}億')
+
+    # 連續買超天數 (0-2)
+    if   consecutive_buy >= 3: score += 2; reasons.append(f'連續買超 {consecutive_buy} 天')
+    elif consecutive_buy >= 1: score += 1; reasons.append(f'買超第 {consecutive_buy} 天')
+
+    # 台積電外資 (0-2)
+    if   tsmc_f >= 10000: score += 2; reasons.append(f'台積電大買 +{tsmc_f:,} 張')
+    elif tsmc_f >      0: score += 1; reasons.append(f'台積電買超 +{tsmc_f:,} 張')
+    elif tsmc_f < -10000:              reasons.append(f'台積電大賣 {tsmc_f:,} 張')
+    elif tsmc_f <      0:              reasons.append(f'台積電賣超 {tsmc_f:,} 張')
+
+    # VIX (0-2)
+    if vix is not None:
+        if   vix < 15: score += 2; reasons.append(f'VIX {vix:.1f} 極低')
+        elif vix < 20: score += 1; reasons.append(f'VIX {vix:.1f} 偏低')
+        else:                       reasons.append(f'VIX {vix:.1f} 偏高')
+
+    # SOX 漲幅 (0-1)
+    if sox_chg is not None and sox_chg >= 2:
+        score += 1; reasons.append(f'SOX +{sox_chg}%')
+
+    label = '強' if score >= 7 else '中' if score >= 4 else '弱' if score >= 2 else '觀望'
+    return {'訊號': label, '分數': score, '滿分': 10, '依據': reasons}
+
 def tsmc_alert(n):
     return '正常' if n>=-15000 else '注意' if n>=-25000 else '高度警戒' if n>=-40000 else '極度警戒'
 
@@ -251,7 +287,8 @@ def main():
 
     # 衍生欄位
     last = sorted(history, key=lambda x: x['date'])[-1] if history else {}
-    consecutive = (last.get('連續賣超', 0) + 1) if foreign_bn < 0 else 0
+    consecutive_sell = (last.get('連續賣超', 0) + 1) if foreign_bn < 0 else 0
+    consecutive_buy  = (last.get('連續買超', 0) + 1) if foreign_bn > 0 else 0
     hedge = round(it_bn / abs(foreign_bn) * 100, 1) if (foreign_bn < 0 and it_bn > 0) else 0
 
     tsmc  = next((s for s in stocks if s['code'] == '2330'), {'f': 0, 'i': 0})
@@ -272,8 +309,10 @@ def main():
         '投信億元':     it_bn,
         '收盤':         close,
         '漲跌':         change,
-        '連續賣超':     consecutive,
-        '警示':         market_alert(foreign_bn, consecutive),
+        '連續賣超':     consecutive_sell,
+        '連續買超':     consecutive_buy,
+        '警示':         market_alert(foreign_bn, consecutive_sell),
+        '進場訊號':     entry_signal(foreign_bn, consecutive_buy, tsmc['f'], global_data),
         'tsmc外資':     tsmc['f'],
         'tsmc投信':     tsmc['i'],
         'tsmc警示':     tsmc_alert(tsmc['f']),
