@@ -222,3 +222,7 @@ def crawl():
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         json.dump(existing, f, ensure_ascii=False, indent=2)
+
+
+if __name__ == '__main__':
+    crawl()
