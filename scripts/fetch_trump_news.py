@@ -87,9 +87,10 @@ def translate_batch(texts, api_key, target_lang='ZH-TW'):
 
     # Free API endpoint
     url = 'https://api-free.deepl.com/v2/translate'
-    params = [('target_lang', target_lang)]
+    params = [('target_lang', target_lang), ('source_lang', 'EN')]
     for t in texts:
-        params.append(('text', t))
+        if t and t.strip():  # 跳過空白文字，避免 DeepL 400 錯誤
+            params.append(('text', t))
 
     data = urllib.parse.urlencode(params).encode('utf-8')
     req  = urllib.request.Request(url, data=data, method='POST')
