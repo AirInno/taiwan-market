@@ -1,23 +1,67 @@
-{
-  "fetchDate": "20260405",
-  "fetchTime": "2026-04-05 13:08",
-  "count": 2,
-  "articles": [
-    {
-      "title": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions - Crypto Briefing",
-      "desc": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions&nbsp;&nbsp;Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlBJVVNid1MyRlN2MmRwWVQ2YlFWdVBkRW53RlptMlRKZTdmc2g4VldGdzZWTnROdU9wSkxOVTJXQ1VZTmZ4eFpKT3NoV0U3cFBGOExCcFBFelQxZUhjQ1VjYXg1d1BjbEVpcVZpMFQzREoxRzdsZVN2WUUtZTlacmxzTWo5WVlMOG1HX1lVLVlVeUE3OVhIZ1dIRWZoUl9nLXJxTmVWY1U?oc=5",
-      "pubTime": "2026-04-04 12:19",
-      "source": "news.google.com",
-      "titleZh": "随着特朗普加剧贸易紧张局势，欧盟对美国商品征收关税的最后期限9月30日日益临近 - Crypto Briefing"
-    },
-    {
-      "title": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision - euractiv.com",
-      "desc": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision&nbsp;&nbsp;euractiv.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTAyY3VMb3lvbXN3ZDdVM1dGclRZZWxiTWp3MjFnWEQyaDM3VDZXTk04U1pxRUs5dlROeWMxb1IzbGVOUHFXRGlvSzY2Q0E1bkVVT1JtTDR0TUE2WW9SRTVIRkxmbXdCZFFHcC1EaHFaVlRrbk1hOURjbzVBY0NlRDlxd3FDWEY5RERHOHp5V3lrU1hjbUFvOWR3Rnk4S3N4U2czUXoyanliN1lROUI5UA?oc=5",
-      "pubTime": "2026-04-04 06:01",
-      "source": "news.google.com",
-      "titleZh": "特朗普宣布加征关税后，业界警告称全球药品贸易面临“转折点” - euractiv.com"
-    }
-  ]
-}
+[
+  {
+    "date": "20260415",
+    "fetchTime": "2026-04-15 15:43",
+    "count": 5,
+    "articles": [
+      {
+        "title": "Export demand at risk as tariff uncertainty grows - Brownfield Ag News",
+        "desc": "Export demand at risk as tariff uncertainty grows&nbsp;&nbsp;Brownfield Ag News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU9EMEduaENwa29DUjRDdjZhSWpyREZJaVZfSURFN1JEeWtXTUx6NzRyYnJndFZfVktmOWhXUDVjc0Z0bXNwY3pUWVRBcEx0RjlBVWdiYko1aUE4c21tVE9iTFBUNFNQd2RaVThrNUJJQjJzUDI2dmx6VWt6MWx3UDNBd3EyWkVPZGcwSzFOX2J1QQ?oc=5",
+        "pubTime": "2026-04-15 12:18",
+        "source": "news.google.com"
+      },
+      {
+        "title": "Trump’s tariff rates could be restored by July, says US Treasury Secretary Scott Bessent - The Economic Times",
+        "desc": "Trump’s tariff rates could be restored by July, says US Treasury Secretary Scott Bessent&nbsp;&nbsp;The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdHpWMUZuZ21USnRGMzQ4cHVGa1BPWXlGUnRpX2hEWEE5eDNqMEhERmRvcjhYeUFwTU5EenE0LWNIaFpjaWw2dl91NkZ0WW4xVVQzeWREQnRuRTU5c2dzYm9xRzczWGQ4WGpFVWFndDdrQjh6YmdYbm84WjFzSUtEUGNGWElSSmw5WW83LTM0YWdOLXBoZG01QWhXMXA1R3lnQ2ZQZUtXbkVxNHRWUVlkSWx1NlRFRnp2TUp6VVpOX0NwRUNwdkY5Zm1pTjBWWU9YeHNiV2h3UEFicjAtQm44WHY0emxpNktPSTVPVllpbzRsalYyanJCZVczNNIBgAJBVV95cUxNa0pnWXN6aTNTcHFJckhBcE1GOHVsZmFRajM4NjgxR0tzZG5rV3JIejVvYTdoTUpDZ1gxelRDWTBMZEJFcGl4N3hqbkJCTFlxbmJpLVBUUHZxQXBsUGdRZlZCOVJwYU5mRjdLZjBubldFQmNXS0h0R2VtUHZTeVVZNTFYWFB0N2NUVGRlZ0RaWXBReTFfcUdBOUtrMlJfV1lFUVJHOERkLWg1OGpkTmgzRE9leWJxQVpqZE5JOVpLTHI2Tk9Yc0l3d0d5VFNvRWhzcnVYNUItbHQ0N1NlXzFEVGl3ei1SSlBpVFllMnQ2ZC1Ja282SmRiLS1EUXE1YXVP?oc=5",
+        "pubTime": "2026-04-15 08:49",
+        "source": "news.google.com"
+      },
+      {
+        "title": "These U.S. companies think Trump's tariffs are great. Here's why - CBC",
+        "desc": "These U.S. companies think Trump's tariffs are great. Here's why&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeU53M3hDSW1uVFZIdGh5UFhTRDYxMW15ZWp4OEV0TENDTkRTeXVReWEyaUFaaXVacG1oelBTYVJZTlA5RmtrczZVaWhnV0w1aW1LcGdLaWRrMWozQVVidktpMXNEclAtVllEMGg4Wl9xWW84Uzc1SkxxMG84eTUyRzd3?oc=5",
+        "pubTime": "2026-04-14 16:04",
+        "source": "news.google.com"
+      },
+      {
+        "title": "Trade Court Hears Arguments For, Against Trump’s Global Tariff - AG INFORMATION NETWORK OF THE WEST",
+        "desc": "Trade Court Hears Arguments For, Against Trump’s Global Tariff&nbsp;&nbsp;AG INFORMATION NETWORK OF THE WEST",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanJvclF3b3hoQ1lYYTBZYWNSSkV6ejJYNmRfNGd1d1N1WHZvQ2dyR2k3U3BuaE9PMklxdE1VVW9fbS1qbWZwVmRHZjctdER5TldwYlhEZ2w0dVduOTZnTlMxYjh1N3B3M2RiMDRDVUtTOFRCU1N0LU1mXzlRanRaSDFVS0JjMG84R0FPVE5XMHFnX2dqb01mZVZqYWhMNE5xaC1UbC1FSUNhVjY3dWRKT1FCSGZ0Mi03emIw?oc=5",
+        "pubTime": "2026-04-14 15:00",
+        "source": "news.google.com"
+      },
+      {
+        "title": "Trump Tariff Tracker – April 13, 2026 (via Passle) - Baker Botts",
+        "desc": "Trump Tariff Tracker – April 13, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlBJdGlJdG0tWnRWdzNtb1JGUXpTSzhmbHJyQUNpbXZNVnQ1SDJyN2N1bEtFMFMzcEEySXhLcEdHbmlMU0Jxb2psa3FTU2xEd1BMS0d0bURRbGJvaGVYYzlfZWhXNFJQVldwU1NSZ0RpSGx6emNoa0MtTExJWnFhdm8tWlA?oc=5",
+        "pubTime": "2026-04-14 08:38",
+        "source": "news.google.com"
+      }
+    ]
+  },
+  {
+    "fetchTime": "2026-04-05 13:08",
+    "count": 2,
+    "articles": [
+      {
+        "title": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions - Crypto Briefing",
+        "desc": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlBJVVNid1MyRlN2MmRwWVQ2YlFWdVBkRW53RlptMlRKZTdmc2g4VldGdzZWTnROdU9wSkxOVTJXQ1VZTmZ4eFpKT3NoV0U3cFBGOExCcFBFelQxZUhjQ1VjYXg1d1BjbEVpcVZpMFQzREoxRzdsZVN2WUUtZTlacmxzTWo5WVlMOG1HX1lVLVlVeUE3OVhIZ1dIRWZoUl9nLXJxTmVWY1U?oc=5",
+        "pubTime": "2026-04-04 12:19",
+        "source": "news.google.com",
+        "titleZh": "随着特朗普加剧贸易紧张局势，欧盟对美国商品征收关税的最后期限9月30日日益临近 - Crypto Briefing"
+      },
+      {
+        "title": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision - euractiv.com",
+        "desc": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision&nbsp;&nbsp;euractiv.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTAyY3VMb3lvbXN3ZDdVM1dGclRZZWxiTWp3MjFnWEQyaDM3VDZXTk04U1pxRUs5dlROeWMxb1IzbGVOUHFXRGlvSzY2Q0E1bkVVT1JtTDR0TUE2WW9SRTVIRkxmbXdCZFFHcC1EaHFaVlRrbk1hOURjbzVBY0NlRDlxd3FDWEY5RERHOHp5V3lrU1hjbUFvOWR3Rnk4S3N4U2czUXoyanliN1lROUI5UA?oc=5",
+        "pubTime": "2026-04-04 06:01",
+        "source": "news.google.com",
+        "titleZh": "特朗普宣布加征关税后，业界警告称全球药品贸易面临“转折点” - euractiv.com"
+      }
+    ],
+    "date": "20260405"
+  }
+]
