@@ -25,7 +25,7 @@ echo       %GREEN%OK%RESET%
 echo.
 
 echo %CYAN%[1/4]%RESET% git add files...
-git add index.html deploy.bat data.json trump-briefing.json scripts\smart_pull.py scripts\update_data.py scripts\fetch_trump_news.py fix_stocks.bat backfill.bat .github\workflows\update_data.yml .github\workflows\trump_news.yml
+git add index.html deploy.bat data.json trump-briefing.json briefing-instructions.md scripts\smart_pull.py scripts\update_data.py scripts\fetch_trump_news.py fix_stocks.bat backfill.bat .github\workflows\update_data.yml .github\workflows\trump_news.yml
 if !ERRORLEVEL! NEQ 0 (
   echo %RED%[ERROR] git add failed.%RESET%
   goto :END
