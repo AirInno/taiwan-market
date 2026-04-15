@@ -47,7 +47,7 @@ def fetch_feed(url):
         with urllib.request.urlopen(req, timeout=15) as r:
             return r.read().decode('utf-8', errors='replace')
     except Exception as e:
-        print(f'  ⚠️  無法抓取 {url[:60]}... : {e}')
+        print(f'  [WARNING] 無法抓取 {url[:60]}... : {e}')
         return None
 
 
@@ -101,7 +101,7 @@ def translate_batch(texts, api_key, target_lang='ZH-TW'):
             result = json.loads(r.read().decode('utf-8'))
             return [t['text'] for t in result.get('translations', [])]
     except Exception as e:
-        print(f'  ⚠️  DeepL 翻譯失敗: {e}')
+        print(f'  [WARNING]  DeepL 翻譯失敗: {e}')
         return [''] * len(texts)
 
 
@@ -171,7 +171,7 @@ def crawl():
 
     # DeepL 自動翻譯（若有 API Key）
     if deepl_key and articles:
-        print(f'\n🌐 使用 DeepL 翻譯 {len(articles)} 則標題...')
+        print(f'\n[TRANSLATE] 使用 DeepL 翻譯 {len(articles)} 則標題...')
         titles = [a['title'] for a in articles]
         descs  = [a['desc']  for a in articles]
         title_zh = translate_batch(titles, deepl_key)
@@ -181,10 +181,10 @@ def crawl():
                 a['titleZh'] = title_zh[i]
             if i < len(desc_zh) and desc_zh[i]:
                 a['descZh'] = desc_zh[i]
-        print(f'✅ 翻譯完成')
+        print(f'[OK] 翻譯完成')
     else:
         if not deepl_key:
-            print('\n⚠️  未設定 DEEPL_API_KEY，跳過翻譯')
+            print('\n[WARNING]  未設定 DEEPL_API_KEY，跳過翻譯')
 
     today_record = {
         'date':      today,
@@ -209,7 +209,7 @@ def crawl():
                     old_record['date'] = old_date
                     existing = [old_record]
         except Exception as e:
-            print(f'⚠️ 讀取舊資料失敗，從頭開始: {e}')
+            print(f'[WARNING] 讀取舊資料失敗，從頭開始: {e}')
 
     # 更新今日記錄（upsert）
     existing = [r for r in existing if r.get('date') != today]
@@ -218,7 +218,7 @@ def crawl():
     if MAX_DAYS:
         existing = existing[:MAX_DAYS]
 
-    print(f'\n💾 累積歷史記錄：共 {len(existing)} 天')
+    print(f'\n[SAVE] 累積歷史記錄：共 {len(existing)} 天')
 
     with open(OUTPUT, 'w', encoding='utf-8') as f:
         json.dump(existing, f, ensure_ascii=False, indent=2)
