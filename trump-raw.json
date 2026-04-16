@@ -1,5 +1,48 @@
 [
   {
+    "date": "20260417",
+    "fetchTime": "2026-04-17 06:26",
+    "count": 4,
+    "articles": [
+      {
+        "title": "Trump says China has agreed not to send weapons to Iran - The Washington Post",
+        "desc": "Trump says China has agreed not to send weapons to Iran&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1ZwYW1GbHhwamREbEQta1E3YnNsSjM2VktDb3lENWhIVFBYVU9kTk5zSDdEaTJPX0V2THhJaVZIeVNCczc2ZkdXUThkTzMyb0tVV3FPRml1dEtMaDNrckE0bDEtM3dMSy1uaE43V3RhNnJHcC1nZHhYYlZzNG83WVpkYw?oc=5",
+        "pubTime": "2026-04-16 10:27",
+        "source": "news.google.com",
+        "titleZh": "特朗普稱中國已同意不向伊朗發送武器 - 華盛頓郵報",
+        "descZh": "特朗普稱中國已同意不向伊朗發送武器&nbsp;&nbsp;《華盛頓郵報"
+      },
+      {
+        "title": "Trump administration tariffs haven’t achieved their goals - Progressive Policy Institute",
+        "desc": "Trump administration tariffs haven’t achieved their goals&nbsp;&nbsp;Progressive Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjZQVWI2QjFmRVJheVRrdFp2T1p4T3VXUVoycUtjX2E5TUZGWFFaVG54VnNpX1k1czIzamlmRTVQdUdiajVVSzVPRUpDSktPbFA5VEdxWmpncmVrcTRLZ2VvZzhBRENlemdEYTNVUGl5enFsbExmaml3N25UZ0xEZEVNbW43YVlTQVpvSG9EWjEyMEVIUGc?oc=5",
+        "pubTime": "2026-04-16 06:02",
+        "source": "news.google.com",
+        "titleZh": "川普政府的關稅沒有達成目標 - 進步政策研究所",
+        "descZh": "川普政府的關稅沒有達成目標&nbsp;&nbsp;進步政策研究所"
+      },
+      {
+        "title": "Industry descends on DC to talk tariffs, recycling and jobs - Plastics News",
+        "desc": "Industry descends on DC to talk tariffs, recycling and jobs&nbsp;&nbsp;Plastics News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZNjZMdG1BV2ZSNEZyS1JMNmNnN0dzeU5YTUtETThBMW5fcUlmajZZbnJZV3FaWnh5TFF3dVJ3YzFROGowcHhWYndnejVqbmhTV0RHdGJHbEFVRmNscmRQYV9IZXlZN0JWWm1zMVBUZ0Z5SEhaeElMWTE5bmI?oc=5",
+        "pubTime": "2026-04-16 03:12",
+        "source": "news.google.com",
+        "titleZh": "業界齊聚華盛頓特區討論關稅、回收和就業問題 - 塑料新聞",
+        "descZh": "業界齊聚華盛頓特區討論關稅、回收和就業問題&nbsp;&nbsp;塑料新聞"
+      },
+      {
+        "title": "Detroit chamber joins coalition pushing back against Trump tariff policies - Crain's Detroit",
+        "desc": "Detroit chamber joins coalition pushing back against Trump tariff policies&nbsp;&nbsp;Crain's Detroit",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGp1M09DWWFEVTFiZFQyQ3BvdUxwaTYxd0NqMGxTdFJzcDhpdkNZc1ZxWU4wM1JJWF8waFVLLUhQa2RkRUNmbGEzOEJvRlR1a3Y1RkI2T3o0WFRrcXdJWTFIUVpHNHY3d3htOTZPcmtpSVlYMXA4M1Rmam5LR3ItWms3My03N2Y5bnJLaXF2Z1dyS1BMVjRraVF0QzMwZUNI?oc=5",
+        "pubTime": "2026-04-16 00:32",
+        "source": "news.google.com",
+        "titleZh": "底特律商會加入反對川普關稅政策的聯盟 - Crain's Detroit",
+        "descZh": "底特律商會加入反對川普關稅政策的聯盟&nbsp;&nbsp;Crain's Detroit"
+      }
+    ]
+  },
+  {
     "date": "20260416",
     "fetchTime": "2026-04-16 08:07",
     "count": 9,
