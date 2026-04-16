@@ -104,12 +104,13 @@ def send_alert_email(entry, gmail_user, gmail_pwd):
         print(f'[EMAIL] 寄送失敗: {e}')
 
 
-def entry_signal(foreign_bn, consecutive_buy, tsmc_f, global_data):
-    """計算進場訊號強度（0-10分）"""
+def entry_signal(foreign_bn, consecutive_buy, tsmc_f, global_data, futures_data=None):
+    """計算進場訊號強度（0-10分，外資期貨空倉可扣1分）"""
     score   = 0
     reasons = []
     vix     = (global_data or {}).get('vix')
     sox_chg = (global_data or {}).get('soxChg')
+    fut_net = (futures_data or {}).get('外資')  # 外資期貨淨部位（口）
 
     # 外資買超金額 (0-3)
     if   foreign_bn >= 300: score += 3; reasons.append(f'外資大買 +{foreign_bn:.0f}億')
@@ -137,6 +138,14 @@ def entry_signal(foreign_bn, consecutive_buy, tsmc_f, global_data):
     if sox_chg is not None and sox_chg >= 2:
         score += 1; reasons.append(f'SOX +{sox_chg}%')
 
+    # 外資期貨（加減分）
+    if fut_net is not None:
+        if   fut_net >= 10000:  score += 1; reasons.append(f'期貨多方 +{fut_net:,} 口')
+        elif fut_net <= -20000: score -= 1; reasons.append(f'期貨空方 {fut_net:,} 口（警示）')
+        elif fut_net < 0:                   reasons.append(f'期貨偏空 {fut_net:,} 口')
+        else:                               reasons.append(f'期貨中立 +{fut_net:,} 口')
+
+    score = max(0, score)  # 不低於 0
     label = '強' if score >= 7 else '中' if score >= 4 else '弱' if score >= 2 else '觀望'
     return {'訊號': label, '分數': score, '滿分': 10, '依據': reasons}
 
@@ -260,6 +269,33 @@ def fetch_t86_finmind(date_str):
         if inst == '投信': stock_map[code]['i'] = net
     return list(stock_map.values()) if stock_map else None
 
+# ── FinMind：外資期貨未平倉 ──────────────────────────
+
+def fetch_futures(date_str):
+    """抓取台指期（TX）三大法人未平倉淨部位（口）；不需要 token"""
+    iso = f'{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}'
+    url = 'https://api.finmindtrade.com/api/v4/data'
+    params = {'dataset': 'TaiwanFuturesInstitutionalInvestors',
+              'data_id': 'TX', 'start_date': iso, 'end_date': iso}
+    if FINMIND_TOKEN:
+        params['token'] = FINMIND_TOKEN
+    try:
+        rows = requests.get(url, params=params, timeout=15).json().get('data', [])
+    except Exception as e:
+        print(f'  [WARNING] 期貨資料抓取失敗: {e}')
+        return None
+    if not rows:
+        return None
+    result = {}
+    for r in rows:
+        name = r.get('institutional_investors', '')
+        net  = r.get('long_open_interest_balance_volume', 0) - r.get('short_open_interest_balance_volume', 0)
+        if '外資' in name:  result['外資'] = net
+        elif '投信' in name: result['投信'] = net
+        elif '自營' in name: result['自營'] = net
+    return result if result else None
+
+
 # ── Yahoo Finance：全球市場 ───────────────────────────
 
 YF_SYMBOLS = {
@@ -355,6 +391,15 @@ def main():
     else:
         print('  全球市場資料暫時無法取得，跳過')
 
+    # 5. 外資期貨淨部位（FinMind，失敗不中止）
+    print('  抓取外資期貨...')
+    futures_data = fetch_futures(target)
+    if futures_data:
+        f_net = futures_data.get('外資', 0)
+        print(f'  外資期貨淨部位: {f_net:+,} 口（{"多方" if f_net >= 0 else "空方"}）')
+    else:
+        print('  外資期貨資料暫時無法取得，跳過')
+
     # 衍生欄位
     last = sorted(history, key=lambda x: x['date'])[-1] if history else {}
     consecutive_sell = (last.get('連續賣超', 0) + 1) if foreign_bn < 0 else 0
@@ -382,7 +427,7 @@ def main():
         '連續賣超':     consecutive_sell,
         '連續買超':     consecutive_buy,
         '警示':         market_alert(foreign_bn, consecutive_sell),
-        '進場訊號':     entry_signal(foreign_bn, consecutive_buy, tsmc['f'], global_data),
+        '進場訊號':     entry_signal(foreign_bn, consecutive_buy, tsmc['f'], global_data, futures_data),
         'tsmc外資':     tsmc['f'],
         'tsmc投信':     tsmc['i'],
         'tsmc警示':     tsmc_alert(tsmc['f']),
@@ -398,6 +443,8 @@ def main():
     }
     if global_data:
         new_entry['global'] = global_data
+    if futures_data:
+        new_entry['futures'] = futures_data
 
     # ── QA 驗證 ──────────────────────────────────────────
     warnings = []

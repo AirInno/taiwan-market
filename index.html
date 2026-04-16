@@ -250,6 +250,15 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
       <div class="c5" id="th5"></div>
     </div>
     <div class="card">
+      <div class="cl">📉 外資期貨淨部位</div>
+      <div style="display:flex;align-items:baseline;gap:6px;margin:5px 0 2px">
+        <span class="mv" id="ftv" style="font-size:1.55rem">--</span>
+        <span style="font-size:.72rem;color:#718096">口</span>
+      </div>
+      <div class="cs" id="fts"></div>
+      <div class="c5" id="ft5"></div>
+    </div>
+    <div class="card">
       <div class="cl">🔔 反轉訊號雷達</div>
       <div id="trd" style="margin-top:7px"></div>
     </div>
@@ -576,6 +585,19 @@ function rCards(){
     $('tvol5').innerHTML=`<span class="muted">量能</span><span class="v ${isUp?'pos':'neg'}">${isUp?'量增':'量縮'}</span>`;
   }else{
     vv.textContent='--';$('tvols').textContent='更新中（排程補入）';
+  }
+  // 外資期貨淨部位
+  const fut=L.futures;
+  const fv2=$('ftv');
+  if(fut&&fut.外資!=null){
+    const fn=fut.外資;
+    fv2.textContent=(fn>=0?'+':'')+fn.toLocaleString();
+    fv2.className='mv '+(fn>=0?'pos':'neg');
+    $('fts').innerHTML='<span style="color:'+(fn>=0?'#34d399':'#f87171')+'">'+(fn>=0?'多方':'空方')+'</span>｜台指期未平倉';
+    const s5fut=L5.filter(r=>r.futures&&r.futures.外資!=null).reduce((a,r)=>a+r.futures.外資,0);
+    $('ft5').innerHTML=`<span class="muted">近5日合計</span><span class="v ${s5fut>=0?'pos':'neg'}">${s5fut>=0?'+':''}${s5fut.toLocaleString()}口</span>`;
+  }else{
+    fv2.textContent='--';$('fts').textContent='資料更新中';$('ft5').innerHTML='';
   }
 }
 
