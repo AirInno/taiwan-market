@@ -447,24 +447,26 @@ async function rTrump(){
   try{const r=await fetch('trump-raw.json?v='+Date.now());if(r.ok){const d=await r.json();rawDates=Array.isArray(d)?d:(d&&d.articles?[{date:d.fetchDate||d.date||'',fetchTime:d.fetchTime||'',count:d.count||0,articles:d.articles}]:[]);}}catch(e){}
   briefings.sort((a,b)=>b.date.localeCompare(a.date));
   rawDates.sort((a,b)=>b.date.localeCompare(a.date));
-  // 建立統一日期選單
+  // 建立統一日期選單（合併後統一降冪排序）
   const briefingDates=new Set(briefings.map(x=>x.date));
   const sel=$('trump-dsel');
   sel.innerHTML='';
-  briefings.forEach(t=>{
+  const allItems=[
+    ...briefings.map(t=>({date:t.date,type:'briefing',data:t})),
+    ...rawDates.filter(r=>!briefingDates.has(r.date)).map(r=>({date:r.date,type:'raw',data:r}))
+  ];
+  allItems.sort((a,b)=>b.date.localeCompare(a.date));
+  allItems.forEach(item=>{
     const opt=document.createElement('option');
-    opt.value=t.date;
-    opt.textContent='📅 '+t.dateLabel+' 簡報';
-    sel.appendChild(opt);
-  });
-  rawDates.forEach(r=>{
-    if(!briefingDates.has(r.date)){
-      const opt=document.createElement('option');
-      opt.value='raw_'+r.date;
-      const mm=r.date.slice(4,6),dd=r.date.slice(6,8);
+    if(item.type==='briefing'){
+      opt.value=item.date;
+      opt.textContent='📅 '+item.data.dateLabel+' 簡報';
+    }else{
+      opt.value='raw_'+item.date;
+      const mm=item.date.slice(4,6),dd=item.date.slice(6,8);
       opt.textContent='📰 '+mm+'/'+dd+' 爬蟲紀錄';
-      sel.appendChild(opt);
     }
+    sel.appendChild(opt);
   });
   if(sel.children.length>0)sel.style.display='';
   sel.onchange=function(){
