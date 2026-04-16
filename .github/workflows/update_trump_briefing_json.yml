@@ -1,0 +1,58 @@
+name: 更新 trump-briefing.json
+
+on:
+  push:
+    paths:
+      - 'briefings/*-trump.md'
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 更新 trump-briefing.json
+        run: |
+          python3 - <<'EOF'
+          import json, os, re, glob
+          from datetime import datetime, timezone
+
+          files = sorted(glob.glob('briefings/*-trump.md'), reverse=True)
+          entries = []
+          for f in files[:30]:  # 最多保留30筆
+              date = os.path.basename(f).replace('-trump.md', '')
+              with open(f, encoding='utf-8') as fp:
+                  text = fp.read()
+              mm, dd = date[4:6], date[6:8]
+              # 從內文擷取 sentiment
+              sentiment = '中性'
+              for s in ['偏多', '偏空', '中性']:
+                  if s in text[:500]:
+                      sentiment = s
+                      break
+              entries.append({
+                  'date': date,
+                  'dateLabel': f'{mm}/{dd}',
+                  'sentiment': sentiment,
+                  'updatedAt': datetime.now(timezone.utc).isoformat(),
+                  'fullText': text
+              })
+          with open('trump-briefing.json', 'w', encoding='utf-8') as fp:
+              json.dump(entries, fp, ensure_ascii=False, indent=2)
+          print(f'更新完成，共 {len(entries)} 筆')
+          EOF
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trump-briefing.json
+          if git diff --staged --quiet; then
+            echo "無變更"
+          else
+            git commit -m "🤖 自動更新 trump-briefing.json"
+            git push
+          fi

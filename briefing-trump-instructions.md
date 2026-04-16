@@ -8,7 +8,7 @@ Format: array newest-first. latest=data[0], count=latest.count, arts=latest.arti
 
 STEP 2 DECIDE MODE
 count=0 → short mode: write one line "今日無川普重大動態", skip Steps 3-4.
-count>=1 → analysis mode: always run full analysis with 3 searches.
+count>=1 → analysis mode: run full analysis with 3 searches.
 
 STEP 3 SEARCHES (analysis mode only)
 1. WebSearch: Trump Truth Social posts today with exact timestamps
@@ -31,13 +31,7 @@ Determine overall sentiment: 偏多 / 偏空 / 中性.
 End with disclaimer.
 
 STEP 5 SAVE TO GITHUB
-Write file at /tmp/save-trump.mjs with Node.js code. Define TOKEN as provided in initial prompt, REPO as AirInno/taiwan-market. Compute DATE as YYYYMMDD from latest.date.
-
-Part A — save briefing file: FILENAME = briefings/DATE-trump.md, CONTENT = full briefing text. Check if file exists via GitHub Contents API to get SHA. Encode CONTENT: TextEncoder to bytes, 1024-byte chunks using String.fromCharCode to binary string, btoa to base64. PUT to GitHub Contents API. Log success or error.
-
-Part B — update trump-briefing.json: Fetch existing file from GitHub Contents API. Decode: Uint8Array from atob of content, TextDecoder utf-8 decode, JSON parse to array. Upsert entry: date (YYYYMMDD), dateLabel (MM/DD), sentiment (偏多/偏空/中性), updatedAt (ISO timestamp), fullText (complete briefing text). Sort descending by date. Re-encode: TextEncoder to bytes, chunk to binary, btoa. PUT back. Log total count.
-
-Then run node /tmp/save-trump.mjs.
+Write file at /tmp/save-trump.mjs with Node.js code. Define TOKEN as provided in initial prompt, REPO as AirInno/taiwan-market. Compute DATE as YYYYMMDD from latest.date. FILENAME = briefings/DATE-trump.md. CONTENT = full briefing text. Check if file exists via GitHub Contents API to get SHA. Encode CONTENT: TextEncoder to bytes, 1024-byte chunks using String.fromCharCode to binary string, btoa to base64. PUT to GitHub Contents API. Log success or error. Then run node /tmp/save-trump.mjs.
 
 CONSTRAINTS
-All output Traditional Chinese. Short mode skips Steps 3-5. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data.
+All output Traditional Chinese. Short mode skips Steps 3-5. Never modify data.json, data-latest.json, or trump-briefing.json. Focus only on Trump analysis — do not include Taiwan market data.
