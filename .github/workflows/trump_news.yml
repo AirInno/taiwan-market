@@ -2,7 +2,7 @@ name: 每日川普新聞爬蟲
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 台灣時間 06:00（UTC 22:00 前一天）
+    - cron: '30 20 * * *'   # 台灣時間 04:30（UTC 20:30 前一天）
   workflow_dispatch:
 
 jobs:
