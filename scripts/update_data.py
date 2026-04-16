@@ -8,6 +8,7 @@
 """
 
 import json, requests, sys, os, urllib3, smtplib, ssl
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, timedelta
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -326,13 +327,19 @@ def fetch_yf_quote(symbol):
 
 
 def fetch_global():
-    """抓取全球市場指標，失敗欄位留 None"""
+    """抓取全球市場指標（並行請求），失敗欄位留 None"""
     result = {}
-    for key, symbol in YF_SYMBOLS.items():
-        val, chg = fetch_yf_quote(symbol)
-        if val is not None:
-            result[key]           = val
-            result[f'{key}_chg']  = chg
+    with ThreadPoolExecutor(max_workers=len(YF_SYMBOLS)) as ex:
+        futures = {ex.submit(fetch_yf_quote, symbol): key for key, symbol in YF_SYMBOLS.items()}
+        for fut in as_completed(futures):
+            key = futures[fut]
+            try:
+                val, chg = fut.result()
+            except Exception:
+                val, chg = None, None
+            if val is not None:
+                result[key]          = val
+                result[f'{key}_chg'] = chg
     return result if result else None
 
 # ── 主流程 ────────────────────────────────────────────
