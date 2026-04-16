@@ -269,6 +269,12 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
     <tbody id="t5b"></tbody>
     <tfoot><tr id="t5f"></tr></tfoot>
   </table></div></div>
+
+  <div class="sh open" onclick="tgl(this,'s20d')">個股近20日走勢</div>
+  <div id="s20d">
+    <div class="chs" style="margin-top:10px"><div class="cht">🔵 台積電（2330）外資日買賣超（張）</div><div class="chw"><canvas id="c20t"></canvas></div></div>
+    <div class="chs"><div class="cht">🟠 元大台灣50（0050）外資日買賣超（張）</div><div class="chw"><canvas id="c20e"></canvas></div></div>
+  </div>
 </div>
 
 <div id="tab-history" class="tc-wrap">
@@ -462,7 +468,7 @@ function setIdx(i){
 }
 
 // === RENDER PAGE ===
-function rPage(){rHdr();rMth();rAlert();rSignal();rCards();rHedge();rBars();}
+function rPage(){rHdr();rMth();rAlert();rSignal();rCards();rHedge();rBars();rStock20();}
 
 // === ENTRY SIGNAL ===
 function rSignal(){
@@ -649,6 +655,38 @@ function rBars(){
   mkBars('sfs',L.外資賣超.map(x=>({...x,張數:Math.abs(x.張數)})),true,'外資');
   mkBars('sib',L.投信買超,false,'投信');
   mkBars('sis',L.投信賣超.map(x=>({...x,張數:Math.abs(x.張數)})),true,'投信');
+}
+
+// === STOCK 20-DAY MINI CHARTS ===
+let s20Charts=[];
+function rStock20(){
+  s20Charts.forEach(c=>c.destroy()); s20Charts=[];
+  const pts=D.slice(Math.max(0,idx-19),idx+1);
+  const labels=pts.map(r=>r.dateLabel||r.date.slice(4,6)+'/'+r.date.slice(6,8));
+  const baseOpt={responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:false},tooltip:{mode:'index',intersect:false,
+      callbacks:{label:ctx=>(ctx.raw>=0?'+':'')+ctx.raw.toLocaleString()+'張'}}},
+    scales:{
+      x:{ticks:{color:'#718096',maxTicksLimit:12},grid:{color:'#1e2533'}},
+      y:{ticks:{color:'#718096'},grid:{color:'#2d3748'},
+         title:{display:true,text:'張數',color:'#4a5568',font:{size:10}}}}};
+
+  function mkBar(id, values){
+    return new Chart($(id),{type:'bar',
+      data:{labels,datasets:[{
+        data:values,
+        backgroundColor:values.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),
+        borderColor:values.map(v=>v>=0?'#34d399':'#f87171'),
+        borderWidth:1,borderRadius:3
+      }]},
+      options:{...baseOpt,plugins:{...baseOpt.plugins,
+        annotation:{annotations:{zero:{type:'line',yMin:0,yMax:0,borderColor:'#4a5568',borderWidth:1}}}
+      }}
+    });
+  }
+
+  s20Charts.push(mkBar('c20t', pts.map(r=>r.tsmc外資||0)));
+  s20Charts.push(mkBar('c20e', pts.map(r=>r.etf0050外資||0)));
 }
 
 // === HISTORY CHARTS (lazy) ===
