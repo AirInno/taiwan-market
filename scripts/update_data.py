@@ -31,11 +31,20 @@ YF_HEADERS = {
 
 # ── 警示邏輯 ──────────────────────────────────────────
 
-def market_alert(f, c):
-    if f >= -50 and c < 3:   return '正常'
-    elif f >= -100 or c < 5: return '注意'
-    elif f >= -200 or c < 8: return '高度警戒'
-    else:                     return '極度警戒'
+_LVLS = ['正常', '注意', '高度警戒', '極度警戒']
+
+def market_alert(f, c, etf0050_f=0):
+    """主警示：外資整體 + 連續賣超天數 + 0050 大量賣超聯動升級"""
+    if f >= -50 and c < 3:   base = '正常'
+    elif f >= -100 or c < 5: base = '注意'
+    elif f >= -200 or c < 8: base = '高度警戒'
+    else:                     base = '極度警戒'
+    # 0050 大量賣超：直接升級主警示（≥2萬張高度、≥3萬張極度）
+    if etf0050_f <= -30000:
+        base = _LVLS[max(_LVLS.index(base), 3)]
+    elif etf0050_f <= -20000:
+        base = _LVLS[max(_LVLS.index(base), 2)]
+    return base
 
 def send_alert_email(entry, gmail_user, gmail_pwd):
     """發送警示或進場訊號 email"""
@@ -158,6 +167,19 @@ def etf0050_alert(n):
 
 def delta_alert(n):
     return '正常' if n>=-3000 else '注意' if n>=-6000 else '高度警戒' if n>=-12000 else '極度警戒'
+
+def divergence_signal(foreign_bn, futures_data):
+    """現貨×期貨分歧信號：判斷外資現貨與期貨方向是否一致"""
+    if futures_data is None or futures_data.get('外資') is None:
+        return None
+    fut_net  = futures_data['外資']
+    spot_buy = foreign_bn > 0
+    fut_long = fut_net > 0
+    if   spot_buy and fut_long:      status = '多方一致'   # 現貨買 + 期貨多（強力看多）
+    elif spot_buy and not fut_long:  status = '分歧警戒'   # 現貨買 + 期貨空（表多實空）
+    elif not spot_buy and not fut_long: status = '空方一致' # 現貨賣 + 期貨空（全面撤退）
+    else:                            status = '分歧觀望'   # 現貨賣 + 期貨多（矛盾）
+    return {'狀態': status, '現貨': '買超' if spot_buy else '賣超', '期貨淨口': fut_net}
 
 # ── TWSE API ──────────────────────────────────────────
 
@@ -425,6 +447,14 @@ def main():
     ib  = top5(stocks, 'i', ascending=False)
     is_ = top5(stocks, 'i', ascending=True)
 
+    # 分析欄位（需先計算才能用於 new_entry）
+    sig_data = entry_signal(foreign_bn, consecutive_buy, tsmc['f'], global_data, futures_data)
+    div_data = divergence_signal(foreign_bn, futures_data)
+
+    # 訊號連續天數：與前一日相同訊號等級則累加，否則重設為 1
+    last_sig_lv  = last.get('進場訊號', {}).get('訊號', '')
+    sig_streak   = (last.get('訊號連續天數', 1) + 1) if last_sig_lv == sig_data['訊號'] else 1
+
     def fmt(items, key):
         return [{'code': s['code'], 'name': s['name'], '張數': s[key]} for s in items]
 
@@ -437,8 +467,9 @@ def main():
         '漲跌':         change,
         '連續賣超':     consecutive_sell,
         '連續買超':     consecutive_buy,
-        '警示':         market_alert(foreign_bn, consecutive_sell),
-        '進場訊號':     entry_signal(foreign_bn, consecutive_buy, tsmc['f'], global_data, futures_data),
+        '警示':         market_alert(foreign_bn, consecutive_sell, e0050['f']),
+        '進場訊號':     sig_data,
+        '訊號連續天數': sig_streak,
         'tsmc外資':     tsmc['f'],
         'tsmc投信':     tsmc['i'],
         'tsmc警示':     tsmc_alert(tsmc['f']),
@@ -459,6 +490,8 @@ def main():
         new_entry['global'] = global_data
     if futures_data:
         new_entry['futures'] = futures_data
+    if div_data:
+        new_entry['分歧信號'] = div_data
 
     # ── QA 驗證 ──────────────────────────────────────────
     warnings = []
@@ -487,7 +520,8 @@ def main():
     with open(LATEST_PATH, 'w', encoding='utf-8') as f:
         json.dump(latest, f, ensure_ascii=False, indent=2)
 
-    print(f'[完成] {target}｜外資{foreign_bn:+.1f}億｜投信{it_bn:+.1f}億｜收盤{close:,.0f}｜成交{vol_bn:.0f}億｜{new_entry["警示"]}')
+    div_str = new_entry.get('分歧信號', {}).get('狀態', 'N/A') if '分歧信號' in new_entry else '無期貨'
+    print(f'[完成] {target}｜外資{foreign_bn:+.1f}億｜投信{it_bn:+.1f}億｜收盤{close:,.0f}｜成交{vol_bn:.0f}億｜{new_entry["警示"]}｜進場:{sig_data["訊號"]}({sig_data["分數"]}/10)x{sig_streak}天｜分歧:{div_str}')
 
     # ── Email 通知（警示升高或進場訊號強時觸發）──────────────
     gmail_user = os.environ.get('GMAIL_USER', '')

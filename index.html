@@ -30,6 +30,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-
 .ab.sig-wait{background:linear-gradient(135deg,#111827,#1f2937);border:1px solid #374151}
 .sb-score{font-size:1.8rem;font-weight:800;line-height:1}
 .sb-unit{font-size:.62rem;color:rgba(255,255,255,.5);margin-top:1px}
+.sb-streak{font-size:.68rem;color:rgba(255,255,255,.6);margin-top:3px}
+.div-badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.68rem;font-weight:700}
+.div-agree-bull{background:rgba(52,211,153,.2);border:1px solid #34d399;color:#34d399}
+.div-warn{background:rgba(252,211,77,.18);border:1px solid #fcd34d;color:#fcd34d}
+.div-agree-bear{background:rgba(239,68,68,.18);border:1px solid #f87171;color:#f87171}
 .ab-ico{font-size:1.3rem;margin-top:2px}
 .ab-body{flex:1;min-width:0}
 .ab-body h2{font-size:.95rem;font-weight:700;margin-bottom:3px}
@@ -194,6 +199,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div style="text-align:right;flex-shrink:0">
     <div class="sb-score" id="sb-score">--</div>
     <div class="sb-unit">/ 10 分</div>
+    <div class="sb-streak" id="sb-streak"></div>
   </div>
 </div>
 
@@ -515,6 +521,8 @@ function rSignal(){
   $('sb-title').textContent='【進場訊號：'+sig.訊號+'】';
   $('sb-desc').textContent=advice;
   $('sb-score').textContent=sig.分數;
+  const streak=L.訊號連續天數;
+  $('sb-streak').textContent=streak>=2?`連續 ${streak} 天`:'';
   const tcCls={強:'ok',中:'ok',弱:'warn',觀望:'hi'}[sig.訊號]||'ok';
   $('sb-reasons').innerHTML=(sig.依據||[]).map(r=>`<span class="tc ${tcCls}">${r}</span>`).join('');
 }
@@ -661,8 +669,15 @@ function rHedge(){
     ['台積電 外資',L.tsmc警示==='正常',bdg(L.tsmc警示)],
     ['台達電 外資',(!L.delta警示||L.delta警示==='正常'),bdg(L.delta警示||'正常')],
     ['0050 外資',L.etf0050警示==='正常',bdg(L.etf0050警示)],
-    ['單日異常(>600億)',Math.abs(L.外資億元)<600,Math.abs(L.外資億元)<600?'否':'是⚠️']
-  ].map(([l,ok,v])=>`<div class="rr"><span>${l}</span><span style="color:${ok?'#34d399':'#f87171'};font-weight:700">${v}</span></div>`).join('');
+    ['單日異常(>600億)',Math.abs(L.外資億元)<600,Math.abs(L.外資億元)<600?'否':'是⚠️'],
+    (()=>{
+      const ds=L.分歧信號;
+      if(!ds)return null;
+      const cls={'多方一致':'div-agree-bull','分歧警戒':'div-warn','空方一致':'div-agree-bear','分歧觀望':'div-warn'}[ds.狀態]||'div-warn';
+      const ok=ds.狀態==='多方一致';
+      return ['現貨×期貨',ok,`<span class="div-badge ${cls}">${ds.狀態}</span>`];
+    })()
+  ].filter(Boolean).map(([l,ok,v])=>`<div class="rr"><span>${l}</span><span style="color:${ok?'#34d399':'#f87171'};font-weight:700">${v}</span></div>`).join('');
   // 5-day table
   $('t5b').innerHTML=L5.map((r,i)=>{
     const last=i===L5.length-1;
@@ -827,7 +842,25 @@ function rHist(){
     const pos=pf.filter(v=>v>0).length;
     h+=`<tr style="border-bottom:1px solid #1e2533"><td style="padding:5px 8px">${bdg(lv)}</td><td style="padding:5px 8px;color:#a0aec0;text-align:center">${ins.length}</td><td style="padding:5px 8px;text-align:center;font-weight:700;color:${avg>=0?'#34d399':'#f87171'}">${avg>=0?'+':''}${avg.toFixed(0)}點</td><td style="padding:5px 8px;text-align:center;color:#a0aec0">${Math.round(pos/pf.length*100)}%</td><td style="padding:5px 8px;color:#4a5568;font-size:.68rem">${pf.length}筆${pf.length<10?' ⚠️少':''}</td></tr>`;
   });
-  $('hwr').innerHTML=h+'</tbody></table><p style="font-size:.66rem;color:#4a5568;margin-top:6px">* 樣本持續累積中，每日自動更新</p>';
+  h+='</tbody></table>';
+  // 進場訊號回測表
+  const sigLvls=['強','中','弱','觀望'];
+  const sigColors={'強':'#34d399','中':'#60a5fa','弱':'#fcd34d','觀望':'#f87171'};
+  h+=`<div style="margin-top:14px;font-size:.72rem;color:#718096;font-weight:600">⚡ 進場訊號等級 × 次日漲跌 回測</div>`;
+  h+='<table style="width:100%;border-collapse:collapse;font-size:.76rem;margin-top:6px"><thead><tr style="color:#4a5568;border-bottom:1px solid #2d3748"><th style="padding:5px 8px;text-align:left">訊號</th><th style="padding:5px 8px">次數</th><th style="padding:5px 8px">次日均漲跌</th><th style="padding:5px 8px">上漲率</th><th style="padding:5px 8px;text-align:left">5日均漲跌</th></tr></thead><tbody>';
+  sigLvls.forEach(lv=>{
+    const ins=D.filter(r=>r.進場訊號&&r.進場訊號.訊號===lv);
+    const nd=ins.map(r=>{const i=D.indexOf(r);return i<D.length-1?D[i+1].漲跌:null}).filter(v=>v!==null);
+    const fd=ins.map(r=>{const i=D.indexOf(r);return i<D.length-5?D[i+5].收盤-r.收盤:null}).filter(v=>v!==null);
+    if(!nd.length){h+=`<tr style="border-bottom:1px solid #1e2533"><td style="padding:5px 8px"><span style="color:${sigColors[lv]};font-weight:700">${lv}</span></td><td colspan="4" style="padding:5px 8px;color:#4a5568">尚無資料</td></tr>`;return;}
+    const avg=nd.reduce((a,b)=>a+b,0)/nd.length;
+    const pos=nd.filter(v=>v>0).length;
+    const avg5=fd.length?fd.reduce((a,b)=>a+b,0)/fd.length:null;
+    const f5txt=avg5!==null?`<span style="color:${avg5>=0?'#34d399':'#f87171'};font-weight:700">${avg5>=0?'+':''}${avg5.toFixed(0)}點</span><span style="color:#4a5568;font-size:.66rem"> (${fd.length}筆)</span>`:'<span style="color:#4a5568">--</span>';
+    h+=`<tr style="border-bottom:1px solid #1e2533"><td style="padding:5px 8px"><span style="color:${sigColors[lv]};font-weight:700">${lv}</span></td><td style="padding:5px 8px;color:#a0aec0;text-align:center">${ins.length}</td><td style="padding:5px 8px;text-align:center;font-weight:700;color:${avg>=0?'#34d399':'#f87171'}">${avg>=0?'+':''}${avg.toFixed(0)}點</td><td style="padding:5px 8px;text-align:center;color:#a0aec0">${Math.round(pos/nd.length*100)}%${nd.length<10?' ⚠️':''}</td><td style="padding:5px 8px">${f5txt}</td></tr>`;
+  });
+  h+='</tbody></table>';
+  $('hwr').innerHTML=h+'<p style="font-size:.66rem;color:#4a5568;margin-top:6px">* 樣本持續累積中，每日自動更新。5日漲跌為訊號發生後第5個交易日收盤與當日收盤差</p>';
 }
 
 // === GLOBAL MARKET (data.json driven, updated by daily scheduler) ===
