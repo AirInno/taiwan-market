@@ -12,7 +12,7 @@ import urllib.request, urllib.error, urllib.parse
 REPO_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT     = os.path.join(REPO_DIR, 'trump-raw.json')
 CUTOFF_HRS = 36   # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
-MAX_DAYS   = None  # 無限保留所有歷史記錄
+MAX_DAYS   = 30   # 最多保留 30 天歷史，避免檔案過大拖慢 briefing agent WebFetch
 
 RSS_FEEDS = [
     # Google News（川普關稅貿易）
