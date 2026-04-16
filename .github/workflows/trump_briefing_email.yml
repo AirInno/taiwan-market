@@ -15,14 +15,13 @@ jobs:
       - name: 取得最新 trump briefing 內容
         id: briefing
         run: |
-          FILE=$(git diff --name-only HEAD~1 HEAD | grep 'briefings/.*-trump\.md' | head -1)
-          if [ -z "$FILE" ]; then
-            echo "找不到新的 trump briefing 檔案"
+          TODAY=$(TZ="Asia/Taipei" date +%Y%m%d)
+          FILE="briefings/${TODAY}-trump.md"
+          if [ ! -f "$FILE" ]; then
+            echo "今日 trump briefing 不存在：$FILE"
             exit 0
           fi
-          DATE=$(basename "$FILE" -trump.md)
-          echo "date=$DATE" >> $GITHUB_OUTPUT
-          # 讀取檔案內容（限制長度避免超過環境變數限制）
+          echo "date=$TODAY" >> $GITHUB_OUTPUT
           CONTENT=$(head -c 8000 "$FILE")
           echo "content<<EOF" >> $GITHUB_OUTPUT
           echo "$CONTENT" >> $GITHUB_OUTPUT
