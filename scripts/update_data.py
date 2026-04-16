@@ -7,8 +7,10 @@
   全球市場：Yahoo Finance（自動）
 """
 
-import json, requests, sys, os, urllib3
+import json, requests, sys, os, urllib3, smtplib, ssl
 from datetime import date, timedelta
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -33,6 +35,74 @@ def market_alert(f, c):
     elif f >= -100 or c < 5: return '注意'
     elif f >= -200 or c < 8: return '高度警戒'
     else:                     return '極度警戒'
+
+def send_alert_email(entry, gmail_user, gmail_pwd):
+    """發送警示或進場訊號 email"""
+    alert  = entry.get('警示', '')
+    sig    = entry.get('進場訊號', {})
+    sig_lv = sig.get('訊號', '')
+    score  = sig.get('分數', 0)
+    date_l = entry.get('dateLabel', entry.get('date', ''))
+
+    is_danger  = alert in ('高度警戒', '極度警戒')
+    is_entry   = score >= 7
+    if not is_danger and not is_entry:
+        return  # 不需要通知
+
+    subj_tag = f'[{"危險" if is_danger else "機會"}]'
+    subject  = f'{subj_tag} 台股外資警示 {date_l} ｜ {alert} / 進場訊號:{sig_lv}({score}/10)'
+
+    reasons_html = ''.join(f'<li>{r}</li>' for r in sig.get('依據', []))
+    fb_top = entry.get('外資買超', [{}])
+    fs_top = entry.get('外資賣超', [{}])
+    top_buy  = fb_top[0].get('name', '--') + f' {fb_top[0].get("張數", 0):+,}張' if fb_top else '--'
+    top_sell = fs_top[0].get('name', '--') + f' {fs_top[0].get("張數", 0):+,}張' if fs_top else '--'
+
+    body = f"""
+<html><body style="font-family:sans-serif;background:#0f1117;color:#e2e8f0;padding:20px">
+<h2 style="color:{'#ef4444' if is_danger else '#34d399'}">
+  {'⚠️' if is_danger else '🟢'} 台股外資追蹤｜{date_l}
+</h2>
+<table style="border-collapse:collapse;margin:12px 0;font-size:14px">
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">警示等級</td>
+      <td style="font-weight:700;color:{'#ef4444' if is_danger else '#34d399'}">{alert}</td></tr>
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">進場訊號</td>
+      <td style="font-weight:700">{sig_lv}（{score}/10）</td></tr>
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">外資整體</td>
+      <td>{entry.get('外資億元', 0):+.1f} 億</td></tr>
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">台積電外資</td>
+      <td>{entry.get('tsmc外資', 0):+,} 張</td></tr>
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">台股收盤</td>
+      <td>{entry.get('收盤', 0):,.0f} 點（{entry.get('漲跌', 0):+.2f}）</td></tr>
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">外資最大買超</td>
+      <td>{top_buy}</td></tr>
+  <tr><td style="padding:4px 12px 4px 0;color:#718096">外資最大賣超</td>
+      <td>{top_sell}</td></tr>
+</table>
+<h4 style="margin-top:14px;color:#a0aec0">訊號依據</h4>
+<ul style="color:#e2e8f0;font-size:13px;line-height:1.9">{reasons_html}</ul>
+<p style="margin-top:18px">
+  <a href="https://airinno.github.io/taiwan-market/" style="color:#60a5fa">→ 開啟完整儀表板</a>
+</p>
+<p style="font-size:11px;color:#4a5568;margin-top:20px">此為自動通知，不構成投資建議。</p>
+</body></html>"""
+
+    to_email = gmail_user  # 寄給自己
+    msg = MIMEMultipart('alternative')
+    msg['From']    = gmail_user
+    msg['To']      = to_email
+    msg['Subject'] = subject
+    msg.attach(MIMEText(body, 'html', 'utf-8'))
+
+    try:
+        ctx = ssl.create_default_context()
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=ctx) as s:
+            s.login(gmail_user, gmail_pwd)
+            s.send_message(msg)
+        print(f'[EMAIL] 通知已寄出 → {to_email}')
+    except Exception as e:
+        print(f'[EMAIL] 寄送失敗: {e}')
+
 
 def entry_signal(foreign_bn, consecutive_buy, tsmc_f, global_data):
     """計算進場訊號強度（0-10分）"""
@@ -357,6 +427,14 @@ def main():
         json.dump(latest, f, ensure_ascii=False, indent=2)
 
     print(f'[完成] {target}｜外資{foreign_bn:+.1f}億｜投信{it_bn:+.1f}億｜收盤{close:,.0f}｜成交{vol_bn:.0f}億｜{new_entry["警示"]}')
+
+    # ── Email 通知（警示升高或進場訊號強時觸發）──────────────
+    gmail_user = os.environ.get('GMAIL_USER', '')
+    gmail_pwd  = os.environ.get('GMAIL_APP_PASSWORD', '')
+    if gmail_user and gmail_pwd:
+        send_alert_email(new_entry, gmail_user, gmail_pwd)
+    else:
+        print('[EMAIL] 未設定 GMAIL_USER / GMAIL_APP_PASSWORD，跳過通知')
 
 
 if __name__ == '__main__':

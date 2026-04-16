@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       - name: 執行資料更新腳本
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python scripts/update_data.py
       - name: Commit & push（若有更新）
         run: |
