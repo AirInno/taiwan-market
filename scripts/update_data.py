@@ -119,7 +119,7 @@ def entry_signal(foreign_bn, consecutive_buy, tsmc_f, global_data, futures_data=
     score   = 0
     reasons = []
     vix     = (global_data or {}).get('vix')
-    sox_chg = (global_data or {}).get('soxChg')
+    sox_chg = (global_data or {}).get('sox_chg')
     fut_net = (futures_data or {}).get('外資')  # 外資期貨淨部位（口）
 
     # 外資買超金額 (0-3)
