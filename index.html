@@ -255,6 +255,17 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
       <div class="c5" id="t0c5"></div>
     </div>
     <div class="card">
+      <div class="cl">⚡ 台達電（2308）</div>
+      <div style="display:flex;align-items:baseline;gap:5px;flex-wrap:wrap;margin:5px 0 2px">
+        <span class="mv" id="td2f" style="font-size:1.55rem">--</span>
+        <span id="td2b"></span>
+      </div>
+      <div class="cs" style="display:flex;gap:12px">
+        <span>投信 <span class="mv" id="td2i" style="font-size:.95rem">--</span></span>
+      </div>
+      <div class="c5" id="td2c5"></div>
+    </div>
+    <div class="card">
       <div class="cl">🛡️ 投信護盤強度</div>
       <div id="thv" style="font-size:.72rem;color:#718096;margin:5px 0 3px"></div>
       <div class="pt"><div class="pf" id="thb" style="width:0"></div></div>
@@ -288,6 +299,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="sh open" onclick="tgl(this,'s20d')">個股近20日走勢</div>
   <div id="s20d">
     <div class="chs" style="margin-top:10px"><div class="cht">🔵 台積電（2330）外資日買賣超（張）</div><div class="chw"><canvas id="c20t"></canvas></div></div>
+    <div class="chs"><div class="cht">⚡ 台達電（2308）外資日買賣超（張）</div><div class="chw"><canvas id="c20d"></canvas></div></div>
     <div class="chs"><div class="cht">🟠 元大台灣50（0050）外資日買賣超（張）</div><div class="chw"><canvas id="c20e"></canvas></div></div>
   </div>
 </div>
@@ -543,6 +555,7 @@ function rAlert(){
   const trigs=[
     {l:'市場整體',lvl:mLvl,v:fA(L.外資億元)},
     {l:'台積電(2330)',lvl:L.tsmc警示,v:fZ(L.tsmc外資)},
+    {l:'台達電(2308)',lvl:L.delta警示||'正常',v:fZ(L.delta外資||0)},
     {l:'0050',lvl:L.etf0050警示,v:fZ(L.etf0050外資)}
   ];
   const fired=trigs.filter(t=>t.lvl!=='正常');
@@ -596,6 +609,16 @@ function rCards(){
   const n0=$('t0in');n0.textContent=L.etf0050投信>0&&L.etf0050外資<0?'逆向護盤':L.etf0050投信===0?'無護盤':'';
   n0.style.color=L.etf0050投信>0?'#34d399':'#718096';
   $('t0c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s50>=0?'pos':'neg'}">${s50>=0?'+':''}${s50.toLocaleString()}張</span>`;
+  // 台達電 2308
+  const s5d2=L5.filter(r=>r.delta外資!=null).reduce((a,r)=>a+(r.delta外資||0),0);
+  if(L.delta外資!=null){
+    const dv=$('td2f');dv.textContent=fZ(L.delta外資);dv.className='mv '+(L.delta外資>=0?'pos':'neg');
+    $('td2b').innerHTML=bdg(L.delta警示);
+    const di=$('td2i');di.textContent=fZ(L.delta投信);di.className='mv '+(L.delta投信>=0?'pos':'neg');
+    $('td2c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5d2>=0?'pos':'neg'}">${s5d2>=0?'+':''}${s5d2.toLocaleString()}張</span>`;
+  }else{
+    $('td2f').textContent='--';$('td2b').innerHTML='';$('td2i').textContent='--';$('td2c5').innerHTML='';
+  }
   // 成交量
   const vv=$('tvol');
   if(L.成交金額億!=null&&L.成交金額億!==undefined){
@@ -636,6 +659,7 @@ function rHedge(){
     ['外資買超反轉？',L.外資億元>=0,L.外資億元>=0?'是':'否'],
     ['投信逆向護盤？',L.投信億元>0&&L.外資億元<0,L.投信億元>0&&L.外資億元<0?`是（${L.護盤比.toFixed(1)}%）`:'否'],
     ['台積電 外資',L.tsmc警示==='正常',bdg(L.tsmc警示)],
+    ['台達電 外資',(!L.delta警示||L.delta警示==='正常'),bdg(L.delta警示||'正常')],
     ['0050 外資',L.etf0050警示==='正常',bdg(L.etf0050警示)],
     ['單日異常(>600億)',Math.abs(L.外資億元)<600,Math.abs(L.外資億元)<600?'否':'是⚠️']
   ].map(([l,ok,v])=>`<div class="rr"><span>${l}</span><span style="color:${ok?'#34d399':'#f87171'};font-weight:700">${v}</span></div>`).join('');
@@ -701,6 +725,7 @@ function rStock20(){
   }
 
   s20Charts.push(mkBar('c20t', pts.map(r=>r.tsmc外資||0)));
+  s20Charts.push(mkBar('c20d', pts.map(r=>r.delta外資||0)));
   s20Charts.push(mkBar('c20e', pts.map(r=>r.etf0050外資||0)));
 }
 

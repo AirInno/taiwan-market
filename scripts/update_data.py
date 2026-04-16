@@ -155,6 +155,9 @@ def tsmc_alert(n):
 def etf0050_alert(n):
     return '正常' if n>=-5000 else '注意' if n>=-10000 else '高度警戒' if n>=-25000 else '極度警戒'
 
+def delta_alert(n):
+    return '正常' if n>=-3000 else '注意' if n>=-6000 else '高度警戒' if n>=-12000 else '極度警戒'
+
 # ── TWSE API ──────────────────────────────────────────
 
 def fetch_bfi82u(date_str):
@@ -408,6 +411,7 @@ def main():
 
     tsmc  = next((s for s in stocks if s['code'] == '2330'), {'f': 0, 'i': 0})
     e0050 = next((s for s in stocks if s['code'] == '0050'), {'f': 0, 'i': 0})
+    delta = next((s for s in stocks if s['code'] == '2308'), {'f': 0, 'i': 0})
 
     fb  = top5(stocks, 'f', ascending=False)
     fs  = top5(stocks, 'f', ascending=True)
@@ -434,6 +438,9 @@ def main():
         'etf0050外資':  e0050['f'],
         'etf0050投信':  e0050['i'],
         'etf0050警示':  etf0050_alert(e0050['f']),
+        'delta外資':    delta['f'],
+        'delta投信':    delta['i'],
+        'delta警示':    delta_alert(delta['f']),
         '護盤比':        hedge,
         '成交金額億':    vol_bn,
         '外資買超':      fmt(fb, 'f'),
