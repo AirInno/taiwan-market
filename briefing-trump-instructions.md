@@ -40,5 +40,28 @@ Compute DATE as YYYYMMDD from latest.date (or today if missing).
   Upsert entry with fields: date (YYYYMMDD), dateLabel (MM/DD), sentiment (偏多/偏空/中性), updatedAt (ISO timestamp), fullText (complete briefing text).
   Sort descending by date. Write back to same path (UTF-8, no BOM).
 
+STEP 6 SEND ANALYSIS EMAIL (analysis mode only)
+Read local file: C:\Users\lifongye\Documents\taiwan-market\secrets\email_config.json
+Use analysis_email.sender, analysis_email.recipient, analysis_email.app_password.
+
+Run Python to send email via Gmail SMTP:
+- Subject: 🇺🇸 川普動態分析 DATE (sentiment)
+- Body: full briefing text
+- SMTP: smtp.gmail.com port 465 SSL
+
+Python snippet:
+import smtplib, ssl, json
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+cfg = json.load(open(r'C:\Users\lifongye\Documents\taiwan-market\secrets\email_config.json'))['analysis_email']
+msg = MIMEMultipart()
+msg['From'] = cfg['sender']
+msg['To'] = cfg['recipient']
+msg['Subject'] = subject
+msg.attach(MIMEText(body, 'plain', 'utf-8'))
+with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=ssl.create_default_context()) as s:
+    s.login(cfg['sender'], cfg['app_password'])
+    s.send_message(msg)
+
 CONSTRAINTS
-All output Traditional Chinese. Short mode skips Steps 3-5. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data. Do not use any GitHub API or tokens.
+All output Traditional Chinese. Short mode skips Steps 3-6. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data. Do not use any GitHub API or tokens.
