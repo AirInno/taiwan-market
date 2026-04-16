@@ -39,14 +39,5 @@ Part B — update trump-briefing.json: Fetch existing file from GitHub Contents 
 
 Then run node /tmp/save-trump.mjs.
 
-STEP 6 SEND EMAIL (analysis mode only)
-Write and run Python to send email via Gmail SMTP:
-sender = "a11000033a10025818@gmail.com"
-recipient = "a11000033a10025818@gmail.com"
-app_password = "qyvlatdldxhthcep"
-subject = f"🇺🇸 川普動態分析 {DATE} ({sentiment})"
-body = full briefing text
-smtp.gmail.com port 465 SSL
-
 CONSTRAINTS
-All output Traditional Chinese. Short mode skips Steps 3-6. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data.
+All output Traditional Chinese. Short mode skips Steps 3-5. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data.
