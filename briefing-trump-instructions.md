@@ -7,7 +7,7 @@ Read local file: C:\Users\lifongye\Documents\taiwan-market\trump-raw.json
 Format: array newest-first. latest=data[0], count=latest.count, arts=latest.articles. Each article has title, titleZh, desc, descZh, url, pubTime, source. Use English title and desc as primary; Chinese fields for quick reference only.
 
 STEP 2 DECIDE MODE
-count=0 → short mode: skip analysis, write one line "今日無川普重大動態"，skip Steps 3-6.
+count=0 → short mode: skip analysis, write one line "今日無川普重大動態"，skip Steps 3-5.
 count>=1 → analysis mode: always run full analysis with 3 searches.
 
 STEP 3 SEARCHES (analysis mode only)
@@ -30,11 +30,15 @@ Determine overall sentiment: 偏多 / 偏空 / 中性.
 
 End with disclaimer.
 
-STEP 5 SAVE TRUMP BRIEFING TO GITHUB
-Write file at /tmp/save-trump.mjs with Node.js code. Define TOKEN as provided in initial prompt, REPO as AirInno/taiwan-market. Compute DATE as YYYYMMDD. FILENAME = briefings/DATE-trump.md. CONTENT = full briefing text. Check if file exists via GitHub Contents API to get SHA. Encode CONTENT: TextEncoder to bytes, 1024-byte chunks using String.fromCharCode to binary string, btoa to base64. PUT to GitHub Contents API. Log success or error. Then run node /tmp/save-trump.mjs.
+STEP 5 SAVE TO LOCAL FILES (analysis mode only)
+Compute DATE as YYYYMMDD from latest.date (or today if missing).
 
-STEP 6 UPDATE TRUMP BRIEFING JSON (analysis mode only)
-Write file at /tmp/trump.mjs with Node.js code. Same TOKEN and REPO. Fetch existing trump-briefing.json from GitHub Contents API. Decode: Uint8Array from atob of content, TextDecoder utf-8 decode, JSON parse to array. Upsert entry: date as YYYYMMDD, dateLabel as MM/DD, sentiment (偏多/偏空/中性), updatedAt as ISO timestamp, fullText as the complete Trump briefing text. Sort descending by date. Re-encode: TextEncoder to bytes, chunk to binary, btoa. PUT back. Log total count. Then run node /tmp/trump.mjs.
+5a. Write full briefing text to local file:
+  C:\Users\lifongye\Documents\taiwan-market\briefings\DATE-trump.md
+
+5b. Read local file C:\Users\lifongye\Documents\taiwan-market\trump-briefing.json as JSON array.
+  Upsert entry with fields: date (YYYYMMDD), dateLabel (MM/DD), sentiment (偏多/偏空/中性), updatedAt (ISO timestamp), fullText (complete briefing text).
+  Sort descending by date. Write back to same path (UTF-8, no BOM).
 
 CONSTRAINTS
-All output Traditional Chinese. Short mode skips Steps 3-6. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data.
+All output Traditional Chinese. Short mode skips Steps 3-5. Never modify data.json or data-latest.json. Focus only on Trump analysis — do not include Taiwan market data. Do not use any GitHub API or tokens.
