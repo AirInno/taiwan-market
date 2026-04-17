@@ -1,81 +1,74 @@
 """
 補填歷史外資持股比率（tsmc_hold / etf0050_hold / delta_hold）
+資料來源：FinMind TaiwanStockShareholding
 一次性執行：python scripts/backfill_holdings.py
 """
-import json, requests, sys, os, time, urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+import json, requests, os, sys
 
 DATA_PATH   = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
 LATEST_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data-latest.json')
 
-TWSE_HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Referer': 'https://www.twse.com.tw/',
-    'Accept-Language': 'zh-TW,zh;q=0.9',
-}
-
-def fetch_twt38u(date_str):
-    url = f'https://www.twse.com.tw/fund/TWT38U?response=json&date={date_str}&selectType=ALL'
+def fetch_holdings_range(code, start_date, end_date):
+    """一次抓取某檔股票指定日期範圍的外資持股資料"""
+    url = 'https://api.finmindtrade.com/api/v4/data'
+    params = {'dataset': 'TaiwanStockShareholding', 'data_id': code,
+              'start_date': start_date, 'end_date': end_date}
     try:
-        d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
+        rows = requests.get(url, params=params, timeout=30).json().get('data', [])
+        result = {}
+        for r in rows:
+            date_key = r['date'].replace('-', '')
+            result[date_key] = {
+                '張數': r['ForeignInvestmentShares'] // 1000,
+                '比率': r['ForeignInvestmentSharesRatio']
+            }
+        return result
     except Exception as e:
-        print(f'[錯誤] {e}')
-        return None
-    if d.get('stat') != 'OK' or not d.get('data'):
-        return None
-    result = {}
-    targets = {'2330': 'tsmc', '0050': 'etf0050', '2308': 'delta'}
-    for row in d['data']:
-        code = row[0].strip()
-        if code in targets:
-            key = targets[code]
-            try:
-                shares = int(row[4].replace(',', '')) // 1000  # 股→張
-                ratio  = float(row[5].replace(',', '').replace('%', ''))
-                result[key] = {'張數': shares, '比率': ratio}
-            except Exception:
-                pass
-    return result if result else None
+        print(f'  [錯誤] {code}: {e}')
+        return {}
 
 def main():
     with open(DATA_PATH, 'r', encoding='utf-8') as f:
         history = json.load(f)
 
     to_fill = [e for e in history if 'tsmc_hold' not in e]
-    total   = len(to_fill)
+    total = len(to_fill)
     print(f'[開始] 需補填 {total} 筆（共 {len(history)} 筆）')
     if total == 0:
         print('[完成] 全部已補填，無需處理')
         return
 
-    updated = failed = 0
+    dates = sorted(e['date'] for e in to_fill)
+    start = f'{dates[0][:4]}-{dates[0][4:6]}-{dates[0][6:8]}'
+    end   = f'{dates[-1][:4]}-{dates[-1][4:6]}-{dates[-1][6:8]}'
+    print(f'  日期範圍：{start} ～ {end}')
 
-    for i, entry in enumerate(to_fill):
-        date_str = entry['date']
-        sys.stdout.write(f'  [{i+1:3d}/{total}] {date_str} ... ')
-        sys.stdout.flush()
+    # 三檔股票各抓一次（共 3 次 API call）
+    print('  抓取 2330 持股資料...')
+    tsmc_map    = fetch_holdings_range('2330', start, end)
+    print(f'  → {len(tsmc_map)} 筆')
 
-        hold = fetch_twt38u(date_str)
-        if hold:
-            if 'tsmc'    in hold: entry['tsmc_hold']    = hold['tsmc']
-            if 'etf0050' in hold: entry['etf0050_hold'] = hold['etf0050']
-            if 'delta'   in hold: entry['delta_hold']   = hold['delta']
-            r = hold.get('tsmc', {}).get('比率', '?')
-            print(f'OK  2330持股 {r}%')
-            updated += 1
-        else:
-            print('無資料（跳過）')
-            failed += 1
+    print('  抓取 0050 持股資料...')
+    etf_map     = fetch_holdings_range('0050', start, end)
+    print(f'  → {len(etf_map)} 筆')
 
-        # 每10筆儲存一次，防止中途中斷遺失
-        if (i + 1) % 10 == 0:
-            with open(DATA_PATH, 'w', encoding='utf-8') as f:
-                json.dump(history, f, ensure_ascii=False, indent=2)
-            print(f'    → 進度已儲存（{i+1}/{total}）')
+    print('  抓取 2308 持股資料...')
+    delta_map   = fetch_holdings_range('2308', start, end)
+    print(f'  → {len(delta_map)} 筆')
 
-        time.sleep(0.8)
+    # 逐筆寫入
+    updated = matched = 0
+    for entry in history:
+        if 'tsmc_hold' in entry:
+            continue
+        d = entry['date']
+        if d in tsmc_map:
+            entry['tsmc_hold']    = tsmc_map[d]
+            entry['etf0050_hold'] = etf_map.get(d)
+            entry['delta_hold']   = delta_map.get(d)
+            matched += 1
+        updated += 1
 
-    # 最終儲存
     with open(DATA_PATH, 'w', encoding='utf-8') as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
@@ -83,7 +76,7 @@ def main():
     with open(LATEST_PATH, 'w', encoding='utf-8') as f:
         json.dump(latest, f, ensure_ascii=False, indent=2)
 
-    print(f'\n[完成] 補填 {updated} 筆，跳過 {failed} 筆（無資料）')
+    print(f'\n[完成] 共 {total} 筆，成功補填 {matched} 筆，{total - matched} 筆無對應資料')
     print('請執行 deploy.bat 推送到 GitHub')
 
 if __name__ == '__main__':

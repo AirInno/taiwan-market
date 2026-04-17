@@ -246,26 +246,25 @@ def fetch_fmtqik(date_str):
     return None, None, None
 
 def fetch_twt38u(date_str):
-    """外資持股張數+比率（TWT38U）- 取 2330/2308/0050"""
-    url = f'https://www.twse.com.tw/fund/TWT38U?response=json&date={date_str}&selectType=ALL'
-    try:
-        d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
-    except Exception:
-        return None
-    if d.get('stat') != 'OK' or not d.get('data'):
-        return None
+    """外資持股張數+比率 via FinMind TaiwanStockShareholding（2330/2308/0050）"""
+    iso = f'{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}'
+    url = 'https://api.finmindtrade.com/api/v4/data'
     result = {}
-    targets = {'2330': 'tsmc', '0050': 'etf0050', '2308': 'delta'}
-    for row in d['data']:
-        code = row[0].strip()
-        if code in targets:
-            key = targets[code]
-            try:
-                shares = int(row[4].replace(',', '')) // 1000  # 股→張
-                ratio = float(row[5].replace(',', '').replace('%', ''))
-                result[key] = {'張數': shares, '比率': ratio}
-            except Exception:
-                pass
+    for code, key in [('2330', 'tsmc'), ('0050', 'etf0050'), ('2308', 'delta')]:
+        params = {'dataset': 'TaiwanStockShareholding', 'data_id': code,
+                  'start_date': iso, 'end_date': iso}
+        if FINMIND_TOKEN:
+            params['token'] = FINMIND_TOKEN
+        try:
+            rows = requests.get(url, params=params, timeout=15).json().get('data', [])
+            if rows:
+                r = rows[0]
+                result[key] = {
+                    '張數': r['ForeignInvestmentShares'] // 1000,
+                    '比率': r['ForeignInvestmentSharesRatio']
+                }
+        except Exception:
+            pass
     return result if result else None
 
 
