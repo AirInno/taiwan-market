@@ -895,7 +895,7 @@ function renderGlobal(){
     return;
   }
   $('usl').style.display='none';
-  $('us-date-hint').textContent='（美股 '+getUSCloseDate(L.date)+' 收盤）';
+  $('us-date-hint').textContent='（美股 '+(L.us_close_date||getUSCloseDate(L.date))+' 收盤）';
   el.style.display='flex';
   el.innerHTML='';
   const items=[

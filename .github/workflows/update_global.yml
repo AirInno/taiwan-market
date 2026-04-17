@@ -1,0 +1,34 @@
+name: 更新全球市場資料（美股收盤後）
+
+on:
+  schedule:
+    - cron: '0 21 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  update-global:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests
+      - name: 更新全球市場資料
+        run: python scripts/update_global.py
+      - name: Commit & push（若有更新）
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json data-latest.json
+          if git diff --staged --quiet; then
+            echo "無變更，跳過 commit"
+          else
+            git commit -m "🌐 $(date +'%Y%m%d') 全球市場資料更新（美股收盤後）"
+            git push
+          fi
