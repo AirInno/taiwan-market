@@ -245,6 +245,30 @@ def fetch_fmtqik(date_str):
                 pass
     return None, None, None
 
+def fetch_twt38u(date_str):
+    """外資持股張數+比率（TWT38U）- 取 2330/2308/0050"""
+    url = f'https://www.twse.com.tw/fund/TWT38U?response=json&date={date_str}&selectType=ALL'
+    try:
+        d = requests.get(url, headers=TWSE_HEADERS, timeout=30, verify=False).json()
+    except Exception:
+        return None
+    if d.get('stat') != 'OK' or not d.get('data'):
+        return None
+    result = {}
+    targets = {'2330': 'tsmc', '0050': 'etf0050', '2308': 'delta'}
+    for row in d['data']:
+        code = row[0].strip()
+        if code in targets:
+            key = targets[code]
+            try:
+                shares = int(row[4].replace(',', '')) // 1000  # 股→張
+                ratio = float(row[5].replace(',', '').replace('%', ''))
+                result[key] = {'張數': shares, '比率': ratio}
+            except Exception:
+                pass
+    return result if result else None
+
+
 # ── FinMind 備援 ──────────────────────────────────────
 
 def fetch_bfi82u_finmind(date_str):
@@ -332,6 +356,7 @@ YF_SYMBOLS = {
     'gold':    'GC=F',
     'sox':     '^SOX',
     'usdtwd':  'TWD=X',
+    'jpytwd':  'JPYTWD=X',
 }
 
 def fetch_yf_quote(symbol):
@@ -423,7 +448,16 @@ def main():
     else:
         print('  全球市場資料暫時無法取得，跳過')
 
-    # 5. 外資期貨淨部位（FinMind，失敗不中止）
+    # 5. 外資持股比率（TWT38U，失敗不中止）
+    print('  抓取外資持股比率...')
+    hold_data = fetch_twt38u(target)
+    if hold_data:
+        for k, v in hold_data.items():
+            print(f'  {k} 持股: {v["張數"]:,}張 ({v["比率"]}%)')
+    else:
+        print('  外資持股資料暫時無法取得，跳過')
+
+    # 6. 外資期貨淨部位（FinMind，失敗不中止）
     print('  抓取外資期貨...')
     futures_data = fetch_futures(target)
     if futures_data:
@@ -492,6 +526,10 @@ def main():
         new_entry['futures'] = futures_data
     if div_data:
         new_entry['分歧信號'] = div_data
+    if hold_data:
+        if 'tsmc'    in hold_data: new_entry['tsmc_hold']    = hold_data['tsmc']
+        if 'etf0050' in hold_data: new_entry['etf0050_hold'] = hold_data['etf0050']
+        if 'delta'   in hold_data: new_entry['delta_hold']   = hold_data['delta']
 
     # ── QA 驗證 ──────────────────────────────────────────
     warnings = []

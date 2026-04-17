@@ -246,6 +246,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
         <span>投信 <span class="mv" id="tti" style="font-size:.95rem">--</span></span>
         <span id="ttin" style="font-size:.7rem;color:#34d399"></span>
       </div>
+      <div class="cs" id="tthold" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
       <div class="c5" id="ttc5"></div>
     </div>
     <div class="card">
@@ -258,6 +259,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
         <span>投信 <span class="mv" id="t0i" style="font-size:.95rem">--</span></span>
         <span id="t0in" style="font-size:.7rem;color:#34d399"></span>
       </div>
+      <div class="cs" id="t0hold" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
       <div class="c5" id="t0c5"></div>
     </div>
     <div class="card">
@@ -269,6 +271,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
       <div class="cs" style="display:flex;gap:12px">
         <span>投信 <span class="mv" id="td2i" style="font-size:.95rem">--</span></span>
       </div>
+      <div class="cs" id="td2hold" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
       <div class="c5" id="td2c5"></div>
     </div>
     <div class="card">
@@ -612,6 +615,7 @@ function rCards(){
   $('ttb').innerHTML=bdg(L.tsmc警示);
   const tti=$('tti');tti.textContent=fZ(L.tsmc投信);tti.className='mv '+(L.tsmc投信>=0?'pos':'neg');
   $('ttin').textContent=L.tsmc投信>0&&L.tsmc外資<0?'逆向護盤':'';
+  if(L.tsmc_hold){$('tthold').textContent=`外資持股 ${L.tsmc_hold.張數.toLocaleString()}張（${L.tsmc_hold.比率}%）`;}
   $('ttc5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5t>=0?'pos':'neg'}">${s5t>=0?'+':''}${s5t.toLocaleString()}張</span>`;
   // 0050
   const ev=$('t0f');ev.textContent=fZ(L.etf0050外資);ev.className='mv '+(L.etf0050外資>=0?'pos':'neg');
@@ -619,6 +623,7 @@ function rCards(){
   const ei=$('t0i');ei.textContent=fZ(L.etf0050投信);ei.className='mv '+(L.etf0050投信>=0?'pos':'neg');
   const n0=$('t0in');n0.textContent=L.etf0050投信>0&&L.etf0050外資<0?'逆向護盤':L.etf0050投信===0?'無護盤':'';
   n0.style.color=L.etf0050投信>0?'#34d399':'#718096';
+  if(L.etf0050_hold){$('t0hold').textContent=`外資持股 ${L.etf0050_hold.張數.toLocaleString()}張（${L.etf0050_hold.比率}%）`;}
   $('t0c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s50>=0?'pos':'neg'}">${s50>=0?'+':''}${s50.toLocaleString()}張</span>`;
   // 台達電 2308
   const s5d2=L5.filter(r=>r.delta外資!=null).reduce((a,r)=>a+(r.delta外資||0),0);
@@ -627,8 +632,9 @@ function rCards(){
     $('td2b').innerHTML=bdg(L.delta警示);
     const di=$('td2i');di.textContent=fZ(L.delta投信);di.className='mv '+(L.delta投信>=0?'pos':'neg');
     $('td2c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5d2>=0?'pos':'neg'}">${s5d2>=0?'+':''}${s5d2.toLocaleString()}張</span>`;
+    if(L.delta_hold){$('td2hold').textContent=`外資持股 ${L.delta_hold.張數.toLocaleString()}張（${L.delta_hold.比率}%）`;}
   }else{
-    $('td2f').textContent='--';$('td2b').innerHTML='';$('td2i').textContent='--';$('td2c5').innerHTML='';
+    $('td2f').textContent='--';$('td2b').innerHTML='';$('td2i').textContent='--';$('td2hold').textContent='';$('td2c5').innerHTML='';
   }
   // 成交量
   const vv=$('tvol');
@@ -898,7 +904,8 @@ function renderGlobal(){
     {l:'美10Y債', fmt:'yld',   v:g.us10y,   c:g.us10y_chg},
     {l:'黃金',    fmt:'price', v:g.gold,    c:g.gold_chg},
     {l:'費半SOX', fmt:'pct',   v:g.sox,     c:g.sox_chg},
-    {l:'USD/TWD', fmt:'fx',    v:g.usdtwd}
+    {l:'USD/TWD', fmt:'fx',    v:g.usdtwd},
+    {l:'JPY/TWD', fmt:'fx4',   v:g.jpytwd}
   ];
   items.forEach(p=>{
     if(!p.v&&p.v!==0)return;
@@ -908,6 +915,7 @@ function renderGlobal(){
     else if(p.fmt==='yld'){cv=p.v.toFixed(2)+'% ('+(p.c>=0?'+':'')+Math.round(p.c)+'bp)';color=p.c>0?'neg':p.c<0?'pos':'';}
     else if(p.fmt==='price'){cv='$'+Math.round(p.v).toLocaleString()+' ('+(p.c>=0?'+':'')+p.c.toFixed(1)+'%)';color=p.c>0?'pos':p.c<0?'neg':'';}
     else if(p.fmt==='fx'){cv=p.v.toFixed(3);}
+    else if(p.fmt==='fx4'){cv=p.v.toFixed(4);}
     if(cv)el.innerHTML+=`<div class="us-it"><span class="lb">${p.l}</span><span class="vl ${color}">${cv}</span></div>`;
   });
 }
