@@ -327,6 +327,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="chs"><div class="cht">🔵 台積電(2330) 外資張數</div><div class="chw"><canvas id="hts"></canvas></div></div>
   <div class="chs"><div class="cht">🟠 0050 外資張數</div><div class="chw"><canvas id="h05"></canvas></div></div>
   <div class="chs"><div class="cht">⚡ 台達電(2308) 外資張數</div><div class="chw"><canvas id="hdl"></canvas></div></div>
+  <div class="chs" id="chs-hold" style="display:none"><div class="cht">📊 外資持股比率（%）走勢－2330 / 2308 / 0050</div><div class="chw"><canvas id="hhold"></canvas></div></div>
   <div class="chs" id="chs-glo" style="display:none"><div class="cht">🌎 S&P500 × VIX 走勢</div><div class="chw tall"><canvas id="hglo"></canvas></div></div>
   <div class="chs" id="chs-bnd" style="display:none"><div class="cht">💛 美10Y債殖利率（%）× 黃金（$）</div><div class="chw tall"><canvas id="hbnd"></canvas></div></div>
   <div class="chs"><div class="cht">📊 警示等級觸發後台股表現（歷史回測）</div><div class="chw"><div id="hwr"></div></div></div>
@@ -811,6 +812,20 @@ function rHist(){
   hCharts.push(new Chart($('h05').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'0050外資（張）',data:a0,backgroundColor:a0.map(v=>v>=0?'rgba(251,146,60,.7)':'rgba(248,113,113,.7)'),borderColor:a0.map(v=>v>=0?'#fb923c':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
   // Delta 台達電
   hCharts.push(new Chart($('hdl').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'2308外資（張）',data:ad,backgroundColor:ad.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:ad.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
+  // 外資持股比率走勢（有 tsmc_hold 才顯示）
+  const holdDd=dd.filter(r=>r.tsmc_hold);
+  if(holdDd.length>0){
+    $('chs-hold').style.display='';
+    const hLb=holdDd.map(r=>r.dateLabel);
+    const hr2330=holdDd.map(r=>r.tsmc_hold?.比率??null);
+    const hr2308=holdDd.map(r=>r.delta_hold?.比率??null);
+    const hr0050=holdDd.map(r=>r.etf0050_hold?.比率??null);
+    hCharts.push(new Chart($('hhold').getContext('2d'),{type:'line',data:{labels:hLb,datasets:[
+      {label:'2330 持股%',data:hr2330,borderColor:'#60a5fa',backgroundColor:'rgba(96,165,250,.08)',pointRadius:4,tension:.3,fill:false,spanGaps:true},
+      {label:'2308 持股%',data:hr2308,borderColor:'#34d399',backgroundColor:'rgba(52,211,153,.08)',pointRadius:4,tension:.3,fill:false,spanGaps:true},
+      {label:'0050 持股%',data:hr0050,borderColor:'#fb923c',backgroundColor:'rgba(251,146,60,.08)',pointRadius:4,tension:.3,fill:false,spanGaps:true}
+    ]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v+'%'},grid:{color:'#2d3748'},min:0,max:100}}}}));
+  }
   // Global market charts (data.json driven)
   const gDd=dd.filter(r=>r.global&&r.global.sp500);
   if(gDd.length>1){

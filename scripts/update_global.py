@@ -5,7 +5,7 @@
 
 import json, requests, os
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import date
+from datetime import date, timedelta
 
 DATA_PATH   = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
 LATEST_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data-latest.json')
@@ -62,6 +62,10 @@ def main():
         return
 
     latest_entry = sorted(history, key=lambda x: x['date'])[-1]
+    entry_date = date(int(latest_entry['date'][:4]), int(latest_entry['date'][4:6]), int(latest_entry['date'][6:8]))
+    days_behind = (date.today() - entry_date).days
+    if days_behind > 5:
+        print(f'[警告] 最新資料為 {latest_entry["date"]}，距今 {days_behind} 天（可能假期），仍繼續更新')
     print(f'[開始] 更新 {latest_entry["date"]} 的全球市場資料')
 
     global_data = fetch_global()
