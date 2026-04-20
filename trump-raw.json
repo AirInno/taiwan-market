@@ -1,9 +1,37 @@
 [
   {
     "date": "20260420",
-    "fetchTime": "2026-04-20 06:02",
-    "count": 0,
-    "articles": []
+    "fetchTime": "2026-04-20 14:25",
+    "count": 3,
+    "articles": [
+      {
+        "title": "The insider trading suspicions looming over Trump's presidency",
+        "desc": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+        "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-20 13:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "內線交易疑雲籠罩川普的總統任期",
+        "descZh": "BBC 發現，在美國總統發表公開聲明之前，交易會出現飆升的模式。"
+      },
+      {
+        "title": "Pope says 'tyrants' speech was not aimed at Trump",
+        "desc": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+        "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-19 15:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "教宗表示「暴君」演講並非針對川普",
+        "descZh": "教宗表示，在與美國總統發生爭執後，他的言論被誤解了。"
+      },
+      {
+        "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
+        "desc": "Construction at the White House is expected to continue until the next hearing, due in June.",
+        "url": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-19 03:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "上訴法院表示可全面恢復興建川普的白宮宴會廳",
+        "descZh": "白宮的施工預計會持續到六月舉行的下一次聽證會。"
+      }
+    ]
   },
   {
     "date": "20260419",
