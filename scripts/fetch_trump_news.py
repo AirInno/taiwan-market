@@ -5,14 +5,17 @@
 支援 DeepL Free API 自動翻譯（設定環境變數 DEEPL_API_KEY 即啟用）
 """
 import json, os, re, sys, time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone, timedelta
 from xml.etree import ElementTree as ET
 import urllib.request, urllib.error, urllib.parse
 
 REPO_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT     = os.path.join(REPO_DIR, 'trump-raw.json')
-CUTOFF_HRS = 48   # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
-MAX_DAYS   = 30   # 最多保留 30 天歷史，避免檔案過大拖慢 briefing agent WebFetch
+CUTOFF_HRS   = 48  # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
+MAX_DAYS     = 30  # 最多保留 30 天歷史，避免檔案過大拖慢 briefing agent WebFetch
+MAX_ARTICLES = 40  # 每日最多保留文章數
+MAX_DESC_LEN = 200 # 摘要截斷長度
 
 RSS_FEEDS = [
     # Google News（川普關稅貿易）
@@ -106,69 +109,71 @@ def translate_batch(texts, api_key, target_lang='ZH-HANT'):
         return [''] * len(texts)
 
 
+def _parse_feed(url, cutoff):
+    """抓取並解析單一 RSS feed，回傳符合條件的文章清單。"""
+    xml_text = fetch_feed(url)
+    if not xml_text:
+        return []
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError as e:
+        print(f'  XML 解析失敗 {url[:50]}: {e}')
+        return []
+
+    items = root.findall('.//item')
+    print(f'  {url.split("/")[2]}: {len(items)} 則文章')
+
+    results = []
+    for item in items:
+        title = strip_html(item.findtext('title', ''))
+        desc  = strip_html(item.findtext('description', ''))
+        link  = item.findtext('link', '')
+        pub   = item.findtext('pubDate', '') or item.findtext('published', '')
+
+        if not title or not is_trump_related(title + ' ' + desc):
+            continue
+
+        pub_dt = parse_date(pub)
+        if pub_dt:
+            if pub_dt.tzinfo is None:
+                pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+            if pub_dt < cutoff:
+                continue
+            pub_str = pub_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
+        else:
+            pub_str = ''
+
+        results.append({
+            'title':   title,
+            'desc':    desc[:MAX_DESC_LEN] if desc else '',
+            'url':     link,
+            'pubTime': pub_str,
+            'source':  url.split('/')[2],
+        })
+    return results
+
+
 def crawl():
     now_utc   = datetime.now(timezone.utc)
     cutoff    = now_utc - timedelta(hours=CUTOFF_HRS)
     today     = now_utc.astimezone(timezone(timedelta(hours=8))).strftime('%Y%m%d')
     deepl_key = os.environ.get('DEEPL_API_KEY', '')
 
-    articles = []
+    print(f'平行抓取 {len(RSS_FEEDS)} 個 RSS 來源...')
+    with ThreadPoolExecutor(max_workers=len(RSS_FEEDS)) as ex:
+        all_results = list(ex.map(lambda u: _parse_feed(u, cutoff), RSS_FEEDS))
+
     seen_titles = set()
+    articles = []
+    for feed_articles in all_results:
+        for a in feed_articles:
+            key = a['title'][:60].lower()
+            if key not in seen_titles:
+                seen_titles.add(key)
+                articles.append(a)
 
-    for url in RSS_FEEDS:
-        print(f'抓取: {url[:70]}...')
-        xml_text = fetch_feed(url)
-        if not xml_text:
-            continue
-        time.sleep(1)
-
-        try:
-            root = ET.fromstring(xml_text)
-        except ET.ParseError as e:
-            print(f'  XML 解析失敗: {e}')
-            continue
-
-        ns = {'media': 'http://search.yahoo.com/mrss/'}
-        items = root.findall('.//item')
-        print(f'  找到 {len(items)} 則文章')
-
-        for item in items:
-            title = strip_html(item.findtext('title', ''))
-            desc  = strip_html(item.findtext('description', ''))
-            link  = item.findtext('link', '')
-            pub   = item.findtext('pubDate', '') or item.findtext('published', '')
-
-            if not title or not is_trump_related(title + ' ' + desc):
-                continue
-
-            # 去除重複
-            key = title[:60].lower()
-            if key in seen_titles:
-                continue
-            seen_titles.add(key)
-
-            # 時間篩選
-            pub_dt = parse_date(pub)
-            if pub_dt:
-                if pub_dt.tzinfo is None:
-                    pub_dt = pub_dt.replace(tzinfo=timezone.utc)
-                if pub_dt < cutoff:
-                    continue
-                pub_str = pub_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
-            else:
-                pub_str = ''
-
-            articles.append({
-                'title':   title,
-                'desc':    desc[:200] if desc else '',
-                'url':     link,
-                'pubTime': pub_str,
-                'source':  url.split('/')[2],  # domain
-            })
-
-    # 依時間排序（新 → 舊）
     articles.sort(key=lambda x: x['pubTime'], reverse=True)
-    articles = articles[:40]  # 最多 40 則
+    articles = articles[:MAX_ARTICLES]
 
     # DeepL 自動翻譯（若有 API Key）
     if deepl_key and articles:

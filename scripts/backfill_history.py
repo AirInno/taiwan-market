@@ -240,11 +240,11 @@ def backfill_range(start_str, end_str, test_mode=False):
 
         if not test_mode:
             sorted_hist.append(entry)
-            sorted_hist.sort(key=lambda x: x['date'])
             changed += 1
 
             # 每 10 筆中途儲存（防意外中斷）
             if changed % 10 == 0:
+                sorted_hist.sort(key=lambda x: x['date'])
                 with open(DATA_PATH, 'w', encoding='utf-8') as f:
                     json.dump(sorted_hist, f, ensure_ascii=False, indent=2)
                 print(f'  [中途儲存] 已寫入 {changed} 筆')
@@ -253,6 +253,7 @@ def backfill_range(start_str, end_str, test_mode=False):
 
     # 最終儲存
     if not test_mode and changed > 0:
+        sorted_hist.sort(key=lambda x: x['date'])
         with open(DATA_PATH, 'w', encoding='utf-8') as f:
             json.dump(sorted_hist, f, ensure_ascii=False, indent=2)
         print(f'\n[完成] 共補填 {changed} 筆，data.json 共 {len(sorted_hist)} 筆')

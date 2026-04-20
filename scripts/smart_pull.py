@@ -11,7 +11,7 @@ from datetime import date, datetime, timedelta
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-REPO      = r"C:\Users\lifongye\Documents\taiwan-market"
+REPO      = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_PATH = os.path.join(REPO, "data.json")
 HEADERS   = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -38,9 +38,10 @@ def clean_locks():
     """清除 git 殘留鎖定檔"""
     for lock in [r".git\HEAD.lock", r".git\index.lock"]:
         p = os.path.join(REPO, lock)
-        if os.path.exists(p):
-            try: os.remove(p)
-            except: pass
+        try:
+            os.remove(p)
+        except FileNotFoundError:
+            pass
 
 def run(cmd, check=True):
     r = subprocess.run(cmd, shell=True, cwd=REPO)
@@ -331,12 +332,12 @@ def backfill():
         # ──────────────────────────────────────
 
         history.append(entry)
-        history.sort(key=lambda x:x['date'])
         print(f'外資{fn:+.1f}億 收盤{cl:,.0f} 成交{vol:.0f}億 ✓')
         changed = True
         time.sleep(3)   # 避免 TWSE 速率限制
 
     if changed:
+        history.sort(key=lambda x: x['date'])
         save_data(history)
         print('補齊完成')
 
@@ -344,7 +345,7 @@ def backfill():
 
 FIX_BAT = (
     '@echo off\r\n'
-    'cd /d "C:\\Users\\lifongye\\Documents\\taiwan-market"\r\n'
+    f'cd /d "{REPO}"\r\n'
     'echo [Fix Stock Rankings]\r\n'
     'python scripts\\smart_pull.py --fix\r\n'
     'if errorlevel 1 ( echo [ERROR] & pause & exit /b 1 )\r\n'
@@ -355,7 +356,7 @@ FIX_BAT = (
 
 BACKFILL_BAT = (
     '@echo off\r\n'
-    'cd /d "C:\\Users\\lifongye\\Documents\\taiwan-market"\r\n'
+    f'cd /d "{REPO}"\r\n'
     'echo [Sync + Fix + Backfill + Auto Push]\r\n'
     'python scripts\\smart_pull.py\r\n'
     'if errorlevel 1 ( echo [ERROR] sync & pause & exit /b 1 )\r\n'
