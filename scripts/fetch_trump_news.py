@@ -11,7 +11,7 @@ import urllib.request, urllib.error, urllib.parse
 
 REPO_DIR   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT     = os.path.join(REPO_DIR, 'trump-raw.json')
-CUTOFF_HRS = 36   # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
+CUTOFF_HRS = 48   # 篩選 RSS 文章的時間窗口（避免抓到太舊的文章）
 MAX_DAYS   = 30   # 最多保留 30 天歷史，避免檔案過大拖慢 briefing agent WebFetch
 
 RSS_FEEDS = [
@@ -23,10 +23,10 @@ RSS_FEEDS = [
     'https://news.google.com/rss/search?q=Trump+Apple+Nvidia+tech+company&hl=en-US&gl=US&ceid=US:en',
     # Google News（川普外交軍事）
     'https://news.google.com/rss/search?q=Trump+China+foreign+policy+military&hl=en-US&gl=US&ceid=US:en',
-    # Reuters 政治頻道
-    'https://feeds.reuters.com/reuters/politicsNews',
-    # AP News 政治
-    'https://rsshub.app/apnews/topics/ap-top-news',
+    # BBC 美國/加拿大新聞
+    'https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml',
+    # Politico 白宮動態
+    'https://www.politico.com/rss/politico44.xml',
 ]
 
 TRUMP_KEYWORDS = [
