@@ -1,0 +1,75 @@
+name: 資料驗證與自動修復
+
+on:
+  schedule:
+    - cron: '45 8 * * 1-5'   # UTC 8:45 = 台灣 16:45（update_data 後 75 分鐘）
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安裝 pytest
+        run: pip install pytest
+
+      - name: 執行驗證測試
+        id: first_test
+        run: pytest scripts/test_pipeline.py -v
+        continue-on-error: true
+
+      - name: 自動修復（若測試失敗）
+        if: steps.first_test.outcome == 'failure'
+        run: python scripts/heal.py
+
+      - name: Commit 修復結果
+        if: steps.first_test.outcome == 'failure'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json data-latest.json
+          if git diff --staged --quiet; then
+            echo "無檔案變更，跳過 commit"
+          else
+            git commit -m "🔧 $(date +'%Y%m%d') 自動修復資料"
+            git push
+          fi
+
+      - name: 重新驗證（修復後）
+        if: steps.first_test.outcome == 'failure'
+        run: pytest scripts/test_pipeline.py -v
+
+      - name: 寄送失敗通知（需人工介入）
+        if: failure()
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import smtplib, ssl, os
+          from email.mime.text import MIMEText
+          user = os.environ.get("GMAIL_USER", "")
+          pwd  = os.environ.get("GMAIL_APP_PASSWORD", "")
+          if not user or not pwd:
+              print("Email 未設定，跳過通知")
+              exit(0)
+          msg = MIMEText(
+              "台股 Pipeline 驗證失敗，自動修復無效，請手動檢查 data.json。\n\n"
+              "GitHub Actions: validate_and_heal.yml",
+              "plain", "utf-8"
+          )
+          msg["Subject"] = "⚠️ 台股 Pipeline 驗證失敗（需人工介入）"
+          msg["From"]    = user
+          msg["To"]      = "a11000033a66338855@gmail.com"
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context()) as s:
+              s.login(user, pwd)
+              s.sendmail(user, ["a11000033a66338855@gmail.com"], msg.as_string())
+          print("通知信已送出")
+          EOF
