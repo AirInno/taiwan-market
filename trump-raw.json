@@ -1,5 +1,129 @@
 [
   {
+    "date": "20260423",
+    "fetchTime": "2026-04-23 07:09",
+    "count": 13,
+    "articles": [
+      {
+        "title": "Trump claims Virginia redistricting election was 'rigged'",
+        "desc": "The claim, issued without evidence, comes after the state approved new voting maps that could help Democrats flip four House seats.",
+        "url": "https://www.bbc.com/news/articles/c5ywnjw7qj2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-23 06:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普聲稱維吉尼亞州重劃選區選舉被「操縱",
+        "descZh": "該聲稱是在該州批准了可能幫助民主黨翻轉四個眾議院席位的新投票地圖之後發佈的，但沒有證據。"
+      },
+      {
+        "title": "US 'won't dictate terms' of free trade talks, says PM Carney",
+        "desc": "US Trade Representative Jamieson Greer, meanwhile, warned Canada's boycott of US alcohol over tariffs might require \"enforcement action\".",
+        "url": "https://www.bbc.com/news/articles/ceqw35r1j5wo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-23 04:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國首相卡尼表示，美國「不會主宰」自由貿易談判的條件",
+        "descZh": "與此同時，美國貿易代表 Jamieson Greer 警告加拿大因關稅而抵制美國酒類，可能需要採取「執法行動」。"
+      },
+      {
+        "title": "‘Game Changer’: USTR’s Julie Callahan Says Trump’s Tariffs Slashed US Ag Trade Deficit by $4.75B - 101.5 WKKG",
+        "desc": "‘Game Changer’: USTR’s Julie Callahan Says Trump’s Tariffs Slashed US Ag Trade Deficit by $4.75B&nbsp;&nbsp;101.5 WKKG",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPYnRLVTdEVEFvZG5lQ2R5dnJSci1yYkc3Qm9JclQ0aUJCZnJMTmRubVpuVUN4WTltZWR2dlNYcWFQSnBGZk14QlB0NDFheHF6ZEY2THBoMVNZcl9fc2Q0Zi1ucVNKZFNFSXg1MUM0bVNNem0wME1md3dDV21iZHpONHRQTkp2RERmbmo5OWtxcEhhd25WYW5sRGg4elV1NVQ2RTAza2JsWG9aZmZwTUprVjRYVjFVUGs4NFRtUkJ4N0lBUk9USktHRnFDOXVoNGJGMjNnS08yZHZHY2RJQ1JoYlhCWUJ2M3lyOVdGaUhaYmlXTFk5THdHSTIxVmVERElTaHNEclhlU2VIMnpIX3VqMnkyNGRkYXExUi1oRldEM0ZSQXpFSEZWWllXS1NMaENBRXJTTDRmVVp6bEh1MGF1b1ZtNngyRTMyek5Td2hwZ0FSOHZ4aFFtUWJlRUFGcWt4d0hwMG1XcU54Sk5iblV4X0xack5wQQ?oc=5",
+        "pubTime": "2026-04-23 03:27",
+        "source": "news.google.com",
+        "titleZh": "改變遊戲規則美國貿易代表朱莉-卡拉漢表示，特朗普的關稅使美國農產品貿易赤字減少47.5億美元 - 101.5 WKKG",
+        "descZh": "遊戲改變\"：美國貿易代表朱莉-卡拉漢表示，特朗普的關稅使美國農產品貿易赤字減少 47.5 億美元&nbsp;&nbsp;101.5 WKKG"
+      },
+      {
+        "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+        "desc": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+        "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-23 02:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "億萬富翁支持者控告川普家族的加密公司涉嫌勒索",
+        "descZh": "億萬富翁投資人 Justin Sun 在花了 4500 萬美元購買 World Liberty 的代幣後，起訴該家族的加密企業。"
+      },
+      {
+        "title": "Donald Trump’s Tariff Refunds Begin, but the Money Trail Raises Bigger Questions - Yahoo Autos",
+        "desc": "Donald Trump’s Tariff Refunds Begin, but the Money Trail Raises Bigger Questions&nbsp;&nbsp;Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGpsTmkyY3FXZlpITVA0d2VRMWRpWHRkQWJZT0lraFNhYTNkS0djMlBQc3hKZGRaYUROc3NWX0ZjVzdQZjM5bXQxakFmeURyR1ZzNG9YamtWMUtlZ2JPUU5mU3NNYnlXTk9xalBISnZHdjV5RW1tWG85LVFucWFaU3N0RFlBZHBw?oc=5",
+        "pubTime": "2026-04-23 00:30",
+        "source": "news.google.com",
+        "titleZh": "唐納德‧川普開始退還關稅，但資金來源引發更大問題 - Yahoo Autos",
+        "descZh": "唐納德‧川普開始退還關稅，但資金來源引發更大問題&nbsp;&nbsp;Yahoo Autos"
+      },
+      {
+        "title": "$166 Billion Tariff Refunds Underway After Court Rules Trump-Era Duties Unconstitutional - International Business Times UK",
+        "desc": "$166 Billion Tariff Refunds Underway After Court Rules Trump-Era Duties Unconstitutional&nbsp;&nbsp;International Business Times UK",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUllSTnAtT0pCeDY1SjduV3JSRjVXSHJicGJDVThsbnVEVzE2YXpUbnp6ck8xd2VSdHNoT0ptNTR2aTZ4TndOTE5pTEduZm9UajROZ2Fjc1ZiSWVUd0k3dEl1SEswSzVKSWZCV3JnVmRWWVMwanlTUHVHNnR2RGdOMEhpVk10NzJLTGZYZWNDUzR0Wkt5V0tLWm1NSQ?oc=5",
+        "pubTime": "2026-04-22 17:56",
+        "source": "news.google.com",
+        "titleZh": "法院裁定特朗普時代的關稅違憲後，1,660億美元的關稅退款正在進行中 - 英國國際商業時報",
+        "descZh": "法院裁定特朗普時代的關稅違憲後，1,660億美元的關稅退款正在進行中&nbsp;&nbsp;英國國際商業時報"
+      },
+      {
+        "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+        "desc": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
+        "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-22 08:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普在瘋狂的一天外交之後為伊朗協議爭取時間",
+        "descZh": "美國總統的決定標誌著他在幾個星期內第二次放棄了升級戰爭的威脅，從而爭取了更多的時間。"
+      },
+      {
+        "title": "US confirms Trump tariffs on Mexico permanent, EU retaliation possible - Crypto Briefing",
+        "desc": "US confirms Trump tariffs on Mexico permanent, EU retaliation possible&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEotUTNFN1lsaFpyX2daTUItVllMdnJiU0Q1ajNBNjlhUUh6d3BfcWpfOFVyLW83WnBuZThXNG9nNW90Y2pzck1zTXhxVjl4cEJuVHR4V3JrcjRqbkFpdE9LZ1ktSWQzZDNmZk8wNTU0emRCeXJ5ZU1odDVpTnhWbFktYlFZSm5VejVPaUpybUtRbW5PVDdpTkUzdDF1dw?oc=5",
+        "pubTime": "2026-04-22 04:00",
+        "source": "news.google.com",
+        "titleZh": "美國確認川普對墨西哥徵收永久關稅，歐盟可能採取報復行動 - Crypto Briefing",
+        "descZh": "美國確認川普對墨西哥加徵永久關稅，歐盟可能採取報復行動&nbsp;&nbsp;Crypto Briefing"
+      },
+      {
+        "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+        "desc": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
+        "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-22 02:59",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "從 Epstein 到襪子木偶：Kevin Warsh 聯儲局確認聽證會的主要觀點",
+        "descZh": "他否認在利率問題上與 Donald Trump 達成協議，並支持央行的「政策體制改變」。"
+      },
+      {
+        "title": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs - The New York Times",
+        "desc": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM21VdEVncGp3Tm5kWHl6RlhMZjhBY2xxeFBQWm05TDVQY2JoRC0xWS1CczZvdXhVOXBEM01xLUhXNkU5RmpUdnF4anZsOVFFSC14MTlmdmpXTy1udk9fdUwxNTRCY0tPRDNRVnd2WFdlZENqRzd3Qnhhb0pOaUttNDRuVmxVYnNPVmFiRGZqZ1g?oc=5",
+        "pubTime": "2026-04-21 21:52",
+        "source": "news.google.com",
+        "titleZh": "川普政府採取措施退還1,660億美元關稅 - 紐約時報",
+        "descZh": "川普政府採取措施退還 1,660 億美元的關稅&nbsp;&nbsp;紐約時報"
+      },
+      {
+        "title": "Trump Tariffs ‘Here to Stay’ as US Signals Tough Line in USMCA Talks with Mexico - Modern Diplomacy",
+        "desc": "Trump Tariffs ‘Here to Stay’ as US Signals Tough Line in USMCA Talks with Mexico&nbsp;&nbsp;Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEw5bS1Nbjd0LS1VN0FqME00WDVBQmZWcVB6aW1DZG90cnl3NjI4QlRaa3FsMDNJUGswOW13T19kRmQwaWRhQkxSRlBsUnhJeml1MURNaVdwMzZzMy1zODJNcXRyZDFBNVRBWXJyU2ZvZzhmbW82UTVleHoyMmRkQTRUYVh2eEtrWmU4cm1FWFJSZmsxdmo0VGFyd25DM18yX2wzd0RFaVphTWJOcndKSDZOTlE1U3NQ?oc=5",
+        "pubTime": "2026-04-21 18:12",
+        "source": "news.google.com",
+        "titleZh": "美國在與墨西哥的USMCA談判中釋出強硬立場，川普關稅將「繼續存在」 - 現代外交",
+        "descZh": "美國在與墨西哥的 USMCA 談判中釋出強硬立場，川普的關稅「勢在必行」&nbsp;&nbsp;現代外交"
+      },
+      {
+        "title": "Exclusive: US trade rep tells Mexican companies Trump tariffs here to stay, sources say - Reuters",
+        "desc": "Exclusive: US trade rep tells Mexican companies Trump tariffs here to stay, sources say&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb042a1JwRU1Udk9hSkc2czJzbzJIU0ZIUURwRnh1S2lOcEFJSDN5LWo5OUo2YURyZDNkVVBRZzk5Y0Vtd0oxbmhreDFRVzBCZVVhaGNKbjIwcVRheGg1VTB0UzVKU1Z3amZMTXpreElBaWxsVkNFT1AyZE5aZi1nbWxSR085bXZ1eVl1Z01hTUh0MEMySFJXVHdBVGpfRERwMUhPS21YZzBVQklmaHczeXpXRGJvX2F1SnFwRmV3Q1Bxak1jblNWUHR5ZmhlOXJUWmRNNQ?oc=5",
+        "pubTime": "2026-04-21 17:14",
+        "source": "news.google.com",
+        "titleZh": "獨家消息：消息人士透露：美國貿易代表告訴墨西哥公司，特朗普的關稅會繼續存在 - 路透社",
+        "descZh": "獨家消息人士透露：美國貿易代表告訴墨西哥公司，特朗普的關稅會繼續存在&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "With tariffs stalled, Trump's China policy drifts - Reuters",
+        "desc": "With tariffs stalled, Trump's China policy drifts&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXlVcm1fYUVaWTdvQmRYby1jQi1iRmFTZmtSdTJKYklrRXBBTmo2WlBIQzRwQ3Qwd3ZHZDBZVHhTLVNCQ3BOdHR0N1NkaDNKaFJ3SUlBV1BTUUZqaUdleGprRTJBazg3TnlYeUxpaFZzb3RVZ3pXVDI4Zk9yRGtNdTNTaDBreHBIdFpOdm1aRklpSE1SbXJn?oc=5",
+        "pubTime": "2026-04-21 13:05",
+        "source": "news.google.com",
+        "titleZh": "關稅問題停滯不前，川普對華政策飄忽不定 - 路透社",
+        "descZh": "隨著關稅陷入僵局，特朗普的對華政策出現偏移&nbsp;&nbsp;路透社"
+      }
+    ]
+  },
+  {
     "date": "20260422",
     "fetchTime": "2026-04-22 06:27",
     "count": 17,
