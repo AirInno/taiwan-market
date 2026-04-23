@@ -21,6 +21,7 @@ YF_SYMBOLS = {
     'vix':     '^VIX',
     'us10y':   '^TNX',
     'gold':    'GC=F',
+    'oil':     'CL=F',
     'sox':     '^SOX',
     'usdtwd':  'TWD=X',
     'jpytwd':  'JPYTWD=X',
