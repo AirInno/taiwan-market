@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260427",
+    "fetchTime": "2026-04-27 05:01",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+        "desc": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+        "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-27 02:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "當局認為，川普和官員「很可能」是新聞晚宴槍擊案嫌犯的目標",
+        "descZh": "官員表示，嫌犯預計將被控襲擊聯邦官員和在暴力犯罪過程中使用槍支。"
+      },
+      {
+        "title": "Washington hotel shooting raises questions about Trump security",
+        "desc": "The shooting at the White House correspondents' dinner is the third time in three years Trump has been at the centre of a major security incident.",
+        "url": "https://www.bbc.com/news/articles/c2484nln8zeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 23:20",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "華盛頓飯店槍擊案引發對川普安全的質疑",
+        "descZh": "白宮記者晚宴上發生的槍擊事件，是川普三年來第三次成為重大安全事件的中心。"
+      },
+      {
+        "title": "In pictures: Chaos as gunfire heard in Washington DC ballroom",
+        "desc": "Armed Secret Service agents flood the ballroom of a Washington DC hotel as President Trump is rushed off stage.",
+        "url": "https://www.bbc.com/news/articles/cgk0ky5zgvlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 14:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "圖片：華盛頓DC舞廳傳出槍聲，一片混亂",
+        "descZh": "全副武裝的特勤局人員湧入華盛頓特區一家飯店的宴會廳，川普總統被趕下台。"
+      },
+      {
+        "title": "Video shows correspondents' dinner suspect charge checkpoint",
+        "desc": "Surveillance video released by Donald Trump shows the suspect running past metal detectors as security agents draw their guns.",
+        "url": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 12:27",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "視訊顯示記者晚宴嫌犯衝過檢查站",
+        "descZh": "Donald Trump 發佈的監控錄影帶顯示，嫌犯在安全人員拔出槍械時，衝過金屬探測器。"
+      },
+      {
+        "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+        "desc": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+        "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 12:22",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "我和川普一起在房間裡，聽到低沉的槍聲",
+        "descZh": "BBC 的 Gary O'Donoghue 描述了當會場槍聲響起時，他和其他人跳水尋找掩護的時刻。"
+      },
+      {
+        "title": "Moment Trump rushed from White House Correspondents' Dinner after  gunshots heard",
+        "desc": "The US president was midway through a conversation before loud bangs rang out at the venue and he was quickly escorted to safety.",
+        "url": "https://www.bbc.com/news/videos/crm1gm7ez30o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 09:59",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普在聽到槍聲後匆忙離開白宮記者晚宴的時刻",
+        "descZh": "美國總統的談話進行到一半時，會場內突然響起巨響，他被迅速護送到安全的地方。"
+      },
+      {
+        "title": "Trump said RFK Jr could run 'wild' with health policy. Instead he's reined him in",
+        "desc": "Some MAHA voters are frustrated with Kennedy's concessions on key issues, as he pivots away from vaccines.",
+        "url": "https://www.bbc.com/news/articles/ce8lrn65lvzo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 07:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普說小肯尼迪可以在醫療政策上「橫衝直撞」。但他沒有這樣做",
+        "descZh": "一些 MAHA 選民對 Kennedy 在關鍵議題上的讓步感到沮喪，因為他在疫苗問題上轉移了方向。"
+      },
+      {
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "desc": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+        "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-26 05:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普取消美國特使赴巴基斯坦就伊朗戰爭進行會談",
+        "descZh": "伊朗早前曾表示，沒有計劃與 Steve Witkoff 和 Jared Kushner 領導的美國代表團直接會面。"
+      },
+      {
+        "title": "Trump Slams Supreme Court Tariff Ruling Over $159B Risk - MEXC",
+        "desc": "Trump Slams Supreme Court Tariff Ruling Over $159B Risk&nbsp;&nbsp;MEXC",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kM2dhekZlclBibS1iUUV2b21KSEVUb0Vaek1NS2hsdl9HOTRyRVFTSjZkVVJEMFE4ZEVNM3Y4TV9Pa3dPU25uNA?oc=5",
+        "pubTime": "2026-04-25 17:55",
+        "source": "news.google.com",
+        "titleZh": "川普抨擊最高法院對1590億美元風險的關稅裁決 - MEXC",
+        "descZh": "川普抨擊最高法院關稅裁決 1590 億美元風險&nbsp;&nbsp;MEXC"
+      },
+      {
+        "title": "'Horrible and ridiculous': Trump bashes top court order on $159 billion tariff refunds - Zee Business",
+        "desc": "'Horrible and ridiculous': Trump bashes top court order on $159 billion tariff refunds&nbsp;&nbsp;Zee Business",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXI1X2R5bUlOQlpMVVMtNXhPRDRaemd4NTJvZDBtN2V6VU95d2JKaVY4VVphbzhWaUpLY2ZCWjhaVnZyY0ZDNUNSOWlwOVNxbXhGLVVMMms3alIwUUUzZmtpSTJwd2hWUS02R2stS1h2U2o2U052b1hZZExpTkRXVGFPNjZKdHF6RmpjWWdJQTN5SjlCY0w3czB0cU5feDYyYms2NW5iS0ZhNHBrRjUyVXYwdDQ0WkQyVjdEbThqM0E?oc=5",
+        "pubTime": "2026-04-25 11:48",
+        "source": "news.google.com",
+        "titleZh": "可怕又荒謬」：川普抨擊最高法關於1,590億美元關稅退款的命令 - Zee Business",
+        "descZh": "可怕和荒謬\"：川普抨擊最高法院有關 1590 億美元關稅退款的命令&nbsp;&nbsp;Zee Business"
+      },
+      {
+        "title": "'We cried together': Trump's deportation drive forces tough decisions for couples",
+        "desc": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
+        "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-25 09:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "我們一起哭了川普的驅逐行動迫使夫婦們做出艱難的決定",
+        "descZh": "面臨遞解出境的非法移民的配偶必須在分居或移居新國家之間做出選擇。"
+      }
+    ]
+  },
+  {
     "date": "20260426",
     "fetchTime": "2026-04-26 05:00",
     "count": 12,
