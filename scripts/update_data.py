@@ -318,6 +318,31 @@ def fetch_t86_finmind(date_str):
         if inst == '投信': stock_map[code]['i'] = net
     return list(stock_map.values()) if stock_map else None
 
+# ── FinMind：融資融券餘額 ────────────────────────────
+
+def fetch_margin_balance(date_str):
+    """抓取個股融資/融券餘額 via FinMind TaiwanStockMarginPurchaseShortSale"""
+    iso = f'{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}'
+    url = 'https://api.finmindtrade.com/api/v4/data'
+    result = {}
+    for code, key in [('2330', 'tsmc'), ('0050', 'etf0050'), ('2308', 'delta')]:
+        params = {'dataset': 'TaiwanStockMarginPurchaseShortSale', 'data_id': code,
+                  'start_date': iso, 'end_date': iso}
+        if FINMIND_TOKEN:
+            params['token'] = FINMIND_TOKEN
+        try:
+            rows = requests.get(url, params=params, timeout=15).json().get('data', [])
+            if rows:
+                r = rows[0]
+                result[key] = {
+                    '融資餘額': r.get('MarginPurchaseTodayBalance', 0),
+                    '融券餘額': r.get('ShortSaleTodayBalance', 0),
+                }
+        except Exception:
+            pass
+    return result if result else None
+
+
 # ── FinMind：外資期貨未平倉 ──────────────────────────
 
 def fetch_futures(date_str):
@@ -465,6 +490,15 @@ def main():
     else:
         print('  外資期貨資料暫時無法取得，跳過')
 
+    # 7. 融資融券餘額（FinMind，失敗不中止）
+    print('  抓取融資餘額...')
+    margin_data = fetch_margin_balance(target)
+    if margin_data:
+        for k, v in margin_data.items():
+            print(f'  {k} 融資餘額: {v["融資餘額"]:,}張  融券: {v["融券餘額"]:,}張')
+    else:
+        print('  融資餘額資料暫時無法取得，跳過')
+
     # 衍生欄位
     last = sorted(history, key=lambda x: x['date'])[-1] if history else {}
     consecutive_sell = (last.get('連續賣超', 0) + 1) if foreign_bn < 0 else 0
@@ -529,6 +563,8 @@ def main():
         if 'tsmc'    in hold_data: new_entry['tsmc_hold']    = hold_data['tsmc']
         if 'etf0050' in hold_data: new_entry['etf0050_hold'] = hold_data['etf0050']
         if 'delta'   in hold_data: new_entry['delta_hold']   = hold_data['delta']
+    if margin_data:
+        new_entry['margin'] = margin_data
 
     # ── QA 驗證 ──────────────────────────────────────────
     warnings = []

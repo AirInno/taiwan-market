@@ -248,6 +248,8 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
         <span id="ttin" style="font-size:.7rem;color:#34d399"></span>
       </div>
       <div class="cs" id="tthold" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
+      <div class="cs" id="ttmargin" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
+      <div class="cs" id="ttholder" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
       <div class="c5" id="ttc5"></div>
     </div>
     <div class="card">
@@ -261,6 +263,8 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
         <span id="t0in" style="font-size:.7rem;color:#34d399"></span>
       </div>
       <div class="cs" id="t0hold" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
+      <div class="cs" id="t0margin" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
+      <div class="cs" id="t0holder" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
       <div class="c5" id="t0c5"></div>
     </div>
     <div class="card">
@@ -273,6 +277,8 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
         <span>投信 <span class="mv" id="td2i" style="font-size:.95rem">--</span></span>
       </div>
       <div class="cs" id="td2hold" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
+      <div class="cs" id="td2margin" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
+      <div class="cs" id="td2holder" style="font-size:.72rem;color:#718096;margin-top:2px"></div>
       <div class="c5" id="td2c5"></div>
     </div>
     <div class="card">
@@ -618,6 +624,7 @@ function rCards(){
   const tti=$('tti');tti.textContent=fZ(L.tsmc投信);tti.className='mv '+(L.tsmc投信>=0?'pos':'neg');
   $('ttin').textContent=L.tsmc投信>0&&L.tsmc外資<0?'逆向護盤':'';
   if(L.tsmc_hold){$('tthold').textContent=`外資持股 ${L.tsmc_hold.張數.toLocaleString()}張（${L.tsmc_hold.比率}%）`;}
+  {const m=L.margin?.tsmc;if(m){const prev=L5.length>1?L5[L5.length-2]?.margin?.tsmc?.融資餘額:null;const diff=prev!=null?m.融資餘額-prev:null;const ds=diff!=null?(diff>=0?` ▲${diff.toLocaleString()}`:(` ▼${Math.abs(diff).toLocaleString()}`)):'';$('ttmargin').textContent=`融資 ${m.融資餘額.toLocaleString()}張${ds}`;}}
   $('ttc5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5t>=0?'pos':'neg'}">${s5t>=0?'+':''}${s5t.toLocaleString()}張</span>`;
   // 0050
   const ev=$('t0f');ev.textContent=fZ(L.etf0050外資);ev.className='mv '+(L.etf0050外資>=0?'pos':'neg');
@@ -626,6 +633,7 @@ function rCards(){
   const n0=$('t0in');n0.textContent=L.etf0050投信>0&&L.etf0050外資<0?'逆向護盤':L.etf0050投信===0?'無護盤':'';
   n0.style.color=L.etf0050投信>0?'#34d399':'#718096';
   if(L.etf0050_hold){$('t0hold').textContent=`外資持股 ${L.etf0050_hold.張數.toLocaleString()}張（${L.etf0050_hold.比率}%）`;}
+  {const m=L.margin?.etf0050;if(m){const prev=L5.length>1?L5[L5.length-2]?.margin?.etf0050?.融資餘額:null;const diff=prev!=null?m.融資餘額-prev:null;const ds=diff!=null?(diff>=0?` ▲${diff.toLocaleString()}`:(` ▼${Math.abs(diff).toLocaleString()}`)):'';$('t0margin').textContent=`融資 ${m.融資餘額.toLocaleString()}張${ds}`;}}
   $('t0c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s50>=0?'pos':'neg'}">${s50>=0?'+':''}${s50.toLocaleString()}張</span>`;
   // 台達電 2308
   const s5d2=L5.filter(r=>r.delta外資!=null).reduce((a,r)=>a+(r.delta外資||0),0);
@@ -635,6 +643,7 @@ function rCards(){
     const di=$('td2i');di.textContent=fZ(L.delta投信);di.className='mv '+(L.delta投信>=0?'pos':'neg');
     $('td2c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5d2>=0?'pos':'neg'}">${s5d2>=0?'+':''}${s5d2.toLocaleString()}張</span>`;
     if(L.delta_hold){$('td2hold').textContent=`外資持股 ${L.delta_hold.張數.toLocaleString()}張（${L.delta_hold.比率}%）`;}
+    {const m=L.margin?.delta;if(m){const prev=L5.length>1?L5[L5.length-2]?.margin?.delta?.融資餘額:null;const diff=prev!=null?m.融資餘額-prev:null;const ds=diff!=null?(diff>=0?` ▲${diff.toLocaleString()}`:(` ▼${Math.abs(diff).toLocaleString()}`)):'';$('td2margin').textContent=`融資 ${m.融資餘額.toLocaleString()}張${ds}`;}}
   }else{
     $('td2f').textContent='--';$('td2b').innerHTML='';$('td2i').textContent='--';$('td2hold').textContent='';$('td2c5').innerHTML='';
   }
@@ -938,6 +947,13 @@ function renderGlobal(){
 }
 
 // === INIT ===
+function renderHolders(h){
+  if(!h)return;
+  const fmt=n=>n!=null?`股東人數 ${(n/10000).toFixed(1)}萬人`:'';
+  if(h.tsmc)    $('ttholder').textContent=fmt(h.tsmc);
+  if(h.etf0050) $('t0holder').textContent=fmt(h.etf0050);
+  if(h.delta)   $('td2holder').textContent=fmt(h.delta);
+}
 (async()=>{
   try{
     const resp=await fetch('data.json?v='+Date.now());
@@ -957,6 +973,7 @@ function renderGlobal(){
     rPage();initDs();
     document.querySelector('.sh').classList.add('open');$('s5d').style.display='';
     renderGlobal();
+    fetch('holder-weekly.json?v='+Date.now()).then(r=>r.ok?r.json():null).then(renderHolders).catch(()=>{});
   }catch(e){
     $('hd').textContent='⚠️ 資料載入失敗，請重新整理頁面';
     $('at').textContent='資料載入失敗';
