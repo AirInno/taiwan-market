@@ -205,9 +205,9 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 </div>
 
 <div class="navs">
-  <div class="nt active" onclick="sw('today')">今日簡報</div>
-  <div class="nt" onclick="sw('history')">歷史走勢</div>
-  <div class="nt" onclick="sw('stocks')">個股排行</div>
+  <div class="nt active" onclick="sw('today')">盤後雷達</div>
+  <div class="nt" onclick="sw('history')">趨勢圖表</div>
+  <div class="nt" onclick="sw('stocks')">法人動向</div>
   <div class="nt" onclick="sw('trump')">🇺🇸 川普動態</div>
 </div>
 <div id="dbar">
@@ -334,6 +334,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="chs"><div class="cht">🟠 0050 外資張數</div><div class="chw"><canvas id="h05"></canvas></div></div>
   <div class="chs"><div class="cht">⚡ 台達電(2308) 外資張數</div><div class="chw"><canvas id="hdl"></canvas></div></div>
   <div class="chs" id="chs-hold" style="display:none"><div class="cht">📊 外資持股比率（%）走勢－2330 / 2308 / 0050</div><div class="chw"><canvas id="hhold"></canvas></div></div>
+  <div class="chs" id="chs-margin" style="display:none"><div class="cht">💳 個股融資餘額走勢（張）－2330 / 2308 / 0050</div><div class="chw"><canvas id="hmargin"></canvas></div></div>
   <div class="chs" id="chs-glo" style="display:none"><div class="cht">🌎 S&P500 × VIX 走勢</div><div class="chw tall"><canvas id="hglo"></canvas></div></div>
   <div class="chs" id="chs-bnd" style="display:none"><div class="cht">💛 美10Y債殖利率（%）× 黃金（$）</div><div class="chw tall"><canvas id="hbnd"></canvas></div></div>
   <div class="chs"><div class="cht">📊 警示等級觸發後台股表現（歷史回測）</div><div class="chw"><div id="hwr"></div></div></div>
@@ -834,6 +835,20 @@ function rHist(){
       {label:'2308 持股%',data:hr2308,borderColor:'#34d399',backgroundColor:'rgba(52,211,153,.08)',pointRadius:4,tension:.3,fill:false,spanGaps:true},
       {label:'0050 持股%',data:hr0050,borderColor:'#fb923c',backgroundColor:'rgba(251,146,60,.08)',pointRadius:4,tension:.3,fill:false,spanGaps:true}
     ]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v+'%'},grid:{color:'#2d3748'},min:0,max:100}}}}));
+  }
+  // 融資餘額走勢（有 margin 資料才顯示）
+  const mgnDd=dd.filter(r=>r.margin?.tsmc);
+  if(mgnDd.length>1){
+    $('chs-margin').style.display='';
+    const mLb=mgnDd.map(r=>r.dateLabel);
+    const mt=mgnDd.map(r=>r.margin?.tsmc?.融資餘額??null);
+    const md=mgnDd.map(r=>r.margin?.delta?.融資餘額??null);
+    const me=mgnDd.map(r=>r.margin?.etf0050?.融資餘額??null);
+    hCharts.push(new Chart($('hmargin').getContext('2d'),{type:'line',data:{labels:mLb,datasets:[
+      {label:'2330 融資',data:mt,borderColor:'#60a5fa',backgroundColor:'rgba(96,165,250,.08)',pointRadius:3,tension:.3,fill:false,spanGaps:true},
+      {label:'2308 融資',data:md,borderColor:'#34d399',backgroundColor:'rgba(52,211,153,.08)',pointRadius:3,tension:.3,fill:false,spanGaps:true},
+      {label:'0050 融資',data:me,borderColor:'#fb923c',backgroundColor:'rgba(251,146,60,.08)',pointRadius:3,tension:.3,fill:false,spanGaps:true}
+    ]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
   }
   // Global market charts (data.json driven)
   const gDd=dd.filter(r=>r.global&&r.global.sp500);
