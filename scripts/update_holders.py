@@ -3,7 +3,8 @@
 執行時機：每週一 UTC 2:00（台灣時間 10:00）
 資料來源：https://opendata.tdcc.com.tw/getOD.ashx?id=1-5
 """
-import json, requests, os, sys
+import json, requests, urllib3, os, sys
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 HOLDER_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'holder-weekly.json')
 TDCC_URL    = 'https://opendata.tdcc.com.tw/getOD.ashx?id=1-5'
@@ -11,7 +12,7 @@ TARGETS     = {'2330': 'tsmc', '0050': 'etf0050', '2308': 'delta'}
 
 def fetch_holder_count():
     try:
-        resp = requests.get(TDCC_URL, timeout=30)
+        resp = requests.get(TDCC_URL, timeout=30, verify=False)
         resp.encoding = 'utf-8'
         lines = resp.text.strip().split('\n')
     except Exception as e:
