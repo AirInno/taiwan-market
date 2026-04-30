@@ -1,5 +1,57 @@
 [
   {
+    "date": "20260501",
+    "fetchTime": "2026-05-01 05:30",
+    "count": 5,
+    "articles": [
+      {
+        "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+        "desc": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+        "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-01 04:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示美國正在研究駐德國軍隊的裁減，與默茨的爭吵愈演愈烈",
+        "descZh": "他的這番話是在德國總理批評美國對伊朗戰爭的做法之後發表的。"
+      },
+      {
+        "title": "Trump to Lift Tariffs on Scotland-Kentucky Whiskey and Bourbon Trade - Global Banking & Finance Review",
+        "desc": "Trump to Lift Tariffs on Scotland-Kentucky Whiskey and Bourbon Trade&nbsp;&nbsp;Global Banking & Finance Review",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0JhbmoxaUhRM21udEtOaVBtT3Y0RE9kbTNWM2Z3eEpEeDlZY1pxZUh5LUJEMXZfcjA1b2sxVE9qYVlTMU40SE5rMUFXQXd4a05kazhNaS1GbW0wbXNMQjdPekpNYTQ0QmRHWWZ4eXZLUkpzN1Nhd2p5RGkzb2xjbnFtaVhmUGZKTi0tZmxvWVozMmpGbDR2Vlh3N0FRX21feFJ3?oc=5",
+        "pubTime": "2026-05-01 02:53",
+        "source": "news.google.com",
+        "titleZh": "川普將解除蘇格蘭-肯塔基州威士卡與波本威士忌貿易關稅 - 全球銀行與金融評論",
+        "descZh": "川普將解除蘇格蘭-肯塔基州威士卡與波本威士忌貿易關稅&nbsp;&nbsp;全球銀行與金融評論"
+      },
+      {
+        "title": "Trump's $166 billion tariff refunds may finally be in sight as first payouts expected by May 11 - The Economic Times",
+        "desc": "Trump's $166 billion tariff refunds may finally be in sight as first payouts expected by May 11&nbsp;&nbsp;The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSWpSWEhob01tdlU1THExM0VGWGlFcVEwNTBNQnZudnZMR3BIQnFTdmZqWFc1Yk5ZejdSMUFfdjlNVkNnR3NWbXE1RDIzUndEaTV2d3J4WlBRYl9mRjY3UUFRSmE4VFQ0aE93MDhGZ00xS203RW1jR0ZweEdJVDVkM0EycXF2QWcyRnVsZkN5R1VXaU54cHNUZDZKZ2lGa2xUb1ZYSlJTYzgtalZqdWZvUzdGVHYyZ2N6VXVxbXpvTGpGakZNbW5GTWJzakdsZndzQzRGYzVTTExfMWRuRnhzbjNITm1JWFltN0FsMnRmcldTVVFJbTZvSkY4Y9IBgAJBVV95cUxPeHJSSFA0SHN0LW0yT0p3TDB6VFFmQS1neWNYSUxkU1VyY1RncUtuYl83Q3RRSG1fSV8zbE5rbmZkeERoakc5UDZweHFCX2g1a1N3ejgtUnRrZER4YlFqTkRjc2IxRnhMVEZzZDBsZjRVa182YVFPbDJld3l0b0V3TVBPZnoxNXRxQVRNYjQtT3ZGdkZScFVZYTNuclRaU2hUbjl6MWZWbXEzRllOTUVxUDdtbDkzU214X2RjR1VxaWZQYm1TdDIwcW9oYlBOWmJiaG5kYjJ0VTMwV1hPUTJSUHRCLUE2ZGxMRHc1cTRNQ0RrcGpJbHB1Q0gtM0dYV1VM?oc=5",
+        "pubTime": "2026-04-30 09:12",
+        "source": "news.google.com",
+        "titleZh": "川普的 1,660 億美元關稅退還終於有望在 5 月 11 日前完成首筆支付 - 經濟日報",
+        "descZh": "川普的 1,660 億美元關稅退還終於有望在 5 月 11 日前完成首筆支付&nbsp;&nbsp;經濟日報"
+      },
+      {
+        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+        "desc": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-30 04:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "科米因被指控在 Instagram 帖子中威脅特朗普的生命安全而自首",
+        "descZh": "檢察官表示，前 FBI 局長張貼的 2025 年貝殼照片是呼籲對 Trump 採取暴力行動。"
+      },
+      {
+        "title": "Five takeaways from the King's historic address to Congress",
+        "desc": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-04-29 16:48",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "國王向國會發表歷史性演說的五大啟示",
+        "descZh": "演講中有幾句話可能讓民主黨人感到振奮，也讓白宮方面瞠目結舌。"
+      }
+    ]
+  },
+  {
     "date": "20260430",
     "fetchTime": "2026-04-30 05:36",
     "count": 15,
