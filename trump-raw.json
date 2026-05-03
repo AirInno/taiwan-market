@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260504",
+    "fetchTime": "2026-05-04 05:06",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Iran says US has responded to its latest peace proposal",
+        "desc": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-04 04:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "伊朗稱美國已對其最新和平提議作出回應",
+        "descZh": "美國尚未正式確認已作出回應。然而，據報道，特朗普告訴以色列的 Kan News 這是不可接受的。"
+      },
+      {
+        "title": "Who shot a Secret Service officer at the Trump press dinner?",
+        "desc": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+        "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-04 01:29",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "誰在川普的記者晚宴上射殺特勤人員？",
+        "descZh": "法庭文件並未明確指控嫌犯射殺警員，即使官員表示這並非 「友軍射擊」。"
+      },
+      {
+        "title": "Voters will judge Trump on the economy - how is it doing?",
+        "desc": "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living.",
+        "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-03 17:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "選民將以經濟來評斷川普 - 經濟表現如何？",
+        "descZh": "唐納德‧川普（Donald Trump）在總統任期內能做多少事，很大程度上取決於生活成本。"
+      },
+      {
+        "title": "Spirit Airlines shutting down after rescue talks collapse",
+        "desc": "The airline had been in talks with the Trump administration about a $500m bailout.",
+        "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-03 07:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "精神航空在救援談判破裂後停飛",
+        "descZh": "該航空公司曾與川普政府商討 5 億美元的救助方案。"
+      },
+      {
+        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+        "desc": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-03 07:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普告訴國會停火意味著他不需要國會批准伊朗戰爭",
+        "descZh": "總統寫道，由於停火，敵對行動「已經終止」，他辯稱不需要國會授權。"
+      },
+      {
+        "title": "US tariff threat puts EU car exports back at centre of trade dispute - EU Today",
+        "desc": "US tariff threat puts EU car exports back at centre of trade dispute&nbsp;&nbsp;EU Today",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vVTJWMEJJU2JIVm11T3VHM05kNTlscGg3UFFnanlsVDZYa3JkbmZoaVplT2xIMmZrMWhxaEIyZ0xTUW9JYzFkS2s5TlQxSlJvaC1CNWdaSDNYQm1W?oc=5",
+        "pubTime": "2026-05-02 16:22",
+        "source": "news.google.com",
+        "titleZh": "美國的關稅威脅讓歐盟汽車出口重回貿易爭議的中心 - EU Today",
+        "descZh": "美國的關稅威脅讓歐盟汽車出口重回貿易爭議中心&nbsp;&nbsp;今日歐盟"
+      },
+      {
+        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+        "desc": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
+        "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-02 10:43",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普聲稱其他總統藐視戰爭權力法記錄參差不齊",
+        "descZh": "布什和里根都贏得了戰爭授權，但奧巴馬和克林頓卻迴避了這一要求。"
+      },
+      {
+        "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - The Washington Post",
+        "desc": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUlPWDU2QnZaOEtsMGI5bVJueWgzU2doLUtZdXRBNHFDc09pZ1pkeW5vN1czLUNaZnl4UUhHdzR6RWY3TzJXZEJ6YVFnMFg1bXRPUGkxeV9vMlhYRWZtQzFPalFzRWh5Zzd6aVNmZHJvaWJadjVfT2dqQlkwaFV6bWVPRUQxVHNmb2paNExUZzRld0lvM2Y2cENkOXpSdzdQamY3a2N1dzlSSi0zdkpCbEYtSW94Y0lkQjdLNWFadFRnYnJLVWc?oc=5",
+        "pubTime": "2026-05-02 06:56",
+        "source": "news.google.com",
+        "titleZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定 - 華盛頓郵報",
+        "descZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定&nbsp;&nbsp;華盛頓郵報"
+      }
+    ]
+  },
+  {
     "date": "20260503",
     "fetchTime": "2026-05-03 05:03",
     "count": 17,
