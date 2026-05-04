@@ -1,5 +1,57 @@
 [
   {
+    "date": "20260505",
+    "fetchTime": "2026-05-05 05:34",
+    "count": 5,
+    "articles": [
+      {
+        "title": "‘Nothing changes’ — but what’s the point of a trade deal with Trump? - EUobserver",
+        "desc": "‘Nothing changes’ — but what’s the point of a trade deal with Trump?&nbsp;&nbsp;EUobserver",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZZQmVWZjFvU3E2c1FXRXJMSklBQ01iNmc5UGwybzc5S242blJlVmgzNTlWSGpuTFoyRTBXWVFJbkNmaVVHRmZKeDVaZ0R1a05WYk15NjdhY2RJSjQ4N2RkcUc1OFBfWk1tRzdKbTJuMjVsUjY0eHI4Qnhwei1TV3lLaDB2VFB3ZDBNdS1EOTJZYm5RazY1WA?oc=5",
+        "pubTime": "2026-05-05 02:00",
+        "source": "news.google.com",
+        "titleZh": "一切照旧\"--但与特朗普达成贸易协议的意义何在？- 歐盟觀察員",
+        "descZh": "與特朗普達成貿易協議的意義何在？"
+      },
+      {
+        "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves - The New York Times",
+        "desc": "China Seeks an Advantage With Both Trump and Iran as War Evolves&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCSHVhTllvd0t2MXpwbEllTWpvbjJoOUpYcVZOcWREa1BRZTBiMmNTbFdWNnpmVUppUWFiY1BpWjMzRnZqQ1JUTnJtU1NtTmp1eGNGQU9ycmp2OHFzZklKWTk4Uzdnb290dWItNnVubnFVQnhEOGY1M20xQmw?oc=5",
+        "pubTime": "2026-05-04 06:30",
+        "source": "news.google.com",
+        "titleZh": "中國在戰爭演變中尋求與特朗普和伊朗雙方的優勢 - 紐約時報",
+        "descZh": "隨著戰爭的發展，中國尋求與特朗普和伊朗的優勢&nbsp;&nbsp;紐約時報"
+      },
+      {
+        "title": "Iran says US has responded to its latest peace proposal",
+        "desc": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-04 05:28",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "伊朗稱美國已對其最新和平提議作出回應",
+        "descZh": "美國尚未正式確認已作出回應。然而，據報道，特朗普告訴以色列的 Kan News 這是不可接受的。"
+      },
+      {
+        "title": "Who shot a Secret Service officer at the Trump press dinner?",
+        "desc": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+        "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-04 01:29",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "誰在川普的記者晚宴上射殺特勤人員？",
+        "descZh": "法庭文件並未明確指控嫌犯射殺警員，即使官員表示這並非 「友軍射擊」。"
+      },
+      {
+        "title": "Voters will judge Trump on the economy - how is it doing?",
+        "desc": "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living.",
+        "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-03 17:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "選民將以經濟來評斷川普 - 經濟表現如何？",
+        "descZh": "唐納德‧川普（Donald Trump）在總統任期內能做多少事，很大程度上取決於生活成本。"
+      }
+    ]
+  },
+  {
     "date": "20260504",
     "fetchTime": "2026-05-04 05:06",
     "count": 8,
