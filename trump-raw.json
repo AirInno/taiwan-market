@@ -1,5 +1,75 @@
 [
   {
+    "date": "20260506",
+    "fetchTime": "2026-05-06 05:31",
+    "count": 7,
+    "articles": [
+      {
+        "title": "Mission is to preach peace, says Pope in response to Trump attacks",
+        "desc": "Trump lashed out at the pope for condemning the conflict in the Middle East, as his secretary of state heads to the Vatican.",
+        "url": "https://www.bbc.com/news/articles/c2023gne5p1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 04:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "教宗回應川普攻擊時表示，教宗的使命是宣揚和平",
+        "descZh": "特朗普抨擊教皇譴責中東衝突，他的國務卿正前往梵蒂岡。"
+      },
+      {
+        "title": "US aviation worker accused of  using work computer to threaten Trump",
+        "desc": "Prosecutors allege the suspect searched the internet for how to get a gun into a federal facility, and later asked the IT team to have his search history deleted.",
+        "url": "https://www.bbc.com/news/articles/c5y7vrvdzn9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 02:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國航空業工人被控使用工作電腦威脅川普",
+        "descZh": "檢察官指控嫌犯在網路上搜尋如何將槍械帶進聯邦設施，之後要求 IT 團隊刪除他的搜尋歷史。"
+      },
+      {
+        "title": "What we know about Trump's 'Project Freedom' in Strait of Hormuz",
+        "desc": "What does the operation entail and could it lead to a resumption of hostilities?",
+        "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-05 21:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "關於特朗普在霍爾木玆海峽的 「自由計劃」，我們知道些什麼？",
+        "descZh": "該行動的內容為何，是否可能導致重新展開敵對行動？"
+      },
+      {
+        "title": "Trump’s Southeast Asia Trade Deals Are in Limbo - Foreign Policy",
+        "desc": "Trump’s Southeast Asia Trade Deals Are in Limbo&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXA4Tk1OM2NqSkQzQ2JqeWN5WVNiekFQRkdVUDZQdVFjLXVEQXhTelNNd1g2b0ZvNVlDZTJmdDdPemcwMEpoNDJVeTRtaU1LMVV5MjRpLXdzak96TmFhTmk3U0cyd2JBMjExQnJJSXFGSjZkM0RsY2VxZkNKRmpGb194cnU3YnhDTW5tUXNTTQ?oc=5",
+        "pubTime": "2026-05-05 17:43",
+        "source": "news.google.com",
+        "titleZh": "川普的東南亞貿易協議陷入困境 - 外交政策",
+        "descZh": "川普的東南亞貿易協議陷入困境&nbsp;&nbsp;外交政策"
+      },
+      {
+        "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves - The New York Times",
+        "desc": "China Seeks an Advantage With Both Trump and Iran as War Evolves&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCSHVhTllvd0t2MXpwbEllTWpvbjJoOUpYcVZOcWREa1BRZTBiMmNTbFdWNnpmVUppUWFiY1BpWjMzRnZqQ1JUTnJtU1NtTmp1eGNGQU9ycmp2OHFzZklKWTk4Uzdnb290dWItNnVubnFVQnhEOGY1M20xQmw?oc=5",
+        "pubTime": "2026-05-05 05:33",
+        "source": "news.google.com",
+        "titleZh": "中國在戰爭演變中尋求與特朗普和伊朗雙方的優勢 - 紐約時報",
+        "descZh": "隨著戰爭的發展，中國尋求與特朗普和伊朗的優勢&nbsp;&nbsp;紐約時報"
+      },
+      {
+        "title": "'Elephant in the room' Trump looms over European attempt at unity",
+        "desc": "At a gathering in Armenia, leaders admit their alliances “aren’t where they want them to be”.",
+        "url": "https://www.bbc.com/news/articles/cn0pyle4jeeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-05 05:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普「房間裡的大象」籠罩歐洲團結嘗試",
+        "descZh": "在亞美尼亞的一次聚會上，領導人承認他們的聯盟「並沒有達到他們想要的境界」。"
+      },
+      {
+        "title": "‘Nothing changes’ — but what’s the point of a trade deal with Trump? - EUobserver",
+        "desc": "‘Nothing changes’ — but what’s the point of a trade deal with Trump?&nbsp;&nbsp;EUobserver",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZZQmVWZjFvU3E2c1FXRXJMSklBQ01iNmc5UGwybzc5S242blJlVmgzNTlWSGpuTFoyRTBXWVFJbkNmaVVHRmZKeDVaZ0R1a05WYk15NjdhY2RJSjQ4N2RkcUc1OFBfWk1tRzdKbTJuMjVsUjY0eHI4Qnhwei1TV3lLaDB2VFB3ZDBNdS1EOTJZYm5RazY1WA?oc=5",
+        "pubTime": "2026-05-05 02:00",
+        "source": "news.google.com",
+        "titleZh": "一切照旧\"--但与特朗普达成贸易协议的意义何在？- 歐盟觀察員",
+        "descZh": "與特朗普達成貿易協議的意義何在？"
+      }
+    ]
+  },
+  {
     "date": "20260505",
     "fetchTime": "2026-05-05 05:34",
     "count": 5,
