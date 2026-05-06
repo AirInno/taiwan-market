@@ -1,5 +1,102 @@
 [
   {
+    "date": "20260507",
+    "fetchTime": "2026-05-07 05:35",
+    "count": 10,
+    "articles": [
+      {
+        "title": "Brazil President Lula to discuss economy and security with Trump at White House",
+        "desc": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
+        "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-07 04:48",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "巴西總統盧拉將在白宮與川普討論經濟與安全問題",
+        "descZh": "這兩位領導人關係緊張，人們將密切關注他們在關稅和其他問題上是否有突破的跡象。"
+      },
+      {
+        "title": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war - The Tribune-Democrat",
+        "desc": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war&nbsp;&nbsp;The Tribune-Democrat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTkVIN2pZSFFTNW1kbi04SHd6enhCb2JldTBSSmEyZ3B0ZnF5d0xEOU1VMTcwM0RpOFJBTEp1bVN5c2pTSXBub1A5eFFRTjBpdGtFTUxwTFFadkJRUENweExKZzlKc0dza2lSSzRXdTlhLWlCNldqczlFUXZOWHZEb0lHWmdJUjktZ3hMUC1IN3VQcmdleDAtT19lWDRiR2l5TlVtRnFWTFpXamxTODR2dDhLZXFlWnBzNVFjYVl5OXg2NWlWQ1VOZi1yRnVHQXR0QlFBbjdNR1RyN0EwdGJPV1puRkw2NGc?oc=5",
+        "pubTime": "2026-05-07 02:42",
+        "source": "news.google.com",
+        "titleZh": "美國向伊朗油輪開火，川普施壓德黑蘭達成協議結束戰爭 - The Tribune-Democrat",
+        "descZh": "美國向伊朗油輪開火，川普向德黑蘭施壓要求達成結束戰爭的協議&nbsp;&nbsp;The Tribune-Democrat"
+      },
+      {
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "desc": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+        "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-07 01:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普對伊朗和平協議抱有希望，但也有注意事項",
+        "descZh": "有跡象顯示結束戰爭的新動力，但川普本人也注入了一份謹慎。"
+      },
+      {
+        "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+        "desc": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
+        "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 19:04",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Vivek Ramaswamy 贏得共和黨俄亥俄州州長提名",
+        "descZh": "特朗普的堅定盟友在美國中西部地區舉行的一系列密切關注的初選中脫穎而出。"
+      },
+      {
+        "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+        "desc": "The US president said the operation has been paused after starting on Monday.",
+        "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 10:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普在霍爾木玆海峽的 「自由計劃 」是什麼？",
+        "descZh": "美國總統表示，行動自週一開始後已暫停。"
+      },
+      {
+        "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+        "desc": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
+        "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 10:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示美國將暫停引導船隻通過霍爾木玆海峽的行動",
+        "descZh": "美國總統表示，由於在與伊朗達成協議方面已取得進展，週一開始的 「自由計劃 」將停止。"
+      },
+      {
+        "title": "Man charged with attempted Trump assassination indicted for assaulting Secret Service officer",
+        "desc": "Cole Tomas Allen is now facing charges from a grand jury indictment, which supersedes his previous charges.",
+        "url": "https://www.bbc.com/news/articles/clyp5rr0lm6o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 06:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "被控企圖暗殺特朗普的男子因襲擊特勤局人員被起訴",
+        "descZh": "Cole Tomas Allen 現在面臨的指控來自大陪審團的起訴書，該起訴書取代了他之前的指控。"
+      },
+      {
+        "title": "Mission is to preach peace, says Pope in response to Trump attacks",
+        "desc": "Trump lashed out at the pope for condemning the conflict in the Middle East, as his secretary of state heads to the Vatican.",
+        "url": "https://www.bbc.com/news/articles/c2023gne5p1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-06 04:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "教宗回應川普攻擊時表示，教宗的使命是宣揚和平",
+        "descZh": "特朗普抨擊教皇譴責中東衝突，他的國務卿正前往梵蒂岡。"
+      },
+      {
+        "title": "Key EU clash looms over Trump trade deal - politico.eu",
+        "desc": "Key EU clash looms over Trump trade deal&nbsp;&nbsp;politico.eu",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUdNWHFpbWFZVFFGQmxwcll2U081UDJqWlVqQXBJTmtiRXZNLU93X2RNeGVCcjRXMXpRTzhkVW42TzFwX1JodFBkWlFnSjRrbmk3RzE3em5IcVpoV1NOaVc5MVNuVGcyVUp4X1RoZXpNbDEyMlhMZFhUdkZ1WTNtUA?oc=5",
+        "pubTime": "2026-05-06 01:28",
+        "source": "news.google.com",
+        "titleZh": "特朗普貿易協定的關鍵歐盟衝突迫在眉睫 - politico.eu",
+        "descZh": "特朗普貿易協定的關鍵歐盟衝突迫在眉睫&nbsp;&nbsp;politico.eu"
+      },
+      {
+        "title": "Trump’s Southeast Asia Trade Deals Are in Limbo - Foreign Policy",
+        "desc": "Trump’s Southeast Asia Trade Deals Are in Limbo&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXA4Tk1OM2NqSkQzQ2JqeWN5WVNiekFQRkdVUDZQdVFjLXVEQXhTelNNd1g2b0ZvNVlDZTJmdDdPemcwMEpoNDJVeTRtaU1LMVV5MjRpLXdzak96TmFhTmk3U0cyd2JBMjExQnJJSXFGSjZkM0RsY2VxZkNKRmpGb194cnU3YnhDTW5tUXNTTQ?oc=5",
+        "pubTime": "2026-05-05 17:43",
+        "source": "news.google.com",
+        "titleZh": "川普的東南亞貿易協議陷入困境 - 外交政策",
+        "descZh": "川普的東南亞貿易協議陷入困境&nbsp;&nbsp;外交政策"
+      }
+    ]
+  },
+  {
     "date": "20260506",
     "fetchTime": "2026-05-06 05:31",
     "count": 7,
