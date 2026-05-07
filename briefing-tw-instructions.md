@@ -79,6 +79,31 @@ for a in latest.get('articles', []):
 
 latest = data[0]. trump_count = latest.count. arts = latest.articles. Use English title/desc as primary.
 
+## STEP 2.5 FETCH YOUTUBE TRANSCRIPT（游庭皓前日直播，選填）
+
+Find the most recent YouTube transcript file from GitHub:
+
+```bash
+curl -s -H "Authorization: token TOKEN" \
+  "https://api.github.com/repos/AirInno/taiwan-market/contents/briefings" | python3 -c "
+import json, sys
+files = json.load(sys.stdin)
+yt = sorted([f['name'] for f in files if isinstance(f, dict) and f.get('name','').endswith('-youtube-transcript.md')], reverse=True)
+print(yt[0] if yt else '')
+"
+```
+
+If output is blank → set `yt_available = False`, skip to STEP 3.
+
+If a filename is returned (e.g. `20260506-youtube-transcript.md`):
+
+```bash
+curl -s -H "Authorization: token TOKEN" \
+  "https://raw.githubusercontent.com/AirInno/taiwan-market/main/briefings/[FILENAME]"
+```
+
+Save full content as `yt_text`. Set `yt_available = True`, `yt_date = [YYYYMMDD from filename]`.
+
 ## STEP 3 DECIDE MODES
 
 Read today.警示 → taiwan_mode (short / medium / full).
@@ -294,7 +319,7 @@ USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
 • 開戶人數動態：[XXX萬人（月增XX萬）or 無新數據]
 • 貧富差距/財富外溢：[基尼係數/財富效果觀察 or 無新數據]
 
-（本欄依搜尋結果或當日 YouTube 逐字稿（briefings/YYYYMMDD-youtube-transcript.md）中提及的最新數據填入；若無相關資訊，標注「無新數據」）
+（本欄依搜尋結果或 STEP 2.5 讀取的 yt_text 中提及的最新數據填入；若無相關資訊，標注「無新數據」）
 
 ━━━━━━━━━━━━━━━━━━━━━━
 🇺🇸 川普動態
@@ -302,9 +327,19 @@ USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
 [2–3 句，說明川普情緒評估（偏多/偏空/中性）、對台股的核心傳導路徑。詳見當日 trump.md。]
 
 ━━━━━━━━━━━━━━━━━━━━━━
+🎙️ 游庭皓財經皓角（[yt_date] 直播）
+
+[若 yt_available = False：無前日直播資料，略過本欄]
+[若 yt_available = True：從 yt_text 全文提取以下重點]
+• 市場主軸：[他提出的今日核心問題或主軸觀點，1–2句]
+• 引用數據／標的：[他引用的具體數字、個股代號、指標，條列]
+• 台股整體看法：[偏多／偏空／中性，附簡短理由]
+• 特別提醒：[他特別強調的風險點或機會，若無則略]
+
+━━━━━━━━━━━━━━━━━━━━━━
 💡 明日操作參考
 
-[3–5 句綜合建議，融合：警示等級、外資/投信方向、台積電/0050/台達電動向、進場訊號分數、分歧信號、全球市場傳導鏈、川普情緒、利空鈍化評估]
+[3–5 句綜合建議，融合：警示等級、外資/投信方向、台積電/0050/台達電動向、進場訊號分數、分歧信號、全球市場傳導鏈、川普情緒、利空鈍化評估、游庭皓觀點（若有）]
 [short mode 可略簡為 2 句]
 
 • 市場槓桿溫度：[高/中/低 or 無新數據]（同 台灣宏觀溫度 欄位，若高則提醒留意維持率風險）
