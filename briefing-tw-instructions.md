@@ -277,6 +277,7 @@ For each day in recent5: 外資與投信同正 → `同向買入`；同負 → `
 S&P500 [X,XXX]（[±X.XX%]）｜Nasdaq [X,XXX]（[±X.XX%]）｜VIX [XX.X]（[±X.X%]）
 費半SOX [X,XXX]（[±X.XX%]）｜美10Y [X.XX%]（[±X.X bp]）｜黃金 $[X,XXX]（[±X.X%]）
 USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
+費半前瞻PE：[XX倍 or N/A]（vs 標普 [XX倍 or N/A]）→ [費半相對標普：偏低估/相當/偏高估]
 
 📡 傳導鏈解讀：
 • 油價/能源：[油價方向] → 通膨預期[升/降] → Fed 降息空間[縮小/擴大] → [對台股估值的影響]
@@ -284,6 +285,16 @@ USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
 • VIX [XX.X]：[恐慌程度評估（<20偏低恐慌/20-30中性/30+高恐慌）] → [外資風險偏好方向]
 • 費半SOX [±X%]：[半導體景氣訊號] → [對台積電/聯發科訂單能見度的含意]
 • USD/TWD [XX.XXX]：[台幣[升/貶]值對外資匯兌損益的影響] → [外資資金留台意願]
+
+━━━━━━━━━━━━━━━━━━━━━━
+🇹🇼 台灣宏觀溫度
+
+• 製造業PMI：[XX.X（擴張/收縮）or 無新數據]
+• 市場槓桿溫度：[高/中/低 or 無新數據]（融資餘額創高/質押滿額/房貸流入股市 等跡象）
+• 開戶人數動態：[XXX萬人（月增XX萬）or 無新數據]
+• 貧富差距/財富外溢：[基尼係數/財富效果觀察 or 無新數據]
+
+（本欄依搜尋結果或當日 YouTube 逐字稿（briefings/YYYYMMDD-youtube-transcript.md）中提及的最新數據填入；若無相關資訊，標注「無新數據」）
 
 ━━━━━━━━━━━━━━━━━━━━━━
 🇺🇸 川普動態
@@ -295,6 +306,8 @@ USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
 
 [3–5 句綜合建議，融合：警示等級、外資/投信方向、台積電/0050/台達電動向、進場訊號分數、分歧信號、全球市場傳導鏈、川普情緒、利空鈍化評估]
 [short mode 可略簡為 2 句]
+
+• 市場槓桿溫度：[高/中/低 or 無新數據]（同 台灣宏觀溫度 欄位，若高則提醒留意維持率風險）
 
 📅 前瞻事件日曆（未來 7 天）
 • [YYYY-MM-DD]：[事件名稱]（預期市場影響：偏多/偏空/不確定）
@@ -364,12 +377,12 @@ If no verified quotes found, state clearly.
 
 ## 🤝 川習會/科技管制追蹤
 
-| 議題 | 最新進展 | 預計時程 | 台股影響方向 |
-|------|---------|---------|------------|
-| 中美峰會（川習會） | [最新消息或「尚無最新進展」] | [預計日期或「待定」] | [偏多/偏空/不確定] |
-| Nvidia/AI晶片出口管制 | [最新消息] | [預計] | [偏多/偏空/不確定] |
-| 台美半導體協議 | [最新執行進展] | — | [偏多/偏空] |
-| 對台關稅政策 | [當前稅率與最新變動] | — | [偏多/偏空/不確定] |
+| 議題 | 最新進展 | 各方籌碼 | 預計時程 | 台股影響方向 |
+|------|---------|---------|---------|------------|
+| 中美峰會（川習會） | [最新消息或「尚無最新進展」] | 美方：[籌碼] / 中方：[籌碼] | [預計日期或「待定」] | [偏多/偏空/不確定] |
+| Nvidia/AI晶片出口管制 | [最新消息] | 美方：[立場] / 中方：[訴求] | [預計] | [偏多/偏空/不確定] |
+| 台美半導體協議 | [最新執行進展] | — | — | [偏多/偏空] |
+| 對台關稅政策 | [當前稅率與最新變動] | — | — | [偏多/偏空/不確定] |
 
 ---
 
@@ -450,13 +463,4 @@ Print in session log:
 
 - All output Traditional Chinese.
 - Never modify data.json, data-latest.json, trump-briefing.json.
-- Trump briefing: always generate (7 searches every run). RSS count is for reference only.
-- Use DATE = today calendar date (YYYYMMDD), not last trading day date.
-- Every section of STEP 6 template must be filled in every mode; modes only gate search-based analysis depth.
-- If a field is missing (e.g. 分歧信號 absent), omit that specific sub-line gracefully, do not error out.
-- If market data date ≠ today (holiday or not yet updated), label briefing 「最近交易日資料」and continue.
-- 利空鈍化雷達：若無明顯鈍化，一行說明即可，不強迫填入；但有明顯鈍化時必須完整分析。
-- 傳導鏈解讀：必須解釋數字背後的「因果鏈」，不可只列數字而不說明含意。
-- 前瞻事件日曆：每日至少填入 2-3 個已知的近期重大事件節點；若無則明確說明。
-- 川習會/科技管制追蹤表格：每日必填，無新進展時寫「尚無最新進展，持續追蹤」。
-- 聯準會動態：每日必填，包含下次 FOMC 日期與當前市場降息定價。
+- Trump briefing: always generate (7 searches every run). RSS count is fo
