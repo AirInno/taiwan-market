@@ -25,7 +25,7 @@ echo       %GREEN%OK%RESET%
 echo.
 
 echo %CYAN%[1/4]%RESET% git add files...
-git add index.html deploy.bat data.json data-latest.json trump-briefing.json holder-weekly.json briefing-tw-instructions.md briefing-trump-instructions.md briefing-health-instructions.md scripts\smart_pull.py scripts\update_data.py scripts\update_global.py scripts\fetch_trump_news.py scripts\backfill_history.py scripts\heal.py scripts\test_pipeline.py scripts\update_holders.py fix_stocks.bat backfill.bat backfill_history.bat .github\workflows\update_data.yml .github\workflows\update_global.yml .github\workflows\trump_news.yml .github\workflows\validate_and_heal.yml .github\workflows\update_trump_briefing_json.yml .github\workflows\trump_briefing_email.yml .github\workflows\update_holders.yml .github\workflows\monthly_review_email.yml
+git add index.html deploy.bat data.json data-latest.json trump-briefing.json holder-weekly.json briefing-tw-instructions.md briefing-trump-instructions.md briefing-health-instructions.md scripts\smart_pull.py scripts\update_data.py scripts\update_global.py scripts\fetch_trump_news.py scripts\backfill_history.py scripts\heal.py scripts\test_pipeline.py scripts\update_holders.py fix_stocks.bat backfill.bat backfill_history.bat .github\workflows\update_data.yml .github\workflows\update_global.yml .github\workflows\trump_news.yml .github\workflows\validate_and_heal.yml .github\workflows\update_trump_briefing_json.yml .github\workflows\trump_briefing_email.yml .github\workflows\update_holders.yml .github\workflows\monthly_review_email.yml .github\workflows\youtube_transcript.yml .github\workflows\youtube_briefing_email.yml
 if !ERRORLEVEL! NEQ 0 (
   echo %RED%[ERROR] git add failed.%RESET%
   goto :END

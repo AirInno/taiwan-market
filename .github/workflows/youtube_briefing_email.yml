@@ -1,0 +1,43 @@
+name: YouTube 財經分析寄信
+
+on:
+  push:
+    paths:
+      - 'briefings/*-youtube-briefing.md'
+  workflow_dispatch:
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 取得最新 briefing 內容
+        id: briefing
+        run: |
+          FILE=$(ls briefings/*-youtube-briefing.md 2>/dev/null | sort | tail -1)
+          if [ -z "$FILE" ] || [ ! -f "$FILE" ]; then
+            echo "briefing 檔案不存在"
+            exit 0
+          fi
+          DATE=$(basename "$FILE" -youtube-briefing.md)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          CONTENT=$(head -c 8000 "$FILE")
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          echo "$CONTENT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: 發送分析信
+        if: steps.briefing.outputs.date != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.ANALYSIS_EMAIL_USER }}
+          password: ${{ secrets.ANALYSIS_EMAIL_PASSWORD }}
+          subject: "📺 游庭皓財經皓角 ${{ steps.briefing.outputs.date }} 摘要"
+          to: a11000033a10025818@gmail.com
+          from: ${{ secrets.ANALYSIS_EMAIL_USER }}
+          body: ${{ steps.briefing.outputs.content }}
