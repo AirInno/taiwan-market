@@ -461,8 +461,8 @@ def main():
         print('  TWSE T86 無資料，嘗試 FinMind...')
         stocks = fetch_t86_finmind(target)
     if stocks is None:
-        print(f'[錯誤] 無法取得個股資料')
-        sys.exit(1)
+        print(f'[跳過] {target} 無個股資料，60 分鐘後自動重試')
+        sys.exit(0)
 
     # 4. 全球市場（Yahoo Finance，失敗不中止）
     print('  抓取全球市場...')
