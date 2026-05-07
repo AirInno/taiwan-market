@@ -14,14 +14,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install yt-dlp
-        run: pip install yt-dlp requests
+      - name: Install dependencies
+        run: pip install youtube-transcript-api requests
 
       - name: Fetch transcript
         run: |
           cat > /tmp/fetch.py << 'PYEOF'
-          import requests, xml.etree.ElementTree as ET, subprocess, os, sys, glob, re
+          import requests, xml.etree.ElementTree as ET, os, json
           from datetime import datetime, timezone, timedelta
+          from youtube_transcript_api import YouTubeTranscriptApi
 
           CHANNEL_ID = "UC0lbAQVpenvfA2QqzsRtL_g"
           TZ_TAIPEI = timezone(timedelta(hours=8))
@@ -39,7 +40,9 @@ jobs:
           now = datetime.now(timezone.utc)
           cutoff = now - timedelta(hours=5)
 
+          api = YouTubeTranscriptApi()
           found = False
+
           for entry in root.findall('atom:entry', ns):
               pub = datetime.fromisoformat(
                   entry.find('atom:published', ns).text.replace('Z', '+00:00'))
@@ -56,27 +59,16 @@ jobs:
                   continue
 
               print(f"新影片：{title} ({vid_id})")
-              url = f"https://www.youtube.com/watch?v={vid_id}"
 
-              subprocess.run([
-                  'yt-dlp', '--skip-download',
-                  '--write-auto-sub', '--sub-lang', 'zh-Hant,zh-Hans,zh',
-                  '--convert-subs', 'srt', '-o', f'/tmp/{vid_id}', url
-              ], capture_output=True)
-
-              subs = glob.glob(f'/tmp/{vid_id}*.srt')
-              if not subs:
-                  print(f"字幕尚未生成，下次再試：{vid_id}")
+              try:
+                  t = api.fetch(vid_id, languages=['zh-TW', 'zh-Hant', 'zh'])
+                  text = ' '.join([s.text for s in t])
+                  if len(text) < 100:
+                      print(f"字幕內容太短，略過：{vid_id}")
+                      continue
+              except Exception as e:
+                  print(f"字幕尚未生成，下次再試：{vid_id} ({e})")
                   continue
-
-              with open(subs[0], encoding='utf-8', errors='ignore') as f:
-                  raw = f.read()
-
-              lines = [l.strip() for l in raw.split('\n')
-                       if l.strip()
-                       and not l.strip().isdigit()
-                       and not re.match(r'\d{2}:\d{2}:\d{2}', l.strip())]
-              transcript = ' '.join(lines)
 
               with open(out_file, 'w', encoding='utf-8') as f:
                   f.write(f"# {title}\n\n")
@@ -84,7 +76,7 @@ jobs:
                   f.write(f"- 發布時間: {pub.astimezone(TZ_TAIPEI).strftime('%Y-%m-%d %H:%M')} 台灣時間\n")
                   f.write(f"- 連結: https://www.youtube.com/watch?v={vid_id}\n\n")
                   f.write("---\n\n## 逐字稿\n\n")
-                  f.write(transcript)
+                  f.write(text)
 
               print(f"✅ 字幕已存：{out_file}")
               found = True
