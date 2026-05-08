@@ -30,7 +30,7 @@ jobs:
               # 從內文擷取 sentiment
               sentiment = '中性'
               for s in ['偏多', '偏空', '中性']:
-                  if s in text[:500]:
+                  if s in text[-300:]:
                       sentiment = s
                       break
               entries.append({

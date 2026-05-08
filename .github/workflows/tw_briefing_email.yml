@@ -1,0 +1,43 @@
+name: 台股簡報寄信通知
+
+on:
+  push:
+    paths:
+      - 'briefings/*-tw.md'
+  workflow_dispatch:
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 取得最新台股簡報內容
+        id: briefing
+        run: |
+          TODAY=$(TZ="Asia/Taipei" date +%Y%m%d)
+          FILE="briefings/${TODAY}-tw.md"
+          if [ ! -f "$FILE" ]; then
+            echo "今日台股簡報不存在：$FILE"
+            exit 0
+          fi
+          echo "date=$TODAY" >> $GITHUB_OUTPUT
+          CONTENT=$(head -c 8000 "$FILE")
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          echo "$CONTENT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: 發送台股簡報信
+        if: steps.briefing.outputs.date != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.ANALYSIS_EMAIL_USER }}
+          password: ${{ secrets.ANALYSIS_EMAIL_PASSWORD }}
+          subject: "📊 台股外資簡報 ${{ steps.briefing.outputs.date }}"
+          to: a11000033a66338855@gmail.com
+          from: ${{ secrets.ANALYSIS_EMAIL_USER }}
+          body: ${{ steps.briefing.outputs.content }}
