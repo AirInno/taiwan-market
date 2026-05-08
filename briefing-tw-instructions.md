@@ -302,7 +302,6 @@ For each day in recent5: 外資與投信同正 → `同向買入`；同負 → `
 S&P500 [X,XXX]（[±X.XX%]）｜Nasdaq [X,XXX]（[±X.XX%]）｜VIX [XX.X]（[±X.X%]）
 費半SOX [X,XXX]（[±X.XX%]）｜美10Y [X.XX%]（[±X.X bp]）｜黃金 $[X,XXX]（[±X.X%]）
 USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
-費半前瞻PE：[XX倍 or N/A]（vs 標普 [XX倍 or N/A]）→ [費半相對標普：偏低估/相當/偏高估]
 
 📡 傳導鏈解讀：
 • 油價/能源：[油價方向] → 通膨預期[升/降] → Fed 降息空間[縮小/擴大] → [對台股估值的影響]
@@ -310,16 +309,6 @@ USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
 • VIX [XX.X]：[恐慌程度評估（<20偏低恐慌/20-30中性/30+高恐慌）] → [外資風險偏好方向]
 • 費半SOX [±X%]：[半導體景氣訊號] → [對台積電/聯發科訂單能見度的含意]
 • USD/TWD [XX.XXX]：[台幣[升/貶]值對外資匯兌損益的影響] → [外資資金留台意願]
-
-━━━━━━━━━━━━━━━━━━━━━━
-🇹🇼 台灣宏觀溫度
-
-• 製造業PMI：[XX.X（擴張/收縮）or 無新數據]
-• 市場槓桿溫度：[高/中/低 or 無新數據]（融資餘額創高/質押滿額/房貸流入股市 等跡象）
-• 開戶人數動態：[XXX萬人（月增XX萬）or 無新數據]
-• 貧富差距/財富外溢：[基尼係數/財富效果觀察 or 無新數據]
-
-（本欄依搜尋結果或 STEP 2.5 讀取的 yt_text 中提及的最新數據填入；若無相關資訊，標注「無新數據」）
 
 ━━━━━━━━━━━━━━━━━━━━━━
 🇺🇸 川普動態
@@ -341,8 +330,6 @@ USD/TWD [XX.XXX]｜JPY/TWD [X.XXX]
 
 [3–5 句綜合建議，融合：警示等級、外資/投信方向、台積電/0050/台達電動向、進場訊號分數、分歧信號、全球市場傳導鏈、川普情緒、利空鈍化評估、游庭皓觀點（若有）]
 [short mode 可略簡為 2 句]
-
-• 市場槓桿溫度：[高/中/低 or 無新數據]（同 台灣宏觀溫度 欄位，若高則提醒留意維持率風險）
 
 📅 前瞻事件日曆（未來 7 天）
 • [YYYY-MM-DD]：[事件名稱]（預期市場影響：偏多/偏空/不確定）
@@ -483,19 +470,4 @@ git push https://GITHUB_TOKEN_FROM_SKILL_MD@github.com/AirInno/taiwan-market.git
 
 Files to save:
 - `briefings/YYYYMMDD-tw.md` — **always** (YYYYMMDD = today's calendar date)
-- `briefings/YYYYMMDD-trump.md` — **always**
-
-After push, GitHub Actions (`update_trump_briefing_json.yml`) auto-updates trump-briefing.json and sends email. Do NOT touch trump-briefing.json directly.
-
-## STEP 9 REPORT
-
-Print in session log:
-- Git push result (success / error)
-- The 🧭 今日市場主軸 + 📌 執行摘要 sections of the Taiwan briefing
-- Trump sentiment tag (偏多 / 偏空 / 中性) and RSS count used as reference
-
-## CONSTRAINTS
-
-- All output Traditional Chinese.
-- Never modify data.json, data-latest.json, trump-briefing.json.
-- Trump briefing: always generate (7 searches every run). RSS count is fo
+- `briefings/YYYYMMDD-trump.
