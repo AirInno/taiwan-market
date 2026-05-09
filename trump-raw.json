@@ -1,5 +1,372 @@
 [
   {
+    "date": "20260510",
+    "fetchTime": "2026-05-10 05:06",
+    "count": 40,
+    "articles": [
+      {
+        "title": "Trade Court Deals Blow to Trump Tariffs: $175 Billion Refunds Ordered for Importers - News and Statistics - IndexBox",
+        "desc": "Trade Court Deals Blow to Trump Tariffs: $175 Billion Refunds Ordered for Importers - News and Statistics&nbsp;&nbsp;IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOERZeDBuU05fS1BDdFphY0EzWVVtLV9qOTVsaVFUYURiVjZrT21jOERYdVA5UGI1RXFwOFYxM050N3pwUWRsanR6M2ZPbjhZdWE1NUhhbTBQMXd1Tml4OEZONjNaZlFGNjBzaGZPOGZqM05feDlNMUh1QUZhNkU4SDZWZUVPVklaR0k3eGYxZFZLNml5ejU2ZEpBbUJiMl9XQUJ2TWpB?oc=5",
+        "pubTime": "2026-05-10 03:40",
+        "source": "news.google.com",
+        "titleZh": "貿易法庭擊敗川普關稅：下令退還進口商1750億美元 - 新聞與統計 - IndexBox",
+        "descZh": "貿易法庭擊敗川普關稅：下令進口商退款1750億美元 - 新聞與統計&nbsp;&nbsp;IndexBox"
+      },
+      {
+        "title": "Trump, frustrated by courts, sees his tariff policies take new hit - The Hill",
+        "desc": "Trump, frustrated by courts, sees his tariff policies take new hit&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk8yQm0zMFRwQ3hNeUM5WGk0R081RFBVekRYdWVsXzR2TGpKRUlsR24yLVRjeklUVFEtODREV1NXczU4T0hrUWJ5b0F4Wk9RbXF5WTNfdThObUxfZC16aUYxdTNleEFKMzI1ZUFRaXp1eVJVNGVaQVh3VmRVZEFQdTVzbnFyZV9y0gGOAUFVX3lxTE13ODRyODM5d2ZxSUR5QVdqLXJzeS12cmx3TXZYM3kyZWhoUTBZZGtoYktvTTFqZ3hlSHZHWUYyR2c0cGMydDlqZ05lY0F3R0dKWDZxVGtDeER5OEdPamdRVklrX3J4S1hwZ0dDamxublBNUDNIQjRvRWttTEtGT0ZlcXQxTTd4Q2ZRSUN1bkE?oc=5",
+        "pubTime": "2026-05-09 18:00",
+        "source": "news.google.com",
+        "titleZh": "特朗普受挫於法院，他的關稅政策受到新的衝擊 - The Hill",
+        "descZh": "特朗普受挫於法院，他的關稅政策受到新的衝擊&nbsp;&nbsp;The Hill"
+      },
+      {
+        "title": "Trump tariff policy faces another legal setback - 동아일보",
+        "desc": "Trump tariff policy faces another legal setback&nbsp;&nbsp;동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kVjMyYm5BUU51N0FKbEgwQWxwMlk0VnZ5d2hoWGpZX3h3cHdUZDdZckNCQWZ0VkNqZk01cTlyNExSNVpxREhZVE41eTh1SHFCSk5MTnRhT2ViaUYzNkhfYUZpZVFFUQ?oc=5",
+        "pubTime": "2026-05-09 06:38",
+        "source": "news.google.com",
+        "titleZh": "川普關稅政策再遇法律挫折 - 동아일보",
+        "descZh": "川普關稅政策再遇法律挫折&nbsp;&nbsp;동아일보"
+      },
+      {
+        "title": "'Tariffs hurt the American farmer': Arizona agricultural leaders weigh in on Trump trade policies - KJZZ",
+        "desc": "'Tariffs hurt the American farmer': Arizona agricultural leaders weigh in on Trump trade policies&nbsp;&nbsp;KJZZ",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXZHbDJCU1J4WlRzLVFHZUlKeU1UMkN0UFUwNi13VVE5eWJJLUNzb1ZRS0F3cnNaYVE0SDAxT3lDLThVWFcyTklmcEl1dWVkLWtTMEV4WFFKUnNBME9UamJQTEhSR29qU0ZwZUNjUTN0YmlUdlFGMERNVWxsYURtSjFYdjFMTE1kdnB5ZTlRQU9INWN6bS1Ia0ZEMUF6V3AxczZITDFCdElrbnUySWVKN0NKQTlyMXpnN25RYWh4elgtdktVd1hqbTc5MWkzWWlG?oc=5",
+        "pubTime": "2026-05-09 05:19",
+        "source": "news.google.com",
+        "titleZh": "關稅傷害美國農民」：亞利桑那州農業領袖評論川普的貿易政策 - KJZZ",
+        "descZh": "關稅傷害美國農民」：亞利桑那州農業領袖評論川普貿易政策&nbsp;&nbsp;KJZZ"
+      },
+      {
+        "title": "US trade court strikes down Trump's 10% global tariffs in 2-1 ruling - investingLive",
+        "desc": "US trade court strikes down Trump's 10% global tariffs in 2-1 ruling&nbsp;&nbsp;investingLive",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3dkQlZUbTJ4c2dWdFZmX2YyMnZRRktCZ2FxM2xQSy1VclRXcGVpWUwxU2NpLXFfX0VIVjVmaEU5TFJhZkZjQ1djaXNjS2lRVHhKQ2o4dEtrTUVzQnkxcUhtYVFrTFpFdmRNUW9zQTdUZDJlQ1R0eG1GSllTV2hrMUVVM2xBYjE0Zmh1aGFzWjl1LVNya2tUT0FGN0VVTmpZYWJ1TjZ2cUdnQnM?oc=5",
+        "pubTime": "2026-05-09 04:30",
+        "source": "news.google.com",
+        "titleZh": "美國貿易法庭以 2 比 1 裁決取消川普 10%的全球關稅 - investingLive",
+        "descZh": "美國貿易法庭以 2-1 裁決駁回川普 10%全球關稅&nbsp;&nbsp;InvestingLive"
+      },
+      {
+        "title": "What the latest ruling on Trump’s tariffs could mean for businesses - Yahoo Finance",
+        "desc": "What the latest ruling on Trump’s tariffs could mean for businesses&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTV3SnhOdFp2RWtrQXpsaDVFaFZPejlZeUM2ZHB2cGQxcTJVdDFqd1ZEVTBEZUtUY1NMX0F0endORHA5TVZDMFFLeExYdkU0WEZRdlpicGJLX0JQb2ZJZUhGQ29RWnNIdVg1ZHJqd2VTajBEam15WW00bk44T0JYMl85WDI2NWk1TGRvT1hCZG5NbVBSM0hSY1VYZTZ1WGJQTzFoVWJxNzlmblg5UTBrMEdEMVctS0tpX0s4NFV3WkE?oc=5",
+        "pubTime": "2026-05-09 04:18",
+        "source": "news.google.com",
+        "titleZh": "川普的最新關稅裁決對企業意味著什麼 - Yahoo Finance",
+        "descZh": "特朗普關稅的最新裁決對企業可能意味著什麼&nbsp;&nbsp;雅虎財經"
+      },
+      {
+        "title": "Trump Tariff Tracker – May 8, 2026 (via Passle) - Baker Botts",
+        "desc": "Trump Tariff Tracker – May 8, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHdnb3ZnUmVOTXlvWjVYeEJwNG9MdWxVdmZWUi1rVjhiMFhlanpPbzZGSHFhN05KdExZbFpnQ0VGZVFxWGhIZTZLTEFFTFVRNS13eWI3UDMxMWY2SEEzdldZTjBaWmtaXzJDU0U0aFNnbVZvTTJac0pPNDF0RFpBYw?oc=5",
+        "pubTime": "2026-05-09 04:02",
+        "source": "news.google.com",
+        "titleZh": "川普關稅追蹤 - 2026 年 5 月 8 日 (透過 Passle) - Baker Botts",
+        "descZh": "川普關稅追蹤 - 2026 年 5 月 8 日 (via Passle)&nbsp;&nbsp;Baker Botts"
+      },
+      {
+        "title": "Court rules Trump’s 10% tariff is just as illegal as the tariff it replaced - Ars Technica",
+        "desc": "Court rules Trump’s 10% tariff is just as illegal as the tariff it replaced&nbsp;&nbsp;Ars Technica",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0ZyX0lUR3BoNTRSZ3lSRGVLOGV1dW9DLXZiWDdXN0N3a1JleFFuNUg5WkFYS0RHdE9YT1RBRmRIRHVMYzlwakgyc0JiWU5Hem15dUtpSzk3VmF2TWplM2tMeHlfX0ZILXNwcGJFdUlMeTE3Mlo5d1RUYjUwYnp4NUlBZ1JCWVZyaWt1VjVPSlMySUNwRmc?oc=5",
+        "pubTime": "2026-05-09 03:25",
+        "source": "news.google.com",
+        "titleZh": "法院裁定川普的 10%關稅與其取代的關稅一樣違法 - Ars Technica",
+        "descZh": "法院裁定川普的 10%關稅與其取代的關稅一樣違法&nbsp;&nbsp;Ars Technica"
+      },
+      {
+        "title": "Court Rules Against Trump Tariffs - World Politics Review",
+        "desc": "Court Rules Against Trump Tariffs&nbsp;&nbsp;World Politics Review",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXlBOFI3QVM3UXdMRWRvOVlzSHdIT21OZS1TS3A1Z3VYZFJsVGpYTHEzMzdOVUZBaWtPamNMdTItUnlxeTBPSlpGeU13b0tCMFhIeFUyNEM4SVZLdTNzR2dHdFlvaE9KRWxaUFZHZUhIZGFSODNleTgxVmZaeGNQcGF3?oc=5",
+        "pubTime": "2026-05-09 03:20",
+        "source": "news.google.com",
+        "titleZh": "法院判決川普反對關稅 - 世界政治評論",
+        "descZh": "法院判決川普反對關稅&nbsp;&nbsp;世界政治評論"
+      },
+      {
+        "title": "US Court Declares Trump's 10% Global Tariff Unlawful - India News Network",
+        "desc": "US Court Declares Trump's 10% Global Tariff Unlawful&nbsp;&nbsp;India News Network",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjJrRDZFVWNBRUZISlFLZWl6cmZMUG9pOHByMUFGZDJoUTI0QTRieEQtN1Z4NVJ0bGxsU2Z3aTVvczhPRnFjd3U5ZmNQSzJ1SjJtVUJqQXV0cERDMnFfb2EwLVpJV3o5TWtNdzZvbmNsLUd0RFJKc3hZejVVbHBmWVV4dDBrY1A5eVh0bFF4TGdXaVF0dUh0UUFn?oc=5",
+        "pubTime": "2026-05-09 03:17",
+        "source": "news.google.com",
+        "titleZh": "美國法院宣判川普10%全球關稅不合法 - 印度新聞網",
+        "descZh": "美國法院宣判川普10%全球關稅不合法&nbsp;&nbsp;印度新聞網"
+      },
+      {
+        "title": "What the Trump administration's latest tariff blow means for businesses - CBS News",
+        "desc": "What the Trump administration's latest tariff blow means for businesses&nbsp;&nbsp;CBS News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52OG0zU0VPMkpNVE9qNl8xVHdCTUhYOGNjMjU3U0prUERtWEROQmRKSnZQMVpmZ0dWVzVLaFVIZVhzX1BvTXZpWEdMaC1fN2xOSnpFWFZVSEl0RTF4ckdoWnh1QnkxM05YVnlwSEo1U2lvUWxKcVZz0gF8QVVfeXFMT20zaGhrdk83d1ljSWQ5U2FtQ1NXMEY2eHk0WXFEQ0s5U3V2QkNHQTM0MVlXazBxQ1NPNVBhdi14UDI4cExHYTI2ZVo4Nl9ocXFWVHhCNVFZOE8xdGw5S0xsYkxPbWxTVFJnM2NyZVVOV2JENV9sOGx0cHdTdg?oc=5",
+        "pubTime": "2026-05-09 03:09",
+        "source": "news.google.com",
+        "titleZh": "川普政府最新的關稅打擊對企業意味著什麼 - CBS News",
+        "descZh": "川普政府最新的關稅打擊對企業意味著什麼&nbsp;&nbsp;CBS News"
+      },
+      {
+        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+        "desc": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+        "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-09 02:59",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示俄羅斯和烏克蘭將遵守三天停火",
+        "descZh": "在此之前，兩國互相指責對方違反停火協議，以掩蓋蘇聯勝利納粹德國的慶祝活動。"
+      },
+      {
+        "title": "US Court of International Trade rules Trump’s 10 percent tariff also illegal - SeafoodSource",
+        "desc": "US Court of International Trade rules Trump’s 10 percent tariff also illegal&nbsp;&nbsp;SeafoodSource",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTBBMVFJcllIQTZIT0djWWtyRzZVbVpZSlByeEp2T1kwSnhPY1d0YU90QWZsY0RFeFcwaFNDUkszNU9ta1UyMUJYbHdwcjdVdmZqVkVnNGFZX011NUowNmZUbVUzODVyYzJaYWhOaDQ0Ulp1YmJDRDlTakZHZjNIbm5QdG50cm56eHRqU1dWd29WVlFQTmdiNzc5U0d2aXdjeW1YZ3hGc3VoLWsxMHZUNVh5TlNWdnZkVEp4Y0ZiRmEwZw?oc=5",
+        "pubTime": "2026-05-09 01:13",
+        "source": "news.google.com",
+        "titleZh": "美國國際貿易法院裁定川普的 10% 關稅也不合法 - SeafoodSource",
+        "descZh": "美國國際貿易法院裁定川普的 10% 關稅也不合法&nbsp;&nbsp;SeafoodSource"
+      },
+      {
+        "title": "Court delivers another blow to Trump trade agenda, rules against 10% tariff - USA Today",
+        "desc": "Court delivers another blow to Trump trade agenda, rules against 10% tariff&nbsp;&nbsp;USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelFyVjFwa1ZUWnBhNVl1M3BwSUljb3kwaGkzNUpSWHBSSVFWM1ZvMmhLdHg0ZFNmTWhrSnFMcW1OYzhlU2JKbXQyTGFCYlpwY0tLTFdPS3NEQmxTTW0xbC1NM0FLbW5WY1NtdVByQW82SkxvVkRsX1BORmJZN3V4cnRMRnJmU1dtX2VicDJZeXJkNXBxdVlNMGU4ZVZ0M0ZXN2o3WkYzdkFWRHJaTm9iUWZOSWVaUEVMNlE?oc=5",
+        "pubTime": "2026-05-09 00:45",
+        "source": "news.google.com",
+        "titleZh": "法院再次打擊川普的貿易議程，裁定10%的關稅不成立 - 今日美國",
+        "descZh": "法院再次打擊川普的貿易議程，裁定 10%的關稅不成立&nbsp;&nbsp;今日美國"
+      },
+      {
+        "title": "Trade Court Rules Against Trump’s New Global Tariffs - WSJ",
+        "desc": "Trade Court Rules Against Trump’s New Global Tariffs&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSU9CQkR4eDJValRWcDJXTjdMbkhsbFliNHdjQUZKT3dxbnlSbUZxSV8ycnFxZ28teGlkNHRkQ1U1eUwzM2dLMWFVYzNTYkFhbm9aSXc1aFpEc0d4Rm5NcDhzcEYxTUVzdVhQdjVaYjRTQ1JqdmN4c29iU2otVWtEdkU1QVdHODVrbUszR1hDOWpkS2JLclJidkNR?oc=5",
+        "pubTime": "2026-05-08 23:43",
+        "source": "news.google.com",
+        "titleZh": "貿易法庭裁定反對川普的新全球關稅 - 華爾街日報",
+        "descZh": "貿易法院判決反對川普的新全球關稅&nbsp;&nbsp;華爾街日報"
+      },
+      {
+        "title": "US court junks 10% tariff; bilateral trade agreement may face headwinds - Business Standard",
+        "desc": "US court junks 10% tariff; bilateral trade agreement may face headwinds&nbsp;&nbsp;Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjIzc0tEZWN5MlRETDNjVU5qNjNEbkp1X1RjYXo5MUwyVnZyNk9mQWZSTDhCT0pfMGx6RDBmLUR5eVBacjdQbFh5QlQ4bHJkR3l3eThubFM4QWNCc1diY1U0QzhPcnM2UnpVZzZEcnhDaGtEcUh1ZXhZRXRKcVVvUGlfcXZGME84SHQtbXNlMTM5NjNDWEtMY3E0YnpNYWVLYldEdmJzMHZVdm9QcHYyQi1MdFdwcWcwVTJXX0l2Mjh6a3d3TFNDdE5FVy1yQnhWYndPSENIVdIB3AFBVV95cUxOT0pmSVdNR2R4WWc1N2RMSFhGS2lNSURMZHkxTHlRc0tPUm0xR0tnWmVPSFllSG5OaVhaTUhYeVBZVzJWTmFKeklKUUVVRnB3NDBsUkNyWDYxZk81R0c1U0FHNmpjODZwTXVTQW0zczZjNmE5eWZ0NWkwT0Q1MUhManJqMTlvdE9lbXpVVHQxSzN0UWJ6YzEySjZ3SmRDNTRzejhVSnp2NkQxQWo5WHRPb05EMWRIYkJKcHE2OG1LbjBWRG1wUGZNaDBzMG4zQnltb1M3d28wWlRTaFRL?oc=5",
+        "pubTime": "2026-05-08 22:14",
+        "source": "news.google.com",
+        "titleZh": "美國法院廢止 10%關稅；雙邊貿易協議可能面臨阻力 - Business Standard",
+        "descZh": "美國法院廢止 10%關稅；雙邊貿易協議可能面臨阻力&nbsp;&nbsp;Business Standard"
+      },
+      {
+        "title": "No permission slips: Trump’s tariff pivot after Supreme Court smackdown - Washington Examiner",
+        "desc": "No permission slips: Trump’s tariff pivot after Supreme Court smackdown&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUdVRGJhRHdXX2ZTMTBjNHVLenV2aVkyMGtuSWhoV0RjRWZCSUFTUUM4N3dUcDJhRjdKbVF5VGktMklhQjQyOS1xdGplWlNrTHZZWnFZYVh0aW5LSGw3Qi00cURueWd6SHpDT2RXV3N4U0JOTkZ0MTlsZFkxVS05bE5tQWRzRngtLUtSOWoxTi1UUk5xZ0h0dQ?oc=5",
+        "pubTime": "2026-05-08 22:00",
+        "source": "news.google.com",
+        "titleZh": "沒有許可證：川普在最高法院駁斥後的關稅轉向 - Washington Examiner",
+        "descZh": "沒有許可證：川普在最高法院駁斥後的關稅轉向&nbsp;&nbsp;Washington Examiner"
+      },
+      {
+        "title": "President Trump invites CEOs of Apple, Exxon, Nvidia on diplomatic trip to China - MacDailyNews",
+        "desc": "President Trump invites CEOs of Apple, Exxon, Nvidia on diplomatic trip to China&nbsp;&nbsp;MacDailyNews",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTlsLXBQRHRnLTdUSkFTc1R0dHpBZ3ZzRWJ3djF2cG1oV19waHp1QS0yRkY3dUw5YjlVcms2NHN2c0N3OFBQUVNiZklBeTVEMWFWRlZZQ2hSRmZtTGhaRFVDVnBOWmpZa08zd2xvMDdlQ2JsdXgtOG5ZU2RNQnRSNU1wRW10SWpxZGNzNlFSamdya1haOEdrWWZybVhhLTRqQlZZQ1JhdVFfY05kQ2VTRU80RUdkQdIBuwFBVV95cUxQQ29jV2hwZE1mZzNFSjBWRUJEcWRIcFg5U1ZDWFpjV0x1MDl6MzdFUDJtd0lVS2NVVGNuVGU3TllzQ01oZGJiUkkwOE5wQmNfdlRmSjhtaHJNZlJ2eXluTTRDd0dBNzh6VVZXRlBHdXhhb2p5N2J1V1JTbjVDckF3T2dUYjE2eXZlbzBTRFRjd3k4LTQxR25ON2ZEZjZ0ZVpxSUdWeDJPZDFnS3V1LVVhRXY5VDRWYkwxbFRZ?oc=5",
+        "pubTime": "2026-05-08 21:45",
+        "source": "news.google.com",
+        "titleZh": "美國總統川普邀請蘋果、埃克森、Nvidia 的執行長出訪中國 - MacDailyNews",
+        "descZh": "川普總統邀請蘋果、埃克森、Nvidia 的執行長出訪中國&nbsp;&nbsp;MacDailyNews"
+      },
+      {
+        "title": "US court delivers fresh blow to Trump's tariff strategy - Le Monde.fr",
+        "desc": "US court delivers fresh blow to Trump's tariff strategy&nbsp;&nbsp;Le Monde.fr",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzJvOG5uUDJueUxRRXZ0dEdfYU1NbHllNHhBQUM2T19KUVlmRUJsekdzbmFGdVlta0p1X1lIOWhsbGthQ3VvYVhxd2FZR3UzbHRmLVpxRTVhNkN6U01mTlM1cGNZYTItVEpfOVVVU1pXeDlxbTdTWEpxVGRZMzkyRUNfR0dUczJ6NzA4OGMwdWFSaTFRN3p5TlpNWWV1aExmbVVVaFJIZmoyY0pBajdkZDRWXzltNmt2SWV1SDhYblVFQQ?oc=5",
+        "pubTime": "2026-05-08 21:08",
+        "source": "news.google.com",
+        "titleZh": "美國法院對特朗普的關稅策略施以新的打擊 - Le Monde.fr",
+        "descZh": "美國法院對特朗普的關稅策略施以新的打擊&nbsp;&nbsp;Le Monde.fr"
+      },
+      {
+        "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+        "desc": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.",
+        "url": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-08 19:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮稱馬克-哈米爾 「有病」 在演員發佈特朗普墳墓帖子後",
+        "descZh": "這位《星際大戰》的演員已經道歉，並刪除了這篇包含總統在淺淺墳墓中的 AI 圖片的文章。"
+      },
+      {
+        "title": "Trump’s Governance Challenges Escalate - China-US Focus",
+        "desc": "Trump’s Governance Challenges Escalate&nbsp;&nbsp;China-US Focus",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2xwYnp0eUpWbTZlazZJVXpSRVQ1ODZfdnFNR0RxT3BxR2tCNkdodXdoMURSd19PVEhIc2EzaG9pR2Z6LTI1elJ1RGlJTmh6WkdpeFpuM3dZXzl6TDQ5LS1BcHNYQ0k3enFuOU1QdUFWXzh2aVJpcjBka1Jmbnl0bFZEQXBVTU9I?oc=5",
+        "pubTime": "2026-05-08 18:06",
+        "source": "news.google.com",
+        "titleZh": "川普施政挑戰升級 - 中美聚焦",
+        "descZh": "川普施政挑戰升級&nbsp;&nbsp;中美焦點"
+      },
+      {
+        "title": "Trump Tariffs Struck Down by Trade Court as President Backs US Oil Exports - Gotrade",
+        "desc": "Trump Tariffs Struck Down by Trade Court as President Backs US Oil Exports&nbsp;&nbsp;Gotrade",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlhZNUh5SnhYLUlUQ0lRbjBSOEFsYmF6VjByUm5lMl9pLW10SFd4VjQtYzlpN0FMUElSa2xPbF9GNGVoN1g3NTFOQmhhbFFaZGtDdS1JdlVDS080eDFBSlo1NDMtRWwwZWt2ZkNnS0FGQnNTQXV0bUh4SW1WNTVrLTlVU3RVTFo0dHJHRVlB?oc=5",
+        "pubTime": "2026-05-08 17:42",
+        "source": "news.google.com",
+        "titleZh": "美國總統支持美國石油出口，川普的關稅被貿易法庭駁回 - Gotrade",
+        "descZh": "美國總統支持美國石油出口，川普的關稅被貿易法庭駁回&nbsp;&nbsp;Gotrade"
+      },
+      {
+        "title": "US court blow to Donald Trump tariffs may delay India-US trade deal, say experts - Telegraph India",
+        "desc": "US court blow to Donald Trump tariffs may delay India-US trade deal, say experts&nbsp;&nbsp;Telegraph India",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaERDTVNVaVBWSGh5UnlFSlM3dzB5TU5NaUtLOExLMXNCZmRKQ0plTGUycHFlaTM4SXVCbjVMNzdkSTZVNUtjQzBaVjMzNm9aRm5OZ1RHNjdqdmpHbzBuV2lyZnFGNmNkemtSX0c3Y3VNUC1EblhaMkNFLUU0cUxhUGVpdklHdV9FLXpxS2ZiTWUtb0JHdDBDbkl0UnV4QTA1aUhSM0dNcmh3ZmE3TzR2Y2ZiR3hTc2NYVVRxSnBOMmhXdkdWT2dmNGJQd9IB0AFBVV95cUxNYnZrX0VsaXdaOUtlcGpRcHpmaDBiV1BBTHdTb19lOWdXTVAyQTZtYUUxVjFMbG05UUFVYTk3Q1FNQ2ZZamtoMWdzdk1jZGR1Z2JBMTh2cnJKSVUwa2R3ZEJHVUZveFRFZkVYY3FpMHpmNms4RjVXRGd1czhXSGFGcDRfdEFXdi1KODNVbzJ5UlBQdkhoaEVOLW51X1J3c2xJRDhycXZzZE9JcFhUalBtbmhQOUlZRUszR1JnY05ybDU2U3p5c01OUkh5ZmFLZGhr?oc=5",
+        "pubTime": "2026-05-08 16:46",
+        "source": "news.google.com",
+        "titleZh": "專家表示，美國法院對川普關稅的打擊可能延遲印美貿易協議 - Telegraph India",
+        "descZh": "專家表示，美國法院對川普關稅的打擊可能延遲印美貿易協議&nbsp;&nbsp;印度電報"
+      },
+      {
+        "title": "US court deals fresh blow to Trump's 10% tariff policy - DW.com",
+        "desc": "US court deals fresh blow to Trump's 10% tariff policy&nbsp;&nbsp;DW.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVdTWDJSS0pyeFNBTy1Xc0tURV9pc1pBbU9DaFotSWlxbnluY3VsTi1xNEZra0FjMkhmMUk0XzlFSlBGRG1mQ3o3UEtpQ2xQNHM0V2dkTGRCdDdSMk5aLUtOb2R5eUdkektlTTFjQXpaZmN2U0RTRk5lT19jS0dBWTl2SllKeklsYXJLNjFjdXhQY3c5YXhF0gGXAUFVX3lxTFBWVHhKOWh1bm4yTUFnZ2E4a2NqbXVQc3hCWW1JMDBFZ1pwM0lsUlF0LUNGckwzTmJ0aFVzQ0haaWlFVGE1b1MyOEZLZlJjWDk5NVoybC1LdjdVeFE0YnRGTE9xWlFiQXVoYkJ4dF9HT2NuREoyVUJzVzZHWWJ3dXJQTDQ1VjFNWUVEblZOeVYtY19YVzlZOE0?oc=5",
+        "pubTime": "2026-05-08 16:45",
+        "source": "news.google.com",
+        "titleZh": "美國法院再次打擊川普的10%關稅政策 - DW.com",
+        "descZh": "美國法院對特朗普10%關稅政策施以新的打擊&nbsp;&nbsp;DW.com"
+      },
+      {
+        "title": "US strikes down Trump's 10% tariffs — How should India proceed now? - The Times of India",
+        "desc": "US strikes down Trump's 10% tariffs — How should India proceed now?&nbsp;&nbsp;The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY0twNFBOUmoyVnM0Nmd3QVNxb0hLOWluQjRIR1BPR01RV0ZjV251cktlYVBFZ3Y2QS1JVmIwbzRWeHVOR3B3dFV4NTNBRDFGdUZqV1lCaDlscEktTlYwTEVPakhqMmtNWFBLUHlWb1JPY0s0QzdZTVpvZFE4Y1o0TTNObTJJcG9BbE1fLWo0M0xDVDFtVVNCN1NSRGpQaDEyazEtU25IVXdXcnd4emRrcnpKc0g3QjE5R0F6a0NFV1RNT0R2M3k1cGVQOXBzd3NIR3RwOVREaFY5VEFDUjh5Z1F30gHnAUFVX3lxTE1OWXdwTy1fZ3o5REtvZDhRSnpwNjBfZVpzZ0hDdFJPVTR6X211U290MWhBYmh2YWZDQzRZU3p3QS1OZk01NE92UDgxRmRoT1ktOWFzR0pHV2dJT0Q5blFWZVN5WFRVcHhHcVRydWU3aHR2RDlUSFI4alBuVUk0bllWS09tLUpfeEZtYzN1VEl2TGFaSF9JTjRHbFR2UHE5UVpNS01Kb1BNalBrQ0tVNHpXeW1lejFrMXZPd0pXaUlMTVpDZ0QxanNpZTlvU2UwNE5LY05leE1oWVFIVjkzU3VsVVo5LXE1VQ?oc=5",
+        "pubTime": "2026-05-08 16:21",
+        "source": "news.google.com",
+        "titleZh": "美國罷免川普的 10%關稅 - 印度現在該如何處理？- 印度時報",
+        "descZh": "美國罷免川普的 10%關稅 - 印度現在該如何處理？"
+      },
+      {
+        "title": "Trump’s Tariff Policies Face Another Blow — Here’s Why India Is Watching Closely - outlookbusiness.com",
+        "desc": "Trump’s Tariff Policies Face Another Blow — Here’s Why India Is Watching Closely&nbsp;&nbsp;outlookbusiness.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXhkdmxkUUJzLU1fQ2tSUXZYOTk4Vkk2UzhCY2NfUEFsaVE4bm9zeVVJaS00UG1oRGROYnNBanEzdy1SZU4zekt0eDZoelBhZHdEU2VmUVhPaTJtSkxyb2dadXZLVDVfeV9YNi0yaHhjZ1FuV2dCb2ZSdkdjbi1UNVlqQ093dE9Qa01qV2Z6c2dlbG50MmZkLUxPUXU2OEdqQ3dPVkpjZzlLUi1KZ1BxbXptM29QdHIwakFxTEtvYVYxNHJDOFHSAdMBQVVfeXFMTVRXUExmbnFxSkV3dU5VenN4czh1bTFYZ2J6Z21mMnpaUkN6ZXdRQzZSYkVzTkpXRE5pWkx6QTRBZVcwZWxqMVNrdE9LcnpxR2ZpUG5Pb2hzSVdySUpVZ2VOMG5yYnZOSUtPTmlJV21vUy1fVWJaUkNqeUxPUnNLN2lUeG1sUVV3RmdjdkhoU1pqdF82eFpJV2VydmpnY2ctQXB4Wl9LQkN4b0JDdXAwa3QyemlZYWM4RDdGdzd1Q2FIb0tGQm9valNKRDdVUUlRV21Ccw?oc=5",
+        "pubTime": "2026-05-08 15:39",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅政策面臨另一重擊 - 印度為何正密切關注 - outlookbusiness.com",
+        "descZh": "川普的關稅政策面臨另一重擊--印度正密切關注的原因&nbsp;&nbsp;outlookbusiness.com"
+      },
+      {
+        "title": "Trump's tariff tantrums may leave India exposed to a 'one-sided' trade deal: GTRI - The Economic Times",
+        "desc": "Trump's tariff tantrums may leave India exposed to a 'one-sided' trade deal: GTRI&nbsp;&nbsp;The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeElGN0RfVU12NlZXS25tckcxd0pVMDJaRE5yRDBVRDctZmNZMWU3SHVpY3JjR3FIcHN4YW03d0tYV2N5V0dpN01ldFhTRS1tNFNTVWUxYVYyRGswRUtLZ1Y1RTBBWW9VOHpadDllWkdtVFZJdDhKbGJqY1NoOTlmRnh0Y2ItMTZoeE9fMmVpV1otQkt0ZDJHU2wzOWFQM3NiUEZjb3hUME5rS21MSzJqZEJ6OXNyeU5kMUMyc2dkZnNOcTBmMDI3aFh5em9Ld3RMZXFneTJRa280UWVpVGhyU1cwTjQ4YlJiR082VGVzRdIB9AFBVV95cUxQYTEySEl5R1JSZnV5MlptVl9fY1NRUEE3TG85RzRVV0kwMWZuTC1pTXEweXJGbGUzanZ6dHhnQ1lyUGVaUEVaODA1cUEtUkdsNkk4czlndGN5N2lmTFd5LUZNZlhhWGlKMDU0cnhwQmNjblZLX29KX2xHcXhnUGNCa1UwV3JyTUlnaG9sWnhSUjBNdnVFT1QyY0FnVlk5SUc1dHcyMHd1dWRaaHFUTURWdkpQbzVVMmpmUXdHZnJ4VXVZUXNEN0ZrSEE5Y2J3dFFKdEFrY0lzMm5XUXp4em5ZbGJXOWlQdU5BczRyQ2xyVWtkZ0VQ?oc=5",
+        "pubTime": "2026-05-08 15:38",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅發脾氣可能讓印度面臨「一面倒」的貿易協議：GTRI - 經濟日報",
+        "descZh": "川普發關稅脾氣可能讓印度面臨「一面倒」的貿易協議：GTRI&nbsp;&nbsp;經濟日報"
+      },
+      {
+        "title": "Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline - CNBC",
+        "desc": "Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hdk14cERPNDV0QXlrUnJQUzhjN2VIQnVtT3BQcTZORVV6Snd5WnZOeHhaTmptUTlyQ1BXalZpN3BjMm5vVnBXTTBsTF9PWl9tb3RKNEZMaTNZTTh1aHE0cWg4QWhfSGN2YlZKT1A2bVhCOGViWjh1VGxUY9IBgAFBVV95cUxPLVdOMkwxV0UwdEQ2ZjVjRnRmM0g1eG9QYWh0MTh5cy1obThHTUdDSldLbFlTYUJENEh6WVVzY0tCdVFybkJacFhrMGRMTGNlTjBUa1FHaU05MUR6LVFCMDQ0dlFfU3dLemlaZHBCLWt3NVBrWE5oMkpWdUs2eEhIdg?oc=5",
+        "pubTime": "2026-05-08 15:32",
+        "source": "news.google.com",
+        "titleZh": "川普威脅歐盟，若在新期限前未簽訂貿易協定，將對歐盟徵收「更高」的關稅 - CNBC",
+        "descZh": "川普威脅歐盟若在新期限前未簽訂貿易協定，將徵收「高得多」的關稅&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trump Tariff Setbacks & India Trade Deal Uncertainty - Rediff MoneyWiz",
+        "desc": "Trump Tariff Setbacks & India Trade Deal Uncertainty&nbsp;&nbsp;Rediff MoneyWiz",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEdrRUQzZWVsOVB1SEZkX0dMUkE3QVo5QXR3VkFlN05pYUIwQUUweGNoYTgyUG1kemlZYndZMFpMV1dWXzJQUjNmVG5QMldtbnkxbG43d1BIWFpMT1AwMVhLZlNsT2J4NGtEaFNCeFo4RU9JdElFdzItUWwteWFpU3BSeFFXXzZ0QmdwSjZzc0w5SHlWaW52WldWR2JkSlJNOXpLStIBqgFBVV95cUxPMWg5SWNnX1l5d1VsTzVsdzRNWF9DTGl1WFlfNHRaaW9mVHpoaWtTNElpNEhqYkdlZXVkeFRUM2U2VHZ2SEdFVEs2aTRuLUtwRW84UEpYS1psaVJvVTZUeXdkVEhZWEhUcEFad0NJMTBUTjBwUFZGRmJCNXVEZ1hLOFVkeEJPRnN2NmVpZXhycjh2a0JncE9pc0dkODhOTDhWc3JGQXpxRGJNUQ?oc=5",
+        "pubTime": "2026-05-08 15:27",
+        "source": "news.google.com",
+        "titleZh": "特朗普關稅挫折與印度貿易協議的不確定性 - Rediff MoneyWiz",
+        "descZh": "特朗普關稅挫折與印度貿易協議的不確定性&nbsp;&nbsp;Rediff MoneyWiz"
+      },
+      {
+        "title": "Korean firms unlikely to gain from ruling against Trump tariff - The Korea Times",
+        "desc": "Korean firms unlikely to gain from ruling against Trump tariff&nbsp;&nbsp;The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakttV183Y2x0bG8yUnQ3ZGRiczczcExxeUY4RGpKc0VEQ1h5OGJLRFRDc3o5dVdiMm1NcC1KdFlGeEcwclZfT3BrNk8tTDA2T1o3SmdoTWlGS1NBeGhmcUJybXBhVi1RY3E2TE5XSVBFUFFmdDF1djFGTmFHci1ESER4V1VsQWl0VEwydThUN3V3YkoyUFdraUNQMkE2bnNzaTl3WEpmcXRRQzhFcjkxZjBTUk1PUdIBuwFBVV95cUxOUG1pNEhKaGc4aVpsNVZ2bkZiYUtMbFNUOFZ3WTB0aWJjM3ZucmQ1NTE3dWttTlFLMU53RkpQdm9IV3VDUUxzUnVhc0E4UG4yMlBEX2wybDRlMEFLZGZXRHZzRzRBS1c1eVNyR0NVREcwcV91enNZYmFSTTBhejBnQzJSOHB0QUg0SGxoaGtvNDlUQ08ybWFRSnAtM1pmckh6eTR6b0tIWFhnejJSYjdvNkNxazFlYmdIbmRZ?oc=5",
+        "pubTime": "2026-05-08 15:21",
+        "source": "news.google.com",
+        "titleZh": "韓國企業不太可能從針對川普關稅的裁決中獲益 - 韓國時報",
+        "descZh": "韓國企業不太可能從針對川普關稅的裁決中獲益&nbsp;&nbsp;韓國時報"
+      },
+      {
+        "title": "Trump’s 10% Global Tariffs Ruled Illegal: Who Actually Benefits Now? - ABP News",
+        "desc": "Trump’s 10% Global Tariffs Ruled Illegal: Who Actually Benefits Now?&nbsp;&nbsp;ABP News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1VtVk8yN1NIYmFYdDBuN2FWbzNZVTZtSW13UGxPVHp1ZGNVTjh6Q3liLTA4UWpvS013c1g1SmNPSEJPX1ViUUJKMFVQdnNHRlpLMGgzLUhJYjJDS1B4T2VjVUlGUHE4NEdPekZNdkNpSjJYZmVadVZuR1M2VnB5Tjg2S3VkMWh2VjM1Mi1ZdHByc2VTNDd5RlpFOXU1Q1BjeFRVMGpoTdIBrAFBVV95cUxPaFZqUEF0SXBxeE8zYXM0ckxXbWczcHJtMUJwcUhuNVZzRFpuZHNGbFdsMU5fcTNRTHFfUUo4RUZpQ2pFOTNjUkg1c0k1X29TN3V2UzJfbms4Z1FvdmQ3LVNLY3ZQVXBpMlhiSm90S2RpYWFaRmYxWUNSSDBGMGdFQmxlTERnRVBHa2V4UVlVWnNPT3V6RDFBbFhLRWUwYldxbFZmQ0pCakNGZWVz?oc=5",
+        "pubTime": "2026-05-08 15:11",
+        "source": "news.google.com",
+        "titleZh": "川普的 10%全球關稅被裁定為非法：現在誰真正受益？",
+        "descZh": "川普 10%全球關稅被裁定違法：ABP新聞"
+      },
+      {
+        "title": "The Man Trying to Make Trump’s Tariffs Go on Forever - Politico",
+        "desc": "The Man Trying to Make Trump’s Tariffs Go on Forever&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR004bUdQZnpGS0NwTkJocnMxS0dBYnRoSFFKemg4VE9hTGRXNnY1V3kxcXg5bXNtejZFMVVjdnlGeU9RcnZUX18zS0w2WWhNdUVJTG5kOU1qY3M1Z0trSW42dDB3dUtNTzdCc05ERmZmWkUwZjFYaUQ3S2VFVm1nV05qZTQ4S2VKWDZMaTVoSGlOMXZsUmpZLWo3aw?oc=5",
+        "pubTime": "2026-05-08 15:00",
+        "source": "news.google.com",
+        "titleZh": "試圖讓特朗普的關稅永遠持續下去的人 - Politico",
+        "descZh": "試圖讓特朗普的關稅永遠持續下去的人&nbsp;&nbsp;Politico"
+      },
+      {
+        "title": "Why has Trump invited Apple, Nvidia and Exxon CEOs on his China trip? - MSN",
+        "desc": "Why has Trump invited Apple, Nvidia and Exxon CEOs on his China trip?&nbsp;&nbsp;MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb29jNld3Skc1eGVuektyNGcyREhxT0stUVVOMFRtM3ZWUjV1ampwaUZiaXFuYXBsUkdtNEdNMFFNeTZfNnc4MERlV0lqdmN3Vm1OQXRYcmloZlNGTmVidG9NMURFZ29tMDVpbmNhcW9TTTljMnpWalltcWFxX0hsT0RPZzduRTBoWGNWcDBxNU8yZnd5MEIySXlCWlFjQkE5MW03cFRqOUV4bENUQTE0OUNJMnJIcmdDRzI5c1BvTUp1MG1aSFJkNnZlN0prZXJReFpBVHJIWUdpbEFnbmc?oc=5",
+        "pubTime": "2026-05-08 14:44",
+        "source": "news.google.com",
+        "titleZh": "川普為何邀請蘋果、Nvidia 和 Exxon 的執行長參加他的中國之行？- MSN",
+        "descZh": "為何川普的中國之行邀請了蘋果、Nvidia 和埃克森 CEO？&nbsp;&nbsp;MSN"
+      },
+      {
+        "title": "US Court Strikes Down Trump’s 10% Universal Tariff - Nation Thailand",
+        "desc": "US Court Strikes Down Trump’s 10% Universal Tariff&nbsp;&nbsp;Nation Thailand",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jamlEWFlObXB6VU55ajNnUWNLTThpSXZpNTF6VHdpbWoyNHhNYWI3ZVVsMXB6OEdPNFRERzBUWDJMd29mNFdyN0tlVV9xYXZHNXVtNnl4QURlV1ZheFdv?oc=5",
+        "pubTime": "2026-05-08 13:38",
+        "source": "news.google.com",
+        "titleZh": "美國法院駁回川普10%的普遍關稅 - Nation Thailand",
+        "descZh": "美國法院推翻川普 10%的普遍關稅&nbsp;&nbsp;泰國國家"
+      },
+      {
+        "title": "US Court of International Trade rules against Trump's 10% tariff - Fibre2Fashion",
+        "desc": "US Court of International Trade rules against Trump's 10% tariff&nbsp;&nbsp;Fibre2Fashion",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVTVTV3g2aGg3c25uTGlWN0ROVFgwZFI0TUVuZXhVRXIwX3c4ek53OWQ5ZmRLZHZqb0JYUzRuYlhDZC00cG9FZWlPQ3FDVHFmZkZMREtzWGhuWXpoSVA4dm5kNk1MNlROVWxtSXVsTkNZVktaai0xNUQzNTBvREptcVJJcjkwNmVpUGpkQm52MU9uYjk2THJUUE9xY04xdnFVdFNzOVppVS1PdWE2bHJ6azNVa1Vhdm1VcFBQT2ZEbDdMbXRwM09Sd2ZOd3lYNmc?oc=5",
+        "pubTime": "2026-05-08 13:13",
+        "source": "news.google.com",
+        "titleZh": "美國國際貿易法院裁定川普的 10%關稅不成立 - Fibre2Fashion",
+        "descZh": "美國國際貿易法院裁定川普的 10%關稅不成立&nbsp;&nbsp;Fibre2Fashion"
+      },
+      {
+        "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+        "desc": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
+        "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-08 11:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與盧拉在橢圓辦公室私下會面，顯示雙方關係緊張。",
+        "descZh": "美國總統和巴西總統並未一起公開露面，但在會談後互相讚美。"
+      },
+      {
+        "title": "Court rules against the tariff Trump enacted after Supreme Court defeat - The Washington Post",
+        "desc": "Court rules against the tariff Trump enacted after Supreme Court defeat&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlliTXpRb0hLdWJWbnJSVFNfbEx0aUZRSDdKU205MTdpQmdJNlZmR0MwWHNCR1M1eExUV2hlQTN4VDlWbnFtdWxSY3VkR1Q3MndFQTVRUUZJY0FqbTN3cTFYQnVhQXRSNlhXcXpTU2lrU0Z1czBIaWI2NWk5QW1DZzdaTVp0OXg0RnB6Qw?oc=5",
+        "pubTime": "2026-05-08 11:39",
+        "source": "news.google.com",
+        "titleZh": "最高法院敗訴後，法院裁定川普制定的關稅不成立 - 華盛頓郵報",
+        "descZh": "最高法院敗訴後，法院裁定川普制定的關稅不成立&nbsp;&nbsp;華盛頓郵報"
+      },
+      {
+        "title": "Trump dealt second blow as trade court rules 10% global tariffs illegal - Courthouse News",
+        "desc": "Trump dealt second blow as trade court rules 10% global tariffs illegal&nbsp;&nbsp;Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2tlazJtMjlwSmFUaGxBTHczdWVTTHZnVGlRV1FBLUcwd1FtTUxKUXE3Z0Q5OF9jRW80NHMxOEdrbmJEcC1RTWJ6UzZuOWZYR3J1OUdRZ3gxZzB3cGZBbGpaUHNSQlVGbVZRYVBHTHZZWi0zbTZNQnh4TkhBUnZFV2FndEg2NVN1cERqcmo4TjhrWVA0Rnhtc1VhRV9UaWQtbHVFXw?oc=5",
+        "pubTime": "2026-05-08 11:25",
+        "source": "news.google.com",
+        "titleZh": "貿易法庭裁定10%全球關稅違法，川普再遭重擊 - Courthouse News",
+        "descZh": "貿易法庭裁定 10%全球關稅違法，川普再遭重擊&nbsp;&nbsp;法院新聞"
+      },
+      {
+        "title": "U.S. trade court rules against Trump's new 10% global tariff - Japan Wire by Kyodo News",
+        "desc": "U.S. trade court rules against Trump's new 10% global tariff&nbsp;&nbsp;Japan Wire by Kyodo News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lU21aQk1VUVQtU3JzNVYwdldaNl93V1JyWW5fNExUUGV4NkJyQi1mVy14eVhhVWZNNGlVRk1FUmQ2UWVIclVQLTZkWERIN3RGdHpQSHhXM1hJdw?oc=5",
+        "pubTime": "2026-05-08 11:07",
+        "source": "news.google.com",
+        "titleZh": "美國貿易法院裁定反對特朗普新的10%全球關稅 - 日本共同新聞社Japan Wire",
+        "descZh": "美國貿易法院裁定反對川普新的 10%全球關稅&nbsp;&nbsp;日本電線 by Kyodo News"
+      },
+      {
+        "title": "Trade court strikes down Trump 10% universal tariffs - Axios",
+        "desc": "Trade court strikes down Trump 10% universal tariffs&nbsp;&nbsp;Axios",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtZmJSUFJUdlFLN0RhMlY3TXl4U2xLMVRXS0VPMVZ2azNhdWtEcUZKMUc5V1IzdXI2RnJ2R3Nyb1lkUk1xZmQ0d2dSemxoNnhxTHNBVWs5eEdRbkMxQzEzTzVWd3pWWldnVVE?oc=5",
+        "pubTime": "2026-05-08 09:51",
+        "source": "news.google.com",
+        "titleZh": "貿易法庭駁回川普10%通用關稅 - Axios",
+        "descZh": "貿易法庭駁回川普10%普遍關稅&nbsp;&nbsp;Axios"
+      }
+    ]
+  },
+  {
     "date": "20260509",
     "fetchTime": "2026-05-09 05:31",
     "count": 40,
