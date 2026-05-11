@@ -1,5 +1,102 @@
 [
   {
+    "date": "20260512",
+    "fetchTime": "2026-05-12 05:46",
+    "count": 10,
+    "articles": [
+      {
+        "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+        "desc": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
+        "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-12 02:26",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Elon Musk 和 Tim Cook 等 CEO 預計將陪同特朗普出訪中國",
+        "descZh": "總共有 17 位美國行政人員將與總統一同出訪，總統將與中國總理習近平會面。"
+      },
+      {
+        "title": "Trump says Iran ceasefire is on 'massive life support'",
+        "desc": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-12 02:17",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示伊朗停火正處於「大量生命支持」狀態",
+        "descZh": "美國總統批評伊朗為結束戰爭而提出的反建議，並表示為期一個月的停火「軟弱得令人難以置信」。"
+      },
+      {
+        "title": "Washington dinner shooting suspect pleads not guilty",
+        "desc": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+        "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-11 22:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "華盛頓晚宴槍擊案嫌犯不認罪",
+        "descZh": "31 歲的 Cole Tomas Allen 被控企圖暗殺美國總統 Donald Trump。"
+      },
+      {
+        "title": "Trump's China visit set to test fragile truce - BBC",
+        "desc": "Trump's China visit set to test fragile truce&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbjMxdzRiSC1SMEdXVzdzcmhCcC1PN2JNc1VpenBISWZKd2FtYjAyZWZLVThHSnpRdzRiZWc4aG5wTE96X1FVX3NGQUhtYU1OakhXM0hLODd1dw?oc=5",
+        "pubTime": "2026-05-11 17:26",
+        "source": "news.google.com",
+        "titleZh": "特朗普訪華將考驗脆弱的休戰 - BBC",
+        "descZh": "特朗普訪華將考驗脆弱的休戰&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Trump's China visit set to test fragile truce",
+        "desc": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
+        "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-11 17:26",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普訪華將考驗脆弱的休戰局面",
+        "descZh": "美國總統近十年來首次訪華，將考驗脆弱的關稅休戰。"
+      },
+      {
+        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+        "desc": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-11 09:55",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普稱伊朗對美國終止戰爭提案的回應「完全不可接受",
+        "descZh": "據報導，伊朗希望美國解除海軍封鎖，承認伊朗對霍爾木玆海峽的主權，並賠償戰爭損失。"
+      },
+      {
+        "title": "Trump touts 'American Flag Blue' paint job on Lincoln Memorial Reflecting Pool",
+        "desc": "The renovation of the Washington DC monument is one of President Trump's efforts to beautify the capital ahead of the nation's 250th birthday.",
+        "url": "https://www.bbc.com/news/articles/c2l2kpyk717o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-11 01:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普稱讚林肯紀念堂倒影池塗上「美國國旗藍」油漆",
+        "descZh": "華盛頓特區紀念碑的翻新是川普總統在國家 250 歲生日前美化首都的努力之一。"
+      },
+      {
+        "title": "At the Trump-Xi Summit, China Will Have the Upper Hand - Council on Foreign Relations",
+        "desc": "At the Trump-Xi Summit, China Will Have the Upper Hand&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2FRS0xIUXZETUlXXzlndENaZF9kdlliWlQtVWFJRzdPUjJndE5Bd3ZZRFpUVHl1R2NCSjBQMG1tZ05EOS1GN0M0cW9Idk9zMU5xQWFlSkRBeFQxa25pdXV4RkhYRWJQbWFPckRjSUh6VzdWWkNyMTJDMk5CNzNkY3BURmo0ZlJFb0E?oc=5",
+        "pubTime": "2026-05-10 17:00",
+        "source": "news.google.com",
+        "titleZh": "在川普與習近平的高峰會中，中國將佔優勢 - 外交關係委員會",
+        "descZh": "川普與李登輝首腦會談，中國將佔優勢&nbsp;&nbsp;外交關係委員會"
+      },
+      {
+        "title": "How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure - Council on Foreign Relations",
+        "desc": "How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU44dUVFQ0tRNVAyU1Vmc3R3dzlDemgxOHIyVm5IQTlSb3N2THRicXVFemJCbm5OZ3hORWpUVXdNZHFYVkgxQTdjWVAybGt2WXh4Q2dob0FzNTFUVG1GX2dwY2tGZmRKdEtaV3RsM293aS1fVWZoaU5CeXJDRUo5S2NtR3FCUDFKUWlPaDlRR3Ztb0tYcTZ4WmM4S2drREItRkR1azFPQzFiOFBSQkE?oc=5",
+        "pubTime": "2026-05-10 17:00",
+        "source": "news.google.com",
+        "titleZh": "川普應如何處理與中國的人工智能談判？有針對性的對話、最大的壓力 - 外交關係委員會",
+        "descZh": "特朗普應如何處理與中國的人工智能談判？有針對性的對話、最大的壓力&nbsp;&nbsp;外交關係委員會"
+      },
+      {
+        "title": "For Trump, Court Loss Is Latest Twist in Ever-Shifting Tariffs - The New York Times",
+        "desc": "For Trump, Court Loss Is Latest Twist in Ever-Shifting Tariffs&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnpXa3NxU3BVQndDLTI3Wk1acjRpSk40RldfYjhGRTVLWnJSd2FTendvSEdmanc5VWpGRnlqSFN3bWYwRUtfRV9XRmFTdElmdWd2NUU4YzRScldWT19PVkhsRjVXV0gtNGhaZGFSQVU5Q2dNc1ozQnNOTGpnYlVyQ01hZjA?oc=5",
+        "pubTime": "2026-05-10 15:00",
+        "source": "news.google.com",
+        "titleZh": "對於川普，法院的失敗是不斷變化的關稅中的最新轉折 - 紐約時報",
+        "descZh": "對於川普，法院的失敗是不斷變化的關稅中的最新轉折&nbsp;&nbsp;紐約時報"
+      }
+    ]
+  },
+  {
     "date": "20260511",
     "fetchTime": "2026-05-11 05:09",
     "count": 9,
