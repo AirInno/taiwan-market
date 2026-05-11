@@ -137,6 +137,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 .md-body strong{color:#e2e8f0}
 .md-body a{color:#60a5fa;text-decoration:none}
 .md-body a:hover{text-decoration:underline}
+#twbrf-body{font-family:'Courier New',Consolas,monospace;font-size:.82rem;white-space:pre-wrap}
 @media(max-width:768px){
   .hdr,.ab,.tc-wrap,#dbar,.navs,.us-bar{padding-left:14px;padding-right:14px}
   .ab{margin-left:14px;margin-right:14px}
@@ -437,10 +438,24 @@ async function loadTwBriefing(date){
     $('twbrf-status').textContent='';
   }
 }
-function rTwBriefing(){
+async function rTwBriefing(){
   twbrfLoaded=true;
   const sel=$('twbrf-dsel');
-  const dates=[...new Set(D.map(d=>d.date))].sort((a,b)=>b.localeCompare(a));
+  $('twbrf-status').textContent='載入清單...';
+  let dates=[];
+  try{
+    const r=await fetch('https://api.github.com/repos/AirInno/taiwan-market/contents/briefings');
+    const files=await r.json();
+    dates=files
+      .filter(f=>f.name&&f.name.endsWith('-tw.md'))
+      .map(f=>f.name.replace('-tw.md',''))
+      .sort((a,b)=>b.localeCompare(a));
+  }catch(e){}
+  if(!dates.length){
+    $('twbrf-status').textContent='';
+    $('twbrf-empty').style.display='';
+    return;
+  }
   sel.innerHTML=dates.map(d=>`<option value="${d}">${d.slice(0,4)}/${d.slice(4,6)}/${d.slice(6,8)}</option>`).join('');
   sel.onchange=()=>loadTwBriefing(sel.value);
   loadTwBriefing(dates[0]);
