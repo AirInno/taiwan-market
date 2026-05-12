@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260513",
+    "fetchTime": "2026-05-13 05:45",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Trump's Lincoln Memorial Reflecting Pool makeover faces a lawsuit and a $13m price tag",
+        "desc": "Full pool renovations were estimated to cost $300m and take years. Trump said he found \"a better way of doing it\" that would only cost $1.5m to $2m.",
+        "url": "https://www.bbc.com/news/articles/c202nj46p7wo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 04:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的林肯紀念堂倒影池改造工程面臨訴訟和 1,300 萬美元的標價",
+        "descZh": "全套泳池翻新工程預計耗資 3 億美元，需時數年。Trump 表示他找到了「更好的方法」，只需 150 萬至 200 萬美元。"
+      },
+      {
+        "title": "Trump loses his trade superpower - Financial Post",
+        "desc": "Trump loses his trade superpower&nbsp;&nbsp;Financial Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpUlk2aVA0b1c4dC1GNnZiY0Fud3JhQUl4a2ZCWnFWRXNCQUJRX2N1b3ZVbTNweF90Q1FWZ3B3UGQxZkZEckY0VERYWEdlNHZXcFFWWVJkVG45VU5pX0c4WXNlT01HMkZvY0ItOV8yV0xHMklxaEtfN1pRdjJfOTA?oc=5",
+        "pubTime": "2026-05-13 04:46",
+        "source": "news.google.com",
+        "titleZh": "川普失去貿易超能力 - 金融郵報",
+        "descZh": "川普失去他的貿易超能力&nbsp;&nbsp;金融郵報"
+      },
+      {
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "desc": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+        "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 04:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與習近平峰會如何為未來多年的超級大國關係定調",
+        "descZh": "川普旋風式訪華是多年來最重要的訪問 - 但會有成果嗎？"
+      },
+      {
+        "title": "US in closely guarded talks to open new bases in Greenland",
+        "desc": "Negotiations have progressed in recent months, according to multiple officials familiar, with the White House optimistic of reaching a deal.",
+        "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-12 19:44",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國就在格陵蘭開闢新基地進行緊密談判",
+        "descZh": "據多位熟悉情況的官員透露，近幾個月來談判已取得進展，白宮對達成協議持樂觀態度。"
+      },
+      {
+        "title": "Trump Administration Seeks Court Pause On Ruling Against Global Tariffs - Arise News",
+        "desc": "Trump Administration Seeks Court Pause On Ruling Against Global Tariffs&nbsp;&nbsp;Arise News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2Q2WTdVTHU0U21jQTJJYTgxU3NWbWpNb2xDS3ppYmw5eERSVVc3UDlZd1diaDhHNnQ3TmV3cUFuSU5pWElGVmVFNU9hbk5kTldBa0VZbHFGTHdjX1lZMHdnVS0yR1NHeHdEMERqY2ZjWXpuN3dlX3k3UW8wSTF3alIyclc0OXl2RWdQTGdkaDNaYW9ERzUzNw?oc=5",
+        "pubTime": "2026-05-12 18:19",
+        "source": "news.google.com",
+        "titleZh": "川普政府尋求法院暫緩對全球關稅的裁決 - Arise News",
+        "descZh": "川普政府尋求法院暫緩對全球關稅的裁決&nbsp;&nbsp;Arise News"
+      },
+      {
+        "title": "China Inc.'s global growth curbs Trump tariff powers undercut by courts - Nikkei Asia",
+        "desc": "China Inc.'s global growth curbs Trump tariff powers undercut by courts&nbsp;&nbsp;Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmhkU0tsXzJ2ZlFySkd1LWJQM0dKbFlpdXlMamV6R3dFNEl6dWgtdkZiZHppYkYwaWhxQWtxdGsyR2pJRmNBcm5ici0ycVczcHVRX1RRSVNnWFBvWWRVcERsU1FJMWdvSkg3eUJtTHM1aHgyT3Z3aHYzT0FCdXpRVVVpY080djlRb1FUZzdWRDhDcGMteG5uZm04ZGR3aW1kRG42Y0o0ajVETGR3b3loNFdMaUZjZUE1MUdiNkVkS1lLQ0pLR2c?oc=5",
+        "pubTime": "2026-05-12 13:01",
+        "source": "news.google.com",
+        "titleZh": "中國公司全球增長受遏制 特朗普關稅權力遭法院削弱 - Nikkei Asia",
+        "descZh": "中國公司全球增長受遏制 特朗普關稅權力遭法院削弱&nbsp;&nbsp;日經亞洲雜誌"
+      },
+      {
+        "title": "Judicial roadblocks for trade tariffs won't change Donald Trump's mind - Business Standard",
+        "desc": "Judicial roadblocks for trade tariffs won't change Donald Trump's mind&nbsp;&nbsp;Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQTZ4SlEwS0hMUk9fMEQxWWJqbldUZXAyTHNKS2NYbDBPSXIwR19yVTVNTHVqdzBNakdtRFcybWdKd3pHQW9TdkF0NDhwRkVSbUlLNEtsVmRPTUk2Q1A0b19PeGZYLWVuOUhialExWjZFeTJySkh4bHBFd0lTV0NQMW9oTi1zTE1zXzR1a1ZxdFdHSjB1NjBsQnRvMGR5RXBkR21nbWlLY2xLWE83VFRpV0ZmOE8tVERDOE1tTThvMVdoVS1iLWU4ZDZod0tobXhVZGRSWDRpejIyQdIB3wFBVV95cUxPclZnUFY1eW41ZmN4T3hoNWYtZmNydWxnYUZrTkJLWXNHdWF1cFI5emZOdUM0dXl5bWxIakZROWk4U1otb2h2aWlSN3pjWVhid1JheW5QajhRWXRoVmdwdWJjZkgxUjl6a2hpNEVmQ2hFcC1femlPUmpDdE54alM5MXZWU1V5c2JDT0dfSDd0MzlqbVg4eDZrQkI5am5ydDIzWDhkSGdOSjlfZzRINS0tZE01QmxHWjliNVUxOTljUHI4ODhJYWtmdnNhRXBrV2IzTUpJZi1rRHI5QXRSNVBR?oc=5",
+        "pubTime": "2026-05-12 01:15",
+        "source": "news.google.com",
+        "titleZh": "貿易關稅的司法路障不會改變川普的想法 - Business Standard",
+        "descZh": "貿易關稅的司法路障不會改變川普的想法&nbsp;&nbsp;Business Standard"
+      },
+      {
+        "title": "Apple CEO Tim Cook, Elon Musk to join President Donald Trump for China visit, Nvidia’s Jensen Huang may m - The Times of India",
+        "desc": "Apple CEO Tim Cook, Elon Musk to join President Donald Trump for China visit, Nvidia’s Jensen Huang may m&nbsp;&nbsp;The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOQXRoR3hPdDh5ZjlnOEp5YWVEaDBXMXI4UnIyd2N2S3YwYnFteTdja0gxN3BUd3Q2Q2NrS29PRFQtelFOcVdiOVh3SFpwd3RTeGUzNWhfeDFPOHlKYklnWHV4OE9nYzRzNDdISnFrNXMxc1U0Wngwb191Rjd3THNIQzMxaUYwVVZxendsYlQ2djJLLWN5dUZTSVFUQkRKUWdZOTBScXBmTVVCdUJPNC0zUkVycUNGNi1vRUprY3BMeUxjZGJYNWpTOWVkRVR2QmZNSlk1NTNDQzNpbDFXNW9nNHlNYlRQNlVRU3UyUzlqLVlVVU5vMGVyWFk0ZWl0ZVJDS002SFFJQi1VWVo2UFBNVTZOX3VTaHc5TWoxckxBVS1mQdIBpwJBVV95cUxPZEpuc0hITjNmN0kzMXRxS1JldUdzWk01dGg5eHZfSDhlOG9DNWhzQXBiamU4T29qTkRtc2VSZXVoeEtibnd0NjFDWnZIZklQTm9ZS0RIZjBHNHBIb191aG5WRlBxUVBiM3RKVzFaaWFfN0lzajJxSG9WV2F2TUhlT29xOGxvYkw4SW9ORjBMNmt3S21JM2Z2MFViVS10em5nU3Z6Mk45Rl9JUHJ4a0IydklPb1g0ejR3UGFwSDQ2bUM3bHM1a2hJQVdCeTJKY1YxZUE2NEVvbGJkUUt3dDNQSjRpb2w2eEpjeEJLcWx5dHRsckZrUmdFRS0tVjFOTUNWQlpiRDJ5T0ZjVmhYbjFxZ1NldDlDSW1qMm52bXI0Nm43bnVVZ2hj?oc=5",
+        "pubTime": "2026-05-12 00:16",
+        "source": "news.google.com",
+        "titleZh": "蘋果首席執行官 Tim Cook、Elon Musk 將與美國總統川普一同訪問中國，Nvidia 的 Jensen Huang 可能會 - The Times of India",
+        "descZh": "蘋果首席執行官 Tim Cook、Elon Musk 將與美國總統唐納德-特朗普一同訪問中國，Nvidia 的 Jensen Huang 可能會與美國總統唐納德-特朗普一同訪問中國，Nvidia 的 Jensen Huang 可能會與美國總統唐納德-特朗普一同訪問中國。"
+      },
+      {
+        "title": "Trump tariff blow leaves importers in limbo - Politico",
+        "desc": "Trump tariff blow leaves importers in limbo&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWlST1hzLVptYTRUUWdXLTIzY04xR1JQV2ZrU0VqT0tvM0hlTzhYX19rZml2bmRfMjFtN1pjckphdzdJcnB0LVFlQ1N6akY0aDk0X3kwMnRQOVdfcnM4Wm5xNlFsS1hfTC1CVFBiNnY0YnZ0WjFIWlU0NFpyRkRuRldaQW1fSWFYM25CXzhGRXFoQTdXa1JST3V5WkxDNmR1Rm5rRGNvZGxSZmQydk81R2o3aw?oc=5",
+        "pubTime": "2026-05-11 22:00",
+        "source": "news.google.com",
+        "titleZh": "特朗普的關稅打擊讓進口商陷入困境 - Politico",
+        "descZh": "特朗普的關稅打擊讓進口商陷入困境&nbsp;&nbsp;Politico"
+      },
+      {
+        "title": "Conservative Group Applauds Recent Court Decision Striking Down New Tariff Proposals by Trump White House - floridadaily.com",
+        "desc": "Conservative Group Applauds Recent Court Decision Striking Down New Tariff Proposals by Trump White House&nbsp;&nbsp;floridadaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaVU4ZGo4QXJkZDRuOE15X3dDWXNZYTdXb2dKek9tSzBPRmpXSHNoNThNaS1UNXZTbFR3aHMwdWNrVFlHeDVqNkRBNDVneklJRGtoYlpVdFIzdzEtMW9SNWMySU43S2NwZXZtb2JFQnp2NjktQU5WSkdwcUN1clJTQUdwWWlPemhHRDRPeWI4c0d1TlZFeGZkRzVmRjItSTZLN2U1RTkzdl82YjhKQzdKampwOE50ZmkzQS1kR3dFMzFZa1pRdmpTUW5FYw?oc=5",
+        "pubTime": "2026-05-11 20:44",
+        "source": "news.google.com",
+        "titleZh": "保守派團體讚揚法院最近的裁決，推翻川普白宫的新關稅提案 - floridadaily.com",
+        "descZh": "保守派團體讚揚法院最近的裁決，推翻川普白宫的新關稅提案&nbsp;&nbsp;floridadaily.com"
+      },
+      {
+        "title": "Trump's China visit set to test fragile truce - BBC",
+        "desc": "Trump's China visit set to test fragile truce&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbjMxdzRiSC1SMEdXVzdzcmhCcC1PN2JNc1VpenBISWZKd2FtYjAyZWZLVThHSnpRdzRiZWc4aG5wTE96X1FVX3NGQUhtYU1OakhXM0hLODd1dw?oc=5",
+        "pubTime": "2026-05-11 17:26",
+        "source": "news.google.com",
+        "titleZh": "特朗普訪華將考驗脆弱的休戰 - BBC",
+        "descZh": "特朗普訪華將考驗脆弱的休戰&nbsp;&nbsp;BBC"
+      }
+    ]
+  },
+  {
     "date": "20260512",
     "fetchTime": "2026-05-12 05:46",
     "count": 10,
