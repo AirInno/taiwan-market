@@ -28,8 +28,12 @@ jobs:
           TZ_TAIPEI = timezone(timedelta(hours=8))
           RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 
-          resp = requests.get(RSS_URL, timeout=30)
-          resp.raise_for_status()
+          try:
+              resp = requests.get(RSS_URL, timeout=30)
+              resp.raise_for_status()
+          except Exception as e:
+              print(f"YouTube RSS 暫時無法存取，略過本次執行：{e}")
+              exit(0)
 
           ns = {
               'atom': 'http://www.w3.org/2005/Atom',
