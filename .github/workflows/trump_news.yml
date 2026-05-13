@@ -35,3 +35,16 @@ jobs:
             git commit -m "📰 $(date +'%Y%m%d') 自動更新川普新聞原始資料"
             git push
           fi
+
+      - name: 失敗通知
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.ANALYSIS_EMAIL_USER }}
+          password: ${{ secrets.ANALYSIS_EMAIL_PASSWORD }}
+          subject: "❌ 川普新聞爬蟲失敗 $(date +'%Y-%m-%d')"
+          to: a11000033a10025818@gmail.com
+          from: ${{ secrets.ANALYSIS_EMAIL_USER }}
+          body: "trump_news.yml 執行失敗，請至 GitHub Actions 查看錯誤日誌。"

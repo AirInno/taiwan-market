@@ -672,6 +672,23 @@ function rAlert(){
   }else wr.style.display='none';
 }
 
+// === CARDS HELPERS ===
+function renderMargin(elemId, stockKey) {
+  const m = L.margin?.[stockKey];
+  if (!m) return;
+  const prev = L5.length > 1 ? L5[L5.length-2]?.margin?.[stockKey]?.融資餘額 : null;
+  const diff = prev != null ? m.融資餘額 - prev : null;
+  const ds = diff != null ? (diff >= 0 ? ` ▲${diff.toLocaleString()}` : ` ▼${Math.abs(diff).toLocaleString()}`) : '';
+  $(elemId).textContent = `融資 ${m.融資餘額.toLocaleString()}張${ds}`;
+}
+function renderHold(elemId, holdKey) {
+  const h = L[holdKey];
+  if (h) $(elemId).textContent = `外資持股 ${h.張數.toLocaleString()}張（${h.比率}%）`;
+}
+function renderC5(elemId, val) {
+  $(elemId).innerHTML = `<span class="muted">外資近5日</span><span class="v ${val>=0?'pos':'neg'}">${val>=0?'+':''}${val.toLocaleString()}張</span>`;
+}
+
 // === CARDS ===
 function rCards(){
   const s5f=L5.reduce((a,r)=>a+r.外資億元,0);
@@ -692,27 +709,27 @@ function rCards(){
   $('ttb').innerHTML=bdg(L.tsmc警示);
   const tti=$('tti');tti.textContent=fZ(L.tsmc投信);tti.className='mv '+(L.tsmc投信>=0?'pos':'neg');
   $('ttin').textContent=L.tsmc投信>0&&L.tsmc外資<0?'逆向護盤':'';
-  if(L.tsmc_hold){$('tthold').textContent=`外資持股 ${L.tsmc_hold.張數.toLocaleString()}張（${L.tsmc_hold.比率}%）`;}
-  {const m=L.margin?.tsmc;if(m){const prev=L5.length>1?L5[L5.length-2]?.margin?.tsmc?.融資餘額:null;const diff=prev!=null?m.融資餘額-prev:null;const ds=diff!=null?(diff>=0?` ▲${diff.toLocaleString()}`:(` ▼${Math.abs(diff).toLocaleString()}`)):'';$('ttmargin').textContent=`融資 ${m.融資餘額.toLocaleString()}張${ds}`;}}
-  $('ttc5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5t>=0?'pos':'neg'}">${s5t>=0?'+':''}${s5t.toLocaleString()}張</span>`;
+  renderHold('tthold', 'tsmc_hold');
+  renderMargin('ttmargin', 'tsmc');
+  renderC5('ttc5', s5t);
   // 0050
   const ev=$('t0f');ev.textContent=fZ(L.etf0050外資);ev.className='mv '+(L.etf0050外資>=0?'pos':'neg');
   $('t0b').innerHTML=bdg(L.etf0050警示);
   const ei=$('t0i');ei.textContent=fZ(L.etf0050投信);ei.className='mv '+(L.etf0050投信>=0?'pos':'neg');
   const n0=$('t0in');n0.textContent=L.etf0050投信>0&&L.etf0050外資<0?'逆向護盤':L.etf0050投信===0?'無護盤':'';
   n0.style.color=L.etf0050投信>0?'#34d399':'#718096';
-  if(L.etf0050_hold){$('t0hold').textContent=`外資持股 ${L.etf0050_hold.張數.toLocaleString()}張（${L.etf0050_hold.比率}%）`;}
-  {const m=L.margin?.etf0050;if(m){const prev=L5.length>1?L5[L5.length-2]?.margin?.etf0050?.融資餘額:null;const diff=prev!=null?m.融資餘額-prev:null;const ds=diff!=null?(diff>=0?` ▲${diff.toLocaleString()}`:(` ▼${Math.abs(diff).toLocaleString()}`)):'';$('t0margin').textContent=`融資 ${m.融資餘額.toLocaleString()}張${ds}`;}}
-  $('t0c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s50>=0?'pos':'neg'}">${s50>=0?'+':''}${s50.toLocaleString()}張</span>`;
+  renderHold('t0hold', 'etf0050_hold');
+  renderMargin('t0margin', 'etf0050');
+  renderC5('t0c5', s50);
   // 台達電 2308
   const s5d2=L5.filter(r=>r.delta外資!=null).reduce((a,r)=>a+(r.delta外資||0),0);
   if(L.delta外資!=null){
     const dv=$('td2f');dv.textContent=fZ(L.delta外資);dv.className='mv '+(L.delta外資>=0?'pos':'neg');
     $('td2b').innerHTML=bdg(L.delta警示);
     const di=$('td2i');di.textContent=fZ(L.delta投信);di.className='mv '+(L.delta投信>=0?'pos':'neg');
-    $('td2c5').innerHTML=`<span class="muted">外資近5日</span><span class="v ${s5d2>=0?'pos':'neg'}">${s5d2>=0?'+':''}${s5d2.toLocaleString()}張</span>`;
-    if(L.delta_hold){$('td2hold').textContent=`外資持股 ${L.delta_hold.張數.toLocaleString()}張（${L.delta_hold.比率}%）`;}
-    {const m=L.margin?.delta;if(m){const prev=L5.length>1?L5[L5.length-2]?.margin?.delta?.融資餘額:null;const diff=prev!=null?m.融資餘額-prev:null;const ds=diff!=null?(diff>=0?` ▲${diff.toLocaleString()}`:(` ▼${Math.abs(diff).toLocaleString()}`)):'';$('td2margin').textContent=`融資 ${m.融資餘額.toLocaleString()}張${ds}`;}}
+    renderC5('td2c5', s5d2);
+    renderHold('td2hold', 'delta_hold');
+    renderMargin('td2margin', 'delta');
   }else{
     $('td2f').textContent='--';$('td2b').innerHTML='';$('td2i').textContent='--';$('td2hold').textContent='';$('td2c5').innerHTML='';
   }

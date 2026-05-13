@@ -5,7 +5,7 @@
 
 import json, requests, os
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime, timezone
 
 DATA_PATH   = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
 LATEST_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data-latest.json')
@@ -79,8 +79,8 @@ def main():
     jpy = global_data.get('jpytwd')
     print(f'  S&P500={sp}  VIX={vix}  JPY/TWD={jpy}')
 
-    # UTC 21:00 執行時，美股收盤日 = 今天（UTC 日期）
-    us_date = date.today()
+    # UTC 21:00 執行時，美股收盤日 = UTC 當日
+    us_date = datetime.now(timezone.utc).date()
     us_close_date = f'{us_date.month:02d}/{us_date.day:02d}'
 
     for entry in history:

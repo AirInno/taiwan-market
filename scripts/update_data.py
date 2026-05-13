@@ -35,10 +35,10 @@ _LVLS = ['正常', '注意', '高度警戒', '極度警戒']
 
 def market_alert(f, c, etf0050_f=0):
     """主警示：外資整體 + 連續賣超天數 + 0050 大量賣超聯動升級"""
-    if f >= -50 and c < 3:   base = '正常'
-    elif f >= -100 or c < 5: base = '注意'
-    elif f >= -200 or c < 8: base = '高度警戒'
-    else:                     base = '極度警戒'
+    if f >= -50 and c < 3:    base = '正常'
+    elif f >= -100 and c < 5: base = '注意'
+    elif f >= -200 and c < 8: base = '高度警戒'
+    else:                      base = '極度警戒'
     # 0050 大量賣超：直接升級主警示（≥2萬張高度、≥3萬張極度）
     if etf0050_f <= -30000:
         base = _LVLS[max(_LVLS.index(base), 3)]
@@ -417,7 +417,7 @@ def fetch_global():
 
 def get_target_date():
     today = date.today()
-    for i in range(7):
+    for i in range(14):
         d = today - timedelta(days=i)
         if d.weekday() < 5:
             return d.strftime('%Y%m%d')

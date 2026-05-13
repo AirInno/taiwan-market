@@ -178,7 +178,8 @@ def fetch_yf_quote(symbol):
         prev   = meta.get('chartPreviousClose') or meta.get('previousClose', close)
         chg_pct = round((close - prev) / prev * 100, 2) if prev else 0
         return round(close, 2), chg_pct
-    except Exception:
+    except Exception as e:
+        print(f'  [WARN] {symbol} 報價抓取失敗：{e}')
         return None, None
 
 def fetch_global():

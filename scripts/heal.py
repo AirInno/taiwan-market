@@ -89,8 +89,31 @@ def flag_semantic_anomalies():
     return False
 
 
+def fix_schema_consistency():
+    """補填早期記錄缺少的 optional 欄位為 null，確保 schema 一致"""
+    try:
+        with open(DATA_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return False
+
+    optional_fields = ["tsmc_hold", "etf0050_hold", "delta_hold", "margin", "futures", "global", "分歧信號"]
+    changed = False
+    for entry in data:
+        for field in optional_fields:
+            if field not in entry:
+                entry[field] = None
+                changed = True
+
+    if changed:
+        with open(DATA_PATH, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print("  ✅ schema 一致性補填完成")
+    return changed
+
+
 if __name__ == "__main__":
     print("[heal] 開始修復...")
-    changed = fix_null_bytes() | rebuild_latest()
+    changed = fix_null_bytes() | rebuild_latest() | fix_schema_consistency()
     flag_semantic_anomalies()
     print("[heal] 完成：有修復" if changed else "[heal] 完成：無需修復")
