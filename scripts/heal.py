@@ -47,7 +47,50 @@ def rebuild_latest():
     return True
 
 
+def flag_semantic_anomalies():
+    """掃描語意異常（持股比率超範圍、外資億元超範圍），回報但不自動修改"""
+    try:
+        with open(DATA_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return False
+
+    anomalies = []
+    hold_fields = ("tsmc_hold", "etf0050_hold", "delta_hold")
+
+    for entry in data:
+        d = entry.get("date", "?")
+
+        val = entry.get("外資億元")
+        if val is not None and not (-2000 <= val <= 2000):
+            anomalies.append(f"  [{d}] 外資億元超範圍：{val}")
+
+        for field in hold_fields:
+            hold = entry.get(field)
+            if isinstance(hold, dict):
+                ratio = hold.get("比率")
+                if ratio is not None and not (0 <= ratio <= 100):
+                    anomalies.append(f"  [{d}] {field}.比率 超範圍：{ratio}")
+
+        margin = entry.get("margin")
+        if isinstance(margin, dict):
+            for stock, m in margin.items():
+                for key in ("融資餘額", "融券餘額"):
+                    v = m.get(key)
+                    if v is not None and v < 0:
+                        anomalies.append(f"  [{d}] {stock}.{key} 為負值：{v}")
+
+    if anomalies:
+        print("  ⚠️ 發現語意異常（需人工確認，heal 不自動修改）：")
+        for a in anomalies:
+            print(a)
+        return True
+
+    return False
+
+
 if __name__ == "__main__":
     print("[heal] 開始修復...")
     changed = fix_null_bytes() | rebuild_latest()
+    flag_semantic_anomalies()
     print("[heal] 完成：有修復" if changed else "[heal] 完成：無需修復")

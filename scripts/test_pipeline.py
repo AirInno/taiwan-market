@@ -58,7 +58,50 @@ def test_latest_entry_is_recent():
     data    = _load(DATA_PATH)
     last_dt = datetime.strptime(max(e["date"] for e in data), "%Y%m%d").date()
     delta   = (date.today() - last_dt).days
-    assert delta <= 15, f"最新資料距今 {delta} 天（{last_dt}），超過 15 天門檻"
+    assert delta <= 5, f"最新資料距今 {delta} 天（{last_dt}），超過 5 天門檻"
+
+
+def test_foreign_trading_range():
+    """外資億元應在合理交易範圍內（-2000 ~ +2000）"""
+    data = _load(DATA_PATH)
+    for entry in data:
+        val = entry.get("外資億元")
+        if val is None:
+            continue
+        assert -2000 <= val <= 2000, \
+            f"{entry.get('date')} 外資億元異常：{val}（預期 -2000~+2000）"
+
+
+def test_holdings_ratio_range():
+    """外資持股比率應在 0~100% 之間（累計持股，非每日買賣超）"""
+    data = _load(DATA_PATH)
+    hold_fields = ("tsmc_hold", "etf0050_hold", "delta_hold")
+    for entry in data:
+        for field in hold_fields:
+            hold = entry.get(field)
+            if not isinstance(hold, dict):
+                continue
+            ratio = hold.get("比率")
+            if ratio is None:
+                continue
+            assert 0 <= ratio <= 100, \
+                f"{entry.get('date')} {field}.比率 異常：{ratio}（預期 0~100）"
+
+
+def test_margin_balance_non_negative():
+    """融資/融券餘額應為非負整數"""
+    data = _load(DATA_PATH)
+    for entry in data:
+        margin = entry.get("margin")
+        if not isinstance(margin, dict):
+            continue
+        for stock, m in margin.items():
+            for key in ("融資餘額", "融券餘額"):
+                val = m.get(key)
+                if val is None:
+                    continue
+                assert val >= 0, \
+                    f"{entry.get('date')} {stock}.{key} 為負值：{val}"
 
 
 def test_data_latest_consistent():
