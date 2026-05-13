@@ -1,5 +1,165 @@
 [
   {
+    "date": "20260514",
+    "fetchTime": "2026-05-14 05:49",
+    "count": 17,
+    "articles": [
+      {
+        "title": "US drops $15,000 visa deposit for foreign fans with World Cup tickets",
+        "desc": "Fifty countries, including five that have qualified for the World Cup, are subject to the bond requirement as part of Trump's crackdown on visa overstays.",
+        "url": "https://www.bbc.com/news/articles/c392dj4xwy4o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-14 04:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國放棄向持有世界盃門票的外國球迷收取 15,000 美元簽證保證金",
+        "descZh": "在川普打擊逾期居留簽證的行動中，有 50 個國家，包括 5 個有資格參加世界盃的國家，必須遵守保證金要求。"
+      },
+      {
+        "title": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
+        "desc": "Kevin Warsh was confirmed by the narrowest margin since the role required a Senate confirmation vote.",
+        "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-14 04:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的美聯儲主席人選 Kevin Warsh 獲美國參議院確認",
+        "descZh": "Kevin Warsh 以最微弱的票數獲得確認，因為這個角色需要參議院確認投票。"
+      },
+      {
+        "title": "Analyzing Trump’s Foreign Policy and Its International Implications - War on the Rocks",
+        "desc": "Analyzing Trump’s Foreign Policy and Its International Implications&nbsp;&nbsp;War on the Rocks",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWJ2QjFZUUw4c01QdlZkc2xtQmFQczZMaFVZWVpOSktXMDFXS2Z5T2JtdTNyWDd1UTF1N3puYXVYdFZQcVdScUx5UlAtQ3czVDdXcGk3enBONUNueGY5dkFNZ2VTLXdYbjgyVWFxeGJ1ZENDS2VwZWx5ak5NZnhRa0IwVTlJaHlHemg0dk1EdklIX0YtcE9OTQ?oc=5",
+        "pubTime": "2026-05-14 01:31",
+        "source": "news.google.com",
+        "titleZh": "分析川普的外交政策及其國際影響 - 石頭上的戰爭",
+        "descZh": "分析特朗普的外交政策及其國際影響&nbsp;&nbsp;搖滾上的戰爭"
+      },
+      {
+        "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+        "desc": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan.",
+        "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-14 01:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普抵達中國與習近平進行高風險會談，貿易、伊朗和台灣都在議程上",
+        "descZh": "美國總統表示，他向習近平提出的第一個要求將是「開放」中國，而北京預料會就台灣地位向川普施壓。"
+      },
+      {
+        "title": "Trump v Xi: Who has the upper hand?",
+        "desc": "The BBC's Sarah Smith explains the power dynamic between the two world leaders as they meet in Beijing.",
+        "url": "https://www.bbc.com/news/videos/cj0py2jvzljo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 22:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普對習近平：誰佔了上風？",
+        "descZh": "BBC 的 Sarah Smith 解釋兩位世界領袖在北京會面時的權力動態。"
+      },
+      {
+        "title": "What to know as Trump visits Xi in China",
+        "desc": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
+        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 21:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普訪問中國習近平時要知道的事",
+        "descZh": "特朗普自 2017 年以來首次訪問北京。"
+      },
+      {
+        "title": "Trump’s China policy is nearly the exact opposite of what everyone expected - vox.com",
+        "desc": "Trump’s China policy is nearly the exact opposite of what everyone expected&nbsp;&nbsp;vox.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlF6eVJ5N1VxZVRTNTdqS1FHYVNZdlhkWkpWMnowNEl1QmRBTkZYbWlUUkFHLTFDZlVkLWNVVzliSllsN2RmNjhGbVVnam0xYUxEVjZoRnRINjRZMHE4TU80WEVGVGRxbUVEcTlHejgtaklxU3Y1RnI3S01hbzFzYTBpUVZGaDdVOTliMGtEbnUtcjdpcGRpa2hGU1hOTnVyUk5pNzJQa0Z0ZlRBWlNr?oc=5",
+        "pubTime": "2026-05-13 18:45",
+        "source": "news.google.com",
+        "titleZh": "川普的對華政策幾乎與所有人的預期完全相反 - vox.com",
+        "descZh": "川普的對華政策幾乎與所有人的預期完全相反&nbsp;&nbsp;vox.com"
+      },
+      {
+        "title": "US court pauses decision blocking Trump’s 10 percent global tariff - Al Jazeera",
+        "desc": "US court pauses decision blocking Trump’s 10 percent global tariff&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFpVZWotbkpqUmJjOFJSUHBtTldXN2gzOVN1XzkxM2ljWlBhdm9aVVhMNm5nQ0lpODlYeWN0OURkQVNRVmtRWnVFUVF1NXJuOFZaWHZrN0M4YjJOeGZLXzkwZG41RnJYWFpCbFVMVTl5YkRxc1NwTWRUSEdVM05nOHhna2FKWU53dHc0eG5yWU85Z0g2Vk4xXy01aHFmbUFJRnBtbC0xQzBPUFJ1c1HSAbMBQVVfeXFMTjIzQ0hCcHAtb1VmaUJxTzYzRFdfeENpVkFSNDUxbEF0Q2J5QnBDV3k1bEYwaTJhR2dRMWJUWlp6RVBOSjdRVmJxMnNocUtRaVhzNVhzR1R4V2RYWmhTTFR6cnc3RWV2OHhNMy1pMHUxcUJMRzIxb3g5SWJwQ3NhblozNlpSMk1GaFc3bGRNTE0zQWRIdFlMTWNJUWRHNUM3VWFhOVlENVZrRXZQMG1pRThHazQ?oc=5",
+        "pubTime": "2026-05-13 16:59",
+        "source": "news.google.com",
+        "titleZh": "美國法院暫緩決定阻止川普10%全球關稅 - Al Jazeera",
+        "descZh": "美國法院暫緩決定阻止川普的 10%全球關稅&nbsp;&nbsp;Al Jazeera"
+      },
+      {
+        "title": "America Has Lost Its Leverage Over China: How Trump and Xi Could Cement Beijing’s Advantage for Years to Come - Foreign Affairs Magazine",
+        "desc": "America Has Lost Its Leverage Over China: How Trump and Xi Could Cement Beijing’s Advantage for Years to Come&nbsp;&nbsp;Foreign Affairs Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFltdGFQNFE3dU5xXzh6d2RPUWtudzZEUVZtdi0wVnZ5OGlOTnhqOXQ5WjItY2FwVVV0MFptY1hpU0tMTkdCTFBJVEd6YVNPTEFrYzJNXzNDMHNVbGJVMW5oNzRDckpJQTBPM1NlU2lJa2M1bWtDaFpZTDBuZVdYOVZGUVU1RHpFSVdFb0Rn?oc=5",
+        "pubTime": "2026-05-13 12:00",
+        "source": "news.google.com",
+        "titleZh": "美國已失去對中國的籌碼：特朗普和習近平如何在未來幾年鞏固北京的優勢 - 外交雜誌",
+        "descZh": "美國已失去對中國的籌碼：特朗普和習近平如何在未來幾年鞏固北京的優勢&nbsp;&nbsp;外交雜誌"
+      },
+      {
+        "title": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite - The New York Times",
+        "desc": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3pkWjRKbG0xNk85Rm9LVXRTS016TFdEOXVjTWdIVG5STGFrbzBydUJkamIyMk5aVFd0R2o3SGQ3dVkxVWJzRzktLU53dDFaSGlseXFBaWEtemFNSF96TEt6NTNjVnJBQjRJSmlaQmo5VjJ4S1FBNjA2eEpxd0lzUUxock1IWVRkNi1GNjlzaEIyenE0?oc=5",
+        "pubTime": "2026-05-13 11:08",
+        "source": "news.google.com",
+        "titleZh": "Nvidia C.E.O. Jensen Huang 在最後一刻受邀與川普一同前往中國 - 紐約時報",
+        "descZh": "Nvidia C.E.O. Jensen Huang 在最後一分鐘獲邀搭上川普的順風車前往中國&nbsp;&nbsp;紐約時報"
+      },
+      {
+        "title": "'It's not a swimming pool' - Americans react to Trump's reflecting pool makeover",
+        "desc": "As the president continues his initiative to make Washington DC 'safe and beautiful', tourists and locals are conflicted over the $13m renovation.",
+        "url": "https://www.bbc.com/news/videos/cp8pmgmpgj3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 09:22",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "這不是游泳池」- 美國人對川普改造反射池的反應",
+        "descZh": "當總統繼續他讓華盛頓特區變得「安全又美麗」的倡議時，遊客和當地居民對於耗資 1300 萬美元的翻新工程感到矛盾。"
+      },
+      {
+        "title": "Trump to discuss US arms sales to Taiwan with Xi Jinping this week, raising crypto supply chain concerns - Crypto Briefing",
+        "desc": "Trump to discuss US arms sales to Taiwan with Xi Jinping this week, raising crypto supply chain concerns&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Xy1JSkYzZlAyUXB5T1NyRFc5NEpCWm1TNGt2LTc5RlNsamFCWG5BdkdRam1xaGtCbndxaUd0NkJxVUFVLUtMeWZHbF9QdlpIZDJXN0k0UXhLYjJraVI0RnlXTHdDclk2d3paUUc4ckN5SVBtM2pZ?oc=5",
+        "pubTime": "2026-05-13 07:17",
+        "source": "news.google.com",
+        "titleZh": "川普本周將與習近平討論美國對台軍售，引起加密貨幣供應鏈疑慮 - Crypto Briefing",
+        "descZh": "川普本周將與習近平討論美國對台軍售，引發加密貨幣供應鏈疑慮&nbsp;&nbsp;加密貨幣簡報"
+      },
+      {
+        "title": "A decade on, Trump returns to a stronger and more assertive China",
+        "desc": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 06:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "十年後，川普回歸更強大、更自信的中國",
+        "descZh": "一位分析師表示，北京可以說是美國歷史上面對的最強大的競爭對手。"
+      },
+      {
+        "title": "Trump loses his trade superpower - Financial Post",
+        "desc": "Trump loses his trade superpower&nbsp;&nbsp;Financial Post",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpUlk2aVA0b1c4dC1GNnZiY0Fud3JhQUl4a2ZCWnFWRXNCQUJRX2N1b3ZVbTNweF90Q1FWZ3B3UGQxZkZEckY0VERYWEdlNHZXcFFWWVJkVG45VU5pX0c4WXNlT01HMkZvY0ItOV8yV0xHMklxaEtfN1pRdjJfOTA?oc=5",
+        "pubTime": "2026-05-13 04:46",
+        "source": "news.google.com",
+        "titleZh": "川普失去貿易超能力 - 金融郵報",
+        "descZh": "川普失去他的貿易超能力&nbsp;&nbsp;金融郵報"
+      },
+      {
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "desc": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+        "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-13 04:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與習近平的高峰會如何為未來多年的超級大國關係定調",
+        "descZh": "川普旋風式訪華是多年來最重要的訪問 - 但會有成果嗎？"
+      },
+      {
+        "title": "Taiwan’s chips power the global economy. China holds the leverage - Rest of World",
+        "desc": "Taiwan’s chips power the global economy. China holds the leverage&nbsp;&nbsp;Rest of World",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEZOM0ZDNFNGR0RjaDZ3MTdVbkJKYlg0YmhNeEZYNWJwX01uUnc5bUYydkw0dXpzVUpMRGxHSnJTb1dKYk9RT183TnNfZk5DZnF6X3phVGcyektwX1dQVXQ0eUxXdHlBMUEtQUJTMGw4OXdTUWE5UjhUbktJYzhNaA?oc=5",
+        "pubTime": "2026-05-12 18:03",
+        "source": "news.google.com",
+        "titleZh": "台灣的晶片為全球經濟提供動力。中國掌握槓桿 - 世界其他地區",
+        "descZh": "台灣的晶片為全球經濟提供動力。中國掌握槓桿&nbsp;&nbsp;世界其他地區"
+      },
+      {
+        "title": "China Inc.'s global growth curbs Trump tariff powers undercut by courts - Nikkei Asia",
+        "desc": "China Inc.'s global growth curbs Trump tariff powers undercut by courts&nbsp;&nbsp;Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmhkU0tsXzJ2ZlFySkd1LWJQM0dKbFlpdXlMamV6R3dFNEl6dWgtdkZiZHppYkYwaWhxQWtxdGsyR2pJRmNBcm5ici0ycVczcHVRX1RRSVNnWFBvWWRVcERsU1FJMWdvSkg3eUJtTHM1aHgyT3Z3aHYzT0FCdXpRVVVpY080djlRb1FUZzdWRDhDcGMteG5uZm04ZGR3aW1kRG42Y0o0ajVETGR3b3loNFdMaUZjZUE1MUdiNkVkS1lLQ0pLR2c?oc=5",
+        "pubTime": "2026-05-12 13:01",
+        "source": "news.google.com",
+        "titleZh": "中國公司全球增長受遏制 特朗普關稅權力遭法院削弱 - 日經亞洲",
+        "descZh": "中國公司全球增長受遏制 特朗普關稅權力遭法院削弱&nbsp;&nbsp;日經亞洲雜誌"
+      }
+    ]
+  },
+  {
     "date": "20260513",
     "fetchTime": "2026-05-13 05:45",
     "count": 11,
@@ -3377,28 +3537,5 @@
         "descZh": "川普關稅追蹤 - 2026 年 4 月 13 日 (via Passle)&nbsp;&nbsp;Baker Botts"
       }
     ]
-  },
-  {
-    "fetchTime": "2026-04-05 13:08",
-    "count": 2,
-    "articles": [
-      {
-        "title": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions - Crypto Briefing",
-        "desc": "EU tariffs on US goods by September 30 loom as Trump escalates trade tensions&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlBJVVNid1MyRlN2MmRwWVQ2YlFWdVBkRW53RlptMlRKZTdmc2g4VldGdzZWTnROdU9wSkxOVTJXQ1VZTmZ4eFpKT3NoV0U3cFBGOExCcFBFelQxZUhjQ1VjYXg1d1BjbEVpcVZpMFQzREoxRzdsZVN2WUUtZTlacmxzTWo5WVlMOG1HX1lVLVlVeUE3OVhIZ1dIRWZoUl9nLXJxTmVWY1U?oc=5",
-        "pubTime": "2026-04-04 12:19",
-        "source": "news.google.com",
-        "titleZh": "随着特朗普加剧贸易紧张局势，欧盟对美国商品征收关税的最后期限9月30日日益临近 - Crypto Briefing"
-      },
-      {
-        "title": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision - euractiv.com",
-        "desc": "‘Turning point’ for global pharma trade, industry warns after Trump tariff decision&nbsp;&nbsp;euractiv.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTAyY3VMb3lvbXN3ZDdVM1dGclRZZWxiTWp3MjFnWEQyaDM3VDZXTk04U1pxRUs5dlROeWMxb1IzbGVOUHFXRGlvSzY2Q0E1bkVVT1JtTDR0TUE2WW9SRTVIRkxmbXdCZFFHcC1EaHFaVlRrbk1hOURjbzVBY0NlRDlxd3FDWEY5RERHOHp5V3lrU1hjbUFvOWR3Rnk4S3N4U2czUXoyanliN1lROUI5UA?oc=5",
-        "pubTime": "2026-04-04 06:01",
-        "source": "news.google.com",
-        "titleZh": "特朗普宣布加征关税后，业界警告称全球药品贸易面临“转折点” - euractiv.com"
-      }
-    ],
-    "date": "20260405"
   }
 ]
