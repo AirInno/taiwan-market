@@ -221,6 +221,10 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
 
 <div id="tab-today" class="tc-wrap active">
   <div class="mthc"><div class="mt">📅 本月累計</div><div class="mst" id="mst"></div></div>
+  <div class="mthc" id="mperf-wrap" style="display:none">
+    <div class="mt" id="mperf-title">月度策略績效</div>
+    <div class="mst" id="mperf"></div>
+  </div>
   <div class="cg">
     <div class="card">
       <div class="cl">🌐 外資整體</div>
@@ -239,6 +243,12 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
       <div class="mv" id="tvol">--</div>
       <div class="cs" id="tvols">資料更新中</div>
       <div class="c5" id="tvol5"></div>
+    </div>
+    <div class="card">
+      <div class="cl">📈 台股加權指數</div>
+      <div class="mv" id="tix">--</div>
+      <div class="cs" id="tixs"></div>
+      <div class="c5" id="tix5"></div>
     </div>
     <div class="card">
       <div class="cl">🔵 台積電（2330）</div>
@@ -336,6 +346,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="chs"><div class="cht">🔵 台積電(2330) 外資張數</div><div class="chw"><canvas id="hts"></canvas></div></div>
   <div class="chs"><div class="cht">🟠 0050 外資張數</div><div class="chw"><canvas id="h05"></canvas></div></div>
   <div class="chs"><div class="cht">⚡ 台達電(2308) 外資張數</div><div class="chw"><canvas id="hdl"></canvas></div></div>
+  <div class="chs"><div class="cht">⚡ 進場訊號分數走勢（0–10 分）</div><div class="chw"><canvas id="hsig"></canvas></div></div>
   <div class="chs" id="chs-hold" style="display:none"><div class="cht">📊 外資持股比率（%）走勢－2330 / 2308 / 0050</div><div class="chw"><canvas id="hhold"></canvas></div></div>
   <div class="chs" id="chs-margin" style="display:none"><div class="cht">💳 個股融資餘額走勢（張）－2330 / 2308 / 0050</div><div class="chw"><canvas id="hmargin"></canvas></div></div>
   <div class="chs" id="chs-glo" style="display:none"><div class="cht">🌎 S&P500 × VIX 走勢</div><div class="chw tall"><canvas id="hglo"></canvas></div></div>
@@ -573,6 +584,35 @@ function setIdx(i){
   if($('tab-history').classList.contains('active')){hDone=false;rHist();}
 }
 
+// === MONTHLY PERF ===
+async function rMonthPerf(){
+  const now=new Date(Date.now()+8*3600*1000);
+  const months=[];
+  for(let i=1;i<=3;i++){const d=new Date(now.getFullYear(),now.getMonth()-i,1);months.push(d.getFullYear().toString()+String(d.getMonth()+1).padStart(2,'0'));}
+  let md=null,ymLabel='';
+  for(const ym of months){
+    try{const r=await fetch(`https://raw.githubusercontent.com/AirInno/taiwan-market/main/briefings/${ym}-monthly-review.md?v=${Date.now()}`);if(r.ok){md=await r.text();ymLabel=ym.slice(0,4)+'/'+ym.slice(4,6);break;}}catch(e){}
+  }
+  if(!md)return;
+  const strats=[];
+  md.split('\n').forEach(line=>{
+    if(!line.startsWith('|'))return;
+    const cells=line.split('|').map(c=>c.trim().replace(/\*\*/g,'')).filter(c=>c);
+    if(cells.length<2)return;
+    const nm=cells[0],ret=cells[1];
+    if(!ret.match(/[+-]\d/))return;
+    if(nm.startsWith('A '))strats.push({key:'A',name:'持有0050',ret,color:'#a78bfa'});
+    else if(nm.startsWith('B-1'))strats.push({key:'B-1',name:'訊號分數',ret,color:'#60a5fa'});
+    else if(nm.startsWith('B-2'))strats.push({key:'B-2',name:'訊號名稱',ret,color:'#34d399'});
+    else if(nm.startsWith('C '))strats.push({key:'C',name:'警示策略',ret,color:'#fcd34d'});
+  });
+  if(!strats.length)return;
+  const best=strats.reduce((a,b)=>parseFloat(b.ret)>parseFloat(a.ret)?b:a);
+  $('mperf-title').textContent=ymLabel+' 策略績效';
+  $('mperf').innerHTML=strats.map(s=>`<div style="text-align:center"><div style="font-size:1.15rem;font-weight:800;color:${s.color};line-height:1">${s.ret}${s.key===best.key?' 🥇':''}</div><div class="sl">${s.key} ${s.name}</div></div>`).join('');
+  $('mperf-wrap').style.display='';
+}
+
 // === RENDER PAGE ===
 function rPage(){rHdr();rMth();rAlert();rSignal();rCards();rHedge();rBars();rStock20();}
 
@@ -757,6 +797,14 @@ function rCards(){
   }else{
     fv2.textContent='--';$('fts').textContent='資料更新中';$('ft5').innerHTML='';
   }
+  // 今日大盤指數
+  const ixv=$('tix');
+  ixv.textContent=L.收盤.toLocaleString();
+  ixv.className='mv '+(L.漲跌>=0?'pos':'neg');
+  const ixPct='('+(L.漲跌/(L.收盤-L.漲跌)*100).toFixed(2)+'%)';
+  $('tixs').innerHTML=`<span class="${L.漲跌>=0?'pos':'neg'}">${L.漲跌>=0?'+':''}${L.漲跌.toFixed(2)} 點 ${ixPct}</span>`;
+  const avgIx5=L5.reduce((a,r)=>a+r.收盤,0)/L5.length;
+  $('tix5').innerHTML=`<span class="muted">5日均</span><span class="v" style="color:#a0aec0">${Math.round(avgIx5).toLocaleString()}</span>`;
 }
 
 // === HEDGE + RADAR + 5DAY TABLE ===
@@ -907,6 +955,14 @@ function rHist(){
   hCharts.push(new Chart($('h05').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'0050外資（張）',data:a0,backgroundColor:a0.map(v=>v>=0?'rgba(251,146,60,.7)':'rgba(248,113,113,.7)'),borderColor:a0.map(v=>v>=0?'#fb923c':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
   // Delta 台達電
   hCharts.push(new Chart($('hdl').getContext('2d'),{type:'bar',data:{labels:lb,datasets:[{label:'2308外資（張）',data:ad,backgroundColor:ad.map(v=>v>=0?'rgba(52,211,153,.7)':'rgba(248,113,113,.7)'),borderColor:ad.map(v=>v>=0?'#34d399':'#f87171'),borderWidth:1,borderRadius:3}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v.toLocaleString()+'張'},grid:{color:'#2d3748'}}}}}));
+  // 進場訊號分數走勢
+  const sigDd=dd.filter(r=>r.進場訊號?.分數!=null);
+  if(sigDd.length>1){
+    const sigLb=sigDd.map(r=>r.dateLabel);
+    const sigScores=sigDd.map(r=>r.進場訊號.分數);
+    const ptClrs=sigDd.map(r=>({'強':'rgba(52,211,153,.9)','中':'rgba(96,165,250,.9)','弱':'rgba(252,211,77,.9)','觀望':'rgba(248,113,113,.9)'}[r.進場訊號.訊號]||'rgba(160,174,192,.5)'));
+    hCharts.push(new Chart($('hsig').getContext('2d'),{type:'line',data:{labels:sigLb,datasets:[{label:'進場訊號分數',data:sigScores,borderColor:'#a78bfa',backgroundColor:'rgba(167,139,250,.08)',pointRadius:4,pointBackgroundColor:ptClrs,tension:.3,fill:true}]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096'},grid:{color:'#2d3748'},min:0,max:10,title:{display:true,text:'分數',color:'#718096',font:{size:10}}}}}}));
+  }
   // 外資持股比率走勢（有 tsmc_hold 才顯示）
   const holdDd=dd.filter(r=>r.tsmc_hold);
   if(holdDd.length>0){
@@ -1073,6 +1129,7 @@ function renderHolders(h){
     rPage();initDs();
     document.querySelector('.sh').classList.add('open');$('s5d').style.display='';
     renderGlobal();
+    rMonthPerf();
     fetch('holder-weekly.json?v='+Date.now()).then(r=>r.ok?r.json():null).then(renderHolders).catch(()=>{});
   }catch(e){
     $('hd').textContent='⚠️ 資料載入失敗，請重新整理頁面';
