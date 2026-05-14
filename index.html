@@ -351,6 +351,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="chs" id="chs-margin" style="display:none"><div class="cht">💳 個股融資餘額走勢（張）－2330 / 2308 / 0050</div><div class="chw"><canvas id="hmargin"></canvas></div></div>
   <div class="chs" id="chs-glo" style="display:none"><div class="cht">🌎 S&P500 × VIX 走勢</div><div class="chw tall"><canvas id="hglo"></canvas></div></div>
   <div class="chs" id="chs-bnd" style="display:none"><div class="cht">💛 美10Y債殖利率（%）× 黃金（$）</div><div class="chw tall"><canvas id="hbnd"></canvas></div></div>
+  <div class="chs" id="chs-us" style="display:none"><div class="cht">🌐 美股產業指標相對走勢（TSM ADR / SMH / QQQ / XLE）</div><div class="chw tall"><canvas id="hus"></canvas></div></div>
   <div class="chs"><div class="cht">📊 警示等級觸發後台股表現（歷史回測）</div><div class="chw"><div id="hwr"></div></div></div>
 </div>
 
@@ -1023,6 +1024,18 @@ function rHist(){
       }
     }}));
   }
+  // 美股產業指標相對走勢
+  const usDd=dd.filter(r=>r.global?.smh!=null);
+  if(usDd.length>1){
+    $('chs-us').style.display='';
+    const norm=(key)=>{const base=usDd[0].global[key];return usDd.map(r=>base?parseFloat(((r.global[key]-base)/base*100).toFixed(2)):null);};
+    hCharts.push(new Chart($('hus').getContext('2d'),{type:'line',data:{labels:usDd.map(r=>r.dateLabel),datasets:[
+      {label:'TSM ADR',data:norm('tsm_adr'),borderColor:'#60a5fa',pointRadius:3,tension:.3,fill:false,spanGaps:true},
+      {label:'SMH 半導體',data:norm('smh'),borderColor:'#a78bfa',pointRadius:3,tension:.3,fill:false,spanGaps:true},
+      {label:'QQQ AI/科技',data:norm('qqq'),borderColor:'#34d399',pointRadius:3,tension:.3,fill:false,spanGaps:true},
+      {label:'XLE 能源',data:norm('xle'),borderColor:'#fcd34d',pointRadius:3,tension:.3,fill:false,spanGaps:true}
+    ]},options:{...CF,scales:{x:{...CF.scales.x},y:{ticks:{color:'#718096',callback:v=>v+'%'},grid:{color:'#2d3748'},title:{display:true,text:'相對漲幅%',color:'#718096',font:{size:10}}}}}}));
+  }
   // Win-rate table
   const lvls=['注意','高度警戒','極度警戒'];
   let h='<table style="width:100%;border-collapse:collapse;font-size:.76rem"><thead><tr style="color:#4a5568;border-bottom:1px solid #2d3748"><th style="padding:5px 8px;text-align:left">等級</th><th style="padding:5px 8px">次數</th><th style="padding:5px 8px">次日均漲跌</th><th style="padding:5px 8px">上漲率</th><th style="padding:5px 8px;text-align:left">說明</th></tr></thead><tbody>';
@@ -1086,6 +1099,10 @@ function renderGlobal(){
     {l:'黃金',    fmt:'price', v:g.gold,    c:g.gold_chg},
     {l:'WTI油價', fmt:'price', v:g.oil,     c:g.oil_chg},
     {l:'費半SOX', fmt:'pct',   v:g.sox,     c:g.sox_chg},
+    {l:'TSM ADR', fmt:'price', v:g.tsm_adr, c:g.tsm_adr_chg},
+    {l:'SMH',     fmt:'pct',   v:g.smh,     c:g.smh_chg},
+    {l:'QQQ',     fmt:'pct',   v:g.qqq,     c:g.qqq_chg},
+    {l:'XLE',     fmt:'pct',   v:g.xle,     c:g.xle_chg},
     {l:'USD/TWD', fmt:'fx',    v:g.usdtwd},
     {l:'JPY/TWD', fmt:'fx4',   v:g.jpytwd}
   ];

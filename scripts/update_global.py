@@ -25,6 +25,10 @@ YF_SYMBOLS = {
     'sox':     '^SOX',
     'usdtwd':  'TWD=X',
     'jpytwd':  'JPYTWD=X',
+    'tsm_adr': 'TSM',
+    'smh':     'SMH',
+    'qqq':     'QQQ',
+    'xle':     'XLE',
 }
 
 def fetch_yf_quote(symbol):
