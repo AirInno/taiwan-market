@@ -1,5 +1,156 @@
 [
   {
+    "date": "20260516",
+    "fetchTime": "2026-05-16 05:31",
+    "count": 16,
+    "articles": [
+      {
+        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+        "desc": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-16 05:28",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在與中國習近平舉行峰會數小時後警告台灣不要宣布獨立",
+        "descZh": "美國總統表示，他希望北京和台北能為自治島的緊張局勢「降溫」。"
+      },
+      {
+        "title": "What China critics in Maga movement make of Trump's Beijing trip",
+        "desc": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+        "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-16 03:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "馬加爵運動批評者如何看待川普北京之行",
+        "descZh": "專家表示，川普對中國採取較為柔和的態度，很可能會影響到更廣泛的 MAGA 基層。"
+      },
+      {
+        "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+        "desc": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-15 23:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與習近平會談「非常成功」，但未確認任何交易",
+        "descZh": "經過兩天的訪問，有許多精心安排的儀式，但卻沒有任何貿易突破。"
+      },
+      {
+        "title": "Watch: What did we learn from Trump's visit to China?",
+        "desc": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-15 21:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "觀看：我們從川普訪華獲益良多？",
+        "descZh": "美國總統川普在北京與中國領導人習近平舉行了高風險的峰會，結束了為期兩天的訪問。"
+      },
+      {
+        "title": "Trump poured millions into tech giants seeking China deal, ethics filing shows - South China Morning Post",
+        "desc": "Trump poured millions into tech giants seeking China deal, ethics filing shows&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmY5MWJSejhRY0x2bW10WU1KNEhZcXRvbjBIc3c1bjNzWkxXbGRDOEZqS2lYUkFxTVdzd3BPdEFZbDJXX1lDMk1NZlJObE9FamJFS01XOWkyUFdHV3BweGI2eXpFY0VhVzZLSFJxcEFVRTd1Vmk0RGIzMzh2UUVTaG9DMjJncnBHVmdIUFhkVTJXSXFCejN2QTBIS1huampEajgwSUN0SmZIUy1UaC1DYnBUY3ZwU3hJWHdV0gG7AUFVX3lxTFBxZHNnTmpscGJwaWNhRUJpZXlFY1pKNzRhc0FwM0Frc3hlY3VnejV4N3BoWXZCaW1iUVlDY2taUEhtNEhBQmU5U29Rc3NCYzFhM2w3d3ZFMVdGekpRRnhkdVpJZV9TWktiY2ExSE5UUnFUQ3ZQX19MT2hSalB1bDZpOUItN1JJV0JrMElYZFpZWE9MLVN4M0NrcjRqRkZTZjY0N2Y3N3U5MDZDemE0TTlzVXZodUczZ0ZhbHM?oc=5",
+        "pubTime": "2026-05-15 20:30",
+        "source": "news.google.com",
+        "titleZh": "道德檔案顯示，川普向科技巨擘投入數百萬美元，尋求與中國達成協議 - 南華早報",
+        "descZh": "川普向科技巨頭投入數百萬美元尋求中國交易，道德檔案顯示&nbsp;&nbsp;南華早報"
+      },
+      {
+        "title": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access - CNBC",
+        "desc": "The Tech Download: Trump’s China visit sparks fresh questions over chip exports and rare earths access&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGtCaV9hM2dFZXpwajNOVjd3Ujg5TWlRODEzQjdvb1d3NjdERy1iWkJTZWlYRnh3ZFhFNG9pNVF5WFFiSkszSklvLW5pNWZYQjdRTTBicG1vRGVPbnltR2dvbC05djVYbzF6X2xhdVBPckhmTkE1S2plVlBIMllhZ29vQ2RSNXZHTXcycmdyTzTSAZYBQVVfeXFMUHFPcFMydTFFS21aSDJqMjQ5ZVZ3TDQtSEEyYWd3Z1pOYTd0QzB1eGFCY0gxV0tFdTYyYUV2Z3RCeUYtLXVZbE10SlF5TFpIc0hzRzdVcjdadkR3MkFBemdPZnl3cjJ6MU5hcnk5ckFkLW4wNXR2WEhDNnR2aGpDellnRGtTLWptbjlTMnRNWFM4UHJqZnB3?oc=5",
+        "pubTime": "2026-05-15 19:07",
+        "source": "news.google.com",
+        "titleZh": "科技下載：川普訪華引發關於晶片出口和稀土准入的新問題 - CNBC",
+        "descZh": "科技下載：川普訪華引發新的晶片出口和稀土准入問題&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trump traded hundreds of millions in US securities in 2026 - Digital Journal",
+        "desc": "Trump traded hundreds of millions in US securities in 2026&nbsp;&nbsp;Digital Journal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzhtVTVrQ0xjR1l5MjMwaHpZNHlMdVZsYW5vTXZubmpTRHBiNnY3NzJKdUt0Z2ZlT2ZoTWhSeVVhSnFsUDRnS2dCMFhxSjBhbGZtTjc0bWxZYnpDTXFLVThRM2RmYm8xUVE2a25PaHRuZ25jODd4dHRtUUNvbTh0QUlrVEk5Y21XMTRHUGV3UXpqTDF3bG04R3VERVlPUko2VHZEZENoOUhFZw?oc=5",
+        "pubTime": "2026-05-15 13:06",
+        "source": "news.google.com",
+        "titleZh": "川普在 2026 年買賣了數億筆美國證券 - Digital Journal",
+        "descZh": "川普在 2026 年交易數億筆美國證券&nbsp;&nbsp;Digital Journal"
+      },
+      {
+        "title": "From beating war drums to making trade deals, Trump has completely shifted his China policy - The Standard (HK)",
+        "desc": "From beating war drums to making trade deals, Trump has completely shifted his China policy&nbsp;&nbsp;The Standard (HK)",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcDFrVVB3SUY3WFdncFdSWVg0QlJwRHNQVHBSeUw5WEZ4TFpic2hfS25BM1g1TllTcDlRUUp4a1pTcG56eHlmUGFJSzN3ZFZ6QmZsUkViUVlfYTlNb1p4TE9MUTB2SUZhWERWSlgzVUN0R3dFTW1SaDVCa0xHTXZyRXpfWW1rdDVqMEc3WDVsMjI1cUE3N0V2SVRWLTZEUERhcGVSeDFlUzlwbmdXMGFkS1lCbXlyUU1iUDVVaV9SY2ppR1VvUF9XMVlVSFl4Q190ZUE0VUoyR0lfc0UzQ2FJ?oc=5",
+        "pubTime": "2026-05-15 04:29",
+        "source": "news.google.com",
+        "titleZh": "從敲響戰鼓到達成貿易協議，川普徹底改變對華政策 - The Standard (HK)",
+        "descZh": "從敲響戰鼓到達成貿易協議，川普徹底改變對華政策&nbsp;&nbsp;英文虎報 (HK)"
+      },
+      {
+        "title": "Xi Warns Trump of Possible \"Clash\" Over Taiwan Just Hours Before Banquet Toast - 24/7 Wall St.",
+        "desc": "Xi Warns Trump of Possible \"Clash\" Over Taiwan Just Hours Before Banquet Toast&nbsp;&nbsp;24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUZCd3hmdXM4b1NLazNZNDVmcTc2elJHZGVBNVdSdWF2VWxlbG5wYXJLZElXZVc2eU96UFRSMTdxdDRBZW9zUG9zajlIWEdMUWEtdkt5Mmk5dnNmM3N0aUFNNGVGdk1EbFN6WEYxaXUxcVo1dXd4eDFmOVpKYnBEanJ4STBOZnhqcExVWEM1TVBSN2o4NmZDSnQzcmxPNThCVzc1TmlScmpYMnNCRlhfdVIzNjUzdzVVTHItVQ?oc=5",
+        "pubTime": "2026-05-15 04:27",
+        "source": "news.google.com",
+        "titleZh": "習近平在宴會祝酒前數小時警告川普在台灣問題上可能發生「衝突」 - 24/7 Wall St.",
+        "descZh": "習近平在宴會祝酒前數小時警告川普可能就台灣問題發生「衝突」&nbsp;&nbsp;24/7 Wall St."
+      },
+      {
+        "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
+        "desc": "President Trump was welcomed by President Xi Jinping in Beijing for what will be a whirlwind tour.",
+        "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-14 22:55",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "圖片：川普在北京與習近平舉行為期兩天的高峰會",
+        "descZh": "川普總統在北京受到習近平主席的歡迎，這將是一次旋風式的訪問。"
+      },
+      {
+        "title": "Trump-Xi summit could hinge on these two crucial tech flashpoints - CNBC",
+        "desc": "Trump-Xi summit could hinge on these two crucial tech flashpoints&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fSDNsdHY2Y1ptdWNzSGU4TmN4U0xOZ2JEem9LY2ZZSkZtQXZBcDRIdm5ROTI4LXg0ZVdhX1ZSbERTSFE2NTA3dlNvY2M5SWRNTDdNajZLc05KS21JRUJRN3NwSjZ2cVB2Skd2Q0V1cjRJMFBiVkhuSNIBfkFVX3lxTE5pYjZtWTB1RnNMOFU4aTNGUHNxQUJweDgzMVJZZDAyZUhPay1LUW9UMHA2V1dVQzZoX2gxVjFRUzJKdjFoQV8yd19FcWUtWV9SQW5LV0EySVJMUktjbUktemdpdFRBSVNYd2hZY0JFREJsWkNJMnc1SmtENW83dw?oc=5",
+        "pubTime": "2026-05-14 21:09",
+        "source": "news.google.com",
+        "titleZh": "川普與李登輝的高峰會可能取決於這兩個重要的科技火花點 - CNBC",
+        "descZh": "川普與李登輝的高峰會可能取決於這兩個關鍵的科技热点&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "How Trump plans to keep tariffs at the center of his economic policy despite stinging court losses - The Conversation",
+        "desc": "How Trump plans to keep tariffs at the center of his economic policy despite stinging court losses&nbsp;&nbsp;The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdEVROEFZQXBtNGkwejhienV4R1JqTVNoUHBwQnQtZUhpYndDb2VhWmpPN0RJRmhoejhBUTF4eVhSYWdhMHV5REVPcHBHQ1BTYUhLYzNUNWF3dkZVVG5weDdwdFdpdU5OZVd6bDFSRTkyWjBDS1d0OWN5bFcxbW14SUJJQV9GWjRFZ3cxMHR5XzVhRG9vRG4ybWhmLXAwRUxiZHpWVzNpaU13UnBIdUpIT3IwWV80Snl2ekYwdUNpN3o3SjFtaV9mMXlmcUlXQQ?oc=5",
+        "pubTime": "2026-05-14 20:44",
+        "source": "news.google.com",
+        "titleZh": "儘管在法庭上吃了敗仗，特朗普仍打算將關稅放在其經濟政策的中心位置 - The Conversation",
+        "descZh": "儘管在法庭上吃了虧，特朗普仍計劃將關稅放在其經濟政策的中心位置&nbsp;&nbsp;The Conversation"
+      },
+      {
+        "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider' - CNBC",
+        "desc": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sVkhHOUwxMlFLM3pIZVFicnZBRW9uWWNuN2Q2WUpTTlRwSFY3enYwa3RuVC0wU29YVHVlNXhrMl9ycTBzLTFESDN5eWE2UHNXQzhjaGVFb1UxaGczTDNYUTByc2NlUnZjSXdtRWQyYUphNXlhd2I3WDZuZ9IBgAFBVV95cUxOZGktd0JIN3Q4dm41LVV4ejV5MnpMZUNhUlVaYTBBVENHT2JvbkphVDZLN3MyM2ZSa2lJdkd6NnZ0dWs4N3pqLVl1ajRCV0JTMGJHVHc5N0lWcU5LVFB4SlNqNDR0eEFmV1RxMG11dXhtOTBZNzNhSkp4YXJOWXpCVQ?oc=5",
+        "pubTime": "2026-05-14 20:22",
+        "source": "news.google.com",
+        "titleZh": "習近平對馬斯克、蒂姆-庫克和其他CEO說，川普此行：中國將「更開放」 - CNBC",
+        "descZh": "习近平对马斯克、蒂姆-库克和其他CEO们说，特朗普此行：中國將「更開放」&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "What to know as Trump visits Xi in China",
+        "desc": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
+        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-14 17:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普訪問中國習近平時要知道的事",
+        "descZh": "特朗普自 2017 年以來首次訪問北京。"
+      },
+      {
+        "title": "These are tech titans in Beijing with Trump and what they want from China - Euronews.com",
+        "desc": "These are tech titans in Beijing with Trump and what they want from China&nbsp;&nbsp;Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM09JcEJkOG1IcnYwS0RFLWtkMG1RYVZsRmtNdnBFQWlzeUZ0bUxYT0E1Z1prR1Vrdm9ILW0yQ1lvSmpjZHozYnYzLVdTWnpoSHcxVHIzWUZUZEtMdm54QnF6OXMwdkhKamVUMTlFcHNqOHJrTXAxM3J0SVBzV1hybzNOX0hKRmpwR04tdTVrei1GaE54RTdCV0hCVmNiV1BUbll6V01lRXpBNHNWaFlEYUVJdUs?oc=5",
+        "pubTime": "2026-05-14 13:00",
+        "source": "news.google.com",
+        "titleZh": "這些是與川普同在北京的科技巨頭，以及他們對中國的要求 - Euronews.com",
+        "descZh": "這些是與川普同在北京的科技巨頭，以及他們想從中國得到什麼&nbsp;&nbsp;Euronews.com"
+      },
+      {
+        "title": "The Illusion of Reciprocity: Trump’s Self-Defeating Trade Policy - Foreign Affairs Magazine",
+        "desc": "The Illusion of Reciprocity: Trump’s Self-Defeating Trade Policy&nbsp;&nbsp;Foreign Affairs Magazine",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNklCcjdubWRBRy15bzh4N0YydERGQWlTdk9nUVAyOV95bXFMVGxJdG43M2RtOXdoNU1aV1E2Q0lEdnFIWFF1TldILTdERUxNd1JFLVBKdnE0cGdwR1NQOXlKNlNWNVlQSDRWYmF0c0N2Vmc?oc=5",
+        "pubTime": "2026-05-14 12:00",
+        "source": "news.google.com",
+        "titleZh": "互惠的假象：特朗普自取滅亡的貿易政策 - 外國事務雜誌",
+        "descZh": "互惠的假象：特朗普自取滅亡的貿易政策&nbsp;&nbsp;外交雜誌"
+      }
+    ]
+  },
+  {
     "date": "20260515",
     "fetchTime": "2026-05-15 05:40",
     "count": 22,
@@ -3582,94 +3733,6 @@
         "source": "news.google.com",
         "titleZh": "底特律商會加入反對川普關稅政策的聯盟 - Crain's Detroit",
         "descZh": "底特律商會加入反對川普關稅政策的聯盟&nbsp;&nbsp;Crain's Detroit"
-      }
-    ]
-  },
-  {
-    "date": "20260416",
-    "fetchTime": "2026-04-16 08:07",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Trump says China has agreed not to send weapons to Iran - The Washington Post",
-        "desc": "Trump says China has agreed not to send weapons to Iran&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1ZwYW1GbHhwamREbEQta1E3YnNsSjM2VktDb3lENWhIVFBYVU9kTk5zSDdEaTJPX0V2THhJaVZIeVNCczc2ZkdXUThkTzMyb0tVV3FPRml1dEtMaDNrckE0bDEtM3dMSy1uaE43V3RhNnJHcC1nZHhYYlZzNG83WVpkYw?oc=5",
-        "pubTime": "2026-04-16 07:50",
-        "source": "news.google.com",
-        "titleZh": "特朗普稱中國已同意不向伊朗發送武器 - 華盛頓郵報",
-        "descZh": "特朗普稱中國已同意不向伊朗發送武器&nbsp;&nbsp;《華盛頓郵報"
-      },
-      {
-        "title": "Trump administration tariffs haven’t achieved their goals - Progressive Policy Institute",
-        "desc": "Trump administration tariffs haven’t achieved their goals&nbsp;&nbsp;Progressive Policy Institute",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjZQVWI2QjFmRVJheVRrdFp2T1p4T3VXUVoycUtjX2E5TUZGWFFaVG54VnNpX1k1czIzamlmRTVQdUdiajVVSzVPRUpDSktPbFA5VEdxWmpncmVrcTRLZ2VvZzhBRENlemdEYTNVUGl5enFsbExmaml3N25UZ0xEZEVNbW43YVlTQVpvSG9EWjEyMEVIUGc?oc=5",
-        "pubTime": "2026-04-16 06:02",
-        "source": "news.google.com",
-        "titleZh": "川普政府的關稅沒有達成目標 - 進步政策研究所",
-        "descZh": "川普政府的關稅沒有達成目標&nbsp;&nbsp;進步政策研究所"
-      },
-      {
-        "title": "Detroit chamber joins coalition pushing back against Trump tariff policies - Crain's Detroit",
-        "desc": "Detroit chamber joins coalition pushing back against Trump tariff policies&nbsp;&nbsp;Crain's Detroit",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGp1M09DWWFEVTFiZFQyQ3BvdUxwaTYxd0NqMGxTdFJzcDhpdkNZc1ZxWU4wM1JJWF8waFVLLUhQa2RkRUNmbGEzOEJvRlR1a3Y1RkI2T3o0WFRrcXdJWTFIUVpHNHY3d3htOTZPcmtpSVlYMXA4M1Rmam5LR3ItWms3My03N2Y5bnJLaXF2Z1dyS1BMVjRraVF0QzMwZUNI?oc=5",
-        "pubTime": "2026-04-16 00:32",
-        "source": "news.google.com",
-        "titleZh": "底特律商會加入反對川普關稅政策的聯盟 - Crain's Detroit",
-        "descZh": "底特律商會加入反對川普關稅政策的聯盟&nbsp;&nbsp;Crain's Detroit"
-      },
-      {
-        "title": "Trump Calls Supreme Court Tariff Ruling 'Unfortunate' - National Today",
-        "desc": "Trump Calls Supreme Court Tariff Ruling 'Unfortunate'&nbsp;&nbsp;National Today",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVdpUU1lT0J2ZWdybVNzMkItVndwNUhxYUROOExYREZsV0NMcmNGX2xHUDNmR1ltY3I5d2h1cE9FbGpSa2t2NzVuYUpVQ080VC1OWU9POUl0aEtLeGZHYlRSc2k5dTQ4RGJ1MkJTV2lWUkZtLWIyNU9zTnMtVlJLcDVSZGx5MDM5YW9oaTVlUjBsTHQ4T01LRWsxYmI5aGw1TEhYUC12S2FkeTY4bFpaRQ?oc=5",
-        "pubTime": "2026-04-15 18:38",
-        "source": "news.google.com",
-        "titleZh": "川普稱最高法院的關稅裁決「不幸」 - National Today",
-        "descZh": "特朗普稱最高法院的關稅裁決 「不幸」&nbsp;&nbsp;今日全國"
-      },
-      {
-        "title": "How chocolate in Topeka illustrates Derek Schmidt's tariff approach - The Topeka Capital-Journal",
-        "desc": "How chocolate in Topeka illustrates Derek Schmidt's tariff approach&nbsp;&nbsp;The Topeka Capital-Journal",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2p5bFg2N0s3VHFoWFJHNkZwcEpkNXBjblpNS0pRajJyYTV2dElQY2d2a3dOeURUUkFjb2ljTU95aGg1ZGFVOXhobVRxaUZsODg4djBhZktFWmVqMHhSZ0dVYUgxS3NySDB5TFlRQThmM2daYWx5RFA0akxUeHBBbFJLeVpNVnB1dFBLQkdqbS1Pa1JlTEhoNkRqcW9XaDhtdTRRQk13emdJYnFKakIyTGxQYk04d01KdnRQU1BWZDhpVUJmcHctMGNNUjRqeC15ejNRU2FYZDFzMnBFUHo1akFR?oc=5",
-        "pubTime": "2026-04-15 17:11",
-        "source": "news.google.com",
-        "titleZh": "托皮卡的巧克力如何說明 Derek Schmidt 的關稅方法 - The Topeka Capital-Journal",
-        "descZh": "托皮卡的巧克力如何說明 Derek Schmidt 的關稅方法&nbsp;&nbsp;《托皮卡資本日報"
-      },
-      {
-        "title": "Export demand at risk as tariff uncertainty grows - Brownfield Ag News",
-        "desc": "Export demand at risk as tariff uncertainty grows&nbsp;&nbsp;Brownfield Ag News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSU9EMEduaENwa29DUjRDdjZhSWpyREZJaVZfSURFN1JEeWtXTUx6NzRyYnJndFZfVktmOWhXUDVjc0Z0bXNwY3pUWVRBcEx0RjlBVWdiYko1aUE4c21tVE9iTFBUNFNQd2RaVThrNUJJQjJzUDI2dmx6VWt6MWx3UDNBd3EyWkVPZGcwSzFOX2J1QQ?oc=5",
-        "pubTime": "2026-04-15 12:29",
-        "source": "news.google.com",
-        "titleZh": "關稅不確定性增加，出口需求面臨風險 - Brownfield Ag News",
-        "descZh": "關稅不確定性增加，出口需求面臨風險&nbsp;&nbsp;Brownfield Ag News"
-      },
-      {
-        "title": "US Treasury Secretary Scott Bessent says Trump tariffs could be fully restored by July as markets brace for a return to trade friction - Startup Fortune",
-        "desc": "US Treasury Secretary Scott Bessent says Trump tariffs could be fully restored by July as markets brace for a return to trade friction&nbsp;&nbsp;Startup Fortune",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUjlMU253RVQ2UU13cTFGdXZqUWk4TXNaMXEzd0FSTk1LbkZYSVpnTWw3TEtSTFRXRGphRFNEd21yaDVVS2ptSGItM1hLczU1WmJxZWJiM0hNdGZwbW4xVmNrQ0NLRVJrRmllVS1RdTdrNHk0WXQycGxWT0dhekZoa2dObmo0aUdZSGRYV3hWRHNDUHVTdVhoamx5eDNwU2tZSUU1bkpMN0pSN2t6ZTdnVVBfUGNLQndDOTFFSEhXMElaMzdNbVhVb3k1VDJrMnloQlNFUXUteU1zQ0F5OHpuZ2E1TU8zR3J3VVZhOWdBRlhDQldT?oc=5",
-        "pubTime": "2026-04-15 09:45",
-        "source": "news.google.com",
-        "titleZh": "美國財政部長 Scott Bessent 表示，川普的關稅可能在 7 月前完全恢復，市場為貿易摩擦重臨做好準備 - Startup Fortune",
-        "descZh": "美國財政部長 Scott Bessent 表示，川普的關稅可能在 7 月前完全恢復，市場為貿易摩擦重臨做好準備&nbsp;&nbsp;Startup Fortune"
-      },
-      {
-        "title": "Tankers, talks and Trump's 'dangerous' blockade: China's Iran war involvement gets louder - NBC News",
-        "desc": "Tankers, talks and Trump's 'dangerous' blockade: China's Iran war involvement gets louder&nbsp;&nbsp;NBC News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXRBTTdpTkpIUHM4RWtMc3dGUmZ0VmEwdnJKTmJNQThDNHNmRUIzbEctY3BGOG5iREYydlQ1Smd0ZmQ5Q0FZZDBhVEZrdi1GbWtFUXJDT2pOTkhjcVBNa2E3dkxsa0ktV2VIOHJUcElubnA5U0V4a3p5WDRHRjNfS3pBbnMzOWFfLTFCaDZ0aXR5Tm9YVGtySm02VWxLcG1TS1pyWmdTNW9FNk1uOHBHZGxpTENnRXc?oc=5",
-        "pubTime": "2026-04-15 02:07",
-        "source": "news.google.com",
-        "titleZh": "油輪、談判與川普的「危險」封鎖：中國介入伊朗戰爭的聲音越來越大 - NBC News",
-        "descZh": "油輪、談判和特朗普的「危險」封鎖：中國介入伊朗戰爭的聲音越來越大&nbsp;&nbsp;NBC 新聞"
-      },
-      {
-        "title": "Trump’s tariffs dealt economic blows in all 50 states—hurting farmers, exporters, and shoppers alike - Fortune",
-        "desc": "Trump’s tariffs dealt economic blows in all 50 states—hurting farmers, exporters, and shoppers alike&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObl9CekI4SU1ucmFNd0ZSVFJVQkJJRVVRNXNaaUstQTI1R2RZVU9BaFRoNTlaSEgtSHl0SnplbUkxV3M2OWpTT3VqRGpFa0hEUkdzMjZMQ25rVHZoTFYtcWtWU0FKY3l6dENycE1RazV5NFVCdU5ObHZuX3VVTmhHVlFNNXo1RkU?oc=5",
-        "pubTime": "2026-04-15 01:18",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅對全美 50 個州的經濟造成打擊，農民、出口商和購物者都受到傷害 - 財富",
-        "descZh": "特朗普的關稅對全美 50 個州的經濟造成打擊，農民、出口商和購物者都受到傷害&nbsp;&nbsp;財富"
       }
     ]
   }
