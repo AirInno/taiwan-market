@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260519",
+    "fetchTime": "2026-05-19 05:42",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "desc": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+        "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-19 05:09",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普稱應海灣國家要求取消新一輪攻擊伊朗行動",
+        "descZh": "美國總統表示，由於 「目前正在進行認真談判」，他將暫緩原定於週二發動的攻擊。"
+      },
+      {
+        "title": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+        "desc": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+        "url": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-19 03:53",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普撤銷稅務訴訟，政府推出 17 億美元基金補償盟友",
+        "descZh": "和解金將用於聲稱受到不公平調查的個人。"
+      },
+      {
+        "title": "Dutch minister warns EU-U.S. trade deal must hold as Trump tariff deadline looms - NL Times",
+        "desc": "Dutch minister warns EU-U.S. trade deal must hold as Trump tariff deadline looms&nbsp;&nbsp;NL Times",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGpPOGNGd3owekxTOEtCc0pHQ2phaG9sbmZKdmdzYmlqbTVvVnJwTUpXMHgwMVpWWEZBLUFRRWRXaVkwYmFNR0JhbHJkOG9FZkVNcWNlRzBoMUd1VVpiU1NURHB2QmlPRE5GczlXWTNuX0Q5Y1JQVV9sYUJZRVNNeG1ZUTVJRVhlWEhpZlFxVWVUNTZCdXRLd3plWDUzYzkwNmJ2NE9ydXo?oc=5",
+        "pubTime": "2026-05-19 02:20",
+        "source": "news.google.com",
+        "titleZh": "荷蘭部長警告歐盟與美國的貿易協定必須維持，因為川普關稅的最後期限將至 - NL Times",
+        "descZh": "荷蘭部長警告歐盟與美國的貿易協議必須維持，因為川普加徵關稅的期限將至&nbsp;&nbsp;荷蘭時報"
+      },
+      {
+        "title": "Trump's Taiwan Arms Stance Sparks Invasion Fears - 조선일보",
+        "desc": "Trump's Taiwan Arms Stance Sparks Invasion Fears&nbsp;&nbsp;조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMW54eG16SWY0X1UwWkl1UkU1eDhiZlRSWFU5SEtzTDRlLUFBdmdjdXd0VzI2ajlaQmllaVpWSWVZOVlXRGdmeDBEUWtrbHlmSzRreWFKMnYxRjgyTjlfWHZjYWdLRDdpUEJuSkdld3VoNnlZSkpDY3BWS0pLZWZHSGRrbjc?oc=5",
+        "pubTime": "2026-05-18 23:54",
+        "source": "news.google.com",
+        "titleZh": "川普的台灣軍備立場引發侵略恐懼 - 조선일보",
+        "descZh": "特朗普的台灣軍備立場引發入侵恐懼&nbsp;&nbsp;조선일보"
+      },
+      {
+        "title": "Iran Could Be Trump’s Greatest Failure - Foreign Policy",
+        "desc": "Iran Could Be Trump’s Greatest Failure&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFkydnBRdGUzV2ZXbTNHYWZTcE9RRjNnbkYyekJxSVZzcURJSDBrTkZJS1pjLTFuYXlaWEZkdlFxTVhqNFFfUk5NQ2hxMDFJc3dtM0haOEktZ2kzNWRFaGZORkxwWUhVOEFFU1Y5bE9CdjRybWJOVTNndWFKblVMRnJPbjMyNVVMZ2JZem01NmE1R3FGVV9haXdPV3JDMTQ?oc=5",
+        "pubTime": "2026-05-18 23:44",
+        "source": "news.google.com",
+        "titleZh": "伊朗可能是川普最大的失敗 - 外交政策",
+        "descZh": "伊朗可能是川普外交政策的最大失敗"
+      },
+      {
+        "title": "Opinion | Trump’s China pragmatism is welcome - The Washington Post",
+        "desc": "Opinion | Trump’s China pragmatism is welcome&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1Q3UWI4cGN5c0xOd2xBbEtlYm5yMFk3TlhPRElYeUJlZVhOYzVzaVB1ZnJ2cVl3eTZmM2FFMXVXWVFoT1NVSjEzZmpoNTlUUGs4ZzlSc0w2UDF6a1BrX0JhZkpaaE02NEs3WWNNcFoxMlpoQ0tQVUo2cVdud2cwemZHOEZjXzRQdVJ5ZGZmRGVFeHJoSFpyRXZxQzd0R0VMbFh6VHlQSm9yQnYyRXpmbQ?oc=5",
+        "pubTime": "2026-05-18 08:54",
+        "source": "news.google.com",
+        "titleZh": "意見｜川普的中國務實主義值得歡迎 - 華盛頓郵報",
+        "descZh": "意見｜川普的中國務實主義值得歡迎&nbsp;&nbsp;《華盛頓郵報"
+      },
+      {
+        "title": "Trump's White House ballroom loses federal funding proposed by Senate Republicans",
+        "desc": "The Senate rule-keeper struck down the use of taxpayer funds to bolster security for the proposed $400m project.",
+        "url": "https://www.bbc.com/news/articles/cp3px2x96eeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-18 04:20",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的白宮舞廳失去參議院共和黨人提出的聯邦撥款",
+        "descZh": "參議院的規則制定者否決了使用納稅人的資金來加強擬議的 4 億美元專案的安全性。"
+      },
+      {
+        "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+        "desc": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+        "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-18 00:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普支持的挑戰者擊敗投票給總統定罪的共和黨參議員",
+        "descZh": "特朗普在路易斯安那州的高風險競選中全力支持Julia Letlow，將現任議員打成 「不忠」。"
+      }
+    ]
+  },
+  {
     "date": "20260518",
     "fetchTime": "2026-05-18 05:11",
     "count": 6,
@@ -3855,11 +3934,5 @@
         "descZh": "白宮的施工預計會持續到六月舉行的下一次聽證會。"
       }
     ]
-  },
-  {
-    "date": "20260419",
-    "fetchTime": "2026-04-19 05:59",
-    "count": 0,
-    "articles": []
   }
 ]
