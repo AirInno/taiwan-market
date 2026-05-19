@@ -268,6 +268,22 @@ def fetch_twt38u(date_str):
     return result if result else None
 
 
+def backfill_recent_hold(history, n=7):
+    """補填最近 n 筆缺少持股比率的資料（FinMind 發布有 1-2 天延遲）"""
+    recent = sorted(history, key=lambda x: x['date'])[-n:]
+    filled = 0
+    for entry in recent:
+        if 'tsmc_hold' not in entry:
+            hold = fetch_twt38u(entry['date'])
+            if hold:
+                if 'tsmc'    in hold: entry['tsmc_hold']    = hold['tsmc']
+                if 'etf0050' in hold: entry['etf0050_hold'] = hold['etf0050']
+                if 'delta'   in hold: entry['delta_hold']   = hold['delta']
+                filled += 1
+                print(f'  補填持股比率 {entry["date"]}: {hold.get("tsmc",{}).get("比率","?")}%')
+    return filled
+
+
 # ── FinMind 備援 ──────────────────────────────────────
 
 def fetch_bfi82u_finmind(date_str):
@@ -586,6 +602,10 @@ def main():
     # ─────────────────────────────────────────────────────
 
     history.append(new_entry)
+    # 補填最近缺漏的持股比率（FinMind 發布有 1-2 天延遲）
+    _filled = backfill_recent_hold(history)
+    if _filled:
+        print(f'  [補填] 持股比率補填 {_filled} 筆')
     with open(DATA_PATH, 'w', encoding='utf-8') as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
 
