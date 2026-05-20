@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260521",
+    "fetchTime": "2026-05-21 06:08",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Watch: Did Trump and Putin get the same treatment in China?",
+        "desc": "Chinese President Xi Jinping welcomed Russia's Vladimir Putin with a near-identical ceremony to Trump's last week.",
+        "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-20 20:44",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "觀看：川普和普京在中國得到了同樣的待遇嗎？",
+        "descZh": "中國國家主席習近平上周以與特朗普幾乎相同的儀式歡迎俄羅斯的普京。"
+      },
+      {
+        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+        "desc": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms.",
+        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-20 17:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "麥斯落敗，川普對共和黨的控制力大增",
+        "descZh": "在肯塔基州擊敗共和黨反叛者的勝利顯示了總統的實力，但他的實力也為中期選舉帶來了風險。"
+      },
+      {
+        "title": "EU moves to avert Trump tariff escalation with US trade compromise - EU Today",
+        "desc": "EU moves to avert Trump tariff escalation with US trade compromise&nbsp;&nbsp;EU Today",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFlSRmg5eVktZW1QMXU4V0RaOWpNdUVzTWdGaUNnZHBDSkNhMWhfSWg4bVhuU0pnN1E5Yng2emxOU3lfUEg2cW1jT0VOZlpfTHpVNDNyOXJIN3NUaHBLbmFMTzlwOTVSS2ZJTEoyMmdMOTFPWGVZTVpKeExOR3VaRUc3Q0FsSGhLQ2VNZmF0NWU?oc=5",
+        "pubTime": "2026-05-20 14:54",
+        "source": "news.google.com",
+        "titleZh": "歐盟以美國貿易妥協避免川普關稅升級 - 今日歐盟",
+        "descZh": "歐盟以美國貿易妥協避免特朗普關稅升級&nbsp;&nbsp;今日歐盟"
+      },
+      {
+        "title": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
+        "desc": "Trump's move dismayed Senate Republicans, many of whom have served with the Texan for decades.",
+        "url": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-20 08:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在德州為帕克斯頓背書，在一場關鍵競選中賭上有包袱的挑戰者",
+        "descZh": "川普此舉讓參議院共和黨人大失所望，其中許多人曾與這位德州人共事數十年。"
+      },
+      {
+        "title": "'Not a big fan' - Top Republican breaks with Trump on $1.8bn compensation fund",
+        "desc": "The justice department also expanded the settlement to block the IRS from pursuing past or pending tax audits on Trump.",
+        "url": "https://www.bbc.com/news/articles/cd9pzp50npeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-20 07:08",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "我不太喜歡」- 共和黨高層在 18 億美元賠償基金上與川普唱反調",
+        "descZh": "司法部還擴大了和解範圍，阻止國稅局對 Trump 進行過去或待定的稅務審計。"
+      },
+      {
+        "title": "Trump says Taiwan 'stole our chip industry' — but TSMC was built by a US citizen and 25-year Texas Instruments veteran - Yahoo Finance",
+        "desc": "Trump says Taiwan 'stole our chip industry' — but TSMC was built by a US citizen and 25-year Texas Instruments veteran&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlzZFdYTXExWk51YzBOY2ZZZGc2WUkxc1BBa1UzbGtEOE9HRzRKemlMVzRwa3ZleWkybnlhZ0hOOElBRzA0QVE4WEhtUm9rcVN5dTRpbFRURldKNnRVUGZMb2YxVS1jNGtSc04xVlFhdFk0V3ppY2o2SWFtOXNpRXdfRWxaS3ZlNE9KSUpIVi1lYVZZTHJfRGNvam5PZw?oc=5",
+        "pubTime": "2026-05-20 05:10",
+        "source": "news.google.com",
+        "titleZh": "川普說台灣「偷走了我們的晶片產業」 - 但台積電的創辦人是美國公民，也是在德州儀器工作了 25 年的老兵 - Yahoo Finance",
+        "descZh": "川普說台灣「偷走了我們的晶片產業」 - 但台積電的創辦人是美國公民，也是在德州儀器工作 25 年的老兵&nbsp;&nbsp;雅虎財經"
+      },
+      {
+        "title": "Watch: Can a Republican win an election while at war with Trump?",
+        "desc": "Thomas Massie, the Republican congressman from Kentucky who led the release of the Epstein files, is running against a Trump-backed primary challenger.",
+        "url": "https://www.bbc.com/news/videos/c1j29xxg53wo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-19 22:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "觀看：共和黨人能否在與特朗普交戰的同時贏得選舉？",
+        "descZh": "帶頭公開 Epstein 檔案的肯塔基州共和黨國會議員 Thomas Massie，正在與川普支持的初選挑戰者競選。"
+      },
+      {
+        "title": "European Union Moves to Cut United States Import Duties to Prevent Trump Tariff Escalation - Modern Diplomacy",
+        "desc": "European Union Moves to Cut United States Import Duties to Prevent Trump Tariff Escalation&nbsp;&nbsp;Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUi10Mk5HakJfVVJZRmdrV252UE1Kd1ZSQ2gtQ1RoUGd2SkV4ZC1KeVVqQ3g5OUdiMGszaFA5U09fX1lVaG5nMk96V2JGUG40V1lKQVRKcVdacTJCZi15cTRUa1g2MF9XUnpqLXZoVnlSc2FKU0x6XzBiZFVoblQxWjd3Nm1xQlJNMTFSTUJ2N0I3a29RRXNrS3E5WnJXS21TTDJRbTRuYzRrV3FfRVRUd19qNTRmZFhNeHp1NnJqR1JrMEYzWW0zUw?oc=5",
+        "pubTime": "2026-05-19 16:18",
+        "source": "news.google.com",
+        "titleZh": "歐盟為防止川普升級關稅而削減美國進口關稅 - 現代外交",
+        "descZh": "歐盟為防止特朗普關稅升級而削減美國進口關稅&nbsp;&nbsp;現代外交"
+      },
+      {
+        "title": "EU Races to Finalize US Trade Deal to Avoid More Trump Tariffs - Yahoo Finance",
+        "desc": "EU Races to Finalize US Trade Deal to Avoid More Trump Tariffs&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3NObGtPSUZyWVc1WUxGVkFrMjZyVmIxVU1ndHpGV0lZSzNSRVM3aERuMEROcWt6eE1mRGltYW1jOGxCRWtXcnlkbHVrT1k3TzFqTW9wOEMxYk41WFZ4SjJ6c0MxNHJvbXJTSzdpa0VKMl8wOTI4a05raG1uTWVCWElGZEtyMENDcEo4N1MzTTlaTEloQ2c?oc=5",
+        "pubTime": "2026-05-19 12:15",
+        "source": "news.google.com",
+        "titleZh": "歐盟爭取敲定美國貿易協議以避免更多川普關稅 - Yahoo Finance",
+        "descZh": "歐盟爭取敲定美國貿易協議以避免川普加征更多關稅&nbsp;&nbsp;雅虎財經"
+      }
+    ]
+  },
+  {
     "date": "20260520",
     "fetchTime": "2026-05-20 05:51",
     "count": 16,
@@ -3916,130 +4004,6 @@
         "source": "news.google.com",
         "titleZh": "川普的 1,660 億美元關稅退款計劃：誰會獲利及接下來會發生什麼 - outlookbusiness.com",
         "descZh": "川普的 1,660 億美元關稅退款計劃：誰將成為下一個贏家&nbsp;&nbsp;outlookbusiness.com"
-      },
-      {
-        "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-        "desc": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-20 14:46",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國為何及如何封鎖伊朗在霍爾木玆海峽的港口？",
-        "descZh": "Donald Trump 說美國正在封鎖霍爾木茲海峽。這實際上意味著什麼？"
-      }
-    ]
-  },
-  {
-    "date": "20260421",
-    "fetchTime": "2026-04-21 07:05",
-    "count": 13,
-    "articles": [
-      {
-        "title": "Trump's tariff revival sparks business pushback - The Center Square",
-        "desc": "Trump's tariff revival sparks business pushback&nbsp;&nbsp;The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzM2QUd1U3A3VmR2Tl9MSS1TYjZfQzNnRkVIN0RTOHU4SC1QazNJb2JVakxyN1NocmdjSVd5OThUTms2RWtQQ3Z3emFyTHJJS2hqd193UmMzMS1VcU9kSi1oclZOSnpGSlNlY3VSUnp5ZkdHTEcxNVFZZnNEYy0wZjl3dXk3c3d6Ri0wQVc0azNRMFJn0gGaAUFVX3lxTE5CeGpHd0NEbEg5SlVscWEyQUFUbXUwaHVEaVVERW5ua3NDWkpuWHJfdXdwM1ZiQmtfdGVUcjNuLWpvbmZVSmV4enVzSUtELVBPZTVWNnU4NG50LVNPSlBqM1dmLV9jbkxQOWpISkVxWkpfYWdlV2stMHJlZ0l2YTdMNEVUVF9wUjVvVm1qVlp6QmYwQUU2WmxkOHc?oc=5",
-        "pubTime": "2026-04-21 04:03",
-        "source": "news.google.com",
-        "titleZh": "川普重振關稅政策引發企業反彈 - The Center Square",
-        "descZh": "川普重振關稅政策引發企業反彈&nbsp;&nbsp;中心廣場"
-      },
-      {
-        "title": "Trump tariff refunds begin but consumers likely to miss out",
-        "desc": "Businesses can apply online through a portal for refunds expected to total $160bn.",
-        "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-21 02:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普開始關稅退還但消費者可能錯失機會",
-        "descZh": "企業可透過入口網站線上申請退款，預計退款總額為 1,600 億美元。"
-      },
-      {
-        "title": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs - The New York Times",
-        "desc": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM21VdEVncGp3Tm5kWHl6RlhMZjhBY2xxeFBQWm05TDVQY2JoRC0xWS1CczZvdXhVOXBEM01xLUhXNkU5RmpUdnF4anZsOVFFSC14MTlmdmpXTy1udk9fdUwxNTRCY0tPRDNRVnd2WFdlZENqRzd3Qnhhb0pOaUttNDRuVmxVYnNPVmFiRGZqZ1g?oc=5",
-        "pubTime": "2026-04-21 01:10",
-        "source": "news.google.com",
-        "titleZh": "川普政府採取措施退還1,660億美元關稅 - 紐約時報",
-        "descZh": "川普政府採取措施退還 1,660 億美元的關稅&nbsp;&nbsp;紐約時報"
-      },
-      {
-        "title": "Trump to refund nearly $166 billion in tariffs to American importers - The American Bazaar",
-        "desc": "Trump to refund nearly $166 billion in tariffs to American importers&nbsp;&nbsp;The American Bazaar",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM09SckhyZk8zR0pmWk5qR2M5T2lMTk9yYXFVR1NmY2Q1NjBRcHdWZkNBa09YdzZSM0VtWDNTM01ndFk0cHBic0Z0dzZKWkZ1T2hRUmZnbUp6LW9qLTdSUWprYllDdE1rRFYzS0xkWVBXYnZ3VjByRjh0SmZ0bmNsSEFyNnJSY0RfUGhWRHdLdl9ZeG5mNGlKcmtqMGlLUEdPaHR2YWhuaXBYY2Jjc2JwWERYQkN3a2VwWURn?oc=5",
-        "pubTime": "2026-04-20 23:29",
-        "source": "news.google.com",
-        "titleZh": "川普將退還近1660億美元關稅給美國進口商 - The American Bazaar",
-        "descZh": "川普將退還近1660億美元關稅給美國進口商&nbsp;&nbsp;美國市集"
-      },
-      {
-        "title": "The insider trading suspicions looming over Trump's presidency",
-        "desc": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
-        "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-20 21:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "內線交易疑雲籠罩川普的總統任期",
-        "descZh": "BBC 發現，在美國總統發表公開聲明之前，交易會出現飆升的模式。"
-      },
-      {
-        "title": "US to refund $166B in Trump tariffs after Supreme Court ruling - Crypto Briefing",
-        "desc": "US to refund $166B in Trump tariffs after Supreme Court ruling&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3NWVVg0UHFuUV9DQ3dwUnM0eUhJQk1VYU42dUVQVi0tSzJKOVMyeGp6Wlphb2NXaEZBWmh6VXNXSm9LRDBDTzBxNXczWkFaTUxhR05XVnVodU40YnBwS3g2VFd3QmRCWjlaLWNEcmFWUmJuZmRVSzNWallMTEYxRGlWeHVkRi1XR3Y2aXVIaE1VNnM?oc=5",
-        "pubTime": "2026-04-20 20:41",
-        "source": "news.google.com",
-        "titleZh": "最高法院裁決後，美國將退還 1,660 億美元的特朗普關稅 - Crypto Briefing",
-        "descZh": "美國將在最高法院裁決後退還 1,660 億美元的特朗普關稅&nbsp;&nbsp;Crypto Briefing"
-      },
-      {
-        "title": "USA | Gericht kippt Trumps Zoll-Politik: Warum Milliarden jetzt nicht beim Verbraucher landen - Xpert.Digital - Konrad Wolfenstein",
-        "desc": "USA | Gericht kippt Trumps Zoll-Politik: Warum Milliarden jetzt nicht beim Verbraucher landen&nbsp;&nbsp;Xpert.Digital - Konrad Wolfenstein",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mOEdzTWx1WGNBUHR0bXVzUFBvMXJsNlB1UllKR0ZXRmQxWlFPdEl0Ti1SbHJ1d1FjcHNZQllTdU1uc2NOLUxrdVNGYXoyZ0NFVk93Z0Y3cVQyMmprbjJDM1RpNFhYN2ZwNENpdUVLb9IBd0FVX3lxTFB5STNuZjV5d0RHZExlZzI4Vlh2NnppMENhNWdNMjR3d1FsZlUyM0ZBRi1OWWFucklNM1JZRWxWbzNvWS1md1gzOGZnTXdpQ0l4bTVhX01ESG9QR3ZRTHQzemVwSTFQU28tOUZRRmNpSmcyN0o5dExz?oc=5",
-        "pubTime": "2026-04-20 19:53",
-        "source": "news.google.com",
-        "titleZh": "USA | Gericht kippt Trumps Zoll-Politik：數百萬人現在無法上岸 - Xpert.Digital - Konrad Wolfenstein",
-        "descZh": "美國：特朗普的鎖國政策：數百萬人不知不覺地成為敵人的棲身之地&nbsp;&nbsp;Xpert.Digital - Konrad Wolfenstein"
-      },
-      {
-        "title": "Trump admin opens $166B tariff refund portal after Supreme Court ruling - Crypto Briefing",
-        "desc": "Trump admin opens $166B tariff refund portal after Supreme Court ruling&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlp3UUI0MXNSanNQVXQ4WUsxWjFnQTFjQUc5R1RiV1JSWTdsZGpreVFGT0t1aWtIZUV5bXJuQ3JTbS0zekEwczFBdF9OTUswLTZEeWpEQTEwU2FjTDRzUGY4aVZmd2lIOUUzbWE2M052S3lPdEJjOXdvZ2h0aHlTdV9hdmVfQkwzdWtySnZVLVZKX1lROWF6Um8xNmJkbWc?oc=5",
-        "pubTime": "2026-04-20 19:35",
-        "source": "news.google.com",
-        "titleZh": "最高法院裁決後，川普政府開放 1,660 億美元的關稅退稅入口 - Crypto Briefing",
-        "descZh": "最高法院裁定後，川普政府開放 1,660 億美元的關稅退稅入口&nbsp;&nbsp;Crypto Briefing"
-      },
-      {
-        "title": "Trump Tariff Refunds Start Monday in United States, Largest Trade-Related Payout in American History - The Logical Indian",
-        "desc": "Trump Tariff Refunds Start Monday in United States, Largest Trade-Related Payout in American History&nbsp;&nbsp;The Logical Indian",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzF2LTR3c05PU0ROWm9PaEpwcHB2OW11TDdSMHZBUENyVWpQYlUwbU9ScjBLLXhiWGlEaV9WVGR2dXdvMUFBd1JGMFVtcHJFWjNhazg5di0yempMeGlEUWV2eFRvYzNkdl9rOWVqdm1NSnlkc1pxTUp6RUVRcS1rZlpnZnAwcmVxa3pQVjBlNllzTy1ianRJTTgyeTgzQXdPTUE3ZlBZZ2g5bnFwR0VKUVhmV2RmTkZXbjhuOXVWaVVIdDlfd1QtWg?oc=5",
-        "pubTime": "2026-04-20 17:54",
-        "source": "news.google.com",
-        "titleZh": "特朗普關稅退款週一在美國開始，美國歷史上最大的貿易相關賠償 - The Logical Indian",
-        "descZh": "特朗普關稅退款週一在美國開始，美國歷史上最大的貿易相關支付&nbsp;&nbsp;The Logical Indian"
-      },
-      {
-        "title": "Donald Trump News: Tariff Refund Process to Begin on Monday, April 20 After US Supreme Court Feb 20 Verdict; What It Means and Who Benefits - The Sunday Guardian",
-        "desc": "Donald Trump News: Tariff Refund Process to Begin on Monday, April 20 After US Supreme Court Feb 20 Verdict; What It Means and Who Benefits&nbsp;&nbsp;The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbWJqVF9QYmM0cUhBcjJYS1EzMkFoQ2g4dUM0Wm1Yam9vemhSWVM0d1ZmN01sb29IX00zdERDLXp3aTdDaE1EUDNsZWR0RHlPR0xWc0UyM3FzNWJra1VZY0UwNHUzNVBaSHB2eTljSF9HMGdKNzhtTTJkTHNmUmlPbTNyOWFJcVhOcEI0M2VQWGhpS2JkMWpUTGRSQWlGTjlHNVJOVHBFRzZ5a1BkLTZOdHF5d3VfOTBDUmk0TVBjVUpLQmxvZmhmYmlFbktKelFlWGNWZTlvYXVUZ1VJS200eDhKUWZzX2ZwYkFzLTVya1NiWURGZXAzSXRMWkRTVzIwZmllVUFCX0hKRlVkWEE?oc=5",
-        "pubTime": "2026-04-20 16:57",
-        "source": "news.google.com",
-        "titleZh": "唐納德‧川普新聞：美國最高法院 2 月 20 日判決後，關稅退款程序將於 4 月 20 日（星期一）開始；這意味著什麼以及誰會受益 - 《星期日衛報",
-        "descZh": "唐納德‧川普新聞：美國最高法院 2 月 20 日判決後，關稅退款程序將於 4 月 20 日（星期一）開始；這意味著什麼以及誰會受益&nbsp;&nbsp;《星期日衛報"
-      },
-      {
-        "title": "Trump’s $166 Bn Tariff Refund Plan: Who Cashes In & What Comes Next - outlookbusiness.com",
-        "desc": "Trump’s $166 Bn Tariff Refund Plan: Who Cashes In & What Comes Next&nbsp;&nbsp;outlookbusiness.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGFfaDcyN2padkxINlNEUVdINFdCOEd3TlFMNlVCS0NtS1prS3FzVjY1YVRiN2RBMWQzT1VMODZDN0tmd0l5QlVrLTBFdV81NlZ4V25FaGMwdFRfb2kzOHJ0Tmk2WHdXOGVDb3I4NmxIQ1dHbXo4TGRDWjdQa2RKN25GY0RRQkhoNVJSTDN0VGVtYkRJeHJyTmVDdTlVTUh2VERXV1RKZ3hBb2ItUUtMLWd5NNIBwAFBVV95cUxOT2hKRHVqZzJYY2ZGdm0xNnE1VlBKdVRubFdzcVJkODhScWZJZEJnNG1oSEpyazFGTEJxVXI2SmhvVF9ScW1hWHhyakUzX3FIRHB1aWFZcFFGSExaR0dhTzZPSjVYMkJqQmozS2djcWVKREt1TlEteGhfWjQzR1Z0QzlrYUNDUGJpa1JoYkRfTEh6d2xXdFdhb3RfWW83WHRPNlh5N1MyOXQya2ZSZEF4Yi1YNFlaUGhJS3ktdlc2Tks?oc=5",
-        "pubTime": "2026-04-20 16:23",
-        "source": "news.google.com",
-        "titleZh": "川普的 1,660 億美元關稅退款計劃：誰會獲利及下一步 - outlookbusiness.com",
-        "descZh": "川普的 1,660 億美元關稅退款計劃：誰將成為下一個贏家&nbsp;&nbsp;outlookbusiness.com"
-      },
-      {
-        "title": "US releases video of forces seizing Iranian ship",
-        "desc": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said.",
-        "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-20 15:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國公佈軍隊扣押伊朗船隻的影片",
-        "descZh": "唐納德‧川普（Donald Trump）表示，美國在海灣攔截了一艘掛有伊朗旗幟的貨船，作為其海軍封鎖的一部分。"
       },
       {
         "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
