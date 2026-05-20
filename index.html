@@ -724,7 +724,12 @@ function renderMargin(elemId, stockKey) {
 }
 function renderHold(elemId, holdKey) {
   const h = L[holdKey];
-  if (h) $(elemId).textContent = `外資持股 ${h.張數.toLocaleString()}張（${h.比率}%）`;
+  if (h == null) return;
+  if (typeof h === 'number') {
+    $(elemId).textContent = `外資持股比率 ${h}%`;
+  } else if (h.比率 != null) {
+    $(elemId).textContent = `外資持股 ${(h.張數||0).toLocaleString()}張（${h.比率}%）`;
+  }
 }
 function renderC5(elemId, val) {
   $(elemId).innerHTML = `<span class="muted">外資近5日</span><span class="v ${val>=0?'pos':'neg'}">${val>=0?'+':''}${val.toLocaleString()}張</span>`;
@@ -736,15 +741,14 @@ function rCards(){
   const s5i=L5.reduce((a,r)=>a+r.投信億元,0);
   const s5t=L5.filter(r=>r.tsmc外資!=null).reduce((a,r)=>a+(r.tsmc外資||0),0);
   const s50=L5.filter(r=>r.etf0050外資!=null).reduce((a,r)=>a+(r.etf0050外資||0),0);
-  const c5=(id,v,u)=>$(''+id).innerHTML<`<span class="muted">近5日</span><span class="v ${v>=0?'pos':'neg'}">${v>=0?'+':''}${typeof u==='string'?v.toFixed(2)+u:v.toLocaleString()+'張'}</span>`;
   // Foreign
   const fv=$('tf');fv.textContent=(L.外資億元>=0?'+':'')+L.外資億元.toFixed(2)+'億';fv.className='mv '+(L.外資億元>=0?'pos':'neg');
   $('tfs').innerHTML='連續賣超第 <strong style="color:#fb923c">'+L.連續賣超+'</strong> 日';
-  $('tf5').innerHTML<`<span class="muted">近5日合計</span><span class="v ${s5f>=0?'pos':'neg'}">${fA(s5f)}</span>`;
+  $('tf5').innerHTML=`<span class="muted">近5日合計</span><span class="v ${s5f>=0?'pos':'neg'}">${fA(s5f)}</span>`;
   // IT
   const iv=$('ti');iv.textContent=(L.投信億元>=0?'+':'')+L.投信億元.toFixed(2)+'億';iv.className='mv '+(L.投信億元>=0?'pos':'neg');
   $('tis').innerHTML=L.投信億元>0&&L.外資億元<0?'<span style="color:#34d399">逆向護盤 ✓</span>':'同向';
-  $('ti5').innerHTML<`<span class="muted">近5日合計</span><span class="v ${s5i>=0?'pos':'neg'}">${fA(s5i)}</span>`;
+  $('ti5').innerHTML=`<span class="muted">近5日合計</span><span class="v ${s5i>=0?'pos':'neg'}">${fA(s5i)}</span>`;
   // TSMC
   const tv=$('ttf');tv.textContent=fZ(L.tsmc外資);tv.className='mv '+(L.tsmc外資>=0?'pos':'neg');
   $('ttb').innerHTML=bdg(L.tsmc警示);
@@ -816,7 +820,7 @@ function rHedge(){
   $('thp').textContent=hp.toFixed(1)+'%';$('thp').style.color=hp>=40?'#34d399':hp>=20?'#fcd34d':'#f87171';
   $('thbg').innerHTML='<span class="bdg '+(hp>=40?'normal':hp>=20?'caution':'high')+'">護盤：'+(hp>=40?'高':hp>=20?'中':'低')+'</span>';
   const a5h=L5.reduce((a,r)=>a+r.護盤比,0)/L5.length;
-  $('th5').innerHTML<`<span class="muted">近5日均值</span><span class="v" style="color:#a0aec0">${a5h.toFixed(1)}%</span>`;
+  $('th5').innerHTML=`<span class="muted">近5日均值</span><span class="v" style="color:#a0aec0">${a5h.toFixed(1)}%</span>`;
   // Radar
   $('trd').innerHTML=[
     ['外資買超反轉？',L.外資億元>=0,L.外資億元>=0?'是':'否'],
