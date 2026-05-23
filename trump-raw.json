@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260524",
+    "fetchTime": "2026-05-24 05:11",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
+        "desc": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+        "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-24 05:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示與伊朗的協議「大體上已經談妥」，並將包括開放霍爾木玆海峽",
+        "descZh": "德黑蘭也示意會談將取得進展，但表示核武這個關鍵問題並不屬於其正在努力的初步框架。"
+      },
+      {
+        "title": "Trump revives chip theft claim, heaping pressure on Taiwan semiconductor firms - digitimes",
+        "desc": "Trump revives chip theft claim, heaping pressure on Taiwan semiconductor firms&nbsp;&nbsp;digitimes",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXotS28yMUpwM084VDJHLWZtdDNnRDdWd1YxMjR5eFdOVHg5T3JpbDBVUG8yUE9mVkktMU5pOWhqQkhzMXdHazdMRi1tbFNQTDBubGtfaE42Tk54SS1CZU9BNHVBVVd2YnkwUUVyN3MzZ2gyV3d0YnJmSXJsZDdYQ0k4RTJocDhnZFJUY0trMWVNOW9XeWlhTzFObXI2dVJ3eVZpWE52MThUeUIxTnc?oc=5",
+        "pubTime": "2026-05-23 11:32",
+        "source": "news.google.com",
+        "titleZh": "川普重提晶片竊案，對台灣半導體公司施壓 - digitimes",
+        "descZh": "川普重提晶片竊案，對台灣半導體公司施壓&nbsp;&nbsp;digitimes"
+      },
+      {
+        "title": "Who's eligible for the 'Anti-Weaponisation Fund'? Trump's critics think they might be",
+        "desc": "Eligibility for the fund appear broad, as Republicans and Democrats demand answers and guardrails",
+        "url": "https://www.bbc.com/news/articles/c1m2j8lnnm5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-23 03:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "誰有資格申請「反武裝化基金」？川普的批評者認為他們可能是",
+        "descZh": "基金的資格似乎很廣泛，共和黨和民主黨都要求答案和防範措施"
+      },
+      {
+        "title": "'Stupid on stilts' - Trump's investigation compensation fund draws ire of Republicans",
+        "desc": "The $1.8bn (£1.3bn) fund compensates individuals \"unfairly\" investigated under previous presidents.",
+        "url": "https://www.bbc.com/news/articles/cx21d41p6dzo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-23 02:55",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "高蹺上的愚蠢」--川普的調查賠償基金引起共和黨人的憤怒",
+        "descZh": "該基金總值 18 億美元（13 億英鎊），用以補償在前任總統統治下受到「不公平」調查的個人。"
+      },
+      {
+        "title": "Trump is putting pressure on Cuba - why and to what end?",
+        "desc": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
+        "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-23 02:33",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普向古巴施壓 - 原因和目的為何？",
+        "descZh": "美國警告與古巴達成和平協議的可能性不大，哈瓦那堅稱這是「詐騙案」，目的是為軍事干預辯護。"
+      },
+      {
+        "title": "Trump wants new Fed chair to be 'totally independent'",
+        "desc": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
+        "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-23 02:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普希望新任美聯儲主席「完全獨立",
+        "descZh": "美國總統對 Kevin Warsh 的前任施加了降息的重大壓力。"
+      },
+      {
+        "title": "Rubio tries to reassure Nato allies over US troop deployments",
+        "desc": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-22 23:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "魯比奥試圖就美國的軍隊部署向北約盟友作出保證",
+        "descZh": "美國總統唐納德‧川普（Donald Trump）表示，他希望派遣更多軍隊到波蘭，一周前他的官員取消了類似部署。"
+      },
+      {
+        "title": "How Trump's IRS settlement could block tax audits of him, his family and their businesses",
+        "desc": "Some lawmakers and legal experts say the department has violated federal law with its addendum to the settlement agreement.",
+        "url": "https://www.bbc.com/news/articles/cn0pk2e22jro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-22 21:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與國稅局的和解如何阻止對他、他的家人及其企業的稅務稽查",
+        "descZh": "一些立法者和法律專家表示，該部門的和解協議附錄違反了聯邦法律。"
+      },
+      {
+        "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+        "desc": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
+        "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-22 18:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何數以千計與川普有關的股票交易令人瞠目結舌？",
+        "descZh": "BBC 的 Michelle Fleury 瞭解總統披露的交易。"
+      },
+      {
+        "title": "Amazon Faces Lawsuit Over Alleged Retention of Trump Tariff Refund Benefits - CXO Digitalpulse",
+        "desc": "Amazon Faces Lawsuit Over Alleged Retention of Trump Tariff Refund Benefits&nbsp;&nbsp;CXO Digitalpulse",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemF4d1A5Y1BQWGZYT1ZPamNMU1plWHhLNjQ3elhfTnNiMHJzT0lROUViQXdUQTZfMkQyRDZNb2phVDljc1YyR0lMVVp3dF9LU29GLTNtNXhJUk1adk8xZ0xmZTN6X0VLUXptdkhScnlIWVdzUnRJYTJPWFczenRCcE5TNF8xOFdLblRRaWhnUUJKLVVQQmFSVm1kV21BbV9lQU9tREZnUmhrMVVQ?oc=5",
+        "pubTime": "2026-05-22 17:28",
+        "source": "news.google.com",
+        "titleZh": "亞馬遜因涉嫌保留川普關稅退稅優惠面臨訴訟 - CXO Digitalpulse",
+        "descZh": "亞馬遜因涉嫌保留川普關稅退稅優惠面臨訴訟&nbsp;&nbsp;CXO Digitalpulse"
+      },
+      {
+        "title": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief - The Guardian",
+        "desc": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVE3RlV6Wk5nMWZXOUc4Znl1UlczaU5jR3ZiYml3YnAxVVRKT3ZoUWVST0EydEJubWh4RG5DYWtIcE9IOGtFUG9CaG1vWTdYWUY3Z1c0YzZFRHM1VTlaTHVDZU55TXFVRDVmbkhnaTA2VHVsYkk1TmpLZ245ejhJMzJ6ek5ib3p4S0lmZlVYa3N2X0dhaU02Qm8zZ285QmQtcF9JU2dZcw?oc=5",
+        "pubTime": "2026-05-22 17:08",
+        "source": "news.google.com",
+        "titleZh": "美國代理海軍部長表示，由於伊朗戰爭，美國對台軍售處於「暫停」狀態 - 衛報",
+        "descZh": "美國代理海軍部長表示，因伊朗戰爭，美國對台軍售「暫停」&nbsp;&nbsp;衛報"
+      }
+    ]
+  },
+  {
     "date": "20260523",
     "fetchTime": "2026-05-23 05:39",
     "count": 14,
@@ -3817,139 +3923,6 @@
         "source": "news.google.com",
         "titleZh": "美國貿易代表葛瑞尔為川普的關稅政策辯護，引述工人和產業的得益 - lokmattimes.com",
         "descZh": "美國貿易代表葛瑞尔為川普的關稅政策辯護，引述工人和產業的得益&nbsp;&nbsp;lokmattimes.com"
-      }
-    ]
-  },
-  {
-    "date": "20260424",
-    "fetchTime": "2026-04-24 07:09",
-    "count": 14,
-    "articles": [
-      {
-        "title": "President Trump’s Trade Policy is Delivering for the American People - ustr.gov",
-        "desc": "President Trump’s Trade Policy is Delivering for the American People&nbsp;&nbsp;ustr.gov",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUUQyUkpfYXRmYmFVdGdWQTVkMjR4c1JrMVNXc1c5anVES0QxOXJJUmtQcHB2VnVFS3YwdHVsM0pxTUFqNmdfbjJUSFhUT21PdVNGcG5QVm0yV3ZlZ1YwTGs3dlFvQ2NNOEhJT3gwSDEweVFhUnBwZWkzaEUtV2R0eVVCdW9GYWptV1p1WG1NLUU5NmpobGJoN1kwbGdYa2xYR2xyOWd4Yjg5Vnk3QkNqbFlReWNzTGZDNV9lcEFCSkc4b21qVFRCX1VOOTFCdw?oc=5",
-        "pubTime": "2026-04-24 06:26",
-        "source": "news.google.com",
-        "titleZh": "川普總統的貿易政策為美國人民帶來好處 - ustr.gov",
-        "descZh": "川普總統的貿易政策為美國人民帶來好處&nbsp;&nbsp;ustr.gov"
-      },
-      {
-        "title": "Canada's US booze boycott could be resolved if Trump addresses tariffs, Carney says",
-        "desc": "The prime minister's comments come after a US trade official said the US might have to take action over a provincial boycott of American wine and spirits.",
-        "url": "https://www.bbc.com/news/articles/c1j73ed27e1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 04:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "卡尼表示，如果特朗普解決關稅問題，加拿大抵制美國烈酒的問題可能得到解決",
-        "descZh": "在首相發表這番評論之前，一位美國貿易官員表示，美國可能必須就省級抵制美國葡萄酒和烈酒的行動採取行動。"
-      },
-      {
-        "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-        "desc": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-        "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 01:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普對 BBC 表示，國王訪問「絕對」有助於修復與英國的關係",
-        "descZh": "在接受 BBC 北美編輯的電話訪問中，總統談到了下周的訪問以及他與英國首相的關係。"
-      },
-      {
-        "title": "My five-minute phone call with President Trump",
-        "desc": "Sarah Smith asked the president about King Charles's upcoming visit, the state of the so-called special relationship and the war with Iran.",
-        "url": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 00:47",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "我與川普總統的五分鐘通話",
-        "descZh": "Sarah Smith 問總統關於查爾斯國王即將訪問、所謂特殊關係的狀況以及與伊朗的戰爭。"
-      },
-      {
-        "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-        "desc": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
-        "url": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 00:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "華納兄弟股東通過派拉蒙 1110 億美元的收購案",
-        "descZh": "Donald Trump 將出席派拉蒙公司億萬富翁 Ellisons 的晚宴。"
-      },
-      {
-        "title": "Rerouted US Imports Avoiding Trump’s Tariffs Top $300B - Transport Topics",
-        "desc": "Rerouted US Imports Avoiding Trump’s Tariffs Top $300B&nbsp;&nbsp;Transport Topics",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iaG5TbF9kTDBYU213MEw1aUU1clZNeU1NWU93TTZfYXREdzNTc2lscmljcUd5V2I1RUNBR05tUW9GMW9lekNoclpMRjVYX0NOQ1J5NlAwcFQwSV9NeXNYR2xLRHh4LThVR19HdQ?oc=5",
-        "pubTime": "2026-04-23 20:51",
-        "source": "news.google.com",
-        "titleZh": "避開川普關稅的美國轉口貨物高達 3,000 億美元 - Transport Topics",
-        "descZh": "避開川普關稅的改道美國進口貨物高達 3,000 億美元;&nbsp;&nbsp;運輸主題"
-      },
-      {
-        "title": "Sellers in China trade hub seek tariff reprieve from Trump visit - Digital Journal",
-        "desc": "Sellers in China trade hub seek tariff reprieve from Trump visit&nbsp;&nbsp;Digital Journal",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHZJbW83UnNUWENaZEwwemxXMWhOMXIyWk1WMEV6bS1MeDBMMkNsa2pjbFdYTXNSa3BYelBDQUc4bVVUZDhWMjVEbmNwSG1IMUVNaDZZZ2RrVUZJNjlGV0R6Z204Nmlxd0I2UWhod0E0YUdObDlTMmFmaXgxYVdFNkhPTzZ1dVJENlBMd09ZZEs1ZWV5ZW1oN0NoOW04ZldCa1RQRXE3N0FtT0Ffb2c?oc=5",
-        "pubTime": "2026-04-23 11:16",
-        "source": "news.google.com",
-        "titleZh": "中國貿易中心的賣家尋求特朗普訪問的關稅緩衝 - Digital Journal",
-        "descZh": "中國貿易中心的賣家尋求特朗普訪問的關稅緩衝&nbsp;&nbsp;Digital Journal"
-      },
-      {
-        "title": "‘Game Changer’: USTR’s Julie Callahan Says Trump’s Tariffs Slashed US Ag Trade Deficit by $4.75B - 101.5 WKKG",
-        "desc": "‘Game Changer’: USTR’s Julie Callahan Says Trump’s Tariffs Slashed US Ag Trade Deficit by $4.75B&nbsp;&nbsp;101.5 WKKG",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnJkTUdJc0U0ZWNSMVpkY0NPWkdtNUhkc2F3dTA0WVBKeFdlUjZYV3lEdF9ITDdqWGlLeXFWb2NKWFVPdnRmdjNNcDV3Mk5OYm9YYXlzekV5NW1IQU5QU3ZUMDU1RW01NUFVb1RJaUVTXzAzYmVyNTNWdlg0d0pXSVpGNzJlTFVranRackJDZlA3ZWxXM1NxUFFnS3pFMldnejh0d296elM2TXB6cHNVaFpCeEd3N1JuZE52NjYtdzN5c3c?oc=5",
-        "pubTime": "2026-04-23 09:45",
-        "source": "news.google.com",
-        "titleZh": "改變遊戲規則美國貿易代表朱莉-卡拉漢表示，特朗普的關稅使美國農產品貿易赤字減少47.5億美元 - 101.5 WKKG",
-        "descZh": "遊戲改變\"：美國貿易代表朱莉-卡拉漢表示，特朗普的關稅使美國農產品貿易赤字減少 47.5 億美元&nbsp;&nbsp;101.5 WKKG"
-      },
-      {
-        "title": "US Trade Representative Greer defends Trump tariff policy, cites gains for workers and industry - lokmattimes.com",
-        "desc": "US Trade Representative Greer defends Trump tariff policy, cites gains for workers and industry&nbsp;&nbsp;lokmattimes.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX180ZjdSSTRzQ1lKYnMyNnRtQlRBSzRNdlYxRU04V0VxdDIzenU1RzhDM1lzd3FzQzJUaWwya0NoU0o5NE52bF9uQmk1U28yeFNBRnBpSllNdW1DbUZUbzdJT1NhTmphRlNFY2NURE1uSVprLUw4eEdFWVZxZ1lBOXh3M0RPaEJ6WHlFVWpndGVrVnhaUmZPSEhEVU9ieXB6MDdDNHR3UTNPc3YzSThTaTU1c2QyUUh6ZmtZdDNJR2JwcWpWSEh3UGpIWms5QXhsclJ30gHYAUFVX3lxTE5BU1lHanl2eTAwaGtuWklCb0ZncFczWmhkQmN4OWpHV0pPNmhDRUNiMXk1X2pqSTZWOWVFUjMxR2trYVV1SlBMMk5Ibjk0ZmJMZDJNYWZPWXRkelhJYmdsQVJNOE9sOGxSeE5jaE0wYXJ4Z0lZVFZZeW1jOEhGaFMzWERKWUVEQ18wOVg5R0pBRkp6WGREX1R5RlNiV0pWVW5YbEkzczFyR2h4WlRLYk43Yy1ERFlLLTcwNU1hVko4bS0wOTJreE1NN3prQ1gzb1pHcU1rYUNRZQ?oc=5",
-        "pubTime": "2026-04-23 09:25",
-        "source": "news.google.com",
-        "titleZh": "美國貿易代表葛瑞尔為川普的關稅政策辯護，引述工人和產業的得益 - lokmattimes.com",
-        "descZh": "美國貿易代表葛瑞尔為川普的關稅政策辯護，引述工人和產業的得益&nbsp;&nbsp;lokmattimes.com"
-      },
-      {
-        "title": "EXCLUSIVE: Trump policies drive auto manufacturing surge: 83% of Ford vehicles now built in U.S. - Washington Reporter",
-        "desc": "EXCLUSIVE: Trump policies drive auto manufacturing surge: 83% of Ford vehicles now built in U.S.&nbsp;&nbsp;Washington Reporter",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkoxNzhBZnN2VnFPU19jUjZodC0xS18wNFVoZnZleXl0NVNCaUJaNW1HS3hscnJBMGl6Tjhybmc5NExnWVFaYWhhMnFJaUxDclcta2dwNDJTNUdXRFNSZjVTLXU2TW5qZ3BKNU1nczZvVDI5cWdWQjlEZWpPQVF1aWR4Unp5TEZBc2dVVDdGMFlRVTgtSW5rX29OZkVrZ3h6UnZNY3FzcnFwM1hqMDBnTThHZ3JXWjBVTjBsa2xVLTdQZ2c?oc=5",
-        "pubTime": "2026-04-23 05:11",
-        "source": "news.google.com",
-        "titleZh": "獨家：川普政策推動汽車製造業激增：83% 的福特汽車目前在美國製造 - 華盛頓記者",
-        "descZh": "獨家：川普政策推動汽車製造業激增：83%的福特汽車目前在美國製造&nbsp;&nbsp;華盛頓記者"
-      },
-      {
-        "title": "Trump’s tariffs were supposed to close the trade deficit. The AI boom had other plans - Fortune",
-        "desc": "Trump’s tariffs were supposed to close the trade deficit. The AI boom had other plans&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGFMb0dPbjVVNXQyY3BWZ2UybzVpajB4aWZ5TzM5YTFGYTFadGdmWk01N3NSUlBHbWltd1AyQXViYW1HU1ZucWN0QkRTM0lLYWd1Q0RSVW1FSlFxRnQ0RVpVNTB1OVBWcGpqVDFndTZCLVNibU9QWW55NU1zS2FyS3ZKRUVzenpNQnVkMzFaOA?oc=5",
-        "pubTime": "2026-04-23 01:16",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅本來是為了彌補貿易赤字。人工智能熱潮有其他計劃 - 財富",
-        "descZh": "川普的關稅本來是為了彌補貿易赤字。人工智能的蓬勃發展有其他計劃&nbsp;&nbsp;財富"
-      },
-      {
-        "title": "Donald Trump’s Tariff Refunds Begin, but the Money Trail Raises Bigger Questions - Yahoo Autos",
-        "desc": "Donald Trump’s Tariff Refunds Begin, but the Money Trail Raises Bigger Questions&nbsp;&nbsp;Yahoo Autos",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGpsTmkyY3FXZlpITVA0d2VRMWRpWHRkQWJZT0lraFNhYTNkS0djMlBQc3hKZGRaYUROc3NWX0ZjVzdQZjM5bXQxakFmeURyR1ZzNG9YamtWMUtlZ2JPUU5mU3NNYnlXTk9xalBISnZHdjV5RW1tWG85LVFucWFaU3N0RFlBZHBw?oc=5",
-        "pubTime": "2026-04-23 00:30",
-        "source": "news.google.com",
-        "titleZh": "唐納德‧川普開始退還關稅，但資金來源引發更大問題 - Yahoo Autos",
-        "descZh": "唐納德‧川普開始退還關稅，但資金來源引發更大問題&nbsp;&nbsp;雅虎汽車"
-      },
-      {
-        "title": "Watch live: US trade representative testifies before House on Trump policies - The Hill",
-        "desc": "Watch live: US trade representative testifies before House on Trump policies&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlE0NU9vNVZ2YktyYlFJVTRSdjJsaVBQYndGU3BiTkJrQ1h0X29HaWdNYW93UGdhNTJaX3NZS29qS1FJcUgtOGE5UEtTcmp6c1pRMDU5M29mYU0wTGZyb2VhZkJZbDZobWdWT2Jfenl2WmNzQ3lSWWpTR3prV0hkZ1JpaWF2eGNVMlliVXMtUkIzYTdqZFFEREM3SW1JUnlmRlBtTFZR0gGrAUFVX3lxTFBCYWc0dXBEaC1MVlhaX3lZU3NtSm9DWFlEMVlONVJUclNRZHNKZENCdjhKTldaanM0LUdwTGhuOUdaeEtKb1VhVUZhTFJLSUktRzZoX1QtVHo3bXE2c0ZpSFBaWXpnNWRzaWVsakVjdUxIVUUwN3hGS09Wemhwcm5TMlJMQ0gtQ2RfdHZWMk0xYU50MXBXX3dCVDN3bmUtOUI3UXZ1M2NzeTBKWQ?oc=5",
-        "pubTime": "2026-04-22 20:32",
-        "source": "news.google.com",
-        "titleZh": "觀看直播：美國貿易代表在眾議院就川普政策作證 - The Hill",
-        "descZh": "觀看直播：美國貿易代表在眾議院就川普政策作證&nbsp;&nbsp;The Hill"
-      },
-      {
-        "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-        "desc": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
-        "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-22 08:32",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普在瘋狂的一天外交之後為伊朗協議爭取時間",
-        "descZh": "美國總統的決定標誌著他在幾個星期內第二次放棄了升級戰爭的威脅，從而爭取了更多的時間。"
       }
     ]
   }
