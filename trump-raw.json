@@ -1,5 +1,39 @@
 [
   {
+    "date": "20260526",
+    "fetchTime": "2026-05-26 05:38",
+    "count": 3,
+    "articles": [
+      {
+        "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+        "desc": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.",
+        "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-25 23:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法庭文件顯示，白宮槍手之前曾與特勤處發生衝突",
+        "descZh": "嫌犯曾在 2025 年 6 月阻礙白宮入口通道，並告訴特勤局人員他是耶穌基督。"
+      },
+      {
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "desc": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-25 21:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "油價因美伊和平協議的希望而下滑",
+        "descZh": "Trump 在星期六表示，協議將包括重新開放霍爾木玆海峽，但沒有透露更多細節。"
+      },
+      {
+        "title": "Iran war, China thaw complicate U.S. support for Taiwan - The Washington Post",
+        "desc": "Iran war, China thaw complicate U.S. support for Taiwan&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUVLek9FWDF2WVJGWE5sN3hNbW5ZMWhEd2s5TWpEZ05ZbXpOM3NNTWptbWVIYTFucHZDUjAyeHNUcVJaQ1NySWVDZzBpMS0xUmw0SWZvUG9LT1h5cXBEOUZUNlZobFBzbmlRbm5wTk5VNDU3cDlqMWFxaUNySzFzM1dRQTBwUjd4VTdMM05kMEZ4S2Z5VjZ1bC03ZEVySVRtM0tKNWZYc0lOcmZhbmZRVVh0by1oZDJK?oc=5",
+        "pubTime": "2026-05-24 12:10",
+        "source": "news.google.com",
+        "titleZh": "伊朗戰爭、中國解凍使美國支持台灣變得複雜 - 華盛頓郵報",
+        "descZh": "伊朗戰爭、中國解凍使美國支持台灣複雜化&nbsp;&nbsp;華盛頓郵報"
+      }
+    ]
+  },
+  {
     "date": "20260525",
     "fetchTime": "2026-05-25 05:14",
     "count": 5,
@@ -3736,121 +3770,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "我們一起哭了川普的驅逐行動迫使夫婦們做出艱難的決定",
         "descZh": "面臨遞解出境的非法移民的配偶必須在分居或移居新國家之間做出選擇。"
-      }
-    ]
-  },
-  {
-    "date": "20260426",
-    "fetchTime": "2026-04-26 05:00",
-    "count": 12,
-    "articles": [
-      {
-        "title": "Trump Slams Supreme Court Tariff Ruling Over $159B Risk - MEXC",
-        "desc": "Trump Slams Supreme Court Tariff Ruling Over $159B Risk&nbsp;&nbsp;MEXC",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kM2dhekZlclBibS1iUUV2b21KSEVUb0Vaek1NS2hsdl9HOTRyRVFTSjZkVVJEMFE4ZEVNM3Y4TV9Pa3dPU25uNA?oc=5",
-        "pubTime": "2026-04-25 17:55",
-        "source": "news.google.com",
-        "titleZh": "川普抨擊最高法院對1590億美元風險的關稅裁決 - MEXC",
-        "descZh": "川普抨擊最高法院關稅裁決 1590 億美元風險&nbsp;&nbsp;MEXC"
-      },
-      {
-        "title": "'Horrible and ridiculous': Trump bashes top court order on $159 billion tariff refunds - Zee Business",
-        "desc": "'Horrible and ridiculous': Trump bashes top court order on $159 billion tariff refunds&nbsp;&nbsp;Zee Business",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXI1X2R5bUlOQlpMVVMtNXhPRDRaemd4NTJvZDBtN2V6VU95d2JKaVY4VVphbzhWaUpLY2ZCWjhaVnZyY0ZDNUNSOWlwOVNxbXhGLVVMMms3alIwUUUzZmtpSTJwd2hWUS02R2stS1h2U2o2U052b1hZZExpTkRXVGFPNjZKdHF6RmpjWWdJQTN5SjlCY0w3czB0cU5feDYyYms2NW5iS0ZhNHBrRjUyVXYwdDQ0WkQyVjdEbThqM0E?oc=5",
-        "pubTime": "2026-04-25 11:48",
-        "source": "news.google.com",
-        "titleZh": "可怕又荒謬」：川普抨擊最高法關於 1590 億美元關稅退款的命令 - Zee Business",
-        "descZh": "可怕和荒謬\"：川普抨擊最高法院有關 1590 億美元關稅退款的命令&nbsp;&nbsp;Zee Business"
-      },
-      {
-        "title": "'We cried together': Trump's deportation drive forces tough decisions for couples",
-        "desc": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
-        "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-25 09:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "我們一起哭了川普的驅逐行動迫使夫婦們做出艱難的決定",
-        "descZh": "面臨遞解出境的非法移民的配偶必須在分居或移居新國家之間做出選擇。"
-      },
-      {
-        "title": "Trump offers immediate tariff relief to Canadian aluminum and steel companies that commit to U.S. expansion - CBC",
-        "desc": "Trump offers immediate tariff relief to Canadian aluminum and steel companies that commit to U.S. expansion&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXh2RXh1bXNWdTZTTEZXeTZXNks1N2JnTHJFSjZubUlLOERfeVNQQ2dVME1CdW5GbXJsZDhzNXc1MlF6MjAtdWpWdVl2bDI2ZUNmbFlQQkZERlhQcXNWRkpLVUNGVXJ5cnhkaUNCUkZEbGpibERieGxVT3psTThCcnZ2ejFvcHN1R1hrMmJfcnpfS2t0WUF5ZFdGbnFPcU1PckVzdl83TW0?oc=5",
-        "pubTime": "2026-04-25 04:50",
-        "source": "news.google.com",
-        "titleZh": "川普向承諾在美國擴張的加拿大鋁鋼企業提供即時關稅減免 - CBC",
-        "descZh": "川普向承諾在美國擴張的加拿大鋁鋼企業提供即時關稅減免&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "US justice department drops probe into Fed chairman Jerome Powell",
-        "desc": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-25 03:10",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國司法部撤銷對美聯儲主席鮑威爾的調查",
-        "descZh": "唐納德‧川普總統曾指責鮑威爾在翻修聯儲局大樓時不當地超支。"
-      },
-      {
-        "title": "Poll: Support slips in North Dakota for Trump tariff policies - North Dakota Monitor",
-        "desc": "Poll: Support slips in North Dakota for Trump tariff policies&nbsp;&nbsp;North Dakota Monitor",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUpBaVFlRmZUYW94OHVkV28yakdQb08yamJ1dnVTT3lYNE5UaHdoeUpienI1QWFWT0ZGYnNnOXJFX2VIZVlEMm5oNVdDZXZZNWtTSXFYU0dfQXJlaF9iMF9KU2ZkRkowdGdJWU1Fd05UanB3YURseWVfbER0bnY3Z0hULTYzREVLMllPV21QREtNUDRmZk1OV0x6Q1BLVGNreGhuTWpn?oc=5",
-        "pubTime": "2026-04-25 02:02",
-        "source": "news.google.com",
-        "titleZh": "民調：北達科他州民眾對川普關稅政策支持度下滑 - North Dakota Monitor",
-        "descZh": "民調：北達科他州對川普關稅政策支持度下滑&nbsp;&nbsp;北達科他州觀察報"
-      },
-      {
-        "title": "Trump says he speaks 'for the UK more than Prince Harry'",
-        "desc": "The US president's comments come ahead of a state visit from King Charles III and Queen Camilla.",
-        "url": "https://www.bbc.com/news/articles/cx268zxgx1no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 23:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普說他 「比哈里王子更能代表英國 」發言",
-        "descZh": "美國總統的評論是在國王查爾斯三世 (King Charles III) 和王后卡米拉 (Queen Camilla) 進行國事訪問前發表的。"
-      },
-      {
-        "title": "US-UK Trade Rift: Trump Threatens Keir Starmer With ‘Big Tariffs’ Unless He Drops Key Policy; 'Be Careful!' - The Sunday Guardian",
-        "desc": "US-UK Trade Rift: Trump Threatens Keir Starmer With ‘Big Tariffs’ Unless He Drops Key Policy; 'Be Careful!'&nbsp;&nbsp;The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSnNJbjA0VEVzNWNZUDRLNlJxMUJjQzJnOTNNYV8tU1VBMTQ4U0tGeVZTTmpoM24tMkhqdzBXN0xYQWRIY3JiN0pHWm1tTi1fdm5qRXVOTFl5TkdWNEFyS2Q2TGN5Z0Y3ZjVaQkgtOGo3WUhIWnBjUnVUaWE1NW5kX3pVcXdVYlVoUDZjbmZheE9zNmFwSWFwUGNrZWVJYkFsU2JVMVhJaVJ3XzFGT2dLM2ljeFNLWEtieW5hcGpQZC0xRXV1SGxHY1JHT1FNaC1EUDlGY1RESlVZYTFhLXc?oc=5",
-        "pubTime": "2026-04-24 18:10",
-        "source": "news.google.com",
-        "titleZh": "美英貿易裂痕：特朗普威脅 Keir Starmer，除非他放棄主要政策，否則將對他徵收「巨額關稅」；「小心點！」 - 《星期日衛報",
-        "descZh": "美英貿易裂痕：川普威脅凱爾-斯塔默，除非他放棄主要政策，否則將對他徵收「巨額關稅」；「小心點！」&nbsp;&nbsp;《星期日衛報"
-      },
-      {
-        "title": "India condemns remarks shared by Trump calling it a 'hellhole'",
-        "desc": "Trump shared a transcript of remarks made by podcaster Mark Savage, who criticised birthright citizenship in the US.",
-        "url": "https://www.bbc.com/news/articles/c05d4r1zgngo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 14:57",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "印度譴責川普稱其為「地獄」的共同言論",
-        "descZh": "Trump 分享了播客 Mark Savage 的發言記錄，他批評美國的出生公民權。"
-      },
-      {
-        "title": "Trump says Israel-Lebanon ceasefire to be extended by three weeks",
-        "desc": "Envoys from the two countries met in Washington as the fragile truce was due to expire on Sunday.",
-        "url": "https://www.bbc.com/news/articles/c62kyk5j28do?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-24 06:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示以黎停火將延長三週",
-        "descZh": "當脆弱的停戰協議將於週日到期時，兩國特使在華盛頓會面。"
-      },
-      {
-        "title": "President Trump’s Trade Policy is Delivering for the American People - ustr.gov",
-        "desc": "President Trump’s Trade Policy is Delivering for the American People&nbsp;&nbsp;ustr.gov",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUUQyUkpfYXRmYmFVdGdWQTVkMjR4c1JrMVNXc1c5anVES0QxOXJJUmtQcHB2VnVFS3YwdHVsM0pxTUFqNmdfbjJUSFhUT21PdVNGcG5QVm0yV3ZlZ1YwTGs3dlFvQ2NNOEhJT3gwSDEweVFhUnBwZWkzaEUtV2R0eVVCdW9GYWptV1p1WG1NLUU5NmpobGJoN1kwbGdYa2xYR2xyOWd4Yjg5Vnk3QkNqbFlReWNzTGZDNV9lcEFCSkc4b21qVFRCX1VOOTFCdw?oc=5",
-        "pubTime": "2026-04-24 06:26",
-        "source": "news.google.com",
-        "titleZh": "川普總統的貿易政策為美國人民帶來好處 - ustr.gov",
-        "descZh": "川普總統的貿易政策為美國人民帶來好處&nbsp;&nbsp;ustr.gov"
-      },
-      {
-        "title": "Donald Trump Stocks: 8 Stocks Owned by the President - U.S. News Money",
-        "desc": "Donald Trump Stocks: 8 Stocks Owned by the President&nbsp;&nbsp;U.S. News Money",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OM0theVZwbDJHb2Y5M2txNkxtajIwaVFMNk55ZlRuWjR0cnVOTEwyRk9CMU9NbnpLSHRtXzc4N1VrR2ZfZkdnTDhEVzVobThVWVZaNURmTExwNGVEMzEtZmkzMS11VTVFWkFPWHBaSlNaemk3T3RzdzNTclk?oc=5",
-        "pubTime": "2026-04-24 05:03",
-        "source": "news.google.com",
-        "titleZh": "唐納德‧川普股票：總統擁有的 8 隻股票 - U.S. News Money",
-        "descZh": "唐納德‧川普股票：總統擁有的 8 隻股票&nbsp;&nbsp;美國新聞財經"
       }
     ]
   }
