@@ -1,5 +1,129 @@
 [
   {
+    "date": "20260529",
+    "fetchTime": "2026-05-29 06:14",
+    "count": 13,
+    "articles": [
+      {
+        "title": "US government prepares to print $250 note featuring Trump's face",
+        "desc": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
+        "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-29 02:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國政府準備印制印有川普臉孔的 250 美元鈔票",
+        "descZh": "聯邦法律禁止在美國貨幣上印上活人的圖像，但國會中的川普盟友正着手破例。"
+      },
+      {
+        "title": "Police investigate motive in fatal attack outside man's Trump-themed home",
+        "desc": "A 32-year-old suspect has pleaded not guilty and no motive has yet been determined for the assault.",
+        "url": "https://www.bbc.com/news/articles/cvgzl339pl4o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-29 01:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "警方調查男子以特朗普為主題的住宅外致命襲擊案的動機",
+        "descZh": "一名 32 歲的嫌犯不認罪，目前尚未確定襲擊的動機。"
+      },
+      {
+        "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll",
+        "desc": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+        "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-29 00:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國司法部對川普指控人 E Jean Carroll 展開刑事調查",
+        "descZh": "此案的焦點在於這位前專欄作家是否對她控告美國總統的民事訴訟所獲得的資金說謊。"
+      },
+      {
+        "title": "The gangster logic of Trump’s tariff wars - PubAffairs Bruxelles",
+        "desc": "The gangster logic of Trump’s tariff wars&nbsp;&nbsp;PubAffairs Bruxelles",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnNFUndTdzRTd2tYY1ktaXdnLUJqSk1PRUZxS3B3UnlXNGdXLUsteVc2YzhVMlBPZUFmVmNNcW1CSWFDWjV0Yjg2S2gyY2VGcDBudWhoc3JXX2hyVzlNaXVoSWxwSlVRSzY5ejVMQ25oTk1Tcm5QLWx6emMxSEFpN0dxU3N3TUJRb294bTRDLXFlMFBGTGJWRQ?oc=5",
+        "pubTime": "2026-05-28 19:16",
+        "source": "news.google.com",
+        "titleZh": "特朗普關稅戰爭的黑幫邏輯 - PubAffairs Bruxelles",
+        "descZh": "特朗普關稅戰爭的黑幫邏輯&nbsp;&nbsp;布魯塞爾公共事務"
+      },
+      {
+        "title": "Lai presents TSMC founder’s autobiography to Trump - Taiwan News",
+        "desc": "Lai presents TSMC founder’s autobiography to Trump&nbsp;&nbsp;Taiwan News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lYmE2aXJtdWctc3paSC02cFlib2daQkJHc1dVRmZtWjFMMlNNQi1McHNuRWJya0pBVE1VbFYxU2FKLWNOdThWVUFHWWVOSERtTldDdlpxYlo?oc=5",
+        "pubTime": "2026-05-28 14:20",
+        "source": "news.google.com",
+        "titleZh": "賴清德向川普贈送台積公司創辦人自傳 - Taiwan News",
+        "descZh": "賴清德向川普贈送台積公司創辦人自傳;&nbsp;&nbsp;台灣新聞"
+      },
+      {
+        "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+        "desc": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-28 12:53",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Jill Biden 說她以為丈夫在 2024 年的辯論中中風了",
+        "descZh": "前美國第一夫人告訴 CBS News，她被 Joe Biden 對 Donald Trump 的表現嚇到了。"
+      },
+      {
+        "title": "We analysed thousands of Trump's posts - here's what we found",
+        "desc": "The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's posts.",
+        "url": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-28 07:21",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "我們分析了數以千計的 Trump 帖子 - 以下是我們的發現",
+        "descZh": "BBC 的 Ros Atkins 和 BBC Verify 篩選了數以千計的總統貼文。"
+      },
+      {
+        "title": "Taiwan president gifts Trump TSMC founder autobiography to foster semiconductor cooperation - Crypto Briefing",
+        "desc": "Taiwan president gifts Trump TSMC founder autobiography to foster semiconductor cooperation&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3lsYVF1QlVuLWFqeVJsd2VtZVBOQk0tU1pSbTVranc0U2dhNndTeU1fWmZLVkhteEExS21jdklWWHFCZk9IaThLNXlERWZnei1MZzVMRXN6RDU3UDdmTHFZYXRVdGZFWVdsVlpvRS1xcjJnTUpzdlFwN21kY3hqcG1USEVJMUwtdERR?oc=5",
+        "pubTime": "2026-05-28 06:07",
+        "source": "news.google.com",
+        "titleZh": "台灣總統贈川普台積電創辦人自傳以促進半導體合作 - Crypto Briefing",
+        "descZh": "台灣總統贈川普台積電創辦人自傳 促成半導體合作&nbsp;&nbsp;Crypto Briefing"
+      },
+      {
+        "title": "Taiwan president gifts Trump autobiography of TSMC founder - Internazionale",
+        "desc": "Taiwan president gifts Trump autobiography of TSMC founder&nbsp;&nbsp;Internazionale",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR09TbHQzOGVlcVlKTzdLazJoTDh4S1YzSXBBcWQzbnJnOENLYjVYZVZndW94c0w2OFZlVGFoVTR6Q0lfVTRnOFM3MnRsY25CWmttT0MzN0pydkE2S0QybUI5a29TaHlhcXg5azF2UVRMNkgwc1duNnNNRG1ZZDE4RWRyRGJXckJFaUhrZEROTWdqZWJxSW1URjZHMV9vNldGTXk2MDhEVmh1Q3lCcTYyejVZWFNBOW5oajhFWWRpWQ?oc=5",
+        "pubTime": "2026-05-27 22:37",
+        "source": "news.google.com",
+        "titleZh": "台灣總統送台積電創辦人自傳給川普 - Internazionale",
+        "descZh": "台灣總統送台積電創辦人自傳給川普&nbsp;&nbsp;Internazionale"
+      },
+      {
+        "title": "$20 billion in tariff refunds paid so far, with more on the way - NBC News",
+        "desc": "$20 billion in tariff refunds paid so far, with more on the way&nbsp;&nbsp;NBC News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3B2MmtjVEgtUjBoT0Ztc2Y3WmZKekZoYXJaejBNVUkxMTQ2T0lnc1REUmhqRHhiR3R3d3d4ellJWVlKXzZSdFJmTFRWMFNUMG93djJjUV9LLUJ1OGVJMk15N1BpYTFPMHdLWHFDeHhPSWxoX1FEbFdSSmVQQnItTnlTZjM1QjVwdi1iT0piZjEtTk0?oc=5",
+        "pubTime": "2026-05-27 21:50",
+        "source": "news.google.com",
+        "titleZh": "迄今已支付 200 億美元的關稅退款，還有更多退款在路上 - NBC News",
+        "descZh": "迄今已支付 200 億美元的關稅退款，還有更多退款在路上&nbsp;&nbsp;NBC 新聞"
+      },
+      {
+        "title": "Trump’s tariff defeats in court are Congress’s shame - Washington Examiner",
+        "desc": "Trump’s tariff defeats in court are Congress’s shame&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNjQnpnX29tVGJaNW1aNkt6WmhNY0xHRW5TSHBlZDdxb0h4YklKbTNhLUFGYU1EUXJKMXBaNnFxNUc4dXcwOGlpWmdSd2lEcHo2LUE1VXdieFZOejFOaGRvTjg3Y0pkNy01LTJicnZDTzc0Q2hBSDFrdTM1UllrelRKX3BKWWd5dFg2SnZodFMyVTFodWliMGFQa3ZCUXhkZFFpYnZzc0hnNnJSQVhXVVlQVE5pQk0zSnNkUWR4NjVOWUx4ZVpKY2lHS1c?oc=5",
+        "pubTime": "2026-05-27 18:00",
+        "source": "news.google.com",
+        "titleZh": "川普在法庭上的關稅失敗是國會的羞恥 - Washington Examiner",
+        "descZh": "川普在法庭上的關稅失敗是國會的恥辱&nbsp;&nbsp;Washington Examiner"
+      },
+      {
+        "title": "How Trump is transforming Washington - by adding his face everywhere",
+        "desc": "Sarah Smith visits places across the US capital where the president has hung banners, renamed a site or is rebuilding something.",
+        "url": "https://www.bbc.com/news/videos/ce8pp9r03z7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-27 17:17",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普如何改造華盛頓 - 在每個地方都加上他的臉孔",
+        "descZh": "Sarah Smith 訪問了美國首都的各個地方，總統在這些地方懸掛了橫幅、將某個地點重新命名或正在重建某個地方。"
+      },
+      {
+        "title": "Watch: UFC arena construction begins at White House ahead of fight",
+        "desc": "The massive structure will host a cage fight as part of celebrations marking the 250th anniversary of the US Declaration of Independence.",
+        "url": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-27 07:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "觀看：UFC 賽前白宮開始興建場館",
+        "descZh": "作為慶祝美國獨立宣言 250 周年慶典的一部分，這座巨大的建築將舉辦籠式格鬥。"
+      }
+    ]
+  },
+  {
     "date": "20260528",
     "fetchTime": "2026-05-28 06:14",
     "count": 11,
@@ -3520,148 +3644,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "關於華盛頓媒體晚宴槍手嫌犯的最新消息",
         "descZh": "在川普總統出席的活動中被捕的男子週一出庭受審。"
-      }
-    ]
-  },
-  {
-    "date": "20260429",
-    "fetchTime": "2026-04-29 05:34",
-    "count": 15,
-    "articles": [
-      {
-        "title": "Former FBI director James Comey charged with threatening Trump's life",
-        "desc": "The indictment stems from a 2025 photo of seashells posted by Comey on social media that the justice department says is a call to violence against Trump.",
-        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-29 05:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前 FBI 主任 James Comey 被控威脅川普的生命安全",
-        "descZh": "起訴源於科米在社交媒體上發佈的一張 2025 年的貝殼照片，司法部稱這張照片是在呼籲人們對川普施暴。"
-      },
-      {
-        "title": "In pictures: King Charles delivers historic speech to US Congress",
-        "desc": "King Charles III and Queen Camilla continued their state visit to the US with a White House military ceremony and a speech from the King to Congress.",
-        "url": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-29 04:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "圖片：查爾斯國王向美國國會發表歷史性演說",
-        "descZh": "國王查爾斯三世 (King Charles III) 和王后卡米拉 (Queen Camilla) 繼續對美國進行國事訪問，在白宮舉行了軍事儀式，國王還向國會發表了演講。"
-      },
-      {
-        "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
-        "desc": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\".",
-        "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-29 03:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "吉米-金梅爾（Jimmy Kimmel）開梅拉尼婭-川普（Melania Trump）的玩笑後，美國監管機構將審查迪士尼的廣播許可證",
-        "descZh": "此舉是因為白宮在 Kimmel 稱 Melania 為「懷孕的寡婦」後，向迪士尼旗下的 ABC 施壓，要求他們解雇 Kimmel。"
-      },
-      {
-        "title": "'It's bizarre': Californians grapple with revelation that suspected Trump gunman was neighbour",
-        "desc": "People living near the man charged with the attempted assassination of Trump  say they were shocked to see their neighbour on TV.",
-        "url": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-29 02:19",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "太離奇了加州人奮力應對特朗普槍手疑似鄰居的消息",
-        "descZh": "住在被控企圖暗殺特朗普的男子附近的人表示，他們在電視上看到鄰居時感到非常震驚。"
-      },
-      {
-        "title": "Trump Tariff Tracker: Latest Rates on Countries and Products - The New York Times",
-        "desc": "Trump Tariff Tracker: Latest Rates on Countries and Products&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjg2dnFmWVhreXFuam9oQ3dmbnJIM1NrS2VaSkYwbnBZR0I4cjRXODItSHBEX2xmaVI3VmhMNXZfSWVWaDNtOHhHNVZxbjVidWFYYXVvNXZ6UDg3WVQ0N283V1lDdXJiZjFMNDZYdi1pTlIzX2NZS21CQWtaSHJ1a0JzcVh4dGJfamdn?oc=5",
-        "pubTime": "2026-04-29 01:44",
-        "source": "news.google.com",
-        "titleZh": "特朗普關稅追蹤：國家和產品的最新稅率 - 紐約時報",
-        "descZh": "特朗普關稅追蹤：國家和產品的最新稅率&nbsp;&nbsp;紐約時報"
-      },
-      {
-        "title": "'Are they gunshots?' BBC correspondent's minute-by-minute account of dinner shooting",
-        "desc": "Correspondent Tom Bateman was in the dining room at the White House Correspondents' Dinner with President Trump and other officials when gunshots were heard.",
-        "url": "https://www.bbc.com/news/videos/cwy25x41g42o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-29 01:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "是槍聲嗎？BBC 特派員對晚宴槍擊事件的分秒描述",
-        "descZh": "記者 Tom Bateman 在白宮記者晚宴的用餐室與川普總統及其他官員共進晚餐時，聽到槍聲。"
-      },
-      {
-        "title": "Trump pursues new import taxes to replace the tariffs the Supreme Court rejected - NBC4 Washington",
-        "desc": "Trump pursues new import taxes to replace the tariffs the Supreme Court rejected&nbsp;&nbsp;NBC4 Washington",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMlh4UDFJN2F5dEhsVkVYbTF2amk1TmQ0YXIwMGJTWUVIQ3J4YWNDdElFbUdUMWI2cTVUS2VzTVRHVHlzc2YydVVFM1p0SkNUNG9zMGM0Z2RkNjdZU050Y19MTnRjelRQOXJicVJvM0ZrbUtMRTk2elVwOFdBMEo1WncybVZOdWdqUzMtUk1qSEt5bnYtWHF3WXJIQnprWko2OHJaUm9ld2JyXzdIWWVFTktGVEp3UExFVXJNTHpUajh4UdIBygFBVV95cUxQU3UtQXFCTEUyeTE0QlZseUpyZlp6MGJWVV9WNmFpODd5THRXZm9RdTFOTG1IRWE2X1V0UXFMS05hQWRVTmh2T3pMdE5NT0tnZW1JekdOUnNRZ2IzLVhidzR2Ui02TzJhcm9kWXNJVUhKUS1PQURQeFM2RUlpSXdXd0FTa2Rvdzc4Ukhta2pjRVAxcy13dWFPY1dnUGdHVmp1RlFUaEFOdldyZFlWZVEzb0RjYU1XeDA2SWpNdVduZDZFOTM3bG1oMGtn?oc=5",
-        "pubTime": "2026-04-28 23:08",
-        "source": "news.google.com",
-        "titleZh": "川普追求新的進口稅，以取代最高法院否決的關稅 - NBC4 華盛頓州",
-        "descZh": "川普追求新的進口稅，以取代最高法院否決的關稅&nbsp;&nbsp;華盛頓NBC4台"
-      },
-      {
-        "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
-        "desc": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
-        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 23:08",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "Jimmy Kimmel 拒絕白宮對 Melania 寡婦笑話的批評",
-        "descZh": "在白宮記者晚宴前幾天播出的模仿秀中，Kimmel 稱 Melania 為「期待中的寡婦」。"
-      },
-      {
-        "title": "Watch: Jimmy Kimmel defends 'expectant widow' joke after first lady criticism",
-        "desc": "First Lady Melania Trump described the joke as \"hateful and violent\", with the White House urging ABC to fire the comedian.",
-        "url": "https://www.bbc.com/news/videos/c62d4n5rzr7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 21:10",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：吉米-金梅爾（Jimmy Kimmel）在第一夫人提出批評後，為「懷孕寡婦」的笑話辯護",
-        "descZh": "美國第一夫人 Melania Trump 將這個笑話形容為「仇恨和暴力」，白宮敦促 ABC 辭退這位喜劇演員。"
-      },
-      {
-        "title": "Inside Trump press dinner shooting suspect's court appearance",
-        "desc": "BBC reports from Washington DC, where Cole Tomas Allen was charged with attempting to assassinate Donald Trump.",
-        "url": "https://www.bbc.com/news/videos/cj6p277r3k4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 13:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普新聞晚宴槍擊案嫌犯出庭內幕",
-        "descZh": "BBC 從華盛頓特區報導，Cole Tomas Allen 被控企圖暗殺 Donald Trump。"
-      },
-      {
-        "title": "What we're learning about suspected Washington press dinner gunman",
-        "desc": "The man arrested at the event attended by President Trump appeared in court on Monday.",
-        "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 08:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "關於華盛頓媒體晚宴槍手嫌犯的最新消息",
-        "descZh": "在川普總統出席的活動中被捕的男子於週一出庭受審。"
-      },
-      {
-        "title": "What the King and Queen did on their first day in the US",
-        "desc": "After landing, the royals were greeted by US President Donald Trump at the White House and later visited the British Embassy.",
-        "url": "https://www.bbc.com/news/videos/c78q59ynj4vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 08:46",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國王和王后在美國的第一天做了什麼",
-        "descZh": "登陸後，皇室成員在白宮受到美國總統川普的迎接，隨後又拜訪了英國大使館。"
-      },
-      {
-        "title": "White House to review Trump's security after shooting at dinner event",
-        "desc": "Questions have been raised about security at the White House Correspondents' Dinner.",
-        "url": "https://www.bbc.com/news/articles/cgj0j9439vlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 05:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "晚宴活動發生槍擊事件後，白宮將檢討川普的安全措施",
-        "descZh": "有人對白宮記者晚宴的安全提出疑問。"
-      },
-      {
-        "title": "'Are we about to die': Performer describes locking eyes with Trump as they ducked for cover",
-        "desc": "Oz Pearlman - a self-described \"mentalist\" - was speaking to Trump, First Lady Melania Trump and press secretary Karoline Leavitt as the attack happened.",
-        "url": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-28 05:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "我們要死了嗎？表演者描述與特朗普對視時，他們都在躲避",
-        "descZh": "Oz Pearlman - 一位自稱為「心靈學家」的人 - 在襲擊發生時正在與川普、第一夫人 Melania Trump 以及新聞秘書 Karoline Leavitt 說話。"
-      },
-      {
-        "title": "Trump Tariff Tracker – April 27, 2026 (via Passle) - Baker Botts",
-        "desc": "Trump Tariff Tracker – April 27, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGh3S1ZLZVhaUFBZWUhwRFFFcUY4b2piV3ZmdHExYUJVQ05KYVBhTHhlTzBvRzJGX1VPMGYyOUVUdlJ4bVBrbzkxZlNzc1FrakZFc0R5RmNaMzJGcEV0U29oUG1mcHJnNWpocTgzdDltUmFRLVB4ZEw1NlJ1eVV2RFRzMzA?oc=5",
-        "pubTime": "2026-04-28 05:11",
-        "source": "news.google.com",
-        "titleZh": "川普關稅追蹤 - 2026 年 4 月 27 日 (透過 Passle) - Baker Botts",
-        "descZh": "川普關稅追蹤 - 2026 年 4 月 27 日 (via Passle)&nbsp;&nbsp;Baker Botts"
       }
     ]
   }
