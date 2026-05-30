@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260531",
+    "fetchTime": "2026-05-31 05:29",
+    "count": 12,
+    "articles": [
+      {
+        "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+        "desc": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
+        "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-31 01:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普攻擊藝術家退出美國自由250演唱會，並考慮親自出席",
+        "descZh": "表演者 Young MC、Poison 主唱 Bret Michaels 和鄉村歌手 Martina McBride 擔心活動會有政治色彩。"
+      },
+      {
+        "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
+        "desc": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
+        "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 23:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的醫生說他的健康狀況極佳 - 但美國總統的健康檢查是公關活動嗎？",
+        "descZh": "現代史上的每位總統，包括本週的唐納德‧川普 (Donald Trump) 在內，每年都會進行一次身體檢查，其目的既是為了傳達訊息，也是為了健康。"
+      },
+      {
+        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "desc": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 19:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普開會對伊朗問題做出「最終決定」後未宣佈任何協議",
+        "descZh": "美國總統與他的顧問見面，在此之前，官員們證實美國與伊朗已達成協議的框架。"
+      },
+      {
+        "title": "Trump in 'excellent health' but should lose weight and exercise more, his doctor says",
+        "desc": "The White House releases the results of the US president's latest medical examination, which states he is \"fully fit\" to carry out his duties.",
+        "url": "https://www.bbc.com/news/articles/cx21v0ezv14o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 16:44",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "醫師表示，川普「健康狀況極佳」，但應減重並多做運動",
+        "descZh": "白宮公布美國總統最新的體檢結果，表示他「完全適合」執行職務。"
+      },
+      {
+        "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
+        "desc": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 09:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "前美國檢察長在國會調查中為處理 Epstein 檔案辯護",
+        "descZh": "美國最高檢察官被美國總統唐納德‧川普（Donald Trump）罷免約一個月後，美國最高檢察官的證詞出現了。"
+      },
+      {
+        "title": "US judge orders Trump's name be removed from Kennedy Center",
+        "desc": "The performing arts centre must also remain open despite Trump announcing a two-year closure for extensive renovations.",
+        "url": "https://www.bbc.com/news/articles/czr2je8lkvro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 06:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國法官下令從甘迺迪中心移除川普的名字",
+        "descZh": "儘管特朗普宣佈關閉兩年進行大規模翻新，表演藝術中心也必須繼續開放。"
+      },
+      {
+        "title": "Evaluating Trump’s Trade Policy on Trump’s Criteria - Council on Foreign Relations",
+        "desc": "Evaluating Trump’s Trade Policy on Trump’s Criteria&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3JQZDZOV1VHSXl2WkswRllNWVZuYnZVcGJfV0RwVFdfZDE1R0lkOEhpeDlqbE5Vb3RrLWFaN1pJamJGUzBwNlZoT2V6cmNDT0dhTlc0ZGVQNHUtUTJfMDhDQ0V6MjBqcFNydEVHcWItTkhNWVAwdk44RWtLdFNRNnNrQnU?oc=5",
+        "pubTime": "2026-05-30 05:44",
+        "source": "news.google.com",
+        "titleZh": "以特朗普的標準評估特朗普的貿易政策 - 外交關係委員會",
+        "descZh": "以特朗普的標準評估特朗普的貿易政策&nbsp;&nbsp;外交關係委員會"
+      },
+      {
+        "title": "US judge halts Trump's $1.8bn 'anti-weaponisation' fund",
+        "desc": "In a two-page order on Friday, the judge barred the justice department from taking any steps to stand up or operate the fund.",
+        "url": "https://www.bbc.com/news/articles/crkp5r0eykko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 02:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國法官叫停川普18億美元的「反武器化」基金",
+        "descZh": "法官在週五一份長達兩頁的命令中，禁止司法部門採取任何措施來成立或運作該基金。"
+      },
+      {
+        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+        "desc": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-29 17:17",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "萬斯表示，美國和伊朗「非常接近」達成協議，但「尚未達成」。",
+        "descZh": "美國官員早前向 BBC 表示，停火延長協議的框架已達成共識，只待川普及伊朗領導人批准。"
+      },
+      {
+        "title": "Taiwan will likely play its silicon ‘Trump card’ in security talks with the US - Washington Examiner",
+        "desc": "Taiwan will likely play its silicon ‘Trump card’ in security talks with the US&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVYxRm94UXloZ1ZsS3BxRmpKNmVaZndibmhON3gwOE9RZEtnRlhMRUV1XzIwcUhZeDY0MkhYZ2oyMFBVeFBIY0xoUUlNeml1ajNkUWZlcVcySS1vYk1FTWRwZWVBVFM4Ym9teTRSSFhaZTl2dUx2QVBhMHlNb2NwMHlFTUFjdmprTFRUSWR6VkljYV9YSy1lVGlBbDkwZXpMSnhlOElQTQ?oc=5",
+        "pubTime": "2026-05-29 17:00",
+        "source": "news.google.com",
+        "titleZh": "台灣可能會在與美國的安全談判中打出矽膠「川普牌」 - Washington Examiner",
+        "descZh": "台灣很可能在與美國的安全談判中打出矽製「川普牌」&nbsp;&nbsp;Washington Examiner"
+      },
+      {
+        "title": "Are the US and Iran close to reaching a peace deal… again?",
+        "desc": "BBC’s Sarah Smith looks at why both countries are in a tense cycle of negotiations, despite the progress President Trump consistently claims.",
+        "url": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-29 08:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國和伊朗是否又接近達成和平協議......？",
+        "descZh": "BBC 的 Sarah Smith 探討了為什麼儘管美國總統特朗普一直聲稱已取得進展，但兩國仍處於緊張的談判週期。"
+      },
+      {
+        "title": "When trade soured, this American liquor maker moved to Canada",
+        "desc": "Sales of the fruity liqueur popular with Canadian students had plummetted north of the border as provinces retaliated against Trump tariffs.",
+        "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-29 07:29",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "貿易不景氣時，這家美國製酒商搬到加拿大",
+        "descZh": "由於加拿大各省對特朗普的關稅採取報復行動，這種深受加拿大學生歡迎的果味利口酒在邊境以北的銷售量大幅下滑。"
+      }
+    ]
+  },
+  {
     "date": "20260530",
     "fetchTime": "2026-05-30 06:10",
     "count": 13,
@@ -3574,58 +3689,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "皇室國事訪問拯救了特殊關係嗎？",
         "descZh": "BBC 的 Sarah Smith 探討查爾斯國王對川普總統的魅力攻勢是否對美英關係有所影響。"
-      }
-    ]
-  },
-  {
-    "date": "20260501",
-    "fetchTime": "2026-05-01 05:30",
-    "count": 5,
-    "articles": [
-      {
-        "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-        "desc": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-        "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 04:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示美國正在研究駐德國軍隊的裁減，與默茨的爭吵愈演愈烈",
-        "descZh": "他的這番話是在德國總理批評美國對伊朗戰爭的做法之後發表的。"
-      },
-      {
-        "title": "Trump to Lift Tariffs on Scotland-Kentucky Whiskey and Bourbon Trade - Global Banking & Finance Review",
-        "desc": "Trump to Lift Tariffs on Scotland-Kentucky Whiskey and Bourbon Trade&nbsp;&nbsp;Global Banking & Finance Review",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0JhbmoxaUhRM21udEtOaVBtT3Y0RE9kbTNWM2Z3eEpEeDlZY1pxZUh5LUJEMXZfcjA1b2sxVE9qYVlTMU40SE5rMUFXQXd4a05kazhNaS1GbW0wbXNMQjdPekpNYTQ0QmRHWWZ4eXZLUkpzN1Nhd2p5RGkzb2xjbnFtaVhmUGZKTi0tZmxvWVozMmpGbDR2Vlh3N0FRX21feFJ3?oc=5",
-        "pubTime": "2026-05-01 02:53",
-        "source": "news.google.com",
-        "titleZh": "川普將解除蘇格蘭-肯塔基州威士卡與波本威士忌貿易關稅 - 全球銀行與金融評論",
-        "descZh": "川普將解除蘇格蘭-肯塔基州威士卡與波本威士忌貿易關稅&nbsp;&nbsp;全球銀行與金融評論"
-      },
-      {
-        "title": "Trump's $166 billion tariff refunds may finally be in sight as first payouts expected by May 11 - The Economic Times",
-        "desc": "Trump's $166 billion tariff refunds may finally be in sight as first payouts expected by May 11&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSWpSWEhob01tdlU1THExM0VGWGlFcVEwNTBNQnZudnZMR3BIQnFTdmZqWFc1Yk5ZejdSMUFfdjlNVkNnR3NWbXE1RDIzUndEaTV2d3J4WlBRYl9mRjY3UUFRSmE4VFQ0aE93MDhGZ00xS203RW1jR0ZweEdJVDVkM0EycXF2QWcyRnVsZkN5R1VXaU54cHNUZDZKZ2lGa2xUb1ZYSlJTYzgtalZqdWZvUzdGVHYyZ2N6VXVxbXpvTGpGakZNbW5GTWJzakdsZndzQzRGYzVTTExfMWRuRnhzbjNITm1JWFltN0FsMnRmcldTVVFJbTZvSkY4Y9IBgAJBVV95cUxPeHJSSFA0SHN0LW0yT0p3TDB6VFFmQS1neWNYSUxkU1VyY1RncUtuYl83Q3RRSG1fSV8zbE5rbmZkeERoakc5UDZweHFCX2g1a1N3ejgtUnRrZER4YlFqTkRjc2IxRnhMVEZzZDBsZjRVa182YVFPbDJld3l0b0V3TVBPZnoxNXRxQVRNYjQtT3ZGdkZScFVZYTNuclRaU2hUbjl6MWZWbXEzRllOTUVxUDdtbDkzU214X2RjR1VxaWZQYm1TdDIwcW9oYlBOWmJiaG5kYjJ0VTMwV1hPUTJSUHRCLUE2ZGxMRHc1cTRNQ0RrcGpJbHB1Q0gtM0dYV1VM?oc=5",
-        "pubTime": "2026-04-30 09:12",
-        "source": "news.google.com",
-        "titleZh": "川普的 1,660 億美元關稅退還終於有望在 5 月 11 日前完成首筆支付 - 經濟日報",
-        "descZh": "川普的 1,660 億美元關稅退還終於有望在 5 月 11 日前完成首筆支付&nbsp;&nbsp;經濟日報"
-      },
-      {
-        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-        "desc": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
-        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-30 04:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "科米因被指控在 Instagram 帖子中威脅特朗普的生命安全而自首",
-        "descZh": "檢察官表示，前 FBI 局長張貼的 2025 年貝殼照片是呼籲對 Trump 採取暴力行動。"
-      },
-      {
-        "title": "Five takeaways from the King's historic address to Congress",
-        "desc": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
-        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-04-29 16:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國王向國會發表歷史性演說的五大啟示",
-        "descZh": "演講中有幾句話可能讓民主黨人感到振奮，也讓白宮方面瞠目結舌。"
       }
     ]
   }
