@@ -1,5 +1,102 @@
 [
   {
+    "date": "20260601",
+    "fetchTime": "2026-06-01 05:29",
+    "count": 10,
+    "articles": [
+      {
+        "title": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped",
+        "desc": "Trump's former vice-president, who was targeted by rioters during the January 6 riots, says the fund that could potentially compensate them is a \"bad idea\".",
+        "url": "https://www.bbc.com/news/articles/ce8p7mg30dyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-01 04:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "彭斯稱川普的 「反武器化 」基金 「令人深惡痛絕」，並表示應予撤銷",
+        "descZh": "特朗普的前副總統在 1 月 6 日的騷亂中成為騷亂者的目標，他表示有可能補償他們的基金是個 「壞主意」。"
+      },
+      {
+        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
+        "desc": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
+        "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-01 01:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在藝術家退出美國 250 自由節後說：「取消吧",
+        "descZh": "川普建議，在大部分頭條人物退出與白宮有關的活動後，改為舉行「讓美國再次偉大」集會。"
+      },
+      {
+        "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+        "desc": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
+        "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-31 01:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普攻擊藝術家退出美國自由250演唱會，並考慮親自出席",
+        "descZh": "表演者 Young MC、Poison 主唱 Bret Michaels 和鄉村歌手 Martina McBride 擔心活動會有政治色彩。"
+      },
+      {
+        "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
+        "desc": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
+        "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 23:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的醫生說他的健康狀況極佳 - 但美國總統的健康檢查是公關活動嗎？",
+        "descZh": "現代史上的每位總統，包括本週的唐納德‧川普 (Donald Trump) 在內，每年都會進行一次身體檢查，其目的既是為了傳達訊息，也是為了健康。"
+      },
+      {
+        "title": "Trump wants to ‘manage’ China trade. Businesses see a tariff opening. - Politico",
+        "desc": "Trump wants to ‘manage’ China trade. Businesses see a tariff opening.&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGZ0RElvZWg0Y0xtbTNTNXVkS2lrYU5fTG9RY054MVYwOVBwMzVua1dmMjJHQjNwRmVvRUp5WDRiZkhXb0ZfOHV6dzBjSDNXclN3RGNWUjRvRy1PXzhNcndxcHZCNW1TX3UxTHVIRHJHOWJhSzNEV0RvcW91N0xmRVN6VGZOa3l2UkhMNHhKbUI?oc=5",
+        "pubTime": "2026-05-30 22:00",
+        "source": "news.google.com",
+        "titleZh": "川普希望「管理」中國貿易。企業看到了關稅開放。- 政治新聞",
+        "descZh": "川普要「管理」中國貿易。企業看到了關稅開放。&nbsp;&nbsp;Politico"
+      },
+      {
+        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "desc": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 19:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普開會對伊朗問題做出「最終決定」後未宣佈達成協議",
+        "descZh": "美國總統與他的顧問見面，在此之前，官員們證實美國與伊朗已達成協議的框架。"
+      },
+      {
+        "title": "Trump in 'excellent health' but should lose weight and exercise more, his doctor says",
+        "desc": "The White House releases the results of the US president's latest medical examination, which states he is \"fully fit\" to carry out his duties.",
+        "url": "https://www.bbc.com/news/articles/cx21v0ezv14o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 16:44",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "醫師表示，川普「健康狀況極佳」，但應減重並多做運動",
+        "descZh": "白宮公布美國總統最新的體檢結果，表示他「完全適合」執行職務。"
+      },
+      {
+        "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
+        "desc": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 09:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "前美國檢察長在國會調查中為處理 Epstein 檔案辯護",
+        "descZh": "美國最高檢察官被美國總統唐納德‧川普（Donald Trump）罷免約一個月後，美國最高檢察官的證詞出現了。"
+      },
+      {
+        "title": "US judge orders Trump's name be removed from Kennedy Center",
+        "desc": "The performing arts centre must also remain open despite Trump announcing a two-year closure for extensive renovations.",
+        "url": "https://www.bbc.com/news/articles/czr2je8lkvro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-05-30 06:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國法官下令從甘迺迪中心移除川普的名字",
+        "descZh": "儘管特朗普宣佈關閉兩年進行大規模翻新，表演藝術中心也必須繼續開放。"
+      },
+      {
+        "title": "Evaluating Trump’s Trade Policy on Trump’s Criteria - Council on Foreign Relations",
+        "desc": "Evaluating Trump’s Trade Policy on Trump’s Criteria&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3JQZDZOV1VHSXl2WkswRllNWVZuYnZVcGJfV0RwVFdfZDE1R0lkOEhpeDlqbE5Vb3RrLWFaN1pJamJGUzBwNlZoT2V6cmNDT0dhTlc0ZGVQNHUtUTJfMDhDQ0V6MjBqcFNydEVHcWItTkhNWVAwdk44RWtLdFNRNnNrQnU?oc=5",
+        "pubTime": "2026-05-30 05:44",
+        "source": "news.google.com",
+        "titleZh": "以特朗普的標準評估特朗普的貿易政策 - 外交關係委員會",
+        "descZh": "以特朗普的標準評估特朗普的貿易政策&nbsp;&nbsp;外交關係委員會"
+      }
+    ]
+  },
+  {
     "date": "20260531",
     "fetchTime": "2026-05-31 05:29",
     "count": 12,
@@ -3556,130 +3653,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普簽署法案，結束因移民執法而創下的停工紀錄",
         "descZh": "由於政客們為川普打擊移民的資金爭吵不休，停機導致美國各地機場一片混亂。"
-      },
-      {
-        "title": "Has the royal state visit saved the special relationship?",
-        "desc": "BBC's Sarah Smith looks at whether King Charles' charm offensive with President Trump made a difference to US-UK relations.",
-        "url": "https://www.bbc.com/news/videos/cgmpgkj2wz4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 05:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "皇室國事訪問拯救了特殊關係嗎？",
-        "descZh": "BBC 的 Sarah Smith 探討查爾斯國王對川普總統的魅力攻勢是否對美英關係有所影響。"
-      }
-    ]
-  },
-  {
-    "date": "20260502",
-    "fetchTime": "2026-05-02 05:11",
-    "count": 13,
-    "articles": [
-      {
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "desc": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 05:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普告訴國會停火意味著他不需要國會批准伊朗戰爭",
-        "descZh": "總統寫道，由於停火，敵對行動「已經終止」，他辯稱不需要國會授權。"
-      },
-      {
-        "title": "Trump says he will hike tariffs on EU cars to 25%",
-        "desc": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
-        "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 03:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示將對歐盟汽車加徵 25% 的關稅",
-        "descZh": "根據去年七月協商的協議，目前對從歐盟進入美國的商品徵收的關稅水平為 15%。"
-      },
-      {
-        "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-        "desc": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
-        "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 03:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在尋求批准開戰的最後期限臨近時，川普重複他對伊朗「不滿意」。",
-        "descZh": "美國總統川普週五表示，協議難以達成的部分原因是伊朗領導層「非常困惑」。"
-      },
-      {
-        "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - The Tribune-Democrat",
-        "desc": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal&nbsp;&nbsp;The Tribune-Democrat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORWFkcnZCVVgxejhXV2hkNlE0SGYzWVExMDVhSFJfUHFGVDJFOTEydFdueHdyd290WUlhYm84NjhFZ2RsVHEzUVZWdlpqbVBDeUZ1UTNmdF9TdXpBajZfLVE4d01HWlJmYXBadzhiOVpHR3BzTlU1RjRYWm5DVzZ6bDZPWVA3SHRwZVB3WUhxLUNhTUkwaE9XQnEwSkp4Y3Rrbk45am9xdnc0WTlnWWRFY0haZGpINzZsM3g5SW4yZnBfbnA0b2M4cU5td09RYlJkd19IT0hPWUVsclMwSHFOQWJ5cnQ?oc=5",
-        "pubTime": "2026-05-02 03:11",
-        "source": "news.google.com",
-        "titleZh": "川普表示將對歐盟汽車徵收25%關稅，指責歐盟不遵守貿易協定 - The Tribune-Democrat",
-        "descZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定&nbsp;&nbsp;The Tribune-Democrat"
-      },
-      {
-        "title": "No, Tariffs Are Not Strengthening the Economy - Tax Foundation",
-        "desc": "No, Tariffs Are Not Strengthening the Economy&nbsp;&nbsp;Tax Foundation",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XU3JYRWM2d3JwWFNnc0pVM0J1R21vXzYxbDJHSTdhSVREQ1RsNm9GbG13SExQSVdxVjM2SlBGSklaUnhzNURNcExtZy1Hek9LdmFfaDBTVVZCRmZFU3ZoXzV3OA?oc=5",
-        "pubTime": "2026-05-01 22:44",
-        "source": "news.google.com",
-        "titleZh": "不，關稅不會強化經濟 - 稅務基金會",
-        "descZh": "不，關稅不會強化經濟&nbsp;&nbsp;稅務基金會"
-      },
-      {
-        "title": "DW News. . Over the past year, there's been a shift in the EU's trade policy. The bloc's mega-deal with South America's Mercosur states kicks in on May 1, one of many deals the EU has closed since Trump's tariff bombshell in 2025. #DWBusiness #DWBusines - facebook.com",
-        "desc": "DW News. . Over the past year, there's been a shift in the EU's trade policy. The bloc's mega-deal with South America's Mercosur states kicks in on May 1, one of many deals the EU has closed since Tru",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUmw2LUNRQzdBOFBGUEZfUVQ2RXFnNkc3T05PZmlGVl8zbXNFcjZSSWtGRFhhNVVacUoxMERfLWpqNmlNeHNpWV9makl0OXNwdnJZQXJFMEdHWXhLTkZoMXdpelVZQnlnMFBnY3FfMUxNN2tWRUtTZjlxb3ljc1VXdXVvWlRER2FwenMyUW5aQ1c4NHJtYTdkTjdZZkVSalVhcFVtQ09GZFhwcEc1TFVmUFlJNE5qTnY5SmNOeXZzcVM3eHN4N1N0ZDJQTTVZa04zdTV0ZS0xcUwwRDdvU3lubjZB?oc=5",
-        "pubTime": "2026-05-01 21:50",
-        "source": "news.google.com",
-        "titleZh": "DW 新聞..過去一年，歐盟的貿易政策出現了轉變。該集團與南美洲南方共同市场（Mercosur）國家的大型交易將於5月1日啟動，這是自2025年特朗普發佈關稅重磅消息以來，歐盟完成的眾多交易之一。#DWBusiness #DWBusines - facebook.com",
-        "descZh": "DW 新聞..過去一年來，歐盟的貿易政策有所轉變。歐盟與南美洲南方共同市场（Mercosur）國家的大型交易將於 5 月 1 日開始生效，這是歐盟自 2011 年以來完成的眾多交易之一。"
-      },
-      {
-        "title": "The Monarchical Logic of Trump’s Tariffs - National Review",
-        "desc": "The Monarchical Logic of Trump’s Tariffs&nbsp;&nbsp;National Review",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDkwNlZYV0xPMklzRkxicmxINmxLT1c3UnJoQWVKZ0FxSkY3RzhmNEdLN1ZLN0E5ZTdPR3pWclA3MG5kcHpqbzAySzZsS0VlUW1hTU9TYmxsSFdGWDZPZFZaNFpkSlhmQVFWN2I0WUZwSEJqdGp1WFZqT1FvX205bjFiRnjSAYoBQVVfeXFMTnRZTW14VzY1WEdnZzktemFKaWFwNWNMVFNTcEN1VFc0Q05NV1E1eE9aTV9KU0tfM19Nak1qMi1TX0xkT1dHaGhEZkk2RGduVFJWX29jSUVLNkZRN2FWTlJMNXBDY2pIYTYyaFdBOVMta0FRZ2ZIV1h1NWl6VVNVeXVySUdvZEJYM0h3?oc=5",
-        "pubTime": "2026-05-01 21:15",
-        "source": "news.google.com",
-        "titleZh": "特朗普關稅的君主邏輯 - 國家評論",
-        "descZh": "特朗普關稅的君主邏輯&nbsp;&nbsp;國家評論"
-      },
-      {
-        "title": "From pickleball to protests: How a Trump visit is stirring up a Florida retirement community",
-        "desc": "Politics have become an increasingly thorny issue in the Villages, the world's largest retirement community.",
-        "url": "https://www.bbc.com/news/articles/cx21k3ln17ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 16:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "從撿球到抗議：川普來訪如何激起佛羅里達州退休社區的漣漪",
-        "descZh": "在全球最大的退休社區 Villages，政治已成為越來越棘手的問題。"
-      },
-      {
-        "title": "Trump to remove whisky tariffs after King's visit",
-        "desc": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-        "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 15:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國王訪問後川普將取消威士忌關稅",
-        "descZh": "美國總統表示，他將解除對蘇格蘭與肯塔基州在威士忌和波本威士忌方面合作的限制。"
-      },
-      {
-        "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
-        "desc": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
-        "url": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 10:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "新影片顯示川普晚宴槍手如何在四秒內通過安檢",
-        "descZh": "閉路電視顯示一名警官在嫌犯衝過時拔出槍械並開槍。"
-      },
-      {
-        "title": "Trump signs bill to end record shutdown over immigration enforcement",
-        "desc": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
-        "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 10:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署法案，結束因移民執法而創下的停工紀錄",
-        "descZh": "由於政客們為川普打擊移民的資金爭吵不休，停機導致美國各地機場一片混亂。"
-      },
-      {
-        "title": "King arrives in Bermuda after ending US trip with formal farewell to Trump",
-        "desc": "On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.",
-        "url": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 10:19",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國王與川普正式道別，結束美國之行後抵達百慕達",
-        "descZh": "在國事訪問的最後一天，這對皇室夫婦前往維吉尼亞州，以更非正式的方式體驗美國。"
       },
       {
         "title": "Has the royal state visit saved the special relationship?",
