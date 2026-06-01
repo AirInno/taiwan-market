@@ -1,5 +1,75 @@
 [
   {
+    "date": "20260602",
+    "fetchTime": "2026-06-02 06:39",
+    "count": 7,
+    "articles": [
+      {
+        "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+        "desc": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+        "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 05:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Bowen: 川普需要結束這場戰爭，但伊朗不會退縮",
+        "descZh": "BBC 的國際編輯寫道，在民意調查和海灣盟友的壓力下，白宮正在推動一項協議，但伊朗希望作出讓步。"
+      },
+      {
+        "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+        "desc": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
+        "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 05:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普成為美國 250 周年慶典的中心人物",
+        "descZh": "美國的獨立紀念日慶祝活動並不是一個團結的活動，而是正在成為另一個黨派的戰場。"
+      },
+      {
+        "title": "No, Trump's name hasn't been removed from the Kennedy Center",
+        "desc": "An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online.",
+        "url": "https://www.bbc.com/news/videos/c759pqn255zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 05:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "不，川普的名字並未從甘迺迪中心移除",
+        "descZh": "川普總統的名字被從大樓正面撕下的 AI 視訊已在網路上被數百萬人看到。"
+      },
+      {
+        "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+        "desc": "The justice department says it  \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
+        "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 05:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府將遵守停止 18 億美元「反武器化」基金的裁決",
+        "descZh": "司法部表示「強烈不同意」法院停止設立基金的決定。"
+      },
+      {
+        "title": "Hearing aids were spared from Trump's tariffs—but the industry is keeping a close eye on finances - medwatch.com",
+        "desc": "Hearing aids were spared from Trump's tariffs—but the industry is keeping a close eye on finances&nbsp;&nbsp;medwatch.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDM2JXNl91VmlvT3ZJTEJyZHlhV1hGNGN5R0JHYXRRVmRjaU9oUUxqZnRhWU1ObXVfY18xc1duNTJSdDI3ZG03cHlENVBUbFlHX2RsOVhFM0JPd2UzMGVZb0hfTkh4OXZmYkVPMg?oc=5",
+        "pubTime": "2026-06-01 21:26",
+        "source": "news.google.com",
+        "titleZh": "助聽器免受川普的關稅影響，但業界仍密切注意財務狀況 - medwatch.com",
+        "descZh": "助聽器免受特朗普的關稅影響--但業界正密切關注財政狀況&nbsp;&nbsp;medwatch.com"
+      },
+      {
+        "title": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped",
+        "desc": "Trump's former vice-president, who was targeted by rioters during the January 6 riots, says the fund that could potentially compensate them is a \"bad idea\".",
+        "url": "https://www.bbc.com/news/articles/ce8p7mg30dyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-01 04:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "彭斯稱川普的 「反武器化 」基金 「令人深惡痛絕」，並表示應予撤銷",
+        "descZh": "特朗普的前副總統在 1 月 6 日的騷亂中成為騷亂者的目標，他表示有可能補償他們的基金是個 「壞主意」。"
+      },
+      {
+        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
+        "desc": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
+        "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-01 01:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在藝術家退出美國 250 自由節後說：「取消吧",
+        "descZh": "川普建議，在大部分頭條人物退出與白宮有關的活動後，改為舉行「讓美國再次偉大」集會。"
+      }
+    ]
+  },
+  {
     "date": "20260601",
     "fetchTime": "2026-06-01 05:29",
     "count": 10,
@@ -3502,166 +3572,6 @@
         "source": "news.google.com",
         "titleZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定 - 華盛頓郵報",
         "descZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定&nbsp;&nbsp;華盛頓郵報"
-      }
-    ]
-  },
-  {
-    "date": "20260503",
-    "fetchTime": "2026-05-03 05:03",
-    "count": 17,
-    "articles": [
-      {
-        "title": "Spirit Airlines shutting down after rescue talks collapse",
-        "desc": "The airline had been in talks with the Trump administration about a $500m bailout.",
-        "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 02:47",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "精神航空在救援談判破裂後停飛",
-        "descZh": "該航空公司曾與川普政府商討 5 億美元的救助方案。"
-      },
-      {
-        "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-        "desc": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-        "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 00:35",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "德國表示美國撤軍「可預見」，北約要求澄清",
-        "descZh": "在美國，兩位資深共和黨人對川普總統撤出 5,000 軍隊的決定表示關注。"
-      },
-      {
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "desc": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 00:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普告訴國會停火意味著他不需要國會批准伊朗戰爭",
-        "descZh": "總統寫道，由於停火，敵對行動「已經終止」，他辯稱不需要國會授權。"
-      },
-      {
-        "title": "US tariff threat puts EU car exports back at centre of trade dispute - EU Today",
-        "desc": "US tariff threat puts EU car exports back at centre of trade dispute&nbsp;&nbsp;EU Today",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vVTJWMEJJU2JIVm11T3VHM05kNTlscGg3UFFnanlsVDZYa3JkbmZoaVplT2xIMmZrMWhxaEIyZ0xTUW9JYzFkS2s5TlQxSlJvaC1CNWdaSDNYQm1W?oc=5",
-        "pubTime": "2026-05-02 16:22",
-        "source": "news.google.com",
-        "titleZh": "美國的關稅威脅讓歐盟汽車出口重回貿易爭議的中心 - EU Today",
-        "descZh": "美國的關稅威脅讓歐盟汽車出口重回貿易爭議中心&nbsp;&nbsp;今日歐盟"
-      },
-      {
-        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
-        "desc": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
-        "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 10:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普聲稱其他總統藐視戰爭權力法記錄參差不齊",
-        "descZh": "布什和里根都贏得了戰爭授權，但奧巴馬和克林頓卻迴避了這一要求。"
-      },
-      {
-        "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - The Washington Post",
-        "desc": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUlPWDU2QnZaOEtsMGI5bVJueWgzU2doLUtZdXRBNHFDc09pZ1pkeW5vN1czLUNaZnl4UUhHdzR6RWY3TzJXZEJ6YVFnMFg1bXRPUGkxeV9vMlhYRWZtQzFPalFzRWh5Zzd6aVNmZHJvaWJadjVfT2dqQlkwaFV6bWVPRUQxVHNmb2paNExUZzRld0lvM2Y2cENkOXpSdzdQamY3a2N1dzlSSi0zdkpCbEYtSW94Y0lkQjdLNWFadFRnYnJLVWc?oc=5",
-        "pubTime": "2026-05-02 06:56",
-        "source": "news.google.com",
-        "titleZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定 - 華盛頓郵報",
-        "descZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定&nbsp;&nbsp;華盛頓郵報"
-      },
-      {
-        "title": "Who shot a Secret Service officer at the Trump press dinner?",
-        "desc": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
-        "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 05:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "誰在川普的記者晚宴上射殺特勤人員？",
-        "descZh": "法庭文件並未明確指控嫌犯射殺警員，即使官員表示這並非 「友軍射擊」。"
-      },
-      {
-        "title": "Trump says he will hike tariffs on EU cars to 25%",
-        "desc": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
-        "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 03:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示將對歐盟汽車加徵 25% 的關稅",
-        "descZh": "根據去年七月協商的協議，目前從歐盟進入美國的商品所徵收的關稅水平為 15%。"
-      },
-      {
-        "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-        "desc": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
-        "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 03:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在尋求批准開戰的最後期限臨近時，川普重複他對伊朗「不滿意」。",
-        "descZh": "美國總統川普週五表示，協議難以達成的部分原因是伊朗領導層「非常困惑」。"
-      },
-      {
-        "title": "No, Tariffs Are Not Strengthening the Economy - Tax Foundation",
-        "desc": "No, Tariffs Are Not Strengthening the Economy&nbsp;&nbsp;Tax Foundation",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XU3JYRWM2d3JwWFNnc0pVM0J1R21vXzYxbDJHSTdhSVREQ1RsNm9GbG13SExQSVdxVjM2SlBGSklaUnhzNURNcExtZy1Hek9LdmFfaDBTVVZCRmZFU3ZoXzV3OA?oc=5",
-        "pubTime": "2026-05-01 22:44",
-        "source": "news.google.com",
-        "titleZh": "不，關稅不會強化經濟 - 稅務基金會",
-        "descZh": "不，關稅不會強化經濟&nbsp;&nbsp;稅務基金會"
-      },
-      {
-        "title": "DW News. . Over the past year, there's been a shift in the EU's trade policy. The bloc's mega-deal with South America's Mercosur states kicks in on May 1, one of many deals the EU has closed since Trump's tariff bombshell in 2025. #DWBusiness #DWBusines - facebook.com",
-        "desc": "DW News. . Over the past year, there's been a shift in the EU's trade policy. The bloc's mega-deal with South America's Mercosur states kicks in on May 1, one of many deals the EU has closed since Tru",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUmw2LUNRQzdBOFBGUEZfUVQ2RXFnNkc3T05PZmlGVl8zbXNFcjZSSWtGRFhhNVVacUoxMERfLWpqNmlNeHNpWV9makl0OXNwdnJZQXJFMEdHWXhLTkZoMXdpelVZQnlnMFBnY3FfMUxNN2tWRUtTZjlxb3ljc1VXdXVvWlRER2FwenMyUW5aQ1c4NHJtYTdkTjdZZkVSalVhcFVtQ09GZFhwcEc1TFVmUFlJNE5qTnY5SmNOeXZzcVM3eHN4N1N0ZDJQTTVZa04zdTV0ZS0xcUwwRDdvU3lubjZB?oc=5",
-        "pubTime": "2026-05-01 21:50",
-        "source": "news.google.com",
-        "titleZh": "DW 新聞..過去一年，歐盟的貿易政策出現了轉變。該集團與南美洲南方共同市场（Mercosur）國家的大型交易將於5月1日啟動，這是自2025年特朗普發佈關稅重磅消息以來，歐盟完成的眾多交易之一。#DWBusiness #DWBusines - facebook.com",
-        "descZh": "DW 新聞..過去一年來，歐盟的貿易政策有所轉變。歐盟與南美洲南方共同市场（Mercosur）國家的大型交易將於 5 月 1 日開始，這是歐盟自 2011 年以來完成的眾多交易之一。"
-      },
-      {
-        "title": "The Monarchical Logic of Trump’s Tariffs - National Review",
-        "desc": "The Monarchical Logic of Trump’s Tariffs&nbsp;&nbsp;National Review",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDkwNlZYV0xPMklzRkxicmxINmxLT1c3UnJoQWVKZ0FxSkY3RzhmNEdLN1ZLN0E5ZTdPR3pWclA3MG5kcHpqbzAySzZsS0VlUW1hTU9TYmxsSFdGWDZPZFZaNFpkSlhmQVFWN2I0WUZwSEJqdGp1WFZqT1FvX205bjFiRnjSAYoBQVVfeXFMTnRZTW14VzY1WEdnZzktemFKaWFwNWNMVFNTcEN1VFc0Q05NV1E1eE9aTV9KU0tfM19Nak1qMi1TX0xkT1dHaGhEZkk2RGduVFJWX29jSUVLNkZRN2FWTlJMNXBDY2pIYTYyaFdBOVMta0FRZ2ZIV1h1NWl6VVNVeXVySUdvZEJYM0h3?oc=5",
-        "pubTime": "2026-05-01 21:15",
-        "source": "news.google.com",
-        "titleZh": "特朗普關稅的君主邏輯 - 國家評論",
-        "descZh": "特朗普關稅的君主邏輯&nbsp;&nbsp;國家評論"
-      },
-      {
-        "title": "From pickleball to protests: How a Trump visit is stirring up a Florida retirement community",
-        "desc": "Politics have become an increasingly thorny issue in the Villages, the world's largest retirement community.",
-        "url": "https://www.bbc.com/news/articles/cx21k3ln17ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 16:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "從撿球到抗議：特朗普訪美如何激起佛羅里達州退休社區的漣漪",
-        "descZh": "在全球最大的退休社區 Villages，政治已成為越來越棘手的問題。"
-      },
-      {
-        "title": "U.K. whiskey tariffs eased after Trump met with King Charles III - The Washington Post",
-        "desc": "U.K. whiskey tariffs eased after Trump met with King Charles III&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDRXVXk1TGhtNzhUSFRINVgwWU9hNUNCa0YxR0ZuNlV1NFhYQ2VNS1Bfb3owNW1FdlFWakJ6NWRKdGdDWGdUQUlNR1pLN1d5V1Y0cW1RSmtiOVc5Wm1OTnVObmQybXVYNU1ZVE12ZzRVY2xEVlNYNGdPUktZdmg4RDNBcmpTcnlpZTJvS3FVaw?oc=5",
-        "pubTime": "2026-05-01 11:02",
-        "source": "news.google.com",
-        "titleZh": "川普與英王查爾斯三世會面後，英國放寬威士忌關稅 - 華盛頓郵報",
-        "descZh": "川普與英王查理三世會面後，英國放寬威士忌關稅&nbsp;&nbsp;華盛頓郵報"
-      },
-      {
-        "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
-        "desc": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
-        "url": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 10:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "新影片顯示川普晚宴槍手如何在四秒內通過安檢",
-        "descZh": "閉路電視顯示一名警官在嫌犯衝過時拔出槍械並開槍。"
-      },
-      {
-        "title": "Trump signs bill to end record shutdown over immigration enforcement",
-        "desc": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
-        "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 10:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署法案，結束因移民執法而創下的停工紀錄",
-        "descZh": "由於政客們為川普打擊移民的資金爭吵不休，停機導致美國各地機場一片混亂。"
-      },
-      {
-        "title": "Has the royal state visit saved the special relationship?",
-        "desc": "BBC's Sarah Smith looks at whether King Charles' charm offensive with President Trump made a difference to US-UK relations.",
-        "url": "https://www.bbc.com/news/videos/cgmpgkj2wz4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-01 05:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "皇室國事訪問拯救了特殊關係嗎？",
-        "descZh": "BBC 的 Sarah Smith 探討查爾斯國王對川普總統的魅力攻勢是否對美英關係有所影響。"
       }
     ]
   }
