@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260603",
+    "fetchTime": "2026-06-03 06:31",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Trump taps housing official Bill Pulte to be US spymaster",
+        "desc": "The head of the Federal Housing Finance Agency, who pushed for criminal charges against Trump's foes, will step in as acting Director of National Intelligence.",
+        "url": "https://www.bbc.com/news/articles/cyv2dpyz3dpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-03 04:36",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普任命房屋官員 Bill Pulte 為美國間諜主管",
+        "descZh": "曾推動對川普的對手提出刑事指控的聯邦住房金融局主管，將出任代理國家情報局局長。"
+      },
+      {
+        "title": "Cutting tariffs on farm equipment is another admission that Trump's trade policies are increasing prices - Reason Magazine",
+        "desc": "Cutting tariffs on farm equipment is another admission that Trump's trade policies are increasing prices&nbsp;&nbsp;Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG1RSDRjR2pfeV8yN1dSLU1zR09vN1VWWXlCMVp2aEFQSHhSUWpxTnAzVlNMZkZRcmRTTVBuQnVkMlNjRDAtaTJiUUxEU29aajR3VVJLN1hqSXR1Q3RmdHNVOG0xaFY4Q1o2cmJfdzlPVG1NcFM2VHV1dmIyTWFBcnVueGlWc0tpTGRaUWtkN3h1ZnZ0WVNodW9hVFpqdlMya05pVEVaNXBFYkx0QlpBbFNxdXZsWDB3NS1VZk02bWt5RmZ3UHFhY1djX0c0OVk?oc=5",
+        "pubTime": "2026-06-03 04:20",
+        "source": "news.google.com",
+        "titleZh": "削減農業設備關稅再次承認特朗普的貿易政策正在提高價格 - Reason 雜誌",
+        "descZh": "削減農業設備的關稅是另一個承認川普的貿易政策正在提高價格&nbsp;&nbsp;Reason Magazine"
+      },
+      {
+        "title": "White House Correspondents' Dinner rescheduled after shooting incident",
+        "desc": "The annual dinner, which was held in April this year, was interrupted when a gunman stormed a security checkpoint.",
+        "url": "https://www.bbc.com/news/articles/clypky99g0vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-03 03:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "槍擊事件後白宮記者晚宴改期",
+        "descZh": "今年 4 月舉行的年度晚宴因一名槍手衝入安全檢查站而中斷。"
+      },
+      {
+        "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
+        "desc": "Republican Congressman Tom Kean Jr has not been seen for months but is expected to win Tuesday's election.",
+        "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-03 01:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "神秘失蹤的新澤西州國會議員獲得川普支持",
+        "descZh": "共和黨國會議員 Tom Kean Jr 已經幾個月沒有露面，但預計會在週二的選舉中勝出。"
+      },
+      {
+        "title": "After issuing more than $20 billion in tariff refunds, the Trump administration is now pursuing legal action to bring the process to a standstill - Fortune",
+        "desc": "After issuing more than $20 billion in tariff refunds, the Trump administration is now pursuing legal action to bring the process to a standstill&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGhBcWFaemhvWWVNWnI0ZHBEX0c4NmJrWi1nYUZCQmFHdEd3b2ticWk2cERpUGpMNkZzVWluRndTWkpRTld3VnAyQXlsS25LbXc2dzlvbHpadWJtei1WcE5aX29icGZKaW1vM3BySE1mbEJBQVRnUzd6Ukc0UWRJQ2tPMnFQSEwtT3dJYlkxb0JGX1FlbHUydC11djhuc0pUX2NIX01n?oc=5",
+        "pubTime": "2026-06-02 10:08",
+        "source": "news.google.com",
+        "titleZh": "在發出超過 200 億美元的關稅退款之後，川普政府現在正採取法律行動，讓退稅程序陷入停滯 - 財富",
+        "descZh": "在發出超過 200 億美元的關稅退款之後，特朗普政府現在正採取法律行動，使這一過程陷入停滯&nbsp;&nbsp;財富"
+      },
+      {
+        "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+        "desc": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
+        "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 06:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普成為美國 250 周年慶典的中心人物",
+        "descZh": "美國的獨立紀念日慶祝活動並不是一個團結的活動，而是正在成為另一個黨派的戰場。"
+      },
+      {
+        "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+        "desc": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+        "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 05:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Bowen: 川普需要結束這場戰爭，但伊朗不會退縮",
+        "descZh": "BBC 的國際編輯寫道，在民意調查和海灣盟友的壓力下，白宮正在推動一項協議，但伊朗希望作出讓步。"
+      },
+      {
+        "title": "No, Trump's name hasn't been removed from the Kennedy Center",
+        "desc": "An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online.",
+        "url": "https://www.bbc.com/news/videos/c759pqn255zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-02 05:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "不，川普的名字並未從甘迺迪中心移除",
+        "descZh": "川普總統的名字被從大樓正面撕下的 AI 視訊已在網路上被數百萬人看到。"
+      },
+      {
+        "title": "Hearing aids were spared from Trump's tariffs—but the industry is keeping a close eye on finances - medwatch.com",
+        "desc": "Hearing aids were spared from Trump's tariffs—but the industry is keeping a close eye on finances&nbsp;&nbsp;medwatch.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDM2JXNl91VmlvT3ZJTEJyZHlhV1hGNGN5R0JHYXRRVmRjaU9oUUxqZnRhWU1ObXVfY18xc1duNTJSdDI3ZG03cHlENVBUbFlHX2RsOVhFM0JPd2UzMGVZb0hfTkh4OXZmYkVPMg?oc=5",
+        "pubTime": "2026-06-01 21:26",
+        "source": "news.google.com",
+        "titleZh": "助聽器免受川普的關稅影響，但業界仍密切注意財務狀況 - medwatch.com",
+        "descZh": "助聽器免受特朗普的關稅影響--但業界正密切關注財政狀況&nbsp;&nbsp;medwatch.com"
+      }
+    ]
+  },
+  {
     "date": "20260602",
     "fetchTime": "2026-06-02 06:39",
     "count": 7,
@@ -3493,85 +3581,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "選民將以經濟來評斷川普 - 經濟表現如何？",
         "descZh": "唐納德‧川普（Donald Trump）在總統任期內能做多少事，很大程度上取決於生活成本。"
-      }
-    ]
-  },
-  {
-    "date": "20260504",
-    "fetchTime": "2026-05-04 05:06",
-    "count": 8,
-    "articles": [
-      {
-        "title": "Iran says US has responded to its latest peace proposal",
-        "desc": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-04 04:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "伊朗稱美國已對其最新和平提議作出回應",
-        "descZh": "美國尚未正式確認已作出回應。然而，據報道，特朗普告訴以色列的 Kan News 這是不可接受的。"
-      },
-      {
-        "title": "Who shot a Secret Service officer at the Trump press dinner?",
-        "desc": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
-        "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-04 01:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "誰在川普的記者晚宴上射殺特勤人員？",
-        "descZh": "法庭文件並未明確指控嫌犯射殺警員，即使官員表示這並非 「友軍射擊」。"
-      },
-      {
-        "title": "Voters will judge Trump on the economy - how is it doing?",
-        "desc": "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living.",
-        "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 17:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "選民將以經濟來評斷川普 - 經濟表現如何？",
-        "descZh": "唐納德‧川普（Donald Trump）在總統任期內能做多少事，很大程度上取決於生活成本。"
-      },
-      {
-        "title": "Spirit Airlines shutting down after rescue talks collapse",
-        "desc": "The airline had been in talks with the Trump administration about a $500m bailout.",
-        "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 07:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "精神航空在救援談判破裂後停飛",
-        "descZh": "該航空公司曾與川普政府商討 5 億美元的救助方案。"
-      },
-      {
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "desc": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 07:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普告訴國會停火意味著他不需要國會批准伊朗戰爭",
-        "descZh": "總統寫道，由於停火，敵對行動「已經終止」，他辯稱不需要國會授權。"
-      },
-      {
-        "title": "US tariff threat puts EU car exports back at centre of trade dispute - EU Today",
-        "desc": "US tariff threat puts EU car exports back at centre of trade dispute&nbsp;&nbsp;EU Today",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vVTJWMEJJU2JIVm11T3VHM05kNTlscGg3UFFnanlsVDZYa3JkbmZoaVplT2xIMmZrMWhxaEIyZ0xTUW9JYzFkS2s5TlQxSlJvaC1CNWdaSDNYQm1W?oc=5",
-        "pubTime": "2026-05-02 16:22",
-        "source": "news.google.com",
-        "titleZh": "美國的關稅威脅讓歐盟汽車出口重回貿易爭議的中心 - EU Today",
-        "descZh": "美國的關稅威脅讓歐盟汽車出口重回貿易爭議中心&nbsp;&nbsp;今日歐盟"
-      },
-      {
-        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
-        "desc": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
-        "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-02 10:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普聲稱其他總統藐視戰爭權力法記錄參差不齊",
-        "descZh": "布什和里根都贏得了戰爭授權，但奧巴馬和克林頓卻迴避了這一要求。"
-      },
-      {
-        "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - The Washington Post",
-        "desc": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUlPWDU2QnZaOEtsMGI5bVJueWgzU2doLUtZdXRBNHFDc09pZ1pkeW5vN1czLUNaZnl4UUhHdzR6RWY3TzJXZEJ6YVFnMFg1bXRPUGkxeV9vMlhYRWZtQzFPalFzRWh5Zzd6aVNmZHJvaWJadjVfT2dqQlkwaFV6bWVPRUQxVHNmb2paNExUZzRld0lvM2Y2cENkOXpSdzdQamY3a2N1dzlSSi0zdkpCbEYtSW94Y0lkQjdLNWFadFRnYnJLVWc?oc=5",
-        "pubTime": "2026-05-02 06:56",
-        "source": "news.google.com",
-        "titleZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定 - 華盛頓郵報",
-        "descZh": "川普表示將對來自歐盟的汽車徵收 25% 的關稅，指責歐盟不遵守貿易協定&nbsp;&nbsp;華盛頓郵報"
       }
     ]
   }
