@@ -1,5 +1,138 @@
 [
   {
+    "date": "20260604",
+    "fetchTime": "2026-06-04 06:34",
+    "count": 14,
+    "articles": [
+      {
+        "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+        "desc": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+        "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-04 04:28",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與內塔尼亞胡的「瘋狂」通話讓伊朗談判變得複雜",
+        "descZh": "以色列總理對摩擦的報導一笑置之，但他也考驗了其他美國總統的耐心。"
+      },
+      {
+        "title": "The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back",
+        "desc": "The $1.8bn fund would have paid people the Trump administration decided were unjustly and politically targeted.",
+        "url": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-04 03:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普「反武器化」基金的終結是共和黨人反擊的另一個跡象",
+        "descZh": "18 億美元的基金將支付給川普政府認為是不公正和政治目標的人。"
+      },
+      {
+        "title": "How is America celebrating its 250th birthday?",
+        "desc": "A UFC fight on the White House lawn is among a range of events planned to celebrate the 250th anniversary of America's founding.",
+        "url": "https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-04 02:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國如何慶祝其 250 歲生日？",
+        "descZh": "為慶祝美國建國 250 周年，白宮草坪上將舉辦一系列活動，其中包括 UFC 格鬥。"
+      },
+      {
+        "title": "Trump Administration Turns to a New Rationale to Justify Old Tariffs - The New York Times",
+        "desc": "Trump Administration Turns to a New Rationale to Justify Old Tariffs&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXdNLUtlQVpmdEZfY283WjIzMXNEZFdfeVlhMlpMbjJsWVBYVlNYb05mWUtnbVRkS2lSOThTbUhaeXB0ZGhmMnNHM0tSeTRsWFFZc242TlpQQ0d6Q2xzTEI1Q2pCelA3Y1ZZSlkwTk1yOVZDNzhMMlRDR0hLM3VCSGYzU0FLbVctSjFn?oc=5",
+        "pubTime": "2026-06-04 01:08",
+        "source": "news.google.com",
+        "titleZh": "川普政府以新理由為舊關稅辯護 - 紐約時報",
+        "descZh": "川普政府以新理由為舊關稅辯護&nbsp;&nbsp;紐約時報"
+      },
+      {
+        "title": "Trump Begins Rebuilding His Tariff Wall, Citing Forced Labor - Yahoo Finance",
+        "desc": "Trump Begins Rebuilding His Tariff Wall, Citing Forced Labor&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDVhTnlad01aUVVWendOd25obHFhVWhmWEpFaVEtLUF0dFFwWW5vbzNsenp0OEN1MnYxdVRoNHQ4M2wtQmM3Z2ZJaWRxcmh2Q0prS3dHZXNrMlV0akhySURUWDJZNHhxNDJKR3Q3Y3hrMFBzd19tbU5xWFdjVVlvbDFMU3BKVm1JVU1tY0lSYmh5WnhkaVQ5X29IRQ?oc=5",
+        "pubTime": "2026-06-03 21:58",
+        "source": "news.google.com",
+        "titleZh": "川普以強迫勞動為由，開始重建關稅牆 - Yahoo Finance",
+        "descZh": "川普以強迫勞動為由，開始重建關稅牆&nbsp;&nbsp;雅虎財經"
+      },
+      {
+        "title": "Trump-backed candidate in Iowa loses primary",
+        "desc": "Randy Feenstra's defeat could prove to be a case of the president's political instincts being off.",
+        "url": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-03 21:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普支持的候選人在愛荷華州初選落敗",
+        "descZh": "Randy Feenstra 的失敗可能證明總統的政治直覺失準。"
+      },
+      {
+        "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’ - The Guardian",
+        "desc": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRrRTdrMG85bWE0cHRmeWltMlczMF9ybWE2Q0E1NjlhYjBrQm5USHFOZm5IU0ZrSW52amw3REJ1V1NQci1nNmNNNl84eVk5emx2eHlPSHZGVjc1ZGRfZENTWGJaTXZCZC1YTGMwYndwaHNUWHFnU01RR1Z3NWtSSUtfOThSeEJia1J2R2w1Q3lNSXVGQlpiZnNjZ3R6LXgz?oc=5",
+        "pubTime": "2026-06-03 18:19",
+        "source": "news.google.com",
+        "titleZh": "川普因「強迫勞工」威脅對包括英國和加拿大在內的 60 個貿易夥伴徵收關稅 - 衛報",
+        "descZh": "川普因「強迫勞工」威脅對包括英國和加拿大在內的 60 個貿易夥伴徵收關稅&nbsp;&nbsp;衛報"
+      },
+      {
+        "title": "Trump’s 12.5% additional tariffs move under Section 301: What does it mean for India & trade deal talks? - The Times of India",
+        "desc": "Trump’s 12.5% additional tariffs move under Section 301: What does it mean for India & trade deal talks?&nbsp;&nbsp;The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUHRRVVFvNHNQMXpuNjFJTmpfV0hOTVVOWWJTLVVsSGExME5SQ2wtdGUxYzB2LXRZLWYzTGlzd255SERnLXJRRFBRejVibVVyTUZnZEVqR3lBZEZTZ3FueXlZSmtzV2hrb1haeWI3RVkzRFd0R0dHTVJ4cXRNTGdadkV1VFRBMlRjMTZwcllBQkQxaWtzWTJITWdFVUNGYWJKWDdmZEh2RHlGSDdrc1hDbzktNjZnTHhHYVItRTNacVVrRXBYeEJfblN2OWt2b3NqOU9WaUVhdFpIakdMclVMalNHYm9ydDdWLUNXaGNzWGtucTNlRm5aTkxGdFpOd2VJQVYxUEdSYmM3emljT2tnNVBB0gGXAkFVX3lxTE1mSlAxcUZZMDZRTlBNNThXX1dUU0dOaFBlWjRBZDh3bF9oQnNJLUNFTTMyZzB0UDd4cnh6SzdpZ0ljVmRBN1FMeWxJV1RYdmRIV0E0RHUyVzlxbFdoYnV5TW9Rb2YzYk1hVFVaNVZvVXA4NXNPbFNDcFNLR19hZUN6QzRTLWItbGJQQzlheGk3eEhDdkliU0lCMzYxREU0czZxSTN1RTFxTzNxZXdNYU96a0lvUVV4Ujl5SXZ0SUE5aEhObG9nMl9zMWxQTnlDbkcxWXNjcDBmbVdjSHk3QnlNdkNFNF9DN2VYY0htTG1hOE1TazVKLVlaZTRNZXo4bHpoaW5Sa1F2dVUyX2Z4Yzl1ckk3ekpBTQ?oc=5",
+        "pubTime": "2026-06-03 17:33",
+        "source": "news.google.com",
+        "titleZh": "川普在 301 條款下加征 12.5% 額外關稅的舉動：對印度與貿易談判而言意味著什麼？- 印度時報",
+        "descZh": "特朗普根據 301 條款加徵 12.5% 額外關稅的舉動：對印度和貿易談判意味著什麼？"
+      },
+      {
+        "title": "US announces new tariffs over forced labour concerns - BBC",
+        "desc": "US announces new tariffs over forced labour concerns&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MN2pobzR4YUZJRjNyZlhtc0g2M3o5QmdCeF9Id291c3h0blBSWkdMdEZXZ29ObnJfbjEwS05pbGhlMHNoaVYzUDRYWUpfLXhhSlBkaFFKaWR3YnFV?oc=5",
+        "pubTime": "2026-06-03 16:38",
+        "source": "news.google.com",
+        "titleZh": "美國因強迫勞工問題宣佈新關稅 - BBC",
+        "descZh": "美國因強迫勞工問題宣佈新關稅&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Mysteriously missing congressman wins primary after Trump endorsement",
+        "desc": "Republican lawmaker Tom Kean Jr has not been seen in Washington or his New Jersey district for several months.",
+        "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-03 10:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "神秘失蹤的國會議員在川普背書後贏得初選",
+        "descZh": "共和黨議員 Tom Kean Jr 已經有好幾個月沒有在華盛頓或他的新澤西州選區露面了。"
+      },
+      {
+        "title": "USTR points to Korea's steel industry as he defends Trump's tariff policy - The Korea Times",
+        "desc": "USTR points to Korea's steel industry as he defends Trump's tariff policy&nbsp;&nbsp;The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVRIank1X1RBNk8zTWN2T2R6X0RabU5oUHpWNmtqNlZBMnE5UkdpMmtfXzQ5ZXdJaC03Y2I2bHNWeUVGSV90Wm1sLUhaV1ZQalB6ZVZMMWNYWnBCOGJhN0g2TTBkOG9WaVpsRU5KYmN4YlFEUXhrM0FQV09QZW1hV1N4cUMzMnlwaEVscm9aUzgzNm5uM0FtTVVMOWIyZ3JOQ01HT2ZZeC01OXpuYWNjZ3YxMmlNUdIBuwFBVV95cUxOZUowXzVDN1dKd29haTZNcW13X0h2ZDJ3YWppbDY5YUlMVTlJakJ4ckZEVjl6dlctQ0U5SEdOVXh5T1hJem1NZUl3dm1OSXQtMEZ4bHFMYkRIQVhJVi0xNDFwVjlwaEdOUVhuT0tvZGlRUzNfbUZmUFU3T2VWMlVkQVNhS1daQ21iUXQtNzVlZHBpZ3FFc2M0MFNiWEJUWC1KWUFqYlJISGhodjRNTklaRzhIYVozZEhPMjc0?oc=5",
+        "pubTime": "2026-06-03 06:48",
+        "source": "news.google.com",
+        "titleZh": "美國貿易代表在為特朗普的關稅政策辯護時指出韓國的鋼鐵產業 - 韓國時報",
+        "descZh": "美國貿易代表在為特朗普的關稅政策辯護時指出韓國的鋼鐵產業&nbsp;&nbsp;韓國時報"
+      },
+      {
+        "title": "Cutting tariffs on farm equipment is another admission that Trump's trade policies are increasing prices - Reason Magazine",
+        "desc": "Cutting tariffs on farm equipment is another admission that Trump's trade policies are increasing prices&nbsp;&nbsp;Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG1RSDRjR2pfeV8yN1dSLU1zR09vN1VWWXlCMVp2aEFQSHhSUWpxTnAzVlNMZkZRcmRTTVBuQnVkMlNjRDAtaTJiUUxEU29aajR3VVJLN1hqSXR1Q3RmdHNVOG0xaFY4Q1o2cmJfdzlPVG1NcFM2VHV1dmIyTWFBcnVueGlWc0tpTGRaUWtkN3h1ZnZ0WVNodW9hVFpqdlMya05pVEVaNXBFYkx0QlpBbFNxdXZsWDB3NS1VZk02bWt5RmZ3UHFhY1djX0c0OVk?oc=5",
+        "pubTime": "2026-06-03 04:20",
+        "source": "news.google.com",
+        "titleZh": "削減農業設備關稅再次承認特朗普的貿易政策正在提高價格 - Reason 雜誌",
+        "descZh": "削減農業設備的關稅是另一個承認川普的貿易政策正在提高價格&nbsp;&nbsp;Reason Magazine"
+      },
+      {
+        "title": "US targets Brazil with new tariffs over trade practices - Al Jazeera",
+        "desc": "US targets Brazil with new tariffs over trade practices&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1dKdFVWWExmNEJLU05vdGxDS2Jrb0ZzV3Q1OHN1NXB3MFhpUlF5b1Mxakx4NHE5eFRMbi1WaWNpSjVLVHVxa3pJY0xUbUVfdjBMcGdfU283emhJdHBhUWFkR1Z0Z0tCSnB1RUZ2V245Vzk0cDBDZDlzSVNTLVo1M240dmhPV3liMHZJRzZDel9lb2ZaenVYSFVuSFFseEHSAaQBQVVfeXFMT09jdnhwWDhqWXAwcU00TGJoMWlQNFVwTDVGeExsZnZUZFNTOUh0M0loQmJpY2xfamlVSWJVeDRCbG1vYm9FM2VWOEcwTzhGV1luNHRvY0NIanFfMmxJeTdaNzN4SnJVc3hvME1vVlNkUXA2ejR1R29QTW5Dam1JdjlNak1HRFNmOEUySFB4Ul9qTlFVTlJVcHpwaVpyZE9MaTlRNWY?oc=5",
+        "pubTime": "2026-06-03 01:08",
+        "source": "news.google.com",
+        "titleZh": "美國針對巴西的貿易行為徵收新關稅 - Al Jazeera",
+        "descZh": "美國針對巴西的貿易行為徵收新關稅&nbsp;&nbsp;Al Jazeera"
+      },
+      {
+        "title": "'Not normal business': Judge orders Trump officials to explain tariff refund holdup - Yahoo Finance",
+        "desc": "'Not normal business': Judge orders Trump officials to explain tariff refund holdup&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR3p0Z1JBR1lMUzBtalc1R2xNeWFqVkdPZDJIZmlXY1l1ek00TzF5OG1kQW9TSmtfY0duRjlGc1Bsdkd0ZUJoYnBuLThTckoycE52b2dlYmdJMGp5N3lEc1FKLUE4YkV2d1FQVUltZGVHUndJV1BvdG1kS2twYUhZSDZiWUxfM3RCM0tSdk9pYnlXMFdDMVZyeDZKaEpTQjNqYjd0NXhjU05xNUk4RDltRTJ1MXBscU52WE5RRXVMSDJHOERjRmhyN18xaE9hRlNqU3FCdTlSMVFIY0hi?oc=5",
+        "pubTime": "2026-06-03 00:11",
+        "source": "news.google.com",
+        "titleZh": "非正常業務」：法官命令川普官員解釋關稅退還擱置 - Yahoo Finance",
+        "descZh": "非正常業務」：法官命令川普官員解釋關稅退還擱置&nbsp;&nbsp;雅虎財經"
+      }
+    ]
+  },
+  {
     "date": "20260603",
     "fetchTime": "2026-06-03 06:31",
     "count": 9,
@@ -3529,58 +3662,6 @@
         "source": "news.google.com",
         "titleZh": "一切照旧\"--但与特朗普达成贸易协议的意义何在？- 歐盟觀察員",
         "descZh": "與特朗普達成貿易協議的意義何在？"
-      }
-    ]
-  },
-  {
-    "date": "20260505",
-    "fetchTime": "2026-05-05 05:34",
-    "count": 5,
-    "articles": [
-      {
-        "title": "‘Nothing changes’ — but what’s the point of a trade deal with Trump? - EUobserver",
-        "desc": "‘Nothing changes’ — but what’s the point of a trade deal with Trump?&nbsp;&nbsp;EUobserver",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZZQmVWZjFvU3E2c1FXRXJMSklBQ01iNmc5UGwybzc5S242blJlVmgzNTlWSGpuTFoyRTBXWVFJbkNmaVVHRmZKeDVaZ0R1a05WYk15NjdhY2RJSjQ4N2RkcUc1OFBfWk1tRzdKbTJuMjVsUjY0eHI4Qnhwei1TV3lLaDB2VFB3ZDBNdS1EOTJZYm5RazY1WA?oc=5",
-        "pubTime": "2026-05-05 02:00",
-        "source": "news.google.com",
-        "titleZh": "一切照旧\"--但与特朗普达成贸易协议的意义何在？- 歐盟觀察員",
-        "descZh": "與特朗普達成貿易協議的意義何在？"
-      },
-      {
-        "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves - The New York Times",
-        "desc": "China Seeks an Advantage With Both Trump and Iran as War Evolves&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCSHVhTllvd0t2MXpwbEllTWpvbjJoOUpYcVZOcWREa1BRZTBiMmNTbFdWNnpmVUppUWFiY1BpWjMzRnZqQ1JUTnJtU1NtTmp1eGNGQU9ycmp2OHFzZklKWTk4Uzdnb290dWItNnVubnFVQnhEOGY1M20xQmw?oc=5",
-        "pubTime": "2026-05-04 06:30",
-        "source": "news.google.com",
-        "titleZh": "中國在戰爭演變中尋求與特朗普和伊朗雙方的優勢 - 紐約時報",
-        "descZh": "隨著戰爭的發展，中國尋求與特朗普和伊朗的優勢&nbsp;&nbsp;紐約時報"
-      },
-      {
-        "title": "Iran says US has responded to its latest peace proposal",
-        "desc": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-04 05:28",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "伊朗稱美國已對其最新和平提議作出回應",
-        "descZh": "美國尚未正式確認已作出回應。然而，據報道，特朗普告訴以色列的 Kan News 這是不可接受的。"
-      },
-      {
-        "title": "Who shot a Secret Service officer at the Trump press dinner?",
-        "desc": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
-        "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-04 01:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "誰在川普的記者晚宴上射殺特勤人員？",
-        "descZh": "法庭文件並未明確指控嫌犯射殺警員，即使官員表示這並非 「友軍射擊」。"
-      },
-      {
-        "title": "Voters will judge Trump on the economy - how is it doing?",
-        "desc": "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living.",
-        "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-03 17:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "選民將以經濟來評斷川普 - 經濟表現如何？",
-        "descZh": "唐納德‧川普（Donald Trump）在總統任期內能做多少事，很大程度上取決於生活成本。"
       }
     ]
   }
