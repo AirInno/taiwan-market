@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260606",
+    "fetchTime": "2026-06-06 05:51",
+    "count": 12,
+    "articles": [
+      {
+        "title": "US Senate approves $70bn for Trump immigration agencies",
+        "desc": "The package to fund agencies including ICE until the end of Trump's term had face Democratic opposition over immigration agents killing two US citizens.",
+        "url": "https://www.bbc.com/news/articles/c4g4g3zxp79o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-05 23:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國參議院批准撥款700億美元予川普政府的移民機構",
+        "descZh": "這項旨在為包括移民及海關執法局（ICE）在內的各機構提供資金直至川普任期結束的法案，因移民執法人員射殺兩名美國公民一事而遭到民主黨的反對。"
+      },
+      {
+        "title": "Trump Tariff Plan on Forced Labor Faces Doubts Over Effectiveness - Modern Diplomacy",
+        "desc": "Trump Tariff Plan on Forced Labor Faces Doubts Over Effectiveness&nbsp;&nbsp;Modern Diplomacy",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3JMYktkY0F0QV9pVmhHSHNUMFZNdjlyb0hiREgwOS1rVGE0Z3dFV3BiN280OEN2M1NOTHg5WW5qNXY2cHVLSlBMTlRieW94RUhFUElvcXBhRS1IQmF5WU1teVF5bXB2WElodDlPdlVzZHlCazRjWVJ2WUpDcjNTUHNUSDZLOGZLei1iZDFUdWQzVzVmT1dsb3BObFU2NUM0UFJWV1VwUQ?oc=5",
+        "pubTime": "2026-06-05 14:41",
+        "source": "news.google.com",
+        "titleZh": "川普針對強迫勞動的關稅計畫成效備受質疑 - Modern Diplomacy",
+        "descZh": "川普針對強迫勞動的關稅計畫成效備受質疑&nbsp;&nbsp;Modern Diplomacy"
+      },
+      {
+        "title": "Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC",
+        "desc": "Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend'&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5",
+        "pubTime": "2026-06-05 14:03",
+        "source": "news.google.com",
+        "titleZh": "川普對與印度的貿易協議充滿信心，稱納倫德拉·莫迪為「摯友」——BBC",
+        "descZh": "川普對與印度的貿易協議充滿信心，稱納倫德拉·莫迪為「摯友」&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Trump cancels concerts for America's 250th birthday - but how else is it celebrating?",
+        "desc": "A UFC fight on the White House lawn is among a range of events planned to celebrate the 250th anniversary of America's founding.",
+        "url": "https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-05 08:19",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普取消美國建國250週年慶祝演唱會——但其他慶祝活動又是如何進行的？",
+        "descZh": "在白宮草坪上舉行一場UFC格鬥賽，是為慶祝美國建國250週年而規劃的一系列活動之一。"
+      },
+      {
+        "title": "Trump announces $700m coal investment using wartime powers",
+        "desc": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
+        "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-05 08:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普動用戰時權力，宣布投入7億美元投資煤炭產業",
+        "descZh": "隨著伊朗戰爭推高美國民眾的能源成本，總統正將資金投入煤炭產業。"
+      },
+      {
+        "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
+        "desc": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
+        "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-05 07:53",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的白宮舞廳計畫如何在一年內規模與成本翻倍",
+        "descZh": "BBC Verify 探討了白宮近數十年來最大的變革，在過去一年中是如何演變的。"
+      },
+      {
+        "title": "EU exports to US collapse 30% in first quarter as Trump tariffs reshape transatlantic trade - Crypto Briefing",
+        "desc": "EU exports to US collapse 30% in first quarter as Trump tariffs reshape transatlantic trade&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3LVBoeXZNZmpoOFFTSkg3d3JQSHF0MU04UE0wcnlBZllwWnFLUXh0Z0ZDNkUzYUlYU0J5VDBuVk5wRTFkQWRMWHJNaERoazJsNVVycjVKTkxnaEVEM1A5SlhuTi1vZzQ2QXNkZQ?oc=5",
+        "pubTime": "2026-06-05 07:35",
+        "source": "news.google.com",
+        "titleZh": "受川普關稅影響，跨大西洋貿易格局重塑，歐盟第一季對美出口暴跌 30% - Crypto Briefing",
+        "descZh": "受川普關稅影響，跨大西洋貿易格局重塑，歐盟第一季對美出口暴跌 30%&nbsp;&nbsp;Crypto Briefing"
+      },
+      {
+        "title": "What to know about Trump's sweeping new tariff proposal - ABC News - Breaking News, Latest News and Videos",
+        "desc": "What to know about Trump's sweeping new tariff proposal&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbS1Ca2RMOFVVTUFHWXo2aXRQT2NPekxJM1pGN2FMODhCQzZsVUxlYjJtZFJxeGRYNmxtdWtDV2llN0Fpb3RDR2xqZkpwN1lGMzYxMXIzb0JqUXVYTlpQa05CbE9PLVFmZVVYWGZLV1BFSExDRTdRbXBqaEx4NnlGMndNSDBaWVBsLXpZ0gGQAUFVX3lxTE5HMVVxbjNGZEVnOGxXTm1SUUZ4dDk5YjVNTVA2bUdQTlMzVmZEa1dsUFBSVFVaQUlUcWpGSUpSZFhVcVMtSTFjNHhRRXlrOUFaUl9vZm5ndnBuVUpXWXdQT1NRU21LeFFMVWZnYk1mcFhRVkhJdE9kUG9VNV9ORFQzSlR3ZkdZdVhIalVDbkY3Qg?oc=5",
+        "pubTime": "2026-06-05 05:08",
+        "source": "news.google.com",
+        "titleZh": "關於川普全面性新關稅提案的重點須知 - ABC新聞 - 突發新聞、最新消息與影片",
+        "descZh": "關於川普全面性新關稅提案的重點須知&nbsp;&nbsp;ABC新聞 - 突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Fishermen face threat of 12.5% trump tariff - Tribune242",
+        "desc": "Fishermen face threat of 12.5% trump tariff&nbsp;&nbsp;Tribune242",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHZkRVh4MEVTYVdxUUozNVVvN1YweXYxTFBLd2lpbmRfdlpMV1VjTWdacWtEbW9sXzgtdHB5b1J6OUlIMDRFeEpPWjh4YWpndU1wMXNXSHNlMlA4V2RyTXlhQkRUdGNQV2dIdE5pV0JGQWhTZGxtb3dFVFFaMjFVTnUwT3N6VFg3Sm1PSE8xZw?oc=5",
+        "pubTime": "2026-06-05 03:50",
+        "source": "news.google.com",
+        "titleZh": "漁民面臨12.5%的川普關稅威脅 - Tribune242",
+        "descZh": "漁民面臨12.5%的川普關稅威脅&nbsp;&nbsp;Tribune242"
+      },
+      {
+        "title": "Trump executive order directs customs to crack down on tariff cheats - The Business Times",
+        "desc": "Trump executive order directs customs to crack down on tariff cheats&nbsp;&nbsp;The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGpTUlhlU2dUN05aeldlSm5ZQjZYbnFjNEluY2ItYldjOGxrcDJ2X0NYeFdQX2ZJeEFmNVU1MnhsRUR5Tm9oZDlPRXQwQzBjTFRubE5kUWdkc1JnYVBlZldKOFJXY3RLZ0lkdDVfZDF2UGhNX3NqNHBNV19KbVd3bmNRWnpmd0JFZmNxbWhZelNQZllIbWFyV3BqUHM0MlpSaXRrdk9pMFZMNGVTdEE?oc=5",
+        "pubTime": "2026-06-04 13:24",
+        "source": "news.google.com",
+        "titleZh": "川普簽署行政命令，指示海關嚴打關稅逃稅行為 - 《商業時報》",
+        "descZh": "川普簽署行政命令，指示海關嚴打關稅逃稅行為&nbsp;&nbsp;《商業時報》"
+      },
+      {
+        "title": "Trump tariffs and Singapore trade impact - The Straits Times",
+        "desc": "Trump tariffs and Singapore trade impact&nbsp;&nbsp;The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXBpLXZqTElZbXRnaGdVbXdpeHRaaGt5SHBwUnh0bTlfLXJQb3hQSzljajBhYnJJSmswMVA4bXh2eDJENDM3M1FGc3dVRElsdjBOTjV6cE1uX2IwejdVVWh4MlJ3N0NiRmJjZ3VhOEdCM0MtbTZjWFdna3lEUnFDVkZJTGhCVEpkT3h5WG8wSWNYVGhXSXA0S01yYXdzNzBhTUpxdFdWcnVJdEpmNjBheFhfU2NjWjdJV1IxdFByYmZ0Q0YweUE?oc=5",
+        "pubTime": "2026-06-04 12:32",
+        "source": "news.google.com",
+        "titleZh": "川普關稅與新加坡貿易影響——《海峽時報》",
+        "descZh": "川普關稅與新加坡貿易的影響&nbsp;&nbsp;《海峽時報》"
+      },
+      {
+        "title": "Trump Signs Order Directing Customs Crackdown Amid Trade Gaps - Bloomberg.com",
+        "desc": "Trump Signs Order Directing Customs Crackdown Amid Trade Gaps&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX01Wd2l3Um1ocWdLOUJ2SFBNbVlPNGJPMHdJTjdUYjV2SWcxbEozN09ndDhfdDctWmFFMFJTYVJkWEhqSEg3TURud3F0eFVlUTl5SHhZeG9DRExETnVSNDlDMjNMd1VBUG5aN2d3eUEyUlV0SXhPMmZZd2ZRMWxVa2phd3Nzc21GanN3R0wtRG42QVppNmpEZFhqQ0Mzek5GYlBGLVJlR2k4TXM3U2RGb3dB?oc=5",
+        "pubTime": "2026-06-04 08:03",
+        "source": "news.google.com",
+        "titleZh": "川普簽署行政命令 指示海關加強執法 因應貿易逆差 - Bloomberg.com",
+        "descZh": "川普簽署行政命令，指示海關針對貿易逆差展開嚴打&nbsp;&nbsp;Bloomberg.com"
+      }
+    ]
+  },
+  {
     "date": "20260605",
     "fetchTime": "2026-06-05 05:57",
     "count": 18,
@@ -3664,103 +3779,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "特朗普在霍爾木玆海峽的 「自由計劃 」是什麼？",
         "descZh": "美國總統表示，行動自週一開始後已暫停。"
-      }
-    ]
-  },
-  {
-    "date": "20260507",
-    "fetchTime": "2026-05-07 05:35",
-    "count": 10,
-    "articles": [
-      {
-        "title": "Brazil President Lula to discuss economy and security with Trump at White House",
-        "desc": "The two leaders have a strained relationship and will be closely watched for signs of a breakthrough over tariffs and other issues.",
-        "url": "https://www.bbc.com/news/articles/c8d84g963eeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-07 04:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "巴西總統盧拉將在白宮與川普討論經濟與安全問題",
-        "descZh": "這兩位領導人關係緊張，人們將密切關注他們在關稅和其他問題上是否有突破的跡象。"
-      },
-      {
-        "title": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war - The Tribune-Democrat",
-        "desc": "U.S. fires on Iranian oil tanker as Trump pressures Tehran for deal to end war&nbsp;&nbsp;The Tribune-Democrat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTkVIN2pZSFFTNW1kbi04SHd6enhCb2JldTBSSmEyZ3B0ZnF5d0xEOU1VMTcwM0RpOFJBTEp1bVN5c2pTSXBub1A5eFFRTjBpdGtFTUxwTFFadkJRUENweExKZzlKc0dza2lSSzRXdTlhLWlCNldqczlFUXZOWHZEb0lHWmdJUjktZ3hMUC1IN3VQcmdleDAtT19lWDRiR2l5TlVtRnFWTFpXamxTODR2dDhLZXFlWnBzNVFjYVl5OXg2NWlWQ1VOZi1yRnVHQXR0QlFBbjdNR1RyN0EwdGJPV1puRkw2NGc?oc=5",
-        "pubTime": "2026-05-07 02:42",
-        "source": "news.google.com",
-        "titleZh": "美國向伊朗油輪開火，川普施壓德黑蘭達成協議結束戰爭 - The Tribune-Democrat",
-        "descZh": "美國向伊朗油輪開火，川普向德黑蘭施壓要求達成結束戰爭的協議&nbsp;&nbsp;The Tribune-Democrat"
-      },
-      {
-        "title": "Trump's hopes for an Iran peace deal come with caveats",
-        "desc": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
-        "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-07 01:32",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普對伊朗和平協議抱有希望，但也有注意事項",
-        "descZh": "有跡象顯示結束戰爭的新動力，但川普本人也注入了一份謹慎。"
-      },
-      {
-        "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-        "desc": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
-        "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-06 19:04",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "Vivek Ramaswamy 贏得共和黨俄亥俄州州長提名",
-        "descZh": "特朗普的堅定盟友在美國中西部地區舉行的一系列密切關注的初選中脫穎而出。"
-      },
-      {
-        "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-        "desc": "The US president said the operation has been paused after starting on Monday.",
-        "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-06 10:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普在霍爾木玆海峽的 「自由計劃 」是什麼？",
-        "descZh": "美國總統表示，行動自週一開始後已暫停。"
-      },
-      {
-        "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-        "desc": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-        "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-06 10:18",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示美國將暫停引導船隻通過霍爾木玆海峽的行動",
-        "descZh": "美國總統表示，由於在與伊朗達成協議方面已取得進展，週一開始的 「自由計劃 」將停止。"
-      },
-      {
-        "title": "Man charged with attempted Trump assassination indicted for assaulting Secret Service officer",
-        "desc": "Cole Tomas Allen is now facing charges from a grand jury indictment, which supersedes his previous charges.",
-        "url": "https://www.bbc.com/news/articles/clyp5rr0lm6o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-06 06:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "被控企圖暗殺特朗普的男子因襲擊特勤局人員被起訴",
-        "descZh": "Cole Tomas Allen 現在面臨的指控來自大陪審團的起訴書，該起訴書取代了他之前的指控。"
-      },
-      {
-        "title": "Mission is to preach peace, says Pope in response to Trump attacks",
-        "desc": "Trump lashed out at the pope for condemning the conflict in the Middle East, as his secretary of state heads to the Vatican.",
-        "url": "https://www.bbc.com/news/articles/c2023gne5p1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-06 04:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "教宗回應川普攻擊時表示，教宗的使命是宣揚和平",
-        "descZh": "特朗普抨擊教皇譴責中東衝突，他的國務卿正前往梵蒂岡。"
-      },
-      {
-        "title": "Key EU clash looms over Trump trade deal - politico.eu",
-        "desc": "Key EU clash looms over Trump trade deal&nbsp;&nbsp;politico.eu",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUdNWHFpbWFZVFFGQmxwcll2U081UDJqWlVqQXBJTmtiRXZNLU93X2RNeGVCcjRXMXpRTzhkVW42TzFwX1JodFBkWlFnSjRrbmk3RzE3em5IcVpoV1NOaVc5MVNuVGcyVUp4X1RoZXpNbDEyMlhMZFhUdkZ1WTNtUA?oc=5",
-        "pubTime": "2026-05-06 01:28",
-        "source": "news.google.com",
-        "titleZh": "特朗普貿易協定的關鍵歐盟衝突迫在眉睫 - politico.eu",
-        "descZh": "特朗普貿易協定的關鍵歐盟衝突迫在眉睫&nbsp;&nbsp;politico.eu"
-      },
-      {
-        "title": "Trump’s Southeast Asia Trade Deals Are in Limbo - Foreign Policy",
-        "desc": "Trump’s Southeast Asia Trade Deals Are in Limbo&nbsp;&nbsp;Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXA4Tk1OM2NqSkQzQ2JqeWN5WVNiekFQRkdVUDZQdVFjLXVEQXhTelNNd1g2b0ZvNVlDZTJmdDdPemcwMEpoNDJVeTRtaU1LMVV5MjRpLXdzak96TmFhTmk3U0cyd2JBMjExQnJJSXFGSjZkM0RsY2VxZkNKRmpGb194cnU3YnhDTW5tUXNTTQ?oc=5",
-        "pubTime": "2026-05-05 17:43",
-        "source": "news.google.com",
-        "titleZh": "川普的東南亞貿易協議陷入困境 - 外交政策",
-        "descZh": "川普的東南亞貿易協議陷入困境&nbsp;&nbsp;外交政策"
       }
     ]
   }
