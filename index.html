@@ -456,13 +456,19 @@ async function rTwBriefing(){
   $('twbrf-status').textContent='載入清單...';
   let dates=[];
   try{
-    const r=await fetch('https://api.github.com/repos/AirInno/taiwan-market/contents/briefings');
-    const files=await r.json();
-    dates=files
-      .filter(f=>f.name&&f.name.endsWith('-tw.md'))
-      .map(f=>f.name.replace('-tw.md',''))
-      .sort((a,b)=>b.localeCompare(a));
+    const r=await fetch('briefings-tw-index.json?v='+Date.now());
+    if(r.ok){const d=await r.json();if(Array.isArray(d))dates=d;}
   }catch(e){}
+  if(!dates.length){
+    try{
+      const r=await fetch('https://api.github.com/repos/AirInno/taiwan-market/contents/briefings');
+      const files=await r.json();
+      dates=files
+        .filter(f=>f.name&&f.name.endsWith('-tw.md'))
+        .map(f=>f.name.replace('-tw.md',''))
+        .sort((a,b)=>b.localeCompare(a));
+    }catch(e){}
+  }
   if(!dates.length){
     $('twbrf-status').textContent='';
     $('twbrf-empty').style.display='';
