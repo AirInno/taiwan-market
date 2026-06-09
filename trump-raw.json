@@ -1,5 +1,129 @@
 [
   {
+    "date": "20260610",
+    "fetchTime": "2026-06-10 06:01",
+    "count": 13,
+    "articles": [
+      {
+        "title": "US striking Iran in response to downing of helicopter, military says",
+        "desc": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-10 05:43",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美軍表示，美國對伊朗發動空襲是對直升機遭擊落事件的回應",
+        "descZh": "美國總統唐納德·川普稍早指責伊朗在霍爾木茲海峽上空擊落一架美國直升機，並誓言將予以還擊。"
+      },
+      {
+        "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+        "desc": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
+        "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-10 04:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "鮑恩：川普與內塔尼亞胡曾企圖重塑中東局勢——如今卻面臨陷入長期危機的風險",
+        "descZh": "美國與以色列領導人因對伊朗戰爭的誤判，已無法掌控其後果。"
+      },
+      {
+        "title": "OPINION: A Trump trade policy that works: reducing tariffs - Midland Daily News",
+        "desc": "OPINION: A Trump trade policy that works: reducing tariffs&nbsp;&nbsp;Midland Daily News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUNHdXlkOWRSN0I3TWJpSWpHckxpLXhiYXdoOXBIOUFvYXlsV0FXTXpkVXNLcG1lRU95SFhBQkNQa0pOTmdLY3llT3ZUTFlNbFNiRDAzSmYtVV8tMVFGdFBWUjhWck14MlZ6c0dxNC1RWVJtVkhyelIwcUF1dDAxSnc0NUhZaFRaaE5rUHJmNGt4aUwxcW9lWDl6SHNUejdWbGpldXlPQQ?oc=5",
+        "pubTime": "2026-06-10 03:12",
+        "source": "news.google.com",
+        "titleZh": "觀點：一項行之有效的川普貿易政策：降低關稅 ——《米德蘭每日新聞》",
+        "descZh": "觀點：行之有效的川普貿易政策：降低關稅&nbsp;&nbsp;米德蘭每日新聞"
+      },
+      {
+        "title": "Watch: Moment Trump is booed during the national anthem at NBA Finals",
+        "desc": "The US president later insisted the reaction inside the arena was \"mostly cheers\", describing the atmosphere as \"loud\" and \"enthusiastic\".",
+        "url": "https://www.bbc.com/news/videos/cm2r08d27eko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-10 02:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：NBA總決賽國歌奏響時，川普遭噓聲的瞬間",
+        "descZh": "美國總統隨後堅稱，場內的反應「大多是歡呼聲」，並形容現場氣氛「熱烈」且「充滿熱情」。"
+      },
+      {
+        "title": "From rules to discretion: How Trump reconfigured US tariff policy - Brookings",
+        "desc": "From rules to discretion: How Trump reconfigured US tariff policy&nbsp;&nbsp;Brookings",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanVpQ2p0NFNFcTh0c3JkVGZ3aS10NjFXWjB4ZGZBSDRwNE1qa19SLXAzRDVfZ0xabmNmdUkwb0dSMHA0WFU3ZDhLc0NTS21DVV96a0JDRk9ESUxYWlJwUElPNG5JVUJDV1hBZWpHS3N1c3piNENtRkVCaUI2MHFmeXhyRHJPdzhMci10TVVRSjhDOXoxWEtLUHBzSmFPY0tSMXc?oc=5",
+        "pubTime": "2026-06-09 23:04",
+        "source": "news.google.com",
+        "titleZh": "從規則到裁量權：川普如何重塑美國關稅政策——布魯金斯學會",
+        "descZh": "從規則到裁量權：川普如何重塑美國關稅政策&nbsp;&nbsp;布魯金斯學會"
+      },
+      {
+        "title": "Trump's trade war has a new target: forced labor. The case behind it is far from simple - CNBC",
+        "desc": "Trump's trade war has a new target: forced labor. The case behind it is far from simple&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjdDRzB3Q3VlZU1pakpuTXVwX1U0UWZVMWVMZFZBMks3RFNpaFpqbFhtaHFUejBFcnJwRVU0eGY4WVFSM3ZHTWM4VnVtUDNVYWZNcEotWGZMWVlqN3JtUVJYRldFcF9vZy1PczNNRkVMWE1zVld1SkdsSFNKMXVmbNIBhgFBVV95cUxOakdWQTB4c0R0cEp3eGFVaTI5VVpQUFhfb25qbko0ZGhPM2NyNFM0dU5ndGprYnFGc0ItNjZQMGxSd1VCSHJZWUxxSHJ1LTBwNFpFekxkVkNhUEdmVFB6QWV1UG9FNGViQnZHU3hieWhYZXpuQzlqeHMySUVHdk1kOEhCeEt5UQ?oc=5",
+        "pubTime": "2026-06-09 19:00",
+        "source": "news.google.com",
+        "titleZh": "川普的貿易戰有了新目標：強迫勞動。背後的原因絕非簡單——CNBC",
+        "descZh": "川普的貿易戰有了新目標：強迫勞動。背後的原因絕非簡單&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "desc": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-09 13:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "以色列與伊朗局勢升級可能增強德黑蘭在談判中的籌碼",
+        "descZh": "伊朗似乎因這一結果而更加有恃無恐，其領導人可能察覺到川普的冒險意願較低。"
+      },
+      {
+        "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers - Investor's Business Daily",
+        "desc": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers&nbsp;&nbsp;Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGM0TFBVcmtKRlg3bVlicUVxX2NXbFVha3g1RFlqbE56SlZPd0VKUk5QTzF3Yk4tSUtES0h3TnNIaUFud1VFZFlpdjBvSjVKbzVYV3l5M1pVcDB2U1ZNaXBpbFFneXZjejZTTUVYeGY1ajAyV1phMlNRNjl6VFU5NjNfNmkxZDBlbmZZc2xzMWFXQjlLTGExQWM5WUJ2TDAzc2FxbnZpcGVHQ1pOMkJxM01HSmpORlBpaXc?oc=5",
+        "pubTime": "2026-06-09 09:49",
+        "source": "news.google.com",
+        "titleZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈 - 《投資者商業日報》",
+        "descZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈&nbsp;&nbsp;《投資者商業日報》"
+      },
+      {
+        "title": "Trump tells BBC Netanyahu did not defy him",
+        "desc": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-09 06:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普告訴BBC，內塔尼亞胡並未違抗他",
+        "descZh": "在與美國總統的通話中，BBC記者莎拉·史密斯向川普詢問了關於伊朗戰爭以及他與以色列領導人的關係。"
+      },
+      {
+        "title": "Trump has denied climate change but is now threatening Brazil with tariffs over Amazon deforestation - Fortune",
+        "desc": "Trump has denied climate change but is now threatening Brazil with tariffs over Amazon deforestation&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm9ock9pTGwyQldXN2RsM01aR1haR1pDam5hSnVOQlRWWmhxa2hHcDVtR0JWTWlEN25zbXFVOXJZeDkzN1ZEazhBZkN0ZWN1eUd1VU1pbTFYcXhxb2NkdE1lalRPNVJqVlY0TnE4MEpPcVN2cHdEN0pKMDVPb1c0cFZQdi1fZGMzZzlCbFNhWGc3cFZrLW13TkRHU2pJVWNvS3BYSmFGaFVZQkk?oc=5",
+        "pubTime": "2026-06-09 04:27",
+        "source": "news.google.com",
+        "titleZh": "川普曾否認氣候變遷，如今卻以亞馬遜雨林砍伐問題為由，威脅對巴西徵收關稅 - 《財星》",
+        "descZh": "川普曾否認氣候變遷，如今卻以亞馬遜雨林砍伐為由，威脅對巴西徵收關稅&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "Has Trump lost control of the Iran war?",
+        "desc": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
+        "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-09 03:44",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普是否已失去對伊朗戰爭的控制？",
+        "descZh": "自兩個月前脆弱的停火協議生效以來，以色列與伊朗首次互發導彈。"
+      },
+      {
+        "title": "Trump denies promising 'no new wars' – but he campaigned on that",
+        "desc": "President Trump denies having promised 'no new wars'. BBC Verify has found multiple examples of him saying this during the 2024 US election campaign.",
+        "url": "https://www.bbc.com/news/videos/cr5j4q878p5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-09 02:21",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普否認曾承諾「不再發動新戰爭」——但他當初正是以此為競選口號",
+        "descZh": "川普總統否認曾承諾「不再發動新戰爭」。BBC Verify 發現他在 2024 年美國大選期間曾多次發表此類言論。"
+      },
+      {
+        "title": "Trump's new tariff offensive sparks global backlash - The Express Tribune",
+        "desc": "Trump's new tariff offensive sparks global backlash&nbsp;&nbsp;The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSENscVJEN1N5U3ZVdkF3NF92TkNBZmZoeWZGbWdRSTF2VU1DMmFqM2d4R0pJRl8wWmpWMzZPUGFFT0FYaURYb212SHJlcXJYZEpOTGk0Z2pMSVhUUTVuMEZWN0pnbEEyejZOeUhrRUoxeXA5bEVibUNLN0M4NUhTYlJkT0xwRG9pTEJWM3RIUjfSAZgBQVVfeXFMTUc1RnBueThUN183ZVhwWV9kRUdtMFA5UHJfTDlYeTlyV3NnQ2ZzTmZ3VXNGUzZaR2xFQW1lZGRSQ1NxOTZMZEVILXFXdkR0VktiMzF2SUhpNWRGaG85QkZQSWxjUnNTbjkyQXhXVWFEbEY0LTZPbnlFX0lSNHZLU25XNXlvYkQ2dEFKOUZyQkpvajBmYmpvTEo?oc=5",
+        "pubTime": "2026-06-09 00:55",
+        "source": "news.google.com",
+        "titleZh": "川普的新一輪關稅攻勢引發全球反彈 - 《快報論壇報》",
+        "descZh": "川普的新一輪關稅攻勢引發全球反彈&nbsp;&nbsp;《快報論壇報》"
+      }
+    ]
+  },
+  {
     "date": "20260609",
     "fetchTime": "2026-06-09 06:07",
     "count": 11,
@@ -3025,94 +3149,6 @@
         "source": "news.google.com",
         "titleZh": "對於川普，法院的失敗是不斷變化的關稅中的最新轉折 - 紐約時報",
         "descZh": "對於川普，法院的失敗是不斷變化的關稅中的最新轉折&nbsp;&nbsp;紐約時報"
-      }
-    ]
-  },
-  {
-    "date": "20260511",
-    "fetchTime": "2026-05-11 05:09",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-        "desc": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-11 04:57",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普稱伊朗對美國終止戰爭提案的回應「完全不可接受",
-        "descZh": "伊朗的回應或美國旨在結束戰爭的提案的細節尚未公布。"
-      },
-      {
-        "title": "Workers paint Lincoln Memorial Reflecting Pool blue",
-        "desc": "The renovation of the Washington DC monument is one of President Trump's efforts to beautify the capital ahead of the nation's 250th birthday.",
-        "url": "https://www.bbc.com/news/articles/c2l2kpyk717o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-11 01:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "工人將林肯紀念堂倒影池漆成藍色",
-        "descZh": "華盛頓特區紀念碑的翻新是川普總統在國家 250 歲生日前美化首都的努力之一。"
-      },
-      {
-        "title": "Which Trump Tariffs Are in Place, in the Works or Ruled Illegal - The New York Times",
-        "desc": "Which Trump Tariffs Are in Place, in the Works or Ruled Illegal&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnpXa3NxU3BVQndDLTI3Wk1acjRpSk40RldfYjhGRTVLWnJSd2FTendvSEdmanc5VWpGRnlqSFN3bWYwRUtfRV9XRmFTdElmdWd2NUU4YzRScldWT19PVkhsRjVXV0gtNGhaZGFSQVU5Q2dNc1ozQnNOTGpnYlVyQ01hZjA?oc=5",
-        "pubTime": "2026-05-10 21:26",
-        "source": "news.google.com",
-        "titleZh": "哪些川普關稅已實施、正在進行或被裁定為非法 - 紐約時報",
-        "descZh": "紐約時報》(The New York Times)：哪些特朗普關稅已經實施、正在醞釀或被裁定為非法？"
-      },
-      {
-        "title": "At the Trump-Xi Summit, China Will Have the Upper Hand - Council on Foreign Relations",
-        "desc": "At the Trump-Xi Summit, China Will Have the Upper Hand&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2FRS0xIUXZETUlXXzlndENaZF9kdlliWlQtVWFJRzdPUjJndE5Bd3ZZRFpUVHl1R2NCSjBQMG1tZ05EOS1GN0M0cW9Idk9zMU5xQWFlSkRBeFQxa25pdXV4RkhYRWJQbWFPckRjSUh6VzdWWkNyMTJDMk5CNzNkY3BURmo0ZlJFb0E?oc=5",
-        "pubTime": "2026-05-10 17:00",
-        "source": "news.google.com",
-        "titleZh": "在川普與習近平的高峰會中，中國將佔優勢 - 外交關係委員會",
-        "descZh": "川普與李登輝首腦會談，中國將佔優勢&nbsp;&nbsp;外交關係委員會"
-      },
-      {
-        "title": "Trade Court Deals Blow to Trump Tariffs: $175 Billion Refunds Ordered for Importers - News and Statistics - IndexBox",
-        "desc": "Trade Court Deals Blow to Trump Tariffs: $175 Billion Refunds Ordered for Importers - News and Statistics&nbsp;&nbsp;IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOERZeDBuU05fS1BDdFphY0EzWVVtLV9qOTVsaVFUYURiVjZrT21jOERYdVA5UGI1RXFwOFYxM050N3pwUWRsanR6M2ZPbjhZdWE1NUhhbTBQMXd1Tml4OEZONjNaZlFGNjBzaGZPOGZqM05feDlNMUh1QUZhNkU4SDZWZUVPVklaR0k3eGYxZFZLNml5ejU2ZEpBbUJiMl9XQUJ2TWpB?oc=5",
-        "pubTime": "2026-05-10 03:40",
-        "source": "news.google.com",
-        "titleZh": "貿易法庭擊敗川普關稅：下令退還進口商1750億美元 - 新聞與統計 - IndexBox",
-        "descZh": "貿易法庭擊敗川普關稅：下令進口商退款1750億美元 - 新聞與統計&nbsp;&nbsp;IndexBox"
-      },
-      {
-        "title": "US Trade Court Strikes Down Trump’s 10 Percent Global Tariffs - The420.in",
-        "desc": "US Trade Court Strikes Down Trump’s 10 Percent Global Tariffs&nbsp;&nbsp;The420.in",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mRHRDNGJ3MjRSY01BMENmaHJWTTdsT1I0MlZ3WDlrSWk1YktkZ1Z1RzBjdzJNYTlIVjNxMm96S0txSXZzWF9BN0dBTGRNNjNZazc4MDZmSkhkT2UyS0owWEwzeXAtcWc1cXMwUl8zeEU?oc=5",
-        "pubTime": "2026-05-09 11:57",
-        "source": "news.google.com",
-        "titleZh": "美國貿易法院駁回川普10%全球關稅 - The420.in",
-        "descZh": "美國貿易法院駁回川普10%全球關稅&nbsp;&nbsp;The420.in"
-      },
-      {
-        "title": "A US court has ruled against Trump’s new 10% tariffs. Why this may not be good news - The Indian Express",
-        "desc": "A US court has ruled against Trump’s new 10% tariffs. Why this may not be good news&nbsp;&nbsp;The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamZUZWh4ejVlb21famdXbzBfLWc0bzhhQTlDVFZkajJNcUxFTE5JNjRrcEl6VUxrcmtpSDRBYklBazVNVVhhVnhycENwMHJfMXQyWHl0bzd2X3JlRmdjdXZwZWttWFZvYTF5cG9ncU5WWlNVNkcxWkFmbWlBczU5S0VEblQtQ2hhYVQ2cXdzaUt1U3JSY293WGVqWE9jczhwYktKTXg1X3JZU280MmpEU3NMN3Z1eUJQLVIybUJFeElBZ9IByAFBVV95cUxONm5UYjA4QWh3d1Z6NS0xckExeUNBWWZwRXMzNVNfQVI3OFE1QnlzZDZKdE10clBKQi0xajFnNUE0b3ktM24xdnMtRFJTZnpra29mSVo5TWxKVkZOb2hzR2h1SXZHelBSY3hDYTh5c1VCeGcxMEItSXdzam92RDVCX0UzVTZ1UFBHcFk0WkphbEw3WlZnbTNKVUlLaWt0TjZkUkhIR0N2SmxTRGpIYWI3V29jbS1GdDNTQ2VYRXQ4XzBZV0JnZW1Odg?oc=5",
-        "pubTime": "2026-05-09 09:15",
-        "source": "news.google.com",
-        "titleZh": "美國法院裁定反對川普新的 10% 關稅。為什麼這可能不是好消息 - 印度快報",
-        "descZh": "美國法院已裁定反對川普新的 10%關稅。為什麼這可能不是好消息&nbsp;&nbsp;印度快報"
-      },
-      {
-        "title": "Trump tariff policy faces another legal setback - 동아일보",
-        "desc": "Trump tariff policy faces another legal setback&nbsp;&nbsp;동아일보",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kVjMyYm5BUU51N0FKbEgwQWxwMlk0VnZ5d2hoWGpZX3h3cHdUZDdZckNCQWZ0VkNqZk01cTlyNExSNVpxREhZVE41eTh1SHFCSk5MTnRhT2ViaUYzNkhfYUZpZVFFUQ?oc=5",
-        "pubTime": "2026-05-09 06:38",
-        "source": "news.google.com",
-        "titleZh": "川普關稅政策再遇法律挫折 - 동아일보",
-        "descZh": "川普關稅政策再遇法律挫折&nbsp;&nbsp;동아일보"
-      },
-      {
-        "title": "'Tariffs hurt the American farmer': Arizona agricultural leaders weigh in on Trump trade policies - KJZZ",
-        "desc": "'Tariffs hurt the American farmer': Arizona agricultural leaders weigh in on Trump trade policies&nbsp;&nbsp;KJZZ",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXZHbDJCU1J4WlRzLVFHZUlKeU1UMkN0UFUwNi13VVE5eWJJLUNzb1ZRS0F3cnNaYVE0SDAxT3lDLThVWFcyTklmcEl1dWVkLWtTMEV4WFFKUnNBME9UamJQTEhSR29qU0ZwZUNjUTN0YmlUdlFGMERNVWxsYURtSjFYdjFMTE1kdnB5ZTlRQU9INWN6bS1Ia0ZEMUF6V3AxczZITDFCdElrbnUySWVKN0NKQTlyMXpnN25RYWh4elgtdktVd1hqbTc5MWkzWWlG?oc=5",
-        "pubTime": "2026-05-09 05:19",
-        "source": "news.google.com",
-        "titleZh": "關稅傷害美國農民」：亞利桑那州農業領袖評論川普的貿易政策 - KJZZ",
-        "descZh": "關稅傷害美國農民」：亞利桑那州農業領袖評論川普貿易政策&nbsp;&nbsp;KJZZ"
       }
     ]
   }
