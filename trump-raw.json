@@ -1,5 +1,138 @@
 [
   {
+    "date": "20260611",
+    "fetchTime": "2026-06-11 06:23",
+    "count": 14,
+    "articles": [
+      {
+        "title": "US launches new strikes on Iran after Trump vows to hit 'hard'",
+        "desc": "US Central Comand said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran.",
+        "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-11 06:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普誓言要「重擊」伊朗後，美國對伊朗發動新一輪空襲",
+        "descZh": "美國中央司令部表示，其最近的空襲行動是針對伊朗「無端且持續的侵略」所採取的回應。"
+      },
+      {
+        "title": "Trump-backed candidate Steve Hilton advances in California governor's race",
+        "desc": "If British-born Hilton wins in November, he would be the first Republican governor in 15 years.",
+        "url": "https://www.bbc.com/news/articles/c77yl1p0vvxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-11 05:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "獲川普支持的候選人史蒂夫·希爾頓在加州州長選戰中持續晉級",
+        "descZh": "如果出生於英國的希爾頓在十一月勝選，他將成為十五年來首位共和黨籍州長。"
+      },
+      {
+        "title": "US Refunds $22 Billion in Tariffs, Offseting Customs Revenue - Bloomberg.com",
+        "desc": "US Refunds $22 Billion in Tariffs, Offseting Customs Revenue&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUGI0bDZTV1lOOE1haVpOcTRuU2RvZ0FLRTRiRHdxaEpCMmhyeHduR3lqU0dIR083R09feGlXZFBtM1FvNi1tOGhyY2xJc0xNN24tZWFHTXMzZmVmaTVOUTZNM19hR3FqTTFGTVk1QzZBeG5uREo2d0x3QVhWSkpCa3hSQXMwN0xGRF9ZcVBGcmhNWkdpZDRxVDhPX0wzMVR2c29zcnB1V0ZYbEllZ3diY29Vcw?oc=5",
+        "pubTime": "2026-06-11 02:37",
+        "source": "news.google.com",
+        "titleZh": "美國退還 220 億美元關稅，抵銷關稅收入 - Bloomberg.com",
+        "descZh": "美國退還 220 億美元關稅，抵銷關稅收入&nbsp;&nbsp;Bloomberg.com"
+      },
+      {
+        "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+        "desc": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-11 01:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國物價漲幅創三年來新高，川普卻表示他「喜歡這通膨」",
+        "descZh": "消費者越來越深切地感受到美以在伊朗的戰爭所帶來的壓力。"
+      },
+      {
+        "title": "Trump: 'I love the inflation'",
+        "desc": "The president also revealed that the US is 'taking out' millions of barrels of oil from Iran, saying Tehran didn't know 'until right now'.",
+        "url": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-11 01:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普：「我喜歡通膨」",
+        "descZh": "總統還透露，美國正從伊朗「移出」數百萬桶石油，並表示德黑蘭方面「直到此刻」才得知此事。"
+      },
+      {
+        "title": "Growing backlash in Japan over Trump's use of anime characters",
+        "desc": "The US president has angered some fans by using the images of characters like Pikachu and Naruto.",
+        "url": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-10 21:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "日本國內對川普使用動漫角色一事的反彈聲浪日益高漲",
+        "descZh": "美國總統因使用皮卡丘和鳴人等角色的形象，而惹惱了部分粉絲。"
+      },
+      {
+        "title": "US trade judge urges Trump administration to speed up tariff refunds - Reuters",
+        "desc": "US trade judge urges Trump administration to speed up tariff refunds&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdW5ZRGtyaHJoX0pLSnpOMzlHNmFlQkx6Z2Zmb19aWGtKYlBUY0FLajZYRmtpYkpqYXBIVWJPWWZTeXFfVDBzdTFvRnAxdVJkbjVqZUZ2REFsYzI1ZUFaU0ZQbjFxb052cmRSWnFVVFA4S3Noc1RUZE9mZUZGTEgzUl9PQWpVUFFhQkZyQ1VoakNGRldjaGFPckl5S1d6ZjVZT3hEZFJPWHk?oc=5",
+        "pubTime": "2026-06-10 05:24",
+        "source": "news.google.com",
+        "titleZh": "美國貿易法官敦促川普政府加快退還關稅 - 路透社",
+        "descZh": "美國貿易法官敦促川普政府加快退還關稅&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+        "desc": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
+        "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-10 04:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "鮑恩：川普與內塔尼亞胡曾企圖重塑中東局勢——如今卻面臨陷入長期危機的風險",
+        "descZh": "美國與以色列領導人因對伊朗戰爭的誤判，已無法掌控其後果。"
+      },
+      {
+        "title": "OPINION: A Trump trade policy that works: reducing tariffs - Midland Daily News",
+        "desc": "OPINION: A Trump trade policy that works: reducing tariffs&nbsp;&nbsp;Midland Daily News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUNHdXlkOWRSN0I3TWJpSWpHckxpLXhiYXdoOXBIOUFvYXlsV0FXTXpkVXNLcG1lRU95SFhBQkNQa0pOTmdLY3llT3ZUTFlNbFNiRDAzSmYtVV8tMVFGdFBWUjhWck14MlZ6c0dxNC1RWVJtVkhyelIwcUF1dDAxSnc0NUhZaFRaaE5rUHJmNGt4aUwxcW9lWDl6SHNUejdWbGpldXlPQQ?oc=5",
+        "pubTime": "2026-06-10 03:12",
+        "source": "news.google.com",
+        "titleZh": "觀點：一項行之有效的川普貿易政策：降低關稅 ——《米德蘭每日新聞》",
+        "descZh": "觀點：行之有效的川普貿易政策：降低關稅&nbsp;&nbsp;米德蘭每日新聞"
+      },
+      {
+        "title": "Watch: Moment Trump is booed during the national anthem at NBA Finals",
+        "desc": "The US president later insisted the reaction inside the arena was \"mostly cheers\", describing the atmosphere as \"loud\" and \"enthusiastic\".",
+        "url": "https://www.bbc.com/news/videos/cm2r08d27eko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-10 02:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：NBA總決賽國歌奏響時，川普遭噓聲的瞬間",
+        "descZh": "美國總統隨後堅稱，場內觀眾的反應「大多是歡呼聲」，並形容現場氣氛「熱烈」且「充滿熱情」。"
+      },
+      {
+        "title": "From rules to discretion: How Trump reconfigured US tariff policy - Brookings",
+        "desc": "From rules to discretion: How Trump reconfigured US tariff policy&nbsp;&nbsp;Brookings",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanVpQ2p0NFNFcTh0c3JkVGZ3aS10NjFXWjB4ZGZBSDRwNE1qa19SLXAzRDVfZ0xabmNmdUkwb0dSMHA0WFU3ZDhLc0NTS21DVV96a0JDRk9ESUxYWlJwUElPNG5JVUJDV1hBZWpHS3N1c3piNENtRkVCaUI2MHFmeXhyRHJPdzhMci10TVVRSjhDOXoxWEtLUHBzSmFPY0tSMXc?oc=5",
+        "pubTime": "2026-06-09 23:04",
+        "source": "news.google.com",
+        "titleZh": "從規則到裁量權：川普如何重塑美國關稅政策——布魯金斯學會",
+        "descZh": "從規則到裁量權：川普如何重塑美國關稅政策&nbsp;&nbsp;布魯金斯學會"
+      },
+      {
+        "title": "Trump's trade war has a new target: forced labor. The case behind it is far from simple - CNBC",
+        "desc": "Trump's trade war has a new target: forced labor. The case behind it is far from simple&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjdDRzB3Q3VlZU1pakpuTXVwX1U0UWZVMWVMZFZBMks3RFNpaFpqbFhtaHFUejBFcnJwRVU0eGY4WVFSM3ZHTWM4VnVtUDNVYWZNcEotWGZMWVlqN3JtUVJYRldFcF9vZy1PczNNRkVMWE1zVld1SkdsSFNKMXVmbNIBhgFBVV95cUxOakdWQTB4c0R0cEp3eGFVaTI5VVpQUFhfb25qbko0ZGhPM2NyNFM0dU5ndGprYnFGc0ItNjZQMGxSd1VCSHJZWUxxSHJ1LTBwNFpFekxkVkNhUEdmVFB6QWV1UG9FNGViQnZHU3hieWhYZXpuQzlqeHMySUVHdk1kOEhCeEt5UQ?oc=5",
+        "pubTime": "2026-06-09 19:00",
+        "source": "news.google.com",
+        "titleZh": "川普的貿易戰有了新目標：強迫勞動。背後的原因絕非簡單——CNBC",
+        "descZh": "川普的貿易戰有了新目標：強迫勞動。背後的原因絕非簡單&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers - Investor's Business Daily",
+        "desc": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers&nbsp;&nbsp;Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGM0TFBVcmtKRlg3bVlicUVxX2NXbFVha3g1RFlqbE56SlZPd0VKUk5QTzF3Yk4tSUtES0h3TnNIaUFud1VFZFlpdjBvSjVKbzVYV3l5M1pVcDB2U1ZNaXBpbFFneXZjejZTTUVYeGY1ajAyV1phMlNRNjl6VFU5NjNfNmkxZDBlbmZZc2xzMWFXQjlLTGExQWM5WUJ2TDAzc2FxbnZpcGVHQ1pOMkJxM01HSmpORlBpaXc?oc=5",
+        "pubTime": "2026-06-09 09:49",
+        "source": "news.google.com",
+        "titleZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈 - 《投資者商業日報》",
+        "descZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈&nbsp;&nbsp;《投資者商業日報》"
+      },
+      {
+        "title": "Trump tells BBC Netanyahu did not defy him",
+        "desc": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-09 06:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普告訴BBC，內塔尼亞胡並未違抗他",
+        "descZh": "在與美國總統的通話中，BBC記者莎拉·史密斯向川普詢問了關於伊朗戰爭以及他與以色列領導人的關係。"
+      }
+    ]
+  },
+  {
     "date": "20260610",
     "fetchTime": "2026-06-10 06:01",
     "count": 13,
@@ -3052,103 +3185,6 @@
         "source": "news.google.com",
         "titleZh": "特朗普訪華將考驗脆弱的休戰 - BBC",
         "descZh": "特朗普訪華將考驗脆弱的休戰&nbsp;&nbsp;BBC"
-      }
-    ]
-  },
-  {
-    "date": "20260512",
-    "fetchTime": "2026-05-12 05:46",
-    "count": 10,
-    "articles": [
-      {
-        "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-        "desc": "A total of 17 US executives are set to join the president on his visit, where he will meet his Chinese counterpart Xi Jinping.",
-        "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-12 02:26",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "Elon Musk 和 Tim Cook 等 CEO 預計將陪同特朗普出訪中國",
-        "descZh": "總共有 17 位美國行政人員將與總統一同出訪，總統將與中國總理習近平會面。"
-      },
-      {
-        "title": "Trump says Iran ceasefire is on 'massive life support'",
-        "desc": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-12 02:17",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示伊朗停火正處於「大量生命支持」狀態",
-        "descZh": "美國總統批評伊朗為結束戰爭而提出的反建議，並表示為期一個月的停火「軟弱得令人難以置信」。"
-      },
-      {
-        "title": "Washington dinner shooting suspect pleads not guilty",
-        "desc": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
-        "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-11 22:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "華盛頓晚宴槍擊案嫌犯不認罪",
-        "descZh": "31 歲的 Cole Tomas Allen 被控企圖暗殺美國總統 Donald Trump。"
-      },
-      {
-        "title": "Trump's China visit set to test fragile truce - BBC",
-        "desc": "Trump's China visit set to test fragile truce&nbsp;&nbsp;BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbjMxdzRiSC1SMEdXVzdzcmhCcC1PN2JNc1VpenBISWZKd2FtYjAyZWZLVThHSnpRdzRiZWc4aG5wTE96X1FVX3NGQUhtYU1OakhXM0hLODd1dw?oc=5",
-        "pubTime": "2026-05-11 17:26",
-        "source": "news.google.com",
-        "titleZh": "特朗普訪華將考驗脆弱的休戰 - BBC",
-        "descZh": "特朗普訪華將考驗脆弱的休戰&nbsp;&nbsp;BBC"
-      },
-      {
-        "title": "Trump's China visit set to test fragile truce",
-        "desc": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
-        "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-11 17:26",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普訪華將考驗脆弱的休戰局面",
-        "descZh": "美國總統近十年來首次訪華，將考驗脆弱的關稅休戰。"
-      },
-      {
-        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-        "desc": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
-        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-11 09:55",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普稱伊朗對美國終止戰爭提案的回應「完全不可接受",
-        "descZh": "據報導，伊朗希望美國解除海軍封鎖，承認伊朗對霍爾木玆海峽的主權，並賠償戰爭損失。"
-      },
-      {
-        "title": "Trump touts 'American Flag Blue' paint job on Lincoln Memorial Reflecting Pool",
-        "desc": "The renovation of the Washington DC monument is one of President Trump's efforts to beautify the capital ahead of the nation's 250th birthday.",
-        "url": "https://www.bbc.com/news/articles/c2l2kpyk717o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-11 01:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普稱讚林肯紀念堂倒影池塗上「美國國旗藍」油漆",
-        "descZh": "華盛頓特區紀念碑的翻新是川普總統在國家 250 歲生日前美化首都的努力之一。"
-      },
-      {
-        "title": "At the Trump-Xi Summit, China Will Have the Upper Hand - Council on Foreign Relations",
-        "desc": "At the Trump-Xi Summit, China Will Have the Upper Hand&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2FRS0xIUXZETUlXXzlndENaZF9kdlliWlQtVWFJRzdPUjJndE5Bd3ZZRFpUVHl1R2NCSjBQMG1tZ05EOS1GN0M0cW9Idk9zMU5xQWFlSkRBeFQxa25pdXV4RkhYRWJQbWFPckRjSUh6VzdWWkNyMTJDMk5CNzNkY3BURmo0ZlJFb0E?oc=5",
-        "pubTime": "2026-05-10 17:00",
-        "source": "news.google.com",
-        "titleZh": "在川普與習近平的高峰會中，中國將佔優勢 - 外交關係委員會",
-        "descZh": "川普與李登輝首腦會談，中國將佔優勢&nbsp;&nbsp;外交關係委員會"
-      },
-      {
-        "title": "How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure - Council on Foreign Relations",
-        "desc": "How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU44dUVFQ0tRNVAyU1Vmc3R3dzlDemgxOHIyVm5IQTlSb3N2THRicXVFemJCbm5OZ3hORWpUVXdNZHFYVkgxQTdjWVAybGt2WXh4Q2dob0FzNTFUVG1GX2dwY2tGZmRKdEtaV3RsM293aS1fVWZoaU5CeXJDRUo5S2NtR3FCUDFKUWlPaDlRR3Ztb0tYcTZ4WmM4S2drREItRkR1azFPQzFiOFBSQkE?oc=5",
-        "pubTime": "2026-05-10 17:00",
-        "source": "news.google.com",
-        "titleZh": "川普應如何處理與中國的人工智能談判？有針對性的對話、最大的壓力 - 外交關係委員會",
-        "descZh": "特朗普應如何處理與中國的人工智能談判？有針對性的對話、最大的壓力&nbsp;&nbsp;外交關係委員會"
-      },
-      {
-        "title": "For Trump, Court Loss Is Latest Twist in Ever-Shifting Tariffs - The New York Times",
-        "desc": "For Trump, Court Loss Is Latest Twist in Ever-Shifting Tariffs&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnpXa3NxU3BVQndDLTI3Wk1acjRpSk40RldfYjhGRTVLWnJSd2FTendvSEdmanc5VWpGRnlqSFN3bWYwRUtfRV9XRmFTdElmdWd2NUU4YzRScldWT19PVkhsRjVXV0gtNGhaZGFSQVU5Q2dNc1ozQnNOTGpnYlVyQ01hZjA?oc=5",
-        "pubTime": "2026-05-10 15:00",
-        "source": "news.google.com",
-        "titleZh": "對於川普，法院的失敗是不斷變化的關稅中的最新轉折 - 紐約時報",
-        "descZh": "對於川普，法院的失敗是不斷變化的關稅中的最新轉折&nbsp;&nbsp;紐約時報"
       }
     ]
   }
