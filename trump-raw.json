@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260614",
+    "fetchTime": "2026-06-14 05:42",
+    "count": 11,
+    "articles": [
+      {
+        "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
+        "desc": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
+        "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-14 04:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "特朗普伊朗談判的核心：核問題的挑戰",
+        "descZh": "美國官員表示，這項協議將導致伊朗的濃縮鈾遭到銷毀，但具體細節仍有待商定。"
+      },
+      {
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "desc": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-14 02:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示美伊協議將於週日簽署，但德黑蘭對簽署時機表示質疑",
+        "descZh": "美國總統發表上述言論之際，伊朗表示確切日期尚未決定，但「不會是明天」。"
+      },
+      {
+        "title": "Trump's name removed from Kennedy Center after court order",
+        "desc": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+        "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-14 01:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法院下令後，肯尼迪中心移除了川普的名字",
+        "descZh": "週五，施工人員架設了腳手架，圍觀群眾一直聚集到傍晚，不過由於暴風雨的影響，工程被迫延至週六才進行。"
+      },
+      {
+        "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+        "desc": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+        "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-13 12:09",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，美國在空襲中擊斃了委內瑞拉「特倫德阿拉瓜」幫派的首領",
+        "descZh": "美國總統在社群媒體貼文中寫道，尼諾·格雷羅是在一次「迅速且致命的武力打擊」中喪生的。"
+      },
+      {
+        "title": "Watch: Why is Trump not at the World Cup?",
+        "desc": "All three leaders of the North America host nations have missed the tournament opening matches.",
+        "url": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-13 08:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "觀看：為什麼川普沒有出席世界盃？",
+        "descZh": "北美三支主辦國的隊長均缺席了本屆賽事的開幕戰。"
+      },
+      {
+        "title": "Trump Tariff Tracker – June 12, 2026 (via Passle) - Baker Botts",
+        "desc": "Trump Tariff Tracker – June 12, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHM4b3dUZXR1UWd3b3hMekhMaDNST051QUZtb0hJNXhIak02MHlVeWo2dlYwNUw1X0lkc1p2ODlycjhQcjRTRFlXZ2xNNmx6QzJhdEVERkFrdG0tZV81eG1PQVYyaFNjNjdkb2hvczgyTjNlV2x3MTdLUEtPTllqWVNWdw?oc=5",
+        "pubTime": "2026-06-13 05:19",
+        "source": "news.google.com",
+        "titleZh": "川普關稅追蹤 – 2026年6月12日（透過 Passle） - Baker Botts",
+        "descZh": "川普關稅追蹤 – 2026年6月12日（透過 Passle）&nbsp;&nbsp;貝克·博茨"
+      },
+      {
+        "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake - PBS",
+        "desc": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake&nbsp;&nbsp;PBS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3c3R1NiVC1TazlXa3hFZ1NNUGxPSUlIcmEzbl9uQThiVVMxOHBWa0U0Z1VqaXpqQm9qLVhmUXloVm5SdC16Z1lsbDZuNW1reW1CMDNfLWIyWFRfNlJiYnV0ekFnNnNyb2tsbEh4OWZPdXdVVWJpME5kbzJobVA4M0w0eUs2cl95NEVhUTR2WmhjQXBuZGtoUE1WaXlNOURQVENsQzA2TEhQNHROaUhUb1RWNNIBuAFBVV95cUxNd0dZaHIyMGhmaF9oN0pwVmJCS2daTUwwQXgxMm1OVElQTXFkd3ZGRGMwYzU1OGZReVA3T091bVZwOTF0MG42TGpjOFZVdW5DbHZHMHdFMVNxdmlldEpRUFJ1eF9OaEc2b2pSd0tiVUplV2FVNFVZYVpuZmp4el9OM1VnSC1aRV9aNHp3UktIWG9PTzNaa2JhWlRNZTFROXdSMGo0eHFwb24zeDR3RkZQT0o1VnJkRG93?oc=5",
+        "pubTime": "2026-06-13 05:12",
+        "source": "news.google.com",
+        "titleZh": "七國集團峰會前夕，加拿大央行總裁卡尼因貿易談判前景不明而對川普軟化態度 - PBS",
+        "descZh": "七國集團峰會前夕，加拿大央行總裁卡尼因貿易談判前景不明而對川普態度轉趨溫和&nbsp;&nbsp;PBS"
+      },
+      {
+        "title": "US court lets Trump keep 10% global tariff in place: What it means for India - Moneycontrol.com",
+        "desc": "US court lets Trump keep 10% global tariff in place: What it means for India&nbsp;&nbsp;Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDRiYjQxOGx6NW52S2p3RUlpcTVOZS1DenlEMW1Ib2JXVmZfS2NtRVVRQ2Z6cnYtOThfaVo1TnNGRGVHaXZ2aVZpX0MzY0ZvR0ZaUHh4TjFfMF9ZNkIwWjlYSTdmWVdIT1liUmpsNWNMTElHOFVjSE5Ra3FicFpkZHA1TmFPZ3ZoYnl2V0NfNHBKNS1fMjNPN3NLRW5jRl9VZUhiQkpuWm0wa3VNcHprNkFjNmxNc3ZhWHQ4ZlAtZGdPM0RtWWQ4WHdZY9IB0AFBVV95cUxPdVpPMUszQ2tFa1VfOW5ISzVDcER2d2NDdXdoWDRQcU9mLUQ1Q1FFekw4TXhudUppN2I5ZndHOXRsUENfZTh3X0pwZGVpeHVUSTZ2b2l0UlhMcGM0MWRKT3dlLXlibzQ5Uk1kOUpBMEpRZGpTNkliV3FIYzhITHFnQWV2V2tGc3pqWmF0T2lENkNIN1djbUtmSGFTcllCSlV0ZVBIb2N6ekpLenBqMXA5TnNvU1BvaEVJMGdFVWpWYmtvYjRiX0Q3NEpmRkxwdzdt?oc=5",
+        "pubTime": "2026-06-12 14:03",
+        "source": "news.google.com",
+        "titleZh": "美國法院允許川普維持10%全球關稅：這對印度意味著什麼 - Moneycontrol.com",
+        "descZh": "美國法院允許川普維持10%全球關稅：這對印度意味著什麼&nbsp;&nbsp;Moneycontrol.com"
+      },
+      {
+        "title": "Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC",
+        "desc": "The Trump-backed candidate is running as a Republican in the deeply liberal state on a platform that he says isn't beholden to party ideology.",
+        "url": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-12 13:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "前英國政治幕僚史蒂夫·希爾頓向BBC表示，若當選加州州長，他將對該州進行全面改革",
+        "descZh": "這位獲得川普支持的候選人，正以共和黨人身分在這座極度自由派的州參選，並宣稱其政見不受黨派意識形態束縛。"
+      },
+      {
+        "title": "From 32% to 10% to 18%: Indonesia Lives Under Trump's Tariff Uncertainties - Jakarta Globe",
+        "desc": "From 32% to 10% to 18%: Indonesia Lives Under Trump's Tariff Uncertainties&nbsp;&nbsp;Jakarta Globe",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1yS3l2RmVzdU1NNE11Y1FuaG9qTEdlRGxvZDR1S21INHRBWnl4Qnd6WFQ0Wk9KSVUyUnlWTWFValdScC1QaXRjb19HNXZQVTljWl8zOFpBdmFoOTRrRnZFVldzSm4tU3o1QUNuWnEzVWdDSkdmNE5Bd0dsS2NhRGZxVVFHck5hM3Z4bVRtU09TZmR6aUhmb3l4VEhMTFB0ZkxzUQ?oc=5",
+        "pubTime": "2026-06-12 09:05",
+        "source": "news.google.com",
+        "titleZh": "從32%到10%再到18%：印尼在川普關稅不確定性中掙扎——《雅加達環球報》",
+        "descZh": "從 32% 到 10% 再到 18%：印尼在川普關稅不確定性中掙扎&nbsp;&nbsp;《雅加達環球報》"
+      },
+      {
+        "title": "Appeals court rules Trump’s 10 percent global tariff can stay, for now - The Hill",
+        "desc": "Appeals court rules Trump’s 10 percent global tariff can stay, for now&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeUZveVY0dWtkcG95R1BLUnA3M1VCQk51U25nNkVWaElCTmJ1ajR1Tjl0YlkwOXlNNVVLOHR0ZC1lLWRmdmtnQkZIZXdnODBfWVRWMnRBLTFRRHpYRVNGS01RdEFHMy00cm81X0tZUGtfOEFGaXlzWGdLbFZZUVI3eGJKMzMzODTSAYwBQVVfeXFMTkVmTm5RWFhQYlNUUGROMUJmeGtDVVBEXzlrYnViUnJ1cldKN0tqUWYzSHZIRF9iYlp0akhMSDlGcjV3OXZXWndtTU1RbUt1bElVWVZ3UUkzSm5qWVM5SUxuMElvdUZDVHJNdE83bXlEdjVjdW1xVEJwVzBhUlBDTUFBMXo0endWWmdrWG0?oc=5",
+        "pubTime": "2026-06-12 08:08",
+        "source": "news.google.com",
+        "titleZh": "上訴法院裁定，川普的全球10%關稅暫可維持 - 《The Hill》",
+        "descZh": "上訴法院裁定川普的10%全球關稅暫可維持&nbsp;&nbsp;《國會山報》"
+      }
+    ]
+  },
+  {
     "date": "20260613",
     "fetchTime": "2026-06-13 06:03",
     "count": 11,
@@ -2926,211 +3032,6 @@
         "source": "news.google.com",
         "titleZh": "互惠的假象：特朗普自取滅亡的貿易政策 - 外國事務雜誌",
         "descZh": "互惠的假象：特朗普自取滅亡的貿易政策&nbsp;&nbsp;外交雜誌"
-      }
-    ]
-  },
-  {
-    "date": "20260515",
-    "fetchTime": "2026-05-15 05:40",
-    "count": 22,
-    "articles": [
-      {
-        "title": "From beating war drums to making trade deals, Trump has completely shifted his China policy - The Standard (HK)",
-        "desc": "From beating war drums to making trade deals, Trump has completely shifted his China policy&nbsp;&nbsp;The Standard (HK)",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcDFrVVB3SUY3WFdncFdSWVg0QlJwRHNQVHBSeUw5WEZ4TFpic2hfS25BM1g1TllTcDlRUUp4a1pTcG56eHlmUGFJSzN3ZFZ6QmZsUkViUVlfYTlNb1p4TE9MUTB2SUZhWERWSlgzVUN0R3dFTW1SaDVCa0xHTXZyRXpfWW1rdDVqMEc3WDVsMjI1cUE3N0V2SVRWLTZEUERhcGVSeDFlUzlwbmdXMGFkS1lCbXlyUU1iUDVVaV9SY2ppR1VvUF9XMVlVSFl4Q190ZUE0VUoyR0lfc0UzQ2FJ?oc=5",
-        "pubTime": "2026-05-15 04:29",
-        "source": "news.google.com",
-        "titleZh": "從敲響戰鼓到達成貿易協議，川普徹底改變對華政策 - The Standard (HK)",
-        "descZh": "從敲響戰鼓到達成貿易協議，川普徹底改變對華政策&nbsp;&nbsp;英文虎報 (HK)"
-      },
-      {
-        "title": "Xi Warns Trump of Possible \"Clash\" Over Taiwan Just Hours Before Banquet Toast - 24/7 Wall St.",
-        "desc": "Xi Warns Trump of Possible \"Clash\" Over Taiwan Just Hours Before Banquet Toast&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUZCd3hmdXM4b1NLazNZNDVmcTc2elJHZGVBNVdSdWF2VWxlbG5wYXJLZElXZVc2eU96UFRSMTdxdDRBZW9zUG9zajlIWEdMUWEtdkt5Mmk5dnNmM3N0aUFNNGVGdk1EbFN6WEYxaXUxcVo1dXd4eDFmOVpKYnBEanJ4STBOZnhqcExVWEM1TVBSN2o4NmZDSnQzcmxPNThCVzc1TmlScmpYMnNCRlhfdVIzNjUzdzVVTHItVQ?oc=5",
-        "pubTime": "2026-05-15 01:43",
-        "source": "news.google.com",
-        "titleZh": "習近平在宴會祝酒前數小時警告川普在台灣問題上可能發生「衝突」 - 24/7 Wall St.",
-        "descZh": "習近平警告川普就台灣問題可能發生「衝突」 就在宴會祝酒前幾小時&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
-        "desc": "President Trump was welcomed by President Xi Jinping in Beijing for what will be a whirlwind tour.",
-        "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-14 22:55",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "圖片：川普在北京與習近平舉行為期兩天的高峰會",
-        "descZh": "川普總統在北京受到習近平主席的歡迎，這將是一次旋風式的訪問。"
-      },
-      {
-        "title": "Trump-Xi summit could hinge on these two crucial tech flashpoints - CNBC",
-        "desc": "Trump-Xi summit could hinge on these two crucial tech flashpoints&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fSDNsdHY2Y1ptdWNzSGU4TmN4U0xOZ2JEem9LY2ZZSkZtQXZBcDRIdm5ROTI4LXg0ZVdhX1ZSbERTSFE2NTA3dlNvY2M5SWRNTDdNajZLc05KS21JRUJRN3NwSjZ2cVB2Skd2Q0V1cjRJMFBiVkhuSNIBfkFVX3lxTE5pYjZtWTB1RnNMOFU4aTNGUHNxQUJweDgzMVJZZDAyZUhPay1LUW9UMHA2V1dVQzZoX2gxVjFRUzJKdjFoQV8yd19FcWUtWV9SQW5LV0EySVJMUktjbUktemdpdFRBSVNYd2hZY0JFREJsWkNJMnc1SmtENW83dw?oc=5",
-        "pubTime": "2026-05-14 21:09",
-        "source": "news.google.com",
-        "titleZh": "川普與李登輝的高峰會可能取決於這兩個關鍵的科技热点 - CNBC",
-        "descZh": "川普與李登輝的高峰會可能取決於這兩個關鍵的科技热点&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
-        "desc": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
-        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-14 21:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普訪華備受歡迎 但棘手問題依然存在",
-        "descZh": "在美國總統訪問北京期間，世界上兩個超級大國的領導人對著鏡頭笑容滿面。"
-      },
-      {
-        "title": "How Trump plans to keep tariffs at the center of his economic policy despite stinging court losses - The Conversation",
-        "desc": "How Trump plans to keep tariffs at the center of his economic policy despite stinging court losses&nbsp;&nbsp;The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdEVROEFZQXBtNGkwejhienV4R1JqTVNoUHBwQnQtZUhpYndDb2VhWmpPN0RJRmhoejhBUTF4eVhSYWdhMHV5REVPcHBHQ1BTYUhLYzNUNWF3dkZVVG5weDdwdFdpdU5OZVd6bDFSRTkyWjBDS1d0OWN5bFcxbW14SUJJQV9GWjRFZ3cxMHR5XzVhRG9vRG4ybWhmLXAwRUxiZHpWVzNpaU13UnBIdUpIT3IwWV80Snl2ekYwdUNpN3o3SjFtaV9mMXlmcUlXQQ?oc=5",
-        "pubTime": "2026-05-14 20:44",
-        "source": "news.google.com",
-        "titleZh": "儘管在法庭上吃了敗仗，特朗普仍打算將關稅放在其經濟政策的中心位置 - The Conversation",
-        "descZh": "儘管在法庭上吃了虧，特朗普仍計劃繼續將關稅放在其經濟政策的中心位置&nbsp;&nbsp;The Conversation"
-      },
-      {
-        "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider' - CNBC",
-        "desc": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sVkhHOUwxMlFLM3pIZVFicnZBRW9uWWNuN2Q2WUpTTlRwSFY3enYwa3RuVC0wU29YVHVlNXhrMl9ycTBzLTFESDN5eWE2UHNXQzhjaGVFb1UxaGczTDNYUTByc2NlUnZjSXdtRWQyYUphNXlhd2I3WDZuZ9IBgAFBVV95cUxOZGktd0JIN3Q4dm41LVV4ejV5MnpMZUNhUlVaYTBBVENHT2JvbkphVDZLN3MyM2ZSa2lJdkd6NnZ0dWs4N3pqLVl1ajRCV0JTMGJHVHc5N0lWcU5LVFB4SlNqNDR0eEFmV1RxMG11dXhtOTBZNzNhSkp4YXJOWXpCVQ?oc=5",
-        "pubTime": "2026-05-14 20:22",
-        "source": "news.google.com",
-        "titleZh": "習近平對馬斯克、蒂姆-庫克和其他CEO說，川普此行：中國將「更開放」 - CNBC",
-        "descZh": "习近平对马斯克、蒂姆-库克和其他CEO们说，特朗普此行：中國將「更開放」&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "What to know as Trump visits Xi in China",
-        "desc": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
-        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-14 17:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普訪問中國習近平須知",
-        "descZh": "特朗普自 2017 年以來首次訪問北京。"
-      },
-      {
-        "title": "Watch: What happened on day one of Trump's China visit?",
-        "desc": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
-        "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-14 15:13",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：川普訪華第一天發生了什麼？",
-        "descZh": "在與習近平會面長達近兩小時之前，中國於週四以歡呼的孩童和阅兵式歡迎美國總統川普。"
-      },
-      {
-        "title": "These are tech titans in Beijing with Trump and what they want from China - Euronews.com",
-        "desc": "These are tech titans in Beijing with Trump and what they want from China&nbsp;&nbsp;Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM09JcEJkOG1IcnYwS0RFLWtkMG1RYVZsRmtNdnBFQWlzeUZ0bUxYT0E1Z1prR1Vrdm9ILW0yQ1lvSmpjZHozYnYzLVdTWnpoSHcxVHIzWUZUZEtMdm54QnF6OXMwdkhKamVUMTlFcHNqOHJrTXAxM3J0SVBzV1hybzNOX0hKRmpwR04tdTVrei1GaE54RTdCV0hCVmNiV1BUbll6V01lRXpBNHNWaFlEYUVJdUs?oc=5",
-        "pubTime": "2026-05-14 13:00",
-        "source": "news.google.com",
-        "titleZh": "這些是與川普同在北京的科技巨頭，以及他們對中國的要求 - Euronews.com",
-        "descZh": "這些是與川普同在北京的科技巨頭，以及他們想從中國得到什麼&nbsp;&nbsp;Euronews.com"
-      },
-      {
-        "title": "The Illusion of Reciprocity: Trump’s Self-Defeating Trade Policy - Foreign Affairs Magazine",
-        "desc": "The Illusion of Reciprocity: Trump’s Self-Defeating Trade Policy&nbsp;&nbsp;Foreign Affairs Magazine",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNklCcjdubWRBRy15bzh4N0YydERGQWlTdk9nUVAyOV95bXFMVGxJdG43M2RtOXdoNU1aV1E2Q0lEdnFIWFF1TldILTdERUxNd1JFLVBKdnE0cGdwR1NQOXlKNlNWNVlQSDRWYmF0c0N2Vmc?oc=5",
-        "pubTime": "2026-05-14 12:00",
-        "source": "news.google.com",
-        "titleZh": "互惠的假象：特朗普自取滅亡的貿易政策 - 外國事務雜誌",
-        "descZh": "互惠的假象：特朗普自取滅亡的貿易政策&nbsp;&nbsp;外交雜誌"
-      },
-      {
-        "title": "Analyzing Trump’s Foreign Policy and Its International Implications - War on the Rocks",
-        "desc": "Analyzing Trump’s Foreign Policy and Its International Implications&nbsp;&nbsp;War on the Rocks",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWJ2QjFZUUw4c01QdlZkc2xtQmFQczZMaFVZWVpOSktXMDFXS2Z5T2JtdTNyWDd1UTF1N3puYXVYdFZQcVdScUx5UlAtQ3czVDdXcGk3enBONUNueGY5dkFNZ2VTLXdYbjgyVWFxeGJ1ZENDS2VwZWx5ak5NZnhRa0IwVTlJaHlHemg0dk1EdklIX0YtcE9OTQ?oc=5",
-        "pubTime": "2026-05-14 01:31",
-        "source": "news.google.com",
-        "titleZh": "分析川普的外交政策及其國際影響 - 石頭上的戰爭",
-        "descZh": "分析特朗普的外交政策及其國際影響&nbsp;&nbsp;搖滾戰爭"
-      },
-      {
-        "title": "How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure - Council on Foreign Relations",
-        "desc": "How Trump Should Approach AI Talks With China: Targeted Dialogue, Maximum Pressure&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU44dUVFQ0tRNVAyU1Vmc3R3dzlDemgxOHIyVm5IQTlSb3N2THRicXVFemJCbm5OZ3hORWpUVXdNZHFYVkgxQTdjWVAybGt2WXh4Q2dob0FzNTFUVG1GX2dwY2tGZmRKdEtaV3RsM293aS1fVWZoaU5CeXJDRUo5S2NtR3FCUDFKUWlPaDlRR3Ztb0tYcTZ4WmM4S2drREItRkR1azFPQzFiOFBSQkE?oc=5",
-        "pubTime": "2026-05-13 23:45",
-        "source": "news.google.com",
-        "titleZh": "特朗普應如何處理與中國的人工智能談判？有針對性的對話、最大的壓力 - 外交關係委員會",
-        "descZh": "川普應如何處理與中國的人工智能談判？有針對性的對話，最大的壓力&nbsp;&nbsp;外交關係委員會"
-      },
-      {
-        "title": "Trump’s China policy is nearly the exact opposite of what everyone expected - vox.com",
-        "desc": "Trump’s China policy is nearly the exact opposite of what everyone expected&nbsp;&nbsp;vox.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlF6eVJ5N1VxZVRTNTdqS1FHYVNZdlhkWkpWMnowNEl1QmRBTkZYbWlUUkFHLTFDZlVkLWNVVzliSllsN2RmNjhGbVVnam0xYUxEVjZoRnRINjRZMHE4TU80WEVGVGRxbUVEcTlHejgtaklxU3Y1RnI3S01hbzFzYTBpUVZGaDdVOTliMGtEbnUtcjdpcGRpa2hGU1hOTnVyUk5pNzJQa0Z0ZlRBWlNr?oc=5",
-        "pubTime": "2026-05-13 18:45",
-        "source": "news.google.com",
-        "titleZh": "川普的對華政策幾乎與所有人的預期完全相反 - vox.com",
-        "descZh": "川普的對華政策幾乎與所有人的預期完全相反&nbsp;&nbsp;vox.com"
-      },
-      {
-        "title": "US court pauses decision blocking Trump’s 10 percent global tariff - Al Jazeera",
-        "desc": "US court pauses decision blocking Trump’s 10 percent global tariff&nbsp;&nbsp;Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFpVZWotbkpqUmJjOFJSUHBtTldXN2gzOVN1XzkxM2ljWlBhdm9aVVhMNm5nQ0lpODlYeWN0OURkQVNRVmtRWnVFUVF1NXJuOFZaWHZrN0M4YjJOeGZLXzkwZG41RnJYWFpCbFVMVTl5YkRxc1NwTWRUSEdVM05nOHhna2FKWU53dHc0eG5yWU85Z0g2Vk4xXy01aHFmbUFJRnBtbC0xQzBPUFJ1c1HSAbMBQVVfeXFMTjIzQ0hCcHAtb1VmaUJxTzYzRFdfeENpVkFSNDUxbEF0Q2J5QnBDV3k1bEYwaTJhR2dRMWJUWlp6RVBOSjdRVmJxMnNocUtRaVhzNVhzR1R4V2RYWmhTTFR6cnc3RWV2OHhNMy1pMHUxcUJMRzIxb3g5SWJwQ3NhblozNlpSMk1GaFc3bGRNTE0zQWRIdFlMTWNJUWRHNUM3VWFhOVlENVZrRXZQMG1pRThHazQ?oc=5",
-        "pubTime": "2026-05-13 16:59",
-        "source": "news.google.com",
-        "titleZh": "美國法院暫緩裁決阻止川普10%全球關稅 - Al Jazeera",
-        "descZh": "美國法院暫緩決定阻止川普的 10%全球關稅&nbsp;&nbsp;Al Jazeera"
-      },
-      {
-        "title": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip - BBC",
-        "desc": "Elon Musk and Jensen Huang among CEOs joining Trump on China trip&nbsp;&nbsp;BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzWVdfZzIxODdYd2U2dVZHaVJlOU5jOF9qSzFvTERHdi1UbjFnSGdSOTRGcVgzSVZrNFRLMmNxZVk0NWlOZy1LLU5vdXJRYWZ0c0hNM29LYWxMZw?oc=5",
-        "pubTime": "2026-05-13 15:10",
-        "source": "news.google.com",
-        "titleZh": "Elon Musk 和 Jensen Huang 等 CEO 加入川普的中國之行 - BBC",
-        "descZh": "埃隆-馬斯克（Elon Musk）和黃彥遜（Jensen Huang）等CEO加入川普的中國之行&nbsp;&nbsp;BBC"
-      },
-      {
-        "title": "America Has Lost Its Leverage Over China: How Trump and Xi Could Cement Beijing’s Advantage for Years to Come - Foreign Affairs Magazine",
-        "desc": "America Has Lost Its Leverage Over China: How Trump and Xi Could Cement Beijing’s Advantage for Years to Come&nbsp;&nbsp;Foreign Affairs Magazine",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFltdGFQNFE3dU5xXzh6d2RPUWtudzZEUVZtdi0wVnZ5OGlOTnhqOXQ5WjItY2FwVVV0MFptY1hpU0tMTkdCTFBJVEd6YVNPTEFrYzJNXzNDMHNVbGJVMW5oNzRDckpJQTBPM1NlU2lJa2M1bWtDaFpZTDBuZVdYOVZGUVU1RHpFSVdFb0Rn?oc=5",
-        "pubTime": "2026-05-13 12:00",
-        "source": "news.google.com",
-        "titleZh": "美國已失去對中國的籌碼：特朗普和習近平如何在未來幾年鞏固北京的優勢 - 外交雜誌",
-        "descZh": "美國已失去對中國的籌碼：特朗普和習近平如何在未來幾年鞏固北京的優勢&nbsp;&nbsp;外交雜誌"
-      },
-      {
-        "title": "Trump Hypes CEO Trip to China: What It Could Mean for Apple, Nvidia, Boeing and China-Focused ETFs - TipRanks",
-        "desc": "Trump Hypes CEO Trip to China: What It Could Mean for Apple, Nvidia, Boeing and China-Focused ETFs&nbsp;&nbsp;TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGtKVEdUcTFMSnNhVnltSEpNakhCdEpXc2hONEh4a0tZM0lSRU1GMGtJREd3elNDdkFFbTlkTGdNVjBmbVlOcENMd2JYRDdXOGhSc3hSallmZU42QmI2ZUJ6dTUwNkdOQnlnMjlGcUY3NkFHeGVhYUxLTFFzTTdCUkRjX1h2WjhRZ3d6c2pTUnR4OGRtWk1Ua2JEbWlNcUMyY1Z3a2VnZ25JeXAxb3BLZmUyaHhXRkhHcGVoRmZkVjk2NllrWjZDOFBhRXVJcms?oc=5",
-        "pubTime": "2026-05-13 11:50",
-        "source": "news.google.com",
-        "titleZh": "特朗普炒作 CEO 中國之行：這對蘋果、Nvidia、波音和以中國為重點的ETF意味著什麼 - TipRanks",
-        "descZh": "特朗普炒作 CEO 中國之行：蘋果、Nvidia、波音和中國 ETFs 可能意味著什麼&nbsp;&nbsp;TipRanks"
-      },
-      {
-        "title": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite - The New York Times",
-        "desc": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3pkWjRKbG0xNk85Rm9LVXRTS016TFdEOXVjTWdIVG5STGFrbzBydUJkamIyMk5aVFd0R2o3SGQ3dVkxVWJzRzktLU53dDFaSGlseXFBaWEtemFNSF96TEt6NTNjVnJBQjRJSmlaQmo5VjJ4S1FBNjA2eEpxd0lzUUxock1IWVRkNi1GNjlzaEIyenE0?oc=5",
-        "pubTime": "2026-05-13 11:08",
-        "source": "news.google.com",
-        "titleZh": "Nvidia C.E.O. Jensen Huang 在最後一刻受邀與川普一同前往中國 - 紐約時報",
-        "descZh": "Nvidia C.E.O. Jensen Huang 在最後一分鐘獲邀搭上川普的順風車前往中國&nbsp;&nbsp;紐約時報"
-      },
-      {
-        "title": "'It's not a swimming pool' - Americans react to Trump's reflecting pool makeover",
-        "desc": "As the president continues his initiative to make Washington DC 'safe and beautiful', tourists and locals are conflicted over the $13m renovation.",
-        "url": "https://www.bbc.com/news/videos/cp8pmgmpgj3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-13 09:22",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "這不是游泳池」- 美國人對川普改造反射池的反應",
-        "descZh": "當總統繼續他讓華盛頓特區變得「安全又美麗」的倡議時，遊客和當地居民對於耗資 1300 萬美元的翻新工程感到矛盾。"
-      },
-      {
-        "title": "Trump to discuss US arms sales to Taiwan with Xi Jinping this week, raising crypto supply chain concerns - Crypto Briefing",
-        "desc": "Trump to discuss US arms sales to Taiwan with Xi Jinping this week, raising crypto supply chain concerns&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Xy1JSkYzZlAyUXB5T1NyRFc5NEpCWm1TNGt2LTc5RlNsamFCWG5BdkdRam1xaGtCbndxaUd0NkJxVUFVLUtMeWZHbF9QdlpIZDJXN0k0UXhLYjJraVI0RnlXTHdDclk2d3paUUc4ckN5SVBtM2pZ?oc=5",
-        "pubTime": "2026-05-13 07:17",
-        "source": "news.google.com",
-        "titleZh": "川普本周將與習近平討論美國對台軍售，引起加密貨幣供應鏈疑慮 - Crypto Briefing",
-        "descZh": "川普本周將與習近平討論美國對台軍售，引發加密貨幣供應鏈疑慮&nbsp;&nbsp;加密貨幣簡報"
-      },
-      {
-        "title": "A decade on, Trump returns to a stronger and more assertive China",
-        "desc": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
-        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-13 06:07",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "十年後，川普回歸更強大、更自信的中國",
-        "descZh": "一位分析師表示，北京可以說是美國歷史上面對的最強大的競爭對手。"
       }
     ]
   }
