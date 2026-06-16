@@ -18,9 +18,13 @@ jobs:
         run: pip install youtube-transcript-api requests
 
       - name: Fetch transcript
+        env:
+          # 選用：填了住宅代理就用代理抓字幕，繞過 GitHub 機房 IP 被 YouTube 封鎖的問題
+          WEBSHARE_PROXY_USERNAME: ${{ secrets.WEBSHARE_PROXY_USERNAME }}
+          WEBSHARE_PROXY_PASSWORD: ${{ secrets.WEBSHARE_PROXY_PASSWORD }}
         run: |
           cat > /tmp/fetch.py << 'PYEOF'
-          import requests, xml.etree.ElementTree as ET, os, json
+          import requests, xml.etree.ElementTree as ET, os, sys, time
           from datetime import datetime, timezone, timedelta
           from youtube_transcript_api import YouTubeTranscriptApi
 
@@ -28,7 +32,23 @@ jobs:
           TZ_TAIPEI = timezone(timedelta(hours=8))
           RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 
-          import time
+          # --- 建立 API（有住宅代理就用代理，繞過機房 IP 封鎖）---
+          proxy_user = os.environ.get("WEBSHARE_PROXY_USERNAME", "").strip()
+          proxy_pass = os.environ.get("WEBSHARE_PROXY_PASSWORD", "").strip()
+          if proxy_user and proxy_pass:
+              try:
+                  from youtube_transcript_api.proxies import WebshareProxyConfig
+                  api = YouTubeTranscriptApi(proxy_config=WebshareProxyConfig(
+                      proxy_username=proxy_user, proxy_password=proxy_pass))
+                  print("✅ 已啟用 Webshare 住宅代理抓字幕")
+              except Exception as e:
+                  print(f"⚠️ 代理設定失敗，改用直連：{e}")
+                  api = YouTubeTranscriptApi()
+          else:
+              print("ℹ️ 未設定 Webshare 代理（直連 YouTube，GitHub 機房 IP 可能被封鎖）")
+              api = YouTubeTranscriptApi()
+
+          # --- 抓 RSS ---
           for attempt in range(3):
               try:
                   resp = requests.get(RSS_URL, timeout=30)
@@ -40,17 +60,16 @@ jobs:
                   print(f"YouTube RSS 失敗，10 秒後重試 ({attempt+1}/3)：{e}")
                   time.sleep(10)
 
-          ns = {
-              'atom': 'http://www.w3.org/2005/Atom',
-              'yt': 'http://www.youtube.com/xml/schemas/2015',
-          }
+          ns = {'atom': 'http://www.w3.org/2005/Atom',
+                'yt': 'http://www.youtube.com/xml/schemas/2015'}
           root = ET.fromstring(resp.content)
 
           now = datetime.now(timezone.utc)
           cutoff = now - timedelta(hours=5)
 
-          api = YouTubeTranscriptApi()
-          found = False
+          new_video_pending = []   # 在時間窗內、尚無字稿的新片
+          fetch_errors = []        # 抓字幕時真正報錯的影片
+          saved = 0
 
           for entry in root.findall('atom:entry', ns):
               pub = datetime.fromisoformat(
@@ -67,6 +86,7 @@ jobs:
                   print(f"已存在，略過：{out_file}")
                   continue
 
+              new_video_pending.append(f"{date_str} {title} ({vid_id})")
               print(f"新影片：{title} ({vid_id})")
 
               try:
@@ -76,7 +96,8 @@ jobs:
                       print(f"字幕內容太短，略過：{vid_id}")
                       continue
               except Exception as e:
-                  print(f"字幕尚未生成，下次再試：{vid_id} ({e})")
+                  print(f"❌ 抓字幕失敗：{vid_id} ({e})")
+                  fetch_errors.append(f"{date_str} {vid_id}: {e}")
                   continue
 
               with open(out_file, 'w', encoding='utf-8') as f:
@@ -88,14 +109,30 @@ jobs:
                   f.write(text)
 
               print(f"✅ 字幕已存：{out_file}")
-              found = True
+              saved += 1
 
-          if not found:
+          if not new_video_pending:
               print("本次無新影片需要處理")
+              sys.exit(0)
+
+          # 有新片但一份都沒抓成功 → 視為失敗，觸發通知信（不再靜默成功）
+          if saved == 0 and fetch_errors:
+              print("=" * 50)
+              print("⚠️ 偵測到新影片，但字幕全部抓取失敗（最可能：GitHub 機房 IP 被 YouTube 封鎖）")
+              print("待處理影片：")
+              for v in new_video_pending:
+                  print("  -", v)
+              print("錯誤明細：")
+              for e in fetch_errors:
+                  print("  -", e)
+              print("建議：於 GitHub Secrets 設定 WEBSHARE_PROXY_USERNAME / WEBSHARE_PROXY_PASSWORD 啟用住宅代理")
+              print("=" * 50)
+              sys.exit(1)
           PYEOF
           python3 /tmp/fetch.py
 
       - name: Commit and push
+        if: always()
         run: |
           git config user.email "agent@briefing.bot"
           git config user.name "YouTube Transcript Bot"
@@ -115,7 +152,12 @@ jobs:
           server_port: 465
           username: ${{ secrets.ANALYSIS_EMAIL_USER }}
           password: ${{ secrets.ANALYSIS_EMAIL_PASSWORD }}
-          subject: "❌ YouTube 字幕抓取失敗 $(date +'%Y-%m-%d')"
+          subject: "❌ YouTube 字幕抓取失敗（偵測到新片卻抓不到字幕）"
           to: a11000033a10025818@gmail.com
           from: ${{ secrets.ANALYSIS_EMAIL_USER }}
-          body: "youtube_transcript.yml 執行失敗，請至 GitHub Actions 查看錯誤日誌。"
+          body: |
+            youtube_transcript.yml 偵測到游庭皓有新直播，但字幕抓取失敗。
+            最可能原因：GitHub Actions 機房 IP 被 YouTube 封鎖。
+            治本方式：申請 Webshare 住宅代理，於 repo 的 Settings > Secrets 新增
+            WEBSHARE_PROXY_USERNAME 與 WEBSHARE_PROXY_PASSWORD 兩個 secret。
+            詳細錯誤請見 GitHub Actions 執行日誌。
