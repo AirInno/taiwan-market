@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260617",
+    "fetchTime": "2026-06-17 06:25",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+        "desc": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
+        "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-17 05:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "聯邦調查局表示，某組織曾計畫利用狙擊手和無人機襲擊白宮舉辦的UFC賽事",
+        "descZh": "在最近解封的法庭文件中，政府表示，該團體據稱對貪腐、愛潑斯坦檔案以及資料中心等議題表達了不滿。"
+      },
+      {
+        "title": "Watch: Why is Trump furious with Netanyahu over strikes on Lebanon?",
+        "desc": "The BBC's Tom Bateman looks at the US president's reaction to what he called \"vicious\" strikes.",
+        "url": "https://www.bbc.com/news/videos/cvgmqelv0edo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-17 05:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：為何川普因對黎巴嫩的空襲而對內塔尼亞胡大為光火？",
+        "descZh": "BBC記者湯姆·貝特曼探討了美國總統對他所謂「惡毒」襲擊的反應。"
+      },
+      {
+        "title": "Trump may release US-Iran deal before Friday, Vance says",
+        "desc": "The US vice-president says the agreement is \"about a page and a half\" and \"very general\", meaning many details will be worked out later.",
+        "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-16 16:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "范斯表示，川普可能在週五前公布美伊協議",
+        "descZh": "美國副總統表示，這份協議「約有一頁半長」，且「非常籠統」，這意味著許多細節將留待日後商定。"
+      },
+      {
+        "title": "What did Trump do differently to Obama on Iran?",
+        "desc": "The BBC's Gary O'Donoghue looks at the contrasting approaches of the two presidents as Trump touts a new peace deal.",
+        "url": "https://www.bbc.com/news/videos/cn94vqzev5lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-16 07:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在伊朗問題上，川普與歐巴馬的做法有何不同？",
+        "descZh": "在川普力推一項新的和平協議之際，BBC記者蓋瑞·奧唐納休（Gary O'Donoghue）探討了兩位總統截然不同的做法。"
+      },
+      {
+        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+        "desc": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+        "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-15 22:26",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "鮑文：伊朗核協議結束了川普那場揭示美國霸權局限的戰爭",
+        "descZh": "這項旨在結束戰事並重新開放霍爾木茲海峽的協議，讓各方回到了戰爭爆發前24小時的狀態——只是此刻已有數千人喪生。"
+      },
+      {
+        "title": "Trump's tariffs wiped out 89,000 manufacturing jobs instead of creating them, new report finds - Crypto Briefing",
+        "desc": "Trump's tariffs wiped out 89,000 manufacturing jobs instead of creating them, new report finds&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBub1lnZnlsWjNXbXFwSUwzaHcxaW9sZXBJOVJLRFdIZ1NvZlhEMXVBNGk0YjQwaG5EY0E2YURTSmJXamhSSW14aEJIRnFqVVk3SUg0eERLSHJuaEF1a2drSzJzdWd0RVZJcEhJYjhCVjhnTy1LTWc?oc=5",
+        "pubTime": "2026-06-15 18:18",
+        "source": "news.google.com",
+        "titleZh": "最新報告指出，川普的關稅政策非但未能創造就業機會，反而導致 89,000 個製造業工作崗位消失 - Crypto Briefing",
+        "descZh": "最新報告指出，川普的關稅政策非但未能創造就業機會，反而導致 89,000 個製造業工作崗位消失&nbsp;&nbsp;Crypto Briefing"
+      },
+      {
+        "title": "How Trump is relaunching a tariff war citing ‘forced labour’ concerns - Al Jazeera",
+        "desc": "How Trump is relaunching a tariff war citing ‘forced labour’ concerns&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHpSUExhLUk3WUUzWEo2N29vckJ4ZXppTHVwMkw0RVlCMll0N0hmOXpQNTNPeENYZ2hTMFV3aERBNFM4ZVZLRlpERjVyXzY5NHVKZXdLZWxuQ0c4S0Y1ZHR1XzBmSVZkOGRRYzRXQTh1R0llejEybGNObkNWVV9tdlhibk50WEkycVFOT0hsTkE2dHdiVllWaWtqTjhHYy1xLWNqVDV5NWV4b2c10gGyAUFVX3lxTE1YSXZBVC04VUU3NVlRRjNfOVhtNlhFb3ZZcUFIUFdXVkx1bkd1MDdXV2IxOHFNamhjUTlPUk1zTU5pamdYakhWbFM0cDJCbjhseG53SFQwbTNnV3huZTZOOHJJYjYwWW9EN2FUZk9HTjQ1dk5fNGxWZXFFNGVHaVFxNEZRb3NXRHB6V2hpSEU4c3kxbm9oNDkzdWdEYnE4bmlpZkNrWDNfQXoyVFpBTlhVV1E?oc=5",
+        "pubTime": "2026-06-15 16:47",
+        "source": "news.google.com",
+        "titleZh": "川普如何以「強迫勞動」為由重啟關稅戰——半島電視台",
+        "descZh": "川普如何以「強迫勞動」為由重啟關稅戰&nbsp;&nbsp;半島電視台"
+      },
+      {
+        "title": "Trump heralds Iran deal but questions - and risks - remain",
+        "desc": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
+        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-15 10:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普盛讚伊朗協議，但疑慮與風險依然存在",
+        "descZh": "伊朗協議的宣布對總統而言是一份令人欣喜的生日禮物——但其成敗可能取決於具體細節。"
+      }
+    ]
+  },
+  {
     "date": "20260616",
     "fetchTime": "2026-06-16 06:31",
     "count": 11,
@@ -2872,67 +2951,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普支持的挑戰者擊敗投票給總統定罪的共和黨參議員",
         "descZh": "特朗普在路易斯安那州的高風險競選中全力支持Julia Letlow，將現任議員打成 「不忠」。"
-      }
-    ]
-  },
-  {
-    "date": "20260518",
-    "fetchTime": "2026-05-18 05:11",
-    "count": 6,
-    "articles": [
-      {
-        "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
-        "desc": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
-        "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-18 00:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普支持的挑戰者擊敗投票給總統定罪的共和黨參議員",
-        "descZh": "特朗普在路易斯安那州的高風險競選中全力支持Julia Letlow，將現任議員打成 「不忠」。"
-      },
-      {
-        "title": "Taiwan remains committed to status quo after Trump's China trip - Australian Broadcasting Corporation",
-        "desc": "Taiwan remains committed to status quo after Trump's China trip&nbsp;&nbsp;Australian Broadcasting Corporation",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUNQenFmc25Cb3dtR3BTeDlGZnl6c3hONXQtSEkyQjYyVTZTNkg5SU43UjNBS0JwMnZsZG5td1Z5N3BXYS1lNHI1a1VKZk5fM0s2RFRxel9NOWh5dlZsU0RLdTJka19DSzFxUWNkMUMzZW9vNWlub3RpYjREMzVETXA3OTZYQWx6VTBtcGwybk5FclpTN1U2Y1otZVVkNzFqTy1xQjd3VjI?oc=5",
-        "pubTime": "2026-05-17 05:30",
-        "source": "news.google.com",
-        "titleZh": "川普訪華後台灣仍維持現狀 - 澳洲廣播公司",
-        "descZh": "川普訪華後台灣仍維持現狀&nbsp;&nbsp;澳洲廣播公司"
-      },
-      {
-        "title": "Trump Made Thousands of Securities Trades in Q1, Including Nvidia, Apple, Boeing - Seoul Economic Daily",
-        "desc": "Trump Made Thousands of Securities Trades in Q1, Including Nvidia, Apple, Boeing&nbsp;&nbsp;Seoul Economic Daily",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHVTVzdLQjNIS0RPUWxReG1DTlJEamk1MUxJa3A4TnNrZENXSlMwWTNlWHNNWFctWGk4UmgxeUI5Mk1OYTRxUzk4WE9Ob1dvZk9LUS1KS2h5YnctYkQ1b2dHNE5feEpRZF9ENGtfUXdxSkMwNGdRRlZSOUs1QUd1YmdDX25hX1VnUkwxd0xYaHM3VDJHcEtfSlExMFhjNmJfZEpSeA?oc=5",
-        "pubTime": "2026-05-16 14:12",
-        "source": "news.google.com",
-        "titleZh": "川普第一季進行數千筆證券交易，包括Nvidia、蘋果、波音 - 首爾經濟日報",
-        "descZh": "川普第一季進行數千筆證券交易，包括Nvidia、蘋果、波音&nbsp;&nbsp;首爾經濟日報"
-      },
-      {
-        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-        "desc": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-16 13:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在與中國習近平舉行峰會數小時後警告台灣不要宣布獨立",
-        "descZh": "美國總統表示，他希望北京和台北能為自治島的緊張局勢「降溫」。"
-      },
-      {
-        "title": "Trump bought shares of tech companies Apple, NVIDIA, Meta, Sandisk and more during Iran War selloff - Shacknews",
-        "desc": "Trump bought shares of tech companies Apple, NVIDIA, Meta, Sandisk and more during Iran War selloff&nbsp;&nbsp;Shacknews",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFlwTG5veDZVOWQyVVRHSnhMMWtaNTJpZDZBdG1vdEgybHBickdsc1lWZXFzdXBxb0RZYlhEYXNuRUFrQ05ROHI1NFhYSDhibkNBTl93R25rVWJGNEZEWk52M2pHQjRId2FocmRwWTFRVzVlby1CZHYtdld6Y0lXN3I3TjVHX1Jv0gGWAUFVX3lxTE1PRG9KRGFpdE1VYlU0WHNaUWNjYk1BM3Z5YjlyNGFoa3Y5M1owRDBheVdoMGJMMEU2TC1uekxOOXRKVERrb0p2bXVWUVdiMWJhV203YjFSZXU4SlMwZld1a0FTWkpCTENEVHYwU3o0dDJTdFZBNWEzYzZHYTBPQWszTFhIX19zd0tLTTc3YmYyRDhtSW1Ndw?oc=5",
-        "pubTime": "2026-05-16 06:05",
-        "source": "news.google.com",
-        "titleZh": "川普在伊朗戰爭期間買進科技公司 Apple、NVIDIA、Meta、Sandisk 等股票 - Shacknews",
-        "descZh": "川普在伊朗戰爭拋售期間買入蘋果、NVIDIA、Meta、Sandisk 等科技公司股票&nbsp;&nbsp;Shacknews"
-      },
-      {
-        "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-        "desc": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-16 05:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普與習近平會談 「非常成功」，但確認的交易不多",
-        "descZh": "經過兩天的訪問，有許多精心安排的儀式，但卻沒有任何貿易突破。"
       }
     ]
   }
