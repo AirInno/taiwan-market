@@ -1,8 +1,8 @@
 name: YouTube 字幕自動抓取
 
+# 【已停用自動排程】2026-06-16 改用本機 Windows 排程（fetch_youtube.bat）抓字幕，
+# 因 GitHub 機房 IP 會被 YouTube 封鎖。此檔保留僅供手動測試（workflow_dispatch）。
 on:
-  schedule:
-    - cron: '0 8,12,16,20 * * *'
   workflow_dispatch:
 
 jobs:
