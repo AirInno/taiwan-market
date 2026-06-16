@@ -9,17 +9,23 @@ from youtube_transcript_api import YouTubeTranscriptApi
 CHANNEL_ID = "UC0lbAQVpenvfA2QqzsRtL_g"
 TZ_TAIPEI = timezone(timedelta(hours=8))
 RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/126.0.0.0 Safari/537.36"),
+    "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.8",
+}
 BRIEFINGS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "briefings")
 
 def main():
     api = YouTubeTranscriptApi()
     for attempt in range(3):
         try:
-            resp = requests.get(RSS_URL, timeout=30); resp.raise_for_status(); break
+            resp = requests.get(RSS_URL, headers=HEADERS, timeout=30); resp.raise_for_status(); break
         except Exception as e:
             if attempt == 2:
                 print(f"[ERROR] YouTube RSS 連續失敗 3 次：{e}"); return 1
-            print(f"[WARN] RSS 失敗，10 秒後重試 ({attempt+1}/3)：{e}"); time.sleep(10)
+            print(f"[WARN] RSS 失敗，15 秒後重試 ({attempt+1}/3)：{e}"); time.sleep(15)
 
     ns = {'atom':'http://www.w3.org/2005/Atom','yt':'http://www.youtube.com/xml/schemas/2015'}
     root = ET.fromstring(resp.content)
