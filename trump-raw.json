@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260620",
+    "fetchTime": "2026-06-20 05:40",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Trump unveils Qatari  luxury jet for Air Force One fleet",
+        "desc": "The refurbished Boeing 747-8 will be used to transport the US president once it completes a final test phase.",
+        "url": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-20 05:36",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普揭曉卡達製豪華噴射機，將納入「空軍一號」機隊",
+        "descZh": "這架經過翻新的波音 747-8 將在完成最後測試階段後，用於接載美國總統。"
+      },
+      {
+        "title": "The US World Cup star who couldn't be an American under Trump's plan",
+        "desc": "Folarin Balogun scored two goals on his World Cup debut, but he is the type of person President Trump is trying to ban under birthright citizenship.",
+        "url": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-19 19:21",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "那位在川普的計畫下無法成為美國公民的美國世界盃球星",
+        "descZh": "福拉林·巴洛貢在世界盃首秀中攻入兩球，但他正是川普總統試圖依據「出生公民權」政策加以禁止的那類人。"
+      },
+      {
+        "title": "In Trump's shadow, Vance becomes face of Iran deal",
+        "desc": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+        "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-19 12:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普的陰影下，范斯成為伊朗核協議的代言人",
+        "descZh": "在批評聲浪日益高漲之際，他仍對伊朗計畫進行強力辯護，而外界對他可能在2028年參選總統的揣測也隨之加劇。"
+      },
+      {
+        "title": "Trump Says Apple to Buy Computer Chips from Intel - The New York Times",
+        "desc": "Trump Says Apple to Buy Computer Chips from Intel&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
+        "pubTime": "2026-06-19 02:08",
+        "source": "news.google.com",
+        "titleZh": "川普表示蘋果將向英特爾採購電腦晶片——《紐約時報》",
+        "descZh": "川普表示蘋果將向英特爾採購電腦晶片&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
+        "desc": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT&nbsp;&nbsp;Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
+        "pubTime": "2026-06-18 21:18",
+        "source": "news.google.com",
+        "titleZh": "川普透露與蘋果的合作關係、與英偉達的聯手以及美國持股後，英特爾股價飆升 - 英特爾（NASDAQ:INT - Benzinga）",
+        "descZh": "川普透露與蘋果的合作關係、與英偉達的聯手以及美國持股後，英特爾股價飆升 - 英特爾 (NASDAQ:INT) &nbsp;Benzinga"
+      },
+      {
+        "title": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward - Business Insider",
+        "desc": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward&nbsp;&nbsp;Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUtzVDZWaFo2U0dqdEJhMjk5bGFpdlYzczE2RXVtMnljU1lkb0xpOWpQS0REMWtjbUtTN3BRdG5pdGpDNUdLdHZndWFrSzRlRksyRGN1SGZGSjNhYjFteDYzdEtrRkRsUVpoWmtvamJkZ0ppeVY0c0t6aVQtbElnTEZuaFVRc2dzSzROcWN3?oc=5",
+        "pubTime": "2026-06-18 19:14",
+        "source": "news.google.com",
+        "titleZh": "川普最新針對英特爾的推銷話術，讓這家晶片製造商的股價飆升 —— 《Business Insider》",
+        "descZh": "川普最新的英特爾推銷話術讓這家晶片製造商的股價飆升&nbsp;&nbsp;《Business Insider》"
+      },
+      {
+        "title": "The case for Trump’s tariffs doesn’t survive contact with the facts - Washington Examiner",
+        "desc": "The case for Trump’s tariffs doesn’t survive contact with the facts&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGtFakhRMThBX1FRX3ZHc2lMcG9BRlZJMXNRSm82cG9RRmNkRzdTYWVMaXJSS3ZlcEF6OFdOVl9SMTdGN19vQktKTVFMSzhxWkhkMzBfWXNxZnhZcnVjQkhxMHNkRjRsOTVaWDNIQUtOU3RDc182djJaR0hVbmdRV2pKbUVzM2pXSU8tcU1CdzM4enltSEI2ZGt4Zi12dS1vMlZYdDJRcFRDUmVoQk1MRk9yXzNwVWIwNkREZlhQYXIxLVVhMkcwVVZWa1psYnNsUlE?oc=5",
+        "pubTime": "2026-06-18 18:00",
+        "source": "news.google.com",
+        "titleZh": "川普加徵關稅的論點經不起事實檢驗——《華盛頓觀察家報》",
+        "descZh": "特朗普徵收關稅的論點經不起事實的檢驗&nbsp;&nbsp;《華盛頓觀察家報》"
+      },
+      {
+        "title": "Michigan workers don’t need tariffs to build — they need tools to compete | Opinion - The Detroit News",
+        "desc": "Michigan workers don’t need tariffs to build — they need tools to compete | Opinion&nbsp;&nbsp;The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0FEU195RTdpcEpTbDEyWVhiaXNnWXRmXzBnY3g3cEVwNkFzWUd5YmZGLXRjS0JTNUwycnJZX3hnUURXNjBVc0pvQUxoTkFGaEE5blpxRmRwb29TalB3X1FoM1hjdlFGQUtuNzJyZzE3REZwaWxzVnpqYllQWF9aOFJ4MGtHVkdhTTkzVWhlVjhiU1NDZlV6c014OUFTZllacFJiM1gyQ1FIOHF2ZjFuanJWN1JwRUpwaEVGSVd3?oc=5",
+        "pubTime": "2026-06-18 06:15",
+        "source": "news.google.com",
+        "titleZh": "密西根州的勞工不需要關稅來發展——他們需要的是競爭所需的工具 | 評論 - 《底特律新聞報》",
+        "descZh": "密西根州的勞工不需要關稅來發展——他們需要的是競爭的工具 | 評論&nbsp;&nbsp;《底特律新聞報》"
+      }
+    ]
+  },
+  {
     "date": "20260619",
     "fetchTime": "2026-06-19 06:27",
     "count": 9,
@@ -2782,94 +2861,6 @@
         "source": "news.google.com",
         "titleZh": "歐盟以美國貿易妥協避免川普關稅升級 - 今日歐盟",
         "descZh": "歐盟以美國貿易妥協避免川普關稅升級&nbsp;&nbsp;今日歐盟"
-      }
-    ]
-  },
-  {
-    "date": "20260521",
-    "fetchTime": "2026-05-21 06:08",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Watch: Did Trump and Putin get the same treatment in China?",
-        "desc": "Chinese President Xi Jinping welcomed Russia's Vladimir Putin with a near-identical ceremony to Trump's last week.",
-        "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-20 20:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：川普和普京在中國得到了同樣的待遇嗎？",
-        "descZh": "中國國家主席習近平上周以與特朗普幾乎相同的儀式歡迎俄羅斯的普京。"
-      },
-      {
-        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
-        "desc": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms.",
-        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-20 17:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "麥斯落敗，川普對共和黨的控制力大增",
-        "descZh": "在肯塔基州擊敗共和黨反叛者的勝利顯示了總統的實力，但他的實力也為中期選舉帶來了風險。"
-      },
-      {
-        "title": "EU moves to avert Trump tariff escalation with US trade compromise - EU Today",
-        "desc": "EU moves to avert Trump tariff escalation with US trade compromise&nbsp;&nbsp;EU Today",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFlSRmg5eVktZW1QMXU4V0RaOWpNdUVzTWdGaUNnZHBDSkNhMWhfSWg4bVhuU0pnN1E5Yng2emxOU3lfUEg2cW1jT0VOZlpfTHpVNDNyOXJIN3NUaHBLbmFMTzlwOTVSS2ZJTEoyMmdMOTFPWGVZTVpKeExOR3VaRUc3Q0FsSGhLQ2VNZmF0NWU?oc=5",
-        "pubTime": "2026-05-20 14:54",
-        "source": "news.google.com",
-        "titleZh": "歐盟以美國貿易妥協避免川普關稅升級 - 今日歐盟",
-        "descZh": "歐盟以美國貿易妥協避免特朗普關稅升級&nbsp;&nbsp;今日歐盟"
-      },
-      {
-        "title": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
-        "desc": "Trump's move dismayed Senate Republicans, many of whom have served with the Texan for decades.",
-        "url": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-20 08:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在德州為帕克斯頓背書，在一場關鍵競選中賭上有包袱的挑戰者",
-        "descZh": "川普此舉讓參議院共和黨人大失所望，其中許多人曾與這位德州人共事數十年。"
-      },
-      {
-        "title": "'Not a big fan' - Top Republican breaks with Trump on $1.8bn compensation fund",
-        "desc": "The justice department also expanded the settlement to block the IRS from pursuing past or pending tax audits on Trump.",
-        "url": "https://www.bbc.com/news/articles/cd9pzp50npeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-20 07:08",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "我不太喜歡」- 共和黨高層在 18 億美元賠償基金上與川普唱反調",
-        "descZh": "司法部還擴大了和解範圍，阻止國稅局對 Trump 進行過去或待定的稅務審計。"
-      },
-      {
-        "title": "Trump says Taiwan 'stole our chip industry' — but TSMC was built by a US citizen and 25-year Texas Instruments veteran - Yahoo Finance",
-        "desc": "Trump says Taiwan 'stole our chip industry' — but TSMC was built by a US citizen and 25-year Texas Instruments veteran&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlzZFdYTXExWk51YzBOY2ZZZGc2WUkxc1BBa1UzbGtEOE9HRzRKemlMVzRwa3ZleWkybnlhZ0hOOElBRzA0QVE4WEhtUm9rcVN5dTRpbFRURldKNnRVUGZMb2YxVS1jNGtSc04xVlFhdFk0V3ppY2o2SWFtOXNpRXdfRWxaS3ZlNE9KSUpIVi1lYVZZTHJfRGNvam5PZw?oc=5",
-        "pubTime": "2026-05-20 05:10",
-        "source": "news.google.com",
-        "titleZh": "川普說台灣「偷走了我們的晶片產業」 - 但台積電的創辦人是美國公民，也是在德州儀器工作了 25 年的老兵 - Yahoo Finance",
-        "descZh": "川普說台灣「偷走了我們的晶片產業」 - 但台積電的創辦人是美國公民，也是在德州儀器工作 25 年的老兵&nbsp;&nbsp;雅虎財經"
-      },
-      {
-        "title": "Watch: Can a Republican win an election while at war with Trump?",
-        "desc": "Thomas Massie, the Republican congressman from Kentucky who led the release of the Epstein files, is running against a Trump-backed primary challenger.",
-        "url": "https://www.bbc.com/news/videos/c1j29xxg53wo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-19 22:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：共和黨人能否在與特朗普交戰的同時贏得選舉？",
-        "descZh": "帶頭公開 Epstein 檔案的肯塔基州共和黨國會議員 Thomas Massie，正在與川普支持的初選挑戰者競選。"
-      },
-      {
-        "title": "European Union Moves to Cut United States Import Duties to Prevent Trump Tariff Escalation - Modern Diplomacy",
-        "desc": "European Union Moves to Cut United States Import Duties to Prevent Trump Tariff Escalation&nbsp;&nbsp;Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUi10Mk5HakJfVVJZRmdrV252UE1Kd1ZSQ2gtQ1RoUGd2SkV4ZC1KeVVqQ3g5OUdiMGszaFA5U09fX1lVaG5nMk96V2JGUG40V1lKQVRKcVdacTJCZi15cTRUa1g2MF9XUnpqLXZoVnlSc2FKU0x6XzBiZFVoblQxWjd3Nm1xQlJNMTFSTUJ2N0I3a29RRXNrS3E5WnJXS21TTDJRbTRuYzRrV3FfRVRUd19qNTRmZFhNeHp1NnJqR1JrMEYzWW0zUw?oc=5",
-        "pubTime": "2026-05-19 16:18",
-        "source": "news.google.com",
-        "titleZh": "歐盟為防止川普升級關稅而削減美國進口關稅 - 現代外交",
-        "descZh": "歐盟為防止特朗普關稅升級而削減美國進口關稅&nbsp;&nbsp;現代外交"
-      },
-      {
-        "title": "EU Races to Finalize US Trade Deal to Avoid More Trump Tariffs - Yahoo Finance",
-        "desc": "EU Races to Finalize US Trade Deal to Avoid More Trump Tariffs&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3NObGtPSUZyWVc1WUxGVkFrMjZyVmIxVU1ndHpGV0lZSzNSRVM3aERuMEROcWt6eE1mRGltYW1jOGxCRWtXcnlkbHVrT1k3TzFqTW9wOEMxYk41WFZ4SjJ6c0MxNHJvbXJTSzdpa0VKMl8wOTI4a05raG1uTWVCWElGZEtyMENDcEo4N1MzTTlaTEloQ2c?oc=5",
-        "pubTime": "2026-05-19 12:15",
-        "source": "news.google.com",
-        "titleZh": "歐盟爭取敲定美國貿易協議以避免更多川普關稅 - Yahoo Finance",
-        "descZh": "歐盟爭取敲定美國貿易協議以避免川普加征更多關稅&nbsp;&nbsp;雅虎財經"
       }
     ]
   }
