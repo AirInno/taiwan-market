@@ -1,5 +1,48 @@
 [
   {
+    "date": "20260621",
+    "fetchTime": "2026-06-21 05:43",
+    "count": 4,
+    "articles": [
+      {
+        "title": "Another rumble in the trade jungle: Will Trump’s new tariffs survive a court challenge? - The Straits Times",
+        "desc": "Another rumble in the trade jungle: Will Trump’s new tariffs survive a court challenge?&nbsp;&nbsp;The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHY2OTk0Rl9XZXJ2Rkp5X3o0SGJPRGRJY3lfcHQ3Y0xINktwVUVoOEV3RWVuRHBkTzVxeXJjU3ZBazNOVElPTnJhSnFxdmx3ZEFUTGxsRVJVQ1djOGFJRnZJcm9qMElKeGlxR0VYN1IyUXFzaDlUOTVpR2dJaGRscHJhcFJjNmVCV0wxdkxfcVpqQk9pdFZkajlVOHpmajRReGM3cV9yYktnVno3UEtPdzVkd2JrZnB3d0g3WVZLWVlnTDdqZTI2SXFBOEsxQQ?oc=5",
+        "pubTime": "2026-06-20 13:00",
+        "source": "news.google.com",
+        "titleZh": "貿易叢林再起波瀾：川普的新關稅能否經得起法庭挑戰？——《海峽時報》",
+        "descZh": "貿易叢林再起波瀾：川普的新關稅能否經得起法庭挑戰？&nbsp;&nbsp;《海峽時報》"
+      },
+      {
+        "title": "Trump unveils Qatari luxury jet for Air Force One fleet",
+        "desc": "The refurbished Boeing 747-8 will be used to transport the US president once it completes a final test phase.",
+        "url": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-20 06:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普揭曉卡達製豪華噴射機，將納入「空軍一號」機隊",
+        "descZh": "這架經過翻新的波音 747-8 將在完成最後測試階段後，用於接載美國總統。"
+      },
+      {
+        "title": "The US World Cup star who couldn't be an American under Trump's plan",
+        "desc": "Folarin Balogun scored two goals on his World Cup debut, but he is the type of person President Trump is trying to ban under birthright citizenship.",
+        "url": "https://www.bbc.com/sport/football/articles/c2ly0kx05jdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-19 19:21",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "那位在川普的計畫下無法成為美國公民的美國世界盃球星",
+        "descZh": "福拉林·巴洛貢在世界盃首秀中攻入兩球，但他正是川普總統試圖依據「出生公民權」政策加以禁止的那類人。"
+      },
+      {
+        "title": "In Trump's shadow, Vance becomes face of Iran deal",
+        "desc": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+        "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-19 12:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普的陰影下，范斯成為伊朗核協議的代言人",
+        "descZh": "在批評聲浪日益高漲之際，他仍對伊朗計畫進行強力辯護，而外界對他可能在2028年參選總統的揣測也隨之加劇。"
+      }
+    ]
+  },
+  {
     "date": "20260620",
     "fetchTime": "2026-06-20 05:40",
     "count": 8,
@@ -2773,94 +2816,6 @@
         "source": "news.google.com",
         "titleZh": "歐盟為避免川普新的關稅升級，著手敲定美國貿易協議 - Tekedia",
         "descZh": "歐盟為避免川普新的關稅升級動作敲定美國貿易協議&nbsp;&nbsp;Tekedia"
-      }
-    ]
-  },
-  {
-    "date": "20260522",
-    "fetchTime": "2026-05-22 05:54",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
-        "desc": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
-        "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-22 02:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國起訴勞爾-卡斯特羅後，古巴危機的三種演變方式",
-        "descZh": "川普政府一直對島上的共產黨政府施加巨大的經濟壓力。"
-      },
-      {
-        "title": "Vanessa Trump, ex-wife of Donald Trump Jr, diagnosed with breast cancer",
-        "desc": "Vanessa Trump said she underwent a medical procedure and asked the public for privacy while she focuses on her health.",
-        "url": "https://www.bbc.com/news/articles/c93xve8w4yyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-22 00:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "小唐納德‧川普的前妻 Vanessa Trump 診斷罹患乳癌",
-        "descZh": "Vanessa Trump 表示她接受了一項醫療程序，並要求大眾在她專注於健康期間保護她的隱私。"
-      },
-      {
-        "title": "Trump says he will speak to Taiwan's president in break from protocol",
-        "desc": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
-        "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-21 21:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示將與台灣總統通話，打破禮儀規範",
-        "descZh": "這件事發生在美國正在衡量是否繼續向台灣出售價值 140 億美元的軍火之際，中國聲稱台灣是自己的家。"
-      },
-      {
-        "title": "Commentary: Trump's Taiwan chip claim tests TSMC's silence - digitimes",
-        "desc": "Commentary: Trump's Taiwan chip claim tests TSMC's silence&nbsp;&nbsp;digitimes",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTJMdG9XWjJ1TktYZHYzX09NMkdMRElWWkJWbnpqMUd0eHNVOVc2RTdkRE0zeEpiQ250VGV1bDBVTkJOd0ZFcHJKbTFZbnlJd0txb0NmMFZyVVJnWDVOMVUzRENRQV9XOEl1Q1JSWXVBSHdCT1FBeDBJalNabkkyeW5MRDdMT2Q1NWdlQ2JiLUtfTWJyakU4SjV3NjJ5TjFRbXBuamJNdw?oc=5",
-        "pubTime": "2026-05-21 16:30",
-        "source": "news.google.com",
-        "titleZh": "評論：川普的台灣晶片聲稱考驗台積電的沉默 - digitimes",
-        "descZh": "評論：川普的台灣晶片聲稱考驗台積電的沉默&nbsp;&nbsp;digitimes"
-      },
-      {
-        "title": "How Trump's IRS settlement could block tax audits of him, his family and their businesses",
-        "desc": "Some lawmakers and legal experts say the department has violated federal law with its addendum to the settlement.",
-        "url": "https://www.bbc.com/news/articles/cn0pk2e22jro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-21 10:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普與國稅局的和解如何阻止對他、他的家人及其企業的稅務稽查",
-        "descZh": "一些立法者和法律專家表示，該部門的和解附錄違反了聯邦法律。"
-      },
-      {
-        "title": "Why Trump invested in this Japanese sushi company - AFR",
-        "desc": "Why Trump invested in this Japanese sushi company&nbsp;&nbsp;AFR",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNS1reGxmRUFJb3RndTN6bDFDZUdRTzJ0RWNzSVlfeVJoYjlrcVBzYlJ5SHF0THdRc1JZZldtd05lVnBmX01HWS1CX19hOUpRTUdDWlVSNktzVTdVamt0bzhSRTl1S3pudjNrb0VUMXoxMWdvdUNFeVZlWktBVFBBSExmeTl0ZUp0eGZCWXpOSTVBSmlWNXpxUTZuUWk?oc=5",
-        "pubTime": "2026-05-21 09:31",
-        "source": "news.google.com",
-        "titleZh": "川普為何投資這家日本壽司公司 - AFR",
-        "descZh": "川普為何投資這家日本壽司公司&nbsp;&nbsp;AFR"
-      },
-      {
-        "title": "Watch: Did Trump and Putin get the same treatment in China?",
-        "desc": "Chinese President Xi Jinping welcomed Russia's Vladimir Putin with a near-identical ceremony to Trump's last week.",
-        "url": "https://www.bbc.com/news/videos/ce8prm60yx0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-20 20:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：川普和普京在中國得到了同樣的待遇嗎？",
-        "descZh": "中國國家主席習近平上周以與特朗普幾乎相同的儀式歡迎俄羅斯的普京。"
-      },
-      {
-        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
-        "desc": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms.",
-        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-20 17:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "麥斯落敗，川普對共和黨的控制力大增",
-        "descZh": "在肯塔基州擊敗共和黨反叛者的勝利顯示了總統的實力，但他的實力也為中期選舉帶來了風險。"
-      },
-      {
-        "title": "EU moves to avert Trump tariff escalation with US trade compromise - EU Today",
-        "desc": "EU moves to avert Trump tariff escalation with US trade compromise&nbsp;&nbsp;EU Today",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFlSRmg5eVktZW1QMXU4V0RaOWpNdUVzTWdGaUNnZHBDSkNhMWhfSWg4bVhuU0pnN1E5Yng2emxOU3lfUEg2cW1jT0VOZlpfTHpVNDNyOXJIN3NUaHBLbmFMTzlwOTVSS2ZJTEoyMmdMOTFPWGVZTVpKeExOR3VaRUc3Q0FsSGhLQ2VNZmF0NWU?oc=5",
-        "pubTime": "2026-05-20 14:54",
-        "source": "news.google.com",
-        "titleZh": "歐盟以美國貿易妥協避免川普關稅升級 - 今日歐盟",
-        "descZh": "歐盟以美國貿易妥協避免川普關稅升級&nbsp;&nbsp;今日歐盟"
       }
     ]
   }
