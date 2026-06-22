@@ -1,5 +1,66 @@
 [
   {
+    "date": "20260623",
+    "fetchTime": "2026-06-23 06:19",
+    "count": 6,
+    "articles": [
+      {
+        "title": "What does Trump want from a new UK prime minister?",
+        "desc": "The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.",
+        "url": "https://www.bbc.com/news/videos/c2kyz2eqxwvo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-23 05:51",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普對英國新任首相有何期待？",
+        "descZh": "美國總統曾被認為與基爾·斯塔默關係密切，但隨著伊朗戰爭的爆發，這段友誼迅速破裂。"
+      },
+      {
+        "title": "Watch: 'I wish him well' - Trump reacts to Starmer's resignation",
+        "desc": "The US President criticised the UK’s approach to energy and immigration arguing that the prime minister's decisions had hurt him politically.",
+        "url": "https://www.bbc.com/news/videos/cq618p80y2eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-23 05:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：〈「祝他一切順利」——川普對史塔默辭職一事作出回應〉",
+        "descZh": "美國總統批評英國在能源與移民問題上的做法，並指出首相的決策在政治上對他造成了損害。"
+      },
+      {
+        "title": "Trump's New US Tariff Wall Shakes Up Winners, Losers Lineup - Yahoo Finance",
+        "desc": "Trump's New US Tariff Wall Shakes Up Winners, Losers Lineup&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHRlZnVjTFhYRGY2cWJRSl9oV0VhU2sxT2xuejJaeXdTSmtJd0pmbHowcTI0bGNhRnNWTVJRYkpjTUZIX0x1NlBlazBfbEpHYTVDQy03eXdlZzFiTW11YWQ2WTVzSWt1NG9zN3VJWC1iam5KcWIxWUtXbjBmYXRybjVwNkJoLXNmUV8wOWdoZDkwLWY0RkJ2NlZENnAyeThLNWpDT0E3UWZlRVlkOUlkU2dSX1FiSjIxT2xlc1JpVQ?oc=5",
+        "pubTime": "2026-06-22 14:17",
+        "source": "news.google.com",
+        "titleZh": "川普的新一輪美國關稅壁壘顛覆了贏家與輸家的陣容 - 雅虎財經",
+        "descZh": "川普的新一輪美國關稅壁壘顛覆了贏家與輸家的陣容&nbsp;&nbsp;Yahoo Finance"
+      },
+      {
+        "title": "China Could Win Taiwan Without Fighting - Foreign Affairs",
+        "desc": "China Could Win Taiwan Without Fighting&nbsp;&nbsp;Foreign Affairs",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1dpekFVa215N3RRMHp2UWl2cGRKRXFiTk03QjhObVNTUXVCX3NFRThpNzR5RS1wU05YYjhaMUhyemJXSDFaRHdxcTNsR3V1NUpFdHVPSkszTUEwYmxaMnRxOWFSQk5PWmo4aDNLY0JfN0JFRjJWVjVNeno0ekRYTVBuMA?oc=5",
+        "pubTime": "2026-06-22 12:00",
+        "source": "news.google.com",
+        "titleZh": "中國可能不戰而勝台灣——《外交事務》",
+        "descZh": "中國可能在不開戰的情況下收復台灣&nbsp;&nbsp;《外交事務》"
+      },
+      {
+        "title": "Trump says repairs to algae-plagued Reflecting Pool will begin immediately",
+        "desc": "Despite a multi-million dollar renovation, the Washington DC landmark has peeling paint and algae. Trump claims vandals are partly to blame.",
+        "url": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-22 08:54",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，將立即開始對受藻類侵擾的「倒影池」進行修復工程",
+        "descZh": "儘管耗資數百萬美元進行翻新，這座位於華盛頓特區的地標建築仍出現油漆剝落和藻類滋生的情況。川普聲稱，這部分要歸咎於破壞者。"
+      },
+      {
+        "title": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks - TechStock²",
+        "desc": "What Donald Trump and his family are investing in: Nvidia, Trump Media and bitcoin stocks&nbsp;&nbsp;TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGIxaUNWNWVoN0NQSmM2bklZQVdhWkRWT05HM2JBUy1adkJIQzdqamdIME1ocENvYlZUekZFZ1Q4YlFUb3ByLVQtUWVnRlJBRU1SaDRNclNPR3J4c0tCR3RiSDJSaHpKY0IxYVNmODZDN1E0QWtuSkg0VlNqMVpocF9UX0czcVNqYjBnbllWTmtsRURQTGxCQWhCZFlKYnNXWWZFaXZjcjRRVDJz?oc=5",
+        "pubTime": "2026-06-22 01:07",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普及其家人正在投資哪些標的：Nvidia、Trump Media 以及比特幣相關股票 —— TechStock²",
+        "descZh": "唐納德·川普及其家人正在投資哪些標的：Nvidia、Trump Media 以及比特幣相關股票&nbsp;&nbsp;TechStock²"
+      }
+    ]
+  },
+  {
     "date": "20260622",
     "fetchTime": "2026-06-22 05:48",
     "count": 10,
@@ -2674,112 +2735,6 @@
         "source": "news.google.com",
         "titleZh": "川普重提晶片竊案，對台灣半導體公司施壓 - digitimes",
         "descZh": "川普重提晶片竊案，對台灣半導體公司施壓&nbsp;&nbsp;digitimes"
-      }
-    ]
-  },
-  {
-    "date": "20260524",
-    "fetchTime": "2026-05-24 05:11",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Trump says deal with Iran 'largely negotiated' and would include opening Strait of Hormuz",
-        "desc": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-        "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-24 05:07",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示與伊朗的協議「大體上已經談妥」，並將包括開放霍爾木玆海峽",
-        "descZh": "德黑蘭也示意會談將取得進展，但表示核武這個關鍵問題並不屬於其正在努力的初步框架。"
-      },
-      {
-        "title": "Trump revives chip theft claim, heaping pressure on Taiwan semiconductor firms - digitimes",
-        "desc": "Trump revives chip theft claim, heaping pressure on Taiwan semiconductor firms&nbsp;&nbsp;digitimes",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXotS28yMUpwM084VDJHLWZtdDNnRDdWd1YxMjR5eFdOVHg5T3JpbDBVUG8yUE9mVkktMU5pOWhqQkhzMXdHazdMRi1tbFNQTDBubGtfaE42Tk54SS1CZU9BNHVBVVd2YnkwUUVyN3MzZ2gyV3d0YnJmSXJsZDdYQ0k4RTJocDhnZFJUY0trMWVNOW9XeWlhTzFObXI2dVJ3eVZpWE52MThUeUIxTnc?oc=5",
-        "pubTime": "2026-05-23 11:32",
-        "source": "news.google.com",
-        "titleZh": "川普重提晶片竊案，對台灣半導體公司施壓 - digitimes",
-        "descZh": "川普重提晶片竊案，對台灣半導體公司施壓&nbsp;&nbsp;digitimes"
-      },
-      {
-        "title": "Who's eligible for the 'Anti-Weaponisation Fund'? Trump's critics think they might be",
-        "desc": "Eligibility for the fund appear broad, as Republicans and Democrats demand answers and guardrails",
-        "url": "https://www.bbc.com/news/articles/c1m2j8lnnm5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-23 03:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "誰有資格申請「反武裝化基金」？川普的批評者認為他們可能是",
-        "descZh": "基金的資格似乎很廣泛，共和黨和民主黨都要求答案和防範措施"
-      },
-      {
-        "title": "'Stupid on stilts' - Trump's investigation compensation fund draws ire of Republicans",
-        "desc": "The $1.8bn (£1.3bn) fund compensates individuals \"unfairly\" investigated under previous presidents.",
-        "url": "https://www.bbc.com/news/articles/cx21d41p6dzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-23 02:55",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "高蹺上的愚蠢」--川普的調查賠償基金引起共和黨人的憤怒",
-        "descZh": "該基金總值 18 億美元（13 億英鎊），用以補償在前任總統統治下受到「不公平」調查的個人。"
-      },
-      {
-        "title": "Trump is putting pressure on Cuba - why and to what end?",
-        "desc": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
-        "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-23 02:33",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普向古巴施壓 - 原因和目的為何？",
-        "descZh": "美國警告與古巴達成和平協議的可能性不大，哈瓦那堅稱這是「詐騙案」，目的是為軍事干預辯護。"
-      },
-      {
-        "title": "Trump wants new Fed chair to be 'totally independent'",
-        "desc": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
-        "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-23 02:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普希望新任美聯儲主席「完全獨立",
-        "descZh": "美國總統對 Kevin Warsh 的前任施加了降息的重大壓力。"
-      },
-      {
-        "title": "Rubio tries to reassure Nato allies over US troop deployments",
-        "desc": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-22 23:18",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "魯比奥試圖就美國的軍隊部署向北約盟友作出保證",
-        "descZh": "美國總統唐納德‧川普（Donald Trump）表示，他希望派遣更多軍隊到波蘭，一周前他的官員取消了類似部署。"
-      },
-      {
-        "title": "How Trump's IRS settlement could block tax audits of him, his family and their businesses",
-        "desc": "Some lawmakers and legal experts say the department has violated federal law with its addendum to the settlement agreement.",
-        "url": "https://www.bbc.com/news/articles/cn0pk2e22jro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-22 21:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普與國稅局的和解如何阻止對他、他的家人及其企業的稅務稽查",
-        "descZh": "一些立法者和法律專家表示，該部門的和解協議附錄違反了聯邦法律。"
-      },
-      {
-        "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
-        "desc": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
-        "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-22 18:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何數以千計與川普有關的股票交易令人瞠目結舌？",
-        "descZh": "BBC 的 Michelle Fleury 瞭解總統披露的交易。"
-      },
-      {
-        "title": "Amazon Faces Lawsuit Over Alleged Retention of Trump Tariff Refund Benefits - CXO Digitalpulse",
-        "desc": "Amazon Faces Lawsuit Over Alleged Retention of Trump Tariff Refund Benefits&nbsp;&nbsp;CXO Digitalpulse",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemF4d1A5Y1BQWGZYT1ZPamNMU1plWHhLNjQ3elhfTnNiMHJzT0lROUViQXdUQTZfMkQyRDZNb2phVDljc1YyR0lMVVp3dF9LU29GLTNtNXhJUk1adk8xZ0xmZTN6X0VLUXptdkhScnlIWVdzUnRJYTJPWFczenRCcE5TNF8xOFdLblRRaWhnUUJKLVVQQmFSVm1kV21BbV9lQU9tREZnUmhrMVVQ?oc=5",
-        "pubTime": "2026-05-22 17:28",
-        "source": "news.google.com",
-        "titleZh": "亞馬遜因涉嫌保留川普關稅退稅優惠面臨訴訟 - CXO Digitalpulse",
-        "descZh": "亞馬遜因涉嫌保留川普關稅退稅優惠面臨訴訟&nbsp;&nbsp;CXO Digitalpulse"
-      },
-      {
-        "title": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief - The Guardian",
-        "desc": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVE3RlV6Wk5nMWZXOUc4Znl1UlczaU5jR3ZiYml3YnAxVVRKT3ZoUWVST0EydEJubWh4RG5DYWtIcE9IOGtFUG9CaG1vWTdYWUY3Z1c0YzZFRHM1VTlaTHVDZU55TXFVRDVmbkhnaTA2VHVsYkk1TmpLZ245ejhJMzJ6ek5ib3p4S0lmZlVYa3N2X0dhaU02Qm8zZ285QmQtcF9JU2dZcw?oc=5",
-        "pubTime": "2026-05-22 17:08",
-        "source": "news.google.com",
-        "titleZh": "美國代理海軍部長表示，由於伊朗戰爭，美國對台軍售處於「暫停」狀態 - 衛報",
-        "descZh": "美國代理海軍部長表示，因伊朗戰爭，美國對台軍售「暫停」&nbsp;&nbsp;衛報"
       }
     ]
   }
