@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260626",
+    "fetchTime": "2026-06-26 05:56",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "desc": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-26 02:43",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院允許川普終止海地與敘利亞移民的受保護身分",
+        "descZh": "這項裁決為川普政府遣返數十萬名已在美國居住多年的移民鋪平了道路。"
+      },
+      {
+        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "desc": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+        "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-25 17:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在與共和黨人關係緊張之後，川普向國會申請數十億資金以應對伊朗戰爭",
+        "descZh": "然而，由於總統與自己黨內部分成員就此事產生分歧，這項預算案面臨著艱鉅的挑戰。"
+      },
+      {
+        "title": "Thousands gather for the Great American State Fair",
+        "desc": "The rally on the National Mall is one of a range of events planned by Donald Trump to celebrate America's 250th year of independence.",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8kv399pxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-25 14:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "數千人齊聚「美國大州博覽會」",
+        "descZh": "在國家廣場舉行的集會，是唐納德·川普為慶祝美國獨立250週年所規劃的一系列活動之一。"
+      },
+      {
+        "title": "Trump launches America250 festivities with a rally on the National Mall",
+        "desc": "A stealth bomber flyover and a Trump speech in the nation's capital kicks off weeks of festivities.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-25 10:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在國家廣場舉行集會，為「美國250」慶祝活動揭開序幕",
+        "descZh": "一架隱形轟炸機的飛越表演，以及川普在首都的演說，拉開了為期數週慶典活動的序幕。"
+      },
+      {
+        "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
+        "desc": "Congress earlier approved the legislation in a rare, bipartisan move, signalling how pressing the housing issue has become for American voters.",
+        "url": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-25 06:20",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普取消簽署一項旨在降低住房成本的具有里程碑意義的兩黨法案",
+        "descZh": "國會先前以罕見的跨黨派合作方式通過了這項法案，這顯示住房問題對美國選民而言已變得何等迫切。"
+      },
+      {
+        "title": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions? - Foreign Policy",
+        "desc": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ052dnZLdGt1LUg1SVFoa0NoVlVlVHVvbExSX180V1JVWlNKSEtYMDFWdWlHWkFoVzBVdmVHQmRIRnZ2dHFSTjVwY2otdEFXdlhpN1VVUmhtUkNEVU5qTXkyVFF0ZU1TS1ZrMHJtY0xOOHpzOHJ2SWlzTVV4b2p6UnhNUTkzYWtBYXhMSDU2Y29iUEJTLXg0?oc=5",
+        "pubTime": "2026-06-25 05:25",
+        "source": "news.google.com",
+        "titleZh": "魯特能否以甜言蜜語安撫川普，從而緩解北約的緊張局勢？——《外交政策》",
+        "descZh": "魯特能否用甜言蜜語安撫川普，以緩解北約的緊張局勢？&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "Why Trump is so annoyed by Republican discord on Iran war",
+        "desc": "The BBC's Gary O'Donoghue explains why the war powers vote shows the president's grip on his party slipping.",
+        "url": "https://www.bbc.co.uk/news/videos/cx24793rx4lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-25 05:22",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何川普對共和黨內部在伊朗戰爭問題上的分歧如此惱火",
+        "descZh": "英國廣播公司（BBC）的蓋瑞·奧唐納休（Gary O'Donoghue）解釋了為何這次關於戰爭權力的表決顯示，總統對其政黨的掌控力正在減弱。"
+      },
+      {
+        "title": "Trump clashed with Lutnick over India tariff data, book says - PRESS Insider",
+        "desc": "Trump clashed with Lutnick over India tariff data, book says&nbsp;&nbsp;PRESS Insider",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWFEdEtiNFBSZzBfd1EweXpkdUd0ZWpGM2t3RS11TDhoRVZDakhkbFR0MGtOZXdlbHp5SHFkS21tRUFOTDhjUC1jNDBXNFpBOUtCSTJmZDRwR1I2MnBrM1B6MDYxN1dzbHBsNlJ6VWRWb05sVnBmR0R3SjVZSUF4WE9WRmhxUUlkRUNKal9GOGd3ekRu?oc=5",
+        "pubTime": "2026-06-24 16:54",
+        "source": "news.google.com",
+        "titleZh": "書籍指出，川普曾因印度關稅數據一事與盧特尼克發生衝突 —— PRESS Insider",
+        "descZh": "據書中所述，川普曾因印度的關稅數據與盧特尼克發生衝突&nbsp;&nbsp;PRESS Insider"
+      }
+    ]
+  },
+  {
     "date": "20260625",
     "fetchTime": "2026-06-25 05:50",
     "count": 14,
@@ -2809,40 +2888,6 @@
         "source": "news.google.com",
         "titleZh": "川普關稅的代價 - 數據揭示了什麼（實錄） - 星州郵報",
         "descZh": "川普加徵關稅的代價 - 數據揭示了什麼 (實錄)&nbsp;&nbsp;星州郵報"
-      }
-    ]
-  },
-  {
-    "date": "20260527",
-    "fetchTime": "2026-05-27 05:59",
-    "count": 3,
-    "articles": [
-      {
-        "title": "Why Has Trump Stopped Selling Weapons to Taiwan? - Reason Magazine",
-        "desc": "Why Has Trump Stopped Selling Weapons to Taiwan?&nbsp;&nbsp;Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0syRnpLeWhWczN4aEpGRGZOd3VYSU5fT0NZTFhncU5NSmNuMXdXU1lsb295Zy1lQUM0Y3hCU1JuUUNHY0dfVjQ1WGZ1aFFBWlZKMHVEX2s1TDlZeC1wb0oyZV9hVGRXQVFsblpPNjlGUWZvdzhDMlh1RkV3ZlFMSFVfQ24?oc=5",
-        "pubTime": "2026-05-27 04:28",
-        "source": "news.google.com",
-        "titleZh": "為何特朗普停止向台灣出售武器？- 理性雜誌",
-        "descZh": "為何特朗普停止向台灣出售武器？"
-      },
-      {
-        "title": "The Price of Trump’s Tariffs – What the Data Reveals (Transcript) - The Singju Post",
-        "desc": "The Price of Trump’s Tariffs – What the Data Reveals (Transcript)&nbsp;&nbsp;The Singju Post",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzk5NzVyRl8yZkM0N3cxU0IyTHBqelBIdkh2MjduaUZzbzVocEdxaUdhSklCODROdUx6WFRLck12U0hDODNYMGNyNkxrbEpRU3lucmtvQ3ZHUnYzX2sxNFBKbGZ3cEszd3hEb1FxZFZvcURWcXg5RFcxSW85QnhvbC0wMFdVNTlqNVpacQ?oc=5",
-        "pubTime": "2026-05-26 14:15",
-        "source": "news.google.com",
-        "titleZh": "川普關稅的代價 - 數據揭示了什麼（實錄） - 星州郵報",
-        "descZh": "川普加徵關稅的代價 - 數據揭示了什麼 (實錄)&nbsp;&nbsp;星州郵報"
-      },
-      {
-        "title": "Watch: Trump to have annual medical exam ahead of 80th birthday",
-        "desc": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
-        "url": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-26 06:18",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：川普將在 80 歲生日前進行年度體檢",
-        "descZh": "BBC 的 Bernd Debusmann 解釋美國總統的例行體檢。"
       }
     ]
   }
