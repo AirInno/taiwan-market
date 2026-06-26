@@ -451,23 +451,30 @@ write "今日無重大川普動態，市場影響中性" in 📌 摘要，其餘
 **IMPORTANT: curl and node have no network access in this sandbox. Use git clone/push instead.**
 
 ```bash
+# 0. 計算「今天」日期 — 必須用台灣時間（UTC+8），不可用 UTC
+#    本任務於台灣 05:25 執行，此時 UTC 仍是「前一天」，用 UTC date 會讓簡報日期慢一天。
+#    下式以 UTC+8 推算，不依賴 tzdata，最穩健：
+TODAY=$(date -u -d "@$(( $(date -u +%s) + 28800 ))" +%Y%m%d)
+echo "今日日期（台灣 UTC+8）: $TODAY"   # 例如 20260626
+#    ↑ 後續所有檔名、commit 訊息、以及簡報標題中的 [DATE] 一律使用此 $TODAY 值。
+
 # 1. Clone repo (if not already cloned this session)
 git clone https://GITHUB_TOKEN_FROM_SKILL_MD@github.com/AirInno/taiwan-market.git /tmp/tw-repo
 
 # 2. Write files
-# Write Taiwan briefing to /tmp/tw-repo/briefings/YYYYMMDD-tw.md
-# Write Trump briefing to /tmp/tw-repo/briefings/YYYYMMDD-trump.md
+# Write Taiwan briefing to /tmp/tw-repo/briefings/${TODAY}-tw.md
+# Write Trump briefing to /tmp/tw-repo/briefings/${TODAY}-trump.md
 
 # 3. Commit and push
 cd /tmp/tw-repo
 git config user.email "agent@briefing.bot"
 git config user.name "Briefing Agent"
-git add briefings/YYYYMMDD-tw.md briefings/YYYYMMDD-trump.md
-git commit -m "briefing: 台股 + 川普簡報 YYYYMMDD"
+git add briefings/${TODAY}-tw.md briefings/${TODAY}-trump.md
+git commit -m "briefing: 台股 + 川普簡報 ${TODAY}"
 git pull https://GITHUB_TOKEN_FROM_SKILL_MD@github.com/AirInno/taiwan-market.git main --rebase
 git push https://GITHUB_TOKEN_FROM_SKILL_MD@github.com/AirInno/taiwan-market.git main
 ```
 
 Files to save:
-- `briefings/YYYYMMDD-tw.md` — **always** (YYYYMMDD = today's calendar date)
-- `briefings/YYYYMMDD-trump.
+- `briefings/${TODAY}-tw.md` — **always**（${TODAY} = STEP 8 算出的「今天台灣日期」UTC+8，**絕對不可用 UTC 日期**）
+- `briefings/${TODAY}-trump.md` — **always**（同上，與 tw 同一日期）
