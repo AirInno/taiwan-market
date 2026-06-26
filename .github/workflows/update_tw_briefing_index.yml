@@ -36,9 +36,14 @@ jobs:
             echo "無變更"
           else
             git commit -m "📋 自動更新台股簡報索引"
+            pushed=false
             for i in 1 2 3; do
-              git pull --rebase && git push && break
+              if git pull --rebase origin main && git push; then pushed=true; break; fi
               echo "Push failed, retry $i/3..."
               sleep 5
             done
+            if [ "$pushed" = false ]; then
+              echo "::error::briefings-tw-index.json 連續 3 次 push 失敗"
+              exit 1
+            fi
           fi
