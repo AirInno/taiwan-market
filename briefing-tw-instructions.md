@@ -451,15 +451,17 @@ write "今日無重大川普動態，市場影響中性" in 📌 摘要，其餘
 **IMPORTANT: curl and node have no network access in this sandbox. Use git clone/push instead.**
 
 ```bash
-# 0. 計算「今天」日期 — 必須用台灣時間（UTC+8），不可用 UTC
-#    本任務於台灣 05:25 執行，此時 UTC 仍是「前一天」，用 UTC date 會讓簡報日期慢一天。
-#    下式以 UTC+8 推算，不依賴 tzdata，最穩健：
-TODAY=$(date -u -d "@$(( $(date -u +%s) + 28800 ))" +%Y%m%d)
-echo "今日日期（台灣 UTC+8）: $TODAY"   # 例如 20260626
-#    ↑ 後續所有檔名、commit 訊息、以及簡報標題中的 [DATE] 一律使用此 $TODAY 值。
-
 # 1. Clone repo (if not already cloned this session)
 git clone https://GITHUB_TOKEN_FROM_SKILL_MD@github.com/AirInno/taiwan-market.git /tmp/tw-repo
+
+# 1b. 決定簡報日期 — 一律使用「這份簡報所分析的最新交易日」，不可用時鐘/UTC 推算。
+#     即 data-latest.json 最後一筆的 date 欄位（例如 20260625 = 06/25 收盤）。
+#     標籤永遠與 data.json 一致、不受執行時區影響，也不會在當日收盤前產生重複報告。
+#     （當天台股收盤資料未出前，最新交易日仍是「前一天」，這是正確的：
+#       今天的報告會在明天早上資料就緒後、才以今天日期產生。）
+TODAY=$(python3 -c "import json;print(json.load(open('/tmp/tw-repo/data-latest.json',encoding='utf-8'))[-1]['date'])")
+echo "簡報日期（=最新交易日）: $TODAY"   # 例如 20260625
+#     ↑ 後續所有檔名、commit 訊息、簡報標題 [DATE] 一律使用此 $TODAY。
 
 # 2. Write files
 # Write Taiwan briefing to /tmp/tw-repo/briefings/${TODAY}-tw.md
