@@ -1,5 +1,66 @@
 [
   {
+    "date": "20260628",
+    "fetchTime": "2026-06-28 05:34",
+    "count": 6,
+    "articles": [
+      {
+        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+        "desc": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-27 10:57",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "前川普顧問約翰·博爾頓對不當處理機密文件一事認罪",
+        "descZh": "檢方表示，博爾頓可能面臨最高五年監禁，並已同意支付225萬美元罰款。"
+      },
+      {
+        "title": "Trump’s tariffs stoke global trade jitters as China, EU vow response - Gulf Business",
+        "desc": "Trump’s tariffs stoke global trade jitters as China, EU vow response&nbsp;&nbsp;Gulf Business",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHFVZjg2ZFptY3NHME1XU1hvX0FmeU9XM3hUS3d3S1Nob1VWblVKU1BOS2IyRVRaMzhBY3BJdkpLQm8wMkVIZ0pKRER1NHR0ZkJFX1ExVG1IWmZRdFNQSks1c29mb1U3eUxBZ19xWEhia3NMNkM4RDhEV1BfS0QzYWNsOVZrd3pORVNOVm04VTlFTVJTNVEtRi0zeTI4N1BHS3MwdE93?oc=5",
+        "pubTime": "2026-06-27 05:26",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施加劇全球貿易不安，中國與歐盟誓言將採取反制措施——《海灣商業報》",
+        "descZh": "川普的關稅措施加劇全球貿易不安，中國與歐盟誓言將採取反制措施&nbsp;&nbsp;《海灣商業》"
+      },
+      {
+        "title": "Trump's 100% Tariff Threat Hits Tech Giants on Digital Taxes - The Tech Buzz",
+        "desc": "Trump's 100% Tariff Threat Hits Tech Giants on Digital Taxes&nbsp;&nbsp;The Tech Buzz",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYm9uNDEyQVc0WXJKcWFYMHVhUUFSNjBYOUtmUm9JeVBNZ3BHSDdiZnRFb3I4RU1DdDJCRVJYRkZIWFdJVmRrdDhzVDRkeGlzYktHRnIwQWQwWFdQbWl6dnBLMEc0NWZvMFNZTTFDTWtoWkgyUEdQWDhPNnBVZ001YXFhSDNWWEVoUEFhZ3Y3RUpmWkVxMmlj?oc=5",
+        "pubTime": "2026-06-27 02:50",
+        "source": "news.google.com",
+        "titleZh": "川普威脅徵收 100% 關稅，科技巨頭因數位稅面臨衝擊 —《科技熱點》",
+        "descZh": "川普以「100%關稅」相威脅，科技巨頭面臨數位稅壓力&nbsp;&nbsp;科技熱點"
+      },
+      {
+        "title": "Soumaya Keynes on the right way to fight a trade war - Reason Magazine",
+        "desc": "Soumaya Keynes on the right way to fight a trade war&nbsp;&nbsp;Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ObElsUTVDa29LNGhRZURDbTBPRHotM3B2UXJLYi16anNDaEJiclRsbWttVlhpVkduZjhFNWJ4TXVfaGs1TzB3UDcxLTRvZWxDcDcwQVBGcGV2Xzg1YlBQaENWd0pXUmhIWFZfckdsamFEbWtTRVlPazdlQXNPdw?oc=5",
+        "pubTime": "2026-06-26 23:00",
+        "source": "news.google.com",
+        "titleZh": "蘇瑪亞·凱恩斯談應對貿易戰的正確方式——《理性》雜誌",
+        "descZh": "蘇瑪亞·凱恩斯談應對貿易戰的正確方式&nbsp;&nbsp;《理性》雜誌"
+      },
+      {
+        "title": "Trump's Tariffs Could Return Through a New Legal Route, Here's How - outlookbusiness.com",
+        "desc": "Trump's Tariffs Could Return Through a New Legal Route, Here's How&nbsp;&nbsp;outlookbusiness.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZm81Qk1UaTViR05iTXNPekk2X2dSclJndEE5M09uMmJxb1pjSFpvZ3BlbU51Q0pXZE5DbW5ONlRIMFI3NVRKbXhoQXJUcTdNWGpxenhqY01SZWExWVJaVW91bUhUUjNIakFfeHJmUHFHUlczdWNsbXVLV1h4OWhYRHJhbEE3UUhrWHhsdGxQNlM5dzMyVzVLWklzNks3N3JFVmg3Mms3aDlKRWI2WnJtdXFwTGPSAcIBQVVfeXFMT2F6cnRTakl0YWdiSngwTUhiWnVmS3RMZWctLXVOamNMV2NhaWFKRERVUWt6YW4tSkhvdVJlX2J3MXBxNEdwcWJaaHNESkRiQVZ3cFNGOFYwd1NBeHZoeEYyODR2Q0RTSUpQMmNLaUM4MGkwZzkxSDlVbk9YaVpUaTJqREs1aURGRXVFdGNJZk0xd1pPaUstaEd6SWZFcHh5dTE5SWxwLTdfeE03REota1JfYkYzMndEZ2pGcUhxaWlYS1E?oc=5",
+        "pubTime": "2026-06-26 15:30",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅可能透過新的法律途徑重現，具體方式如下 - outlookbusiness.com",
+        "descZh": "川普的關稅可能透過新的法律途徑重現，具體方式如下&nbsp;&nbsp;outlookbusiness.com"
+      },
+      {
+        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+        "desc": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-26 14:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國國家公園管理局表示，倒影池的襯墊遭鋒利刀具或剃刀割破",
+        "descZh": "本週稍早，唐納德·川普將泳池中「一條長達300英尺的裂痕」歸咎於破壞者，並指控有人在水中投放肥料。"
+      }
+    ]
+  },
+  {
     "date": "20260627",
     "fetchTime": "2026-06-27 05:44",
     "count": 7,
@@ -2728,130 +2789,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "我們分析了數以千計的 Trump 帖子 - 以下是我們的發現",
         "descZh": "BBC 的 Ros Atkins 和 BBC Verify 篩選了數以千計的總統貼文。"
-      }
-    ]
-  },
-  {
-    "date": "20260529",
-    "fetchTime": "2026-05-29 06:14",
-    "count": 13,
-    "articles": [
-      {
-        "title": "US government prepares to print $250 note featuring Trump's face",
-        "desc": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
-        "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 02:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國政府準備印制印有川普臉孔的 250 美元鈔票",
-        "descZh": "聯邦法律禁止在美國貨幣上印上活人的圖像，但國會中的川普盟友正着手破例。"
-      },
-      {
-        "title": "Police investigate motive in fatal attack outside man's Trump-themed home",
-        "desc": "A 32-year-old suspect has pleaded not guilty and no motive has yet been determined for the assault.",
-        "url": "https://www.bbc.com/news/articles/cvgzl339pl4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 01:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "警方調查男子以特朗普為主題的住宅外致命襲擊案的動機",
-        "descZh": "一名 32 歲的嫌犯不認罪，目前尚未確定襲擊的動機。"
-      },
-      {
-        "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll",
-        "desc": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
-        "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 00:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國司法部對川普指控人 E Jean Carroll 展開刑事調查",
-        "descZh": "此案的焦點在於這位前專欄作家是否對她控告美國總統的民事訴訟所獲得的資金說謊。"
-      },
-      {
-        "title": "The gangster logic of Trump’s tariff wars - PubAffairs Bruxelles",
-        "desc": "The gangster logic of Trump’s tariff wars&nbsp;&nbsp;PubAffairs Bruxelles",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnNFUndTdzRTd2tYY1ktaXdnLUJqSk1PRUZxS3B3UnlXNGdXLUsteVc2YzhVMlBPZUFmVmNNcW1CSWFDWjV0Yjg2S2gyY2VGcDBudWhoc3JXX2hyVzlNaXVoSWxwSlVRSzY5ejVMQ25oTk1Tcm5QLWx6emMxSEFpN0dxU3N3TUJRb294bTRDLXFlMFBGTGJWRQ?oc=5",
-        "pubTime": "2026-05-28 19:16",
-        "source": "news.google.com",
-        "titleZh": "特朗普關稅戰爭的黑幫邏輯 - PubAffairs Bruxelles",
-        "descZh": "特朗普關稅戰爭的黑幫邏輯&nbsp;&nbsp;布魯塞爾公共事務"
-      },
-      {
-        "title": "Lai presents TSMC founder’s autobiography to Trump - Taiwan News",
-        "desc": "Lai presents TSMC founder’s autobiography to Trump&nbsp;&nbsp;Taiwan News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lYmE2aXJtdWctc3paSC02cFlib2daQkJHc1dVRmZtWjFMMlNNQi1McHNuRWJya0pBVE1VbFYxU2FKLWNOdThWVUFHWWVOSERtTldDdlpxYlo?oc=5",
-        "pubTime": "2026-05-28 14:20",
-        "source": "news.google.com",
-        "titleZh": "賴清德向川普贈送台積公司創辦人自傳 - Taiwan News",
-        "descZh": "賴清德向川普贈送台積公司創辦人自傳;&nbsp;&nbsp;台灣新聞"
-      },
-      {
-        "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-        "desc": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
-        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-28 12:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "Jill Biden 說她以為丈夫在 2024 年的辯論中中風了",
-        "descZh": "前美國第一夫人告訴 CBS News，她被 Joe Biden 對 Donald Trump 的表現嚇到了。"
-      },
-      {
-        "title": "We analysed thousands of Trump's posts - here's what we found",
-        "desc": "The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's posts.",
-        "url": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-28 07:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "我們分析了數以千計的 Trump 帖子 - 以下是我們的發現",
-        "descZh": "BBC 的 Ros Atkins 和 BBC Verify 篩選了數以千計的總統貼文。"
-      },
-      {
-        "title": "Taiwan president gifts Trump TSMC founder autobiography to foster semiconductor cooperation - Crypto Briefing",
-        "desc": "Taiwan president gifts Trump TSMC founder autobiography to foster semiconductor cooperation&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3lsYVF1QlVuLWFqeVJsd2VtZVBOQk0tU1pSbTVranc0U2dhNndTeU1fWmZLVkhteEExS21jdklWWHFCZk9IaThLNXlERWZnei1MZzVMRXN6RDU3UDdmTHFZYXRVdGZFWVdsVlpvRS1xcjJnTUpzdlFwN21kY3hqcG1USEVJMUwtdERR?oc=5",
-        "pubTime": "2026-05-28 06:07",
-        "source": "news.google.com",
-        "titleZh": "台灣總統贈川普台積電創辦人自傳以促進半導體合作 - Crypto Briefing",
-        "descZh": "台灣總統贈川普台積電創辦人自傳 促成半導體合作&nbsp;&nbsp;Crypto Briefing"
-      },
-      {
-        "title": "Taiwan president gifts Trump autobiography of TSMC founder - Internazionale",
-        "desc": "Taiwan president gifts Trump autobiography of TSMC founder&nbsp;&nbsp;Internazionale",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR09TbHQzOGVlcVlKTzdLazJoTDh4S1YzSXBBcWQzbnJnOENLYjVYZVZndW94c0w2OFZlVGFoVTR6Q0lfVTRnOFM3MnRsY25CWmttT0MzN0pydkE2S0QybUI5a29TaHlhcXg5azF2UVRMNkgwc1duNnNNRG1ZZDE4RWRyRGJXckJFaUhrZEROTWdqZWJxSW1URjZHMV9vNldGTXk2MDhEVmh1Q3lCcTYyejVZWFNBOW5oajhFWWRpWQ?oc=5",
-        "pubTime": "2026-05-27 22:37",
-        "source": "news.google.com",
-        "titleZh": "台灣總統送台積電創辦人自傳給川普 - Internazionale",
-        "descZh": "台灣總統送台積電創辦人自傳給川普&nbsp;&nbsp;Internazionale"
-      },
-      {
-        "title": "$20 billion in tariff refunds paid so far, with more on the way - NBC News",
-        "desc": "$20 billion in tariff refunds paid so far, with more on the way&nbsp;&nbsp;NBC News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3B2MmtjVEgtUjBoT0Ztc2Y3WmZKekZoYXJaejBNVUkxMTQ2T0lnc1REUmhqRHhiR3R3d3d4ellJWVlKXzZSdFJmTFRWMFNUMG93djJjUV9LLUJ1OGVJMk15N1BpYTFPMHdLWHFDeHhPSWxoX1FEbFdSSmVQQnItTnlTZjM1QjVwdi1iT0piZjEtTk0?oc=5",
-        "pubTime": "2026-05-27 21:50",
-        "source": "news.google.com",
-        "titleZh": "迄今已支付 200 億美元的關稅退款，還有更多退款在路上 - NBC News",
-        "descZh": "迄今已支付 200 億美元的關稅退款，還有更多退款在路上&nbsp;&nbsp;NBC 新聞"
-      },
-      {
-        "title": "Trump’s tariff defeats in court are Congress’s shame - Washington Examiner",
-        "desc": "Trump’s tariff defeats in court are Congress’s shame&nbsp;&nbsp;Washington Examiner",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNjQnpnX29tVGJaNW1aNkt6WmhNY0xHRW5TSHBlZDdxb0h4YklKbTNhLUFGYU1EUXJKMXBaNnFxNUc4dXcwOGlpWmdSd2lEcHo2LUE1VXdieFZOejFOaGRvTjg3Y0pkNy01LTJicnZDTzc0Q2hBSDFrdTM1UllrelRKX3BKWWd5dFg2SnZodFMyVTFodWliMGFQa3ZCUXhkZFFpYnZzc0hnNnJSQVhXVVlQVE5pQk0zSnNkUWR4NjVOWUx4ZVpKY2lHS1c?oc=5",
-        "pubTime": "2026-05-27 18:00",
-        "source": "news.google.com",
-        "titleZh": "川普在法庭上的關稅失敗是國會的羞恥 - Washington Examiner",
-        "descZh": "川普在法庭上的關稅失敗是國會的恥辱&nbsp;&nbsp;Washington Examiner"
-      },
-      {
-        "title": "How Trump is transforming Washington - by adding his face everywhere",
-        "desc": "Sarah Smith visits places across the US capital where the president has hung banners, renamed a site or is rebuilding something.",
-        "url": "https://www.bbc.com/news/videos/ce8pp9r03z7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-27 17:17",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普如何改造華盛頓 - 在每個地方都加上他的臉孔",
-        "descZh": "Sarah Smith 訪問了美國首都的各個地方，總統在這些地方懸掛了橫幅、將某個地點重新命名或正在重建某個地方。"
-      },
-      {
-        "title": "Watch: UFC arena construction begins at White House ahead of fight",
-        "desc": "The massive structure will host a cage fight as part of celebrations marking the 250th anniversary of the US Declaration of Independence.",
-        "url": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-27 07:14",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：UFC 賽前白宮開始興建場館",
-        "descZh": "作為慶祝美國獨立宣言 250 周年慶典的一部分，這座巨大的建築將舉辦籠式格鬥。"
       }
     ]
   }
