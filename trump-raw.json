@@ -1,5 +1,39 @@
 [
   {
+    "date": "20260629",
+    "fetchTime": "2026-06-29 05:33",
+    "count": 3,
+    "articles": [
+      {
+        "title": "How Jamieson Greer Took Over Trump’s Trade Agenda - WSJ",
+        "desc": "How Jamieson Greer Took Over Trump’s Trade Agenda&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHZFVVBLbFJxQ0lETVRlaEtyVlYzX2RfTjd3UExfYzltTzBvODlPTFR0QWlPNmxLRC1IYnpWdElaQ2hqcHFUV1hTUy1wdk9kODhHYkNmbkxZbGhWd2FzcXhVQUdobHlfX0tiWVdEeDZwbnVwYVFiVUVXOE1qV1duUk1FVQ?oc=5",
+        "pubTime": "2026-06-28 17:00",
+        "source": "news.google.com",
+        "titleZh": "傑米森·格里爾如何接手川普的貿易議程——《華爾街日報》",
+        "descZh": "傑米森·格里爾如何接手川普的貿易議程&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "Trump's face is added to select US passports for America's 250th birthday",
+        "desc": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+        "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-28 04:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為慶祝美國建國250週年，部分美國護照上將印有川普的肖像",
+        "descZh": "這款紀念特別版護照將於 7 月 6 日發行，且僅限親臨辦理"
+      },
+      {
+        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "desc": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-27 07:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "梅洛尼與川普：一場備受矚目的公開決裂，目前看來極難彌合",
+        "descZh": "義大利總理不久前還被稱為「川普的幕後推手」，但兩人的關係已從公開抨擊演變為人身攻擊。"
+      }
+    ]
+  },
+  {
     "date": "20260628",
     "fetchTime": "2026-06-28 05:34",
     "count": 6,
@@ -2665,130 +2699,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "貿易不景氣時，這家美國製酒商搬到加拿大",
         "descZh": "由於加拿大各省對特朗普的關稅採取報復行動，這種深受加拿大學生歡迎的果味利口酒在邊境以北的銷售量大幅下滑。"
-      }
-    ]
-  },
-  {
-    "date": "20260530",
-    "fetchTime": "2026-05-30 06:10",
-    "count": 13,
-    "articles": [
-      {
-        "title": "Evaluating Trump’s Trade Policy on Trump’s Criteria - Council on Foreign Relations",
-        "desc": "Evaluating Trump’s Trade Policy on Trump’s Criteria&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3JQZDZOV1VHSXl2WkswRllNWVZuYnZVcGJfV0RwVFdfZDE1R0lkOEhpeDlqbE5Vb3RrLWFaN1pJamJGUzBwNlZoT2V6cmNDT0dhTlc0ZGVQNHUtUTJfMDhDQ0V6MjBqcFNydEVHcWItTkhNWVAwdk44RWtLdFNRNnNrQnU?oc=5",
-        "pubTime": "2026-05-30 05:44",
-        "source": "news.google.com",
-        "titleZh": "以特朗普的標準評估特朗普的貿易政策 - 外交關係委員會",
-        "descZh": "以特朗普的標準評估特朗普的貿易政策&nbsp;&nbsp;外交關係委員會"
-      },
-      {
-        "title": "US judge halts Trump's $1.8bn 'anti-weaponisation' fund",
-        "desc": "In a two-page order on Friday, the judge barred the justice department from taking any steps to stand up or operate the fund.",
-        "url": "https://www.bbc.com/news/articles/crkp5r0eykko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 02:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國法官叫停川普18億美元「反武器化」基金",
-        "descZh": "法官在週五一份長達兩頁的命令中，禁止司法部門採取任何措施來成立或運作該基金。"
-      },
-      {
-        "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
-        "desc": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 01:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前美國檢察長 Pam Bondi 在國會調查中為她處理 Epstein 檔案的做法辯護",
-        "descZh": "美國最高檢察官被美國總統唐納德‧川普（Donald Trump）罷免約一個月後，美國最高檢察官的證詞出現了。"
-      },
-      {
-        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-        "desc": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
-        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 17:17",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "萬斯表示，美國和伊朗「非常接近」達成協議，但「尚未達成」。",
-        "descZh": "美國官員早前向 BBC 表示，停火延長協議的框架已達成共識，只待川普及伊朗領導人批准。"
-      },
-      {
-        "title": "Taiwan will likely play its silicon ‘Trump card’ in security talks with the US - Washington Examiner",
-        "desc": "Taiwan will likely play its silicon ‘Trump card’ in security talks with the US&nbsp;&nbsp;Washington Examiner",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVYxRm94UXloZ1ZsS3BxRmpKNmVaZndibmhON3gwOE9RZEtnRlhMRUV1XzIwcUhZeDY0MkhYZ2oyMFBVeFBIY0xoUUlNeml1ajNkUWZlcVcySS1vYk1FTWRwZWVBVFM4Ym9teTRSSFhaZTl2dUx2QVBhMHlNb2NwMHlFTUFjdmprTFRUSWR6VkljYV9YSy1lVGlBbDkwZXpMSnhlOElQTQ?oc=5",
-        "pubTime": "2026-05-29 17:00",
-        "source": "news.google.com",
-        "titleZh": "台灣可能會在與美國的安全談判中打出矽膠「川普牌」 - Washington Examiner",
-        "descZh": "台灣很可能在與美國的安全談判中打出矽製「川普牌」&nbsp;&nbsp;Washington Examiner"
-      },
-      {
-        "title": "Are the US and Iran close to reaching a peace deal… again?",
-        "desc": "BBC’s Sarah Smith looks at why both countries are in a tense cycle of negotiations, despite the progress President Trump consistently claims.",
-        "url": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 08:10",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國和伊朗是否又接近達成和平協議......？",
-        "descZh": "BBC 的 Sarah Smith 探討了為什麼儘管美國總統特朗普一直聲稱已取得進展，但兩國仍處於緊張的談判週期。"
-      },
-      {
-        "title": "When trade soured, this American liquor maker moved to Canada",
-        "desc": "Sales of the fruity liqueur popular with Canadian students had plummetted north of the border as provinces retaliated against Trump tariffs.",
-        "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 07:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "貿易不景氣時，這家美國製酒商搬到加拿大",
-        "descZh": "由於加拿大各省對特朗普的關稅採取報復行動，這種深受加拿大學生歡迎的果味利口酒在邊境以北的銷售量大幅下滑。"
-      },
-      {
-        "title": "[Anne O. Krueger] Gangster logic of Trump's tariff wars - The Korea Herald",
-        "desc": "[Anne O. Krueger] Gangster logic of Trump's tariff wars&nbsp;&nbsp;The Korea Herald",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KcmdxYlkwOVRJMkp2WVE5WUd0bVplMG5Kb3ZVb09SNGhqQ3c5SmRZT2FGM2lNcGFfbVpOaEltcGs3T2pCcjJHemtvUHFjRHlORmFzaDZ4aw?oc=5",
-        "pubTime": "2026-05-29 04:30",
-        "source": "news.google.com",
-        "titleZh": "[Anne O. Krueger] 川普關稅戰的黑道邏輯 - 韓國先驅月刊",
-        "descZh": "[Anne O. Krueger] 川普關稅戰的黑道邏輯&nbsp;&nbsp;韓國先鋒報"
-      },
-      {
-        "title": "US government prepares to print $250 note featuring Trump's face",
-        "desc": "Federal law bars printing images of living people on US currency, but Trump allies in Congress are moving to make an exception.",
-        "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 02:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國政府準備印制印有川普臉孔的 250 美元鈔票",
-        "descZh": "聯邦法律禁止在美國貨幣上印上活人的圖像，但國會中的川普盟友正提出破例。"
-      },
-      {
-        "title": "Police investigate motive in fatal attack outside man's Trump-themed home",
-        "desc": "A 32-year-old suspect has pleaded not guilty and no motive has yet been determined for the assault.",
-        "url": "https://www.bbc.com/news/articles/cvgzl339pl4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-29 01:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "警方調查男子以特朗普為主題的住宅外致命襲擊案的動機",
-        "descZh": "一名 32 歲的嫌犯不認罪，目前尚未確定襲擊的動機。"
-      },
-      {
-        "title": "Lai presents TSMC founder’s autobiography to Trump - Taiwan News",
-        "desc": "Lai presents TSMC founder’s autobiography to Trump&nbsp;&nbsp;Taiwan News",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rMjJXaFpUNEZJd0J6OFlFQkUtN00wMy1jUFdkZTgtZk85eTlVYTBnT0trSDNtcm9GZXcyOU9WeExIdTV5c0hleGpPRXVrcmg5OGtOaw?oc=5",
-        "pubTime": "2026-05-28 14:20",
-        "source": "news.google.com",
-        "titleZh": "賴清德向川普贈送台積公司創辦人自傳 - Taiwan News",
-        "descZh": "賴清德向川普贈送台積公司創辦人自傳;&nbsp;&nbsp;台灣新聞"
-      },
-      {
-        "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-        "desc": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
-        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-28 12:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "Jill Biden 說她以為丈夫在 2024 年的辯論中中風了",
-        "descZh": "前美國第一夫人告訴 CBS News，她被 Joe Biden 對 Donald Trump 的表現嚇到了。"
-      },
-      {
-        "title": "We analysed thousands of Trump's posts - here's what we found",
-        "desc": "The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's posts.",
-        "url": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-28 07:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "我們分析了數以千計的 Trump 帖子 - 以下是我們的發現",
-        "descZh": "BBC 的 Ros Atkins 和 BBC Verify 篩選了數以千計的總統貼文。"
       }
     ]
   }
