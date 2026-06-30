@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260701",
+    "fetchTime": "2026-07-01 05:51",
+    "count": 12,
+    "articles": [
+      {
+        "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+        "desc": "Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
+        "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-01 05:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國最高法院維持對跨性別運動員參與女子中學及大學體育賽事的禁令",
+        "descZh": "川普稱這項裁決是「一大勝利」，而一個LGBT團體則表示這「令人心碎」。"
+      },
+      {
+        "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+        "desc": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-01 02:28",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國最高法院維持「出生公民權」裁決，對川普構成打擊",
+        "descZh": "這項裁決對唐納德·川普的移民政策構成重大打擊，並受到民權團體的歡迎。"
+      },
+      {
+        "title": "Supreme Court's birthright ruling is major blow to Trump",
+        "desc": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
+        "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-30 22:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院關於「出生地權」的裁決對川普造成重大打擊",
+        "descZh": "英國廣播公司（BBC）的蓋瑞·奧唐納休（Gary O’Donoghue）闡述了法院這項具有里程碑意義的裁決對美國總統意味著什麼。"
+      },
+      {
+        "title": "JAMIE MCGEEVER | Why Trump’s tariffs had plenty of bark, but limited bite - TimesLIVE",
+        "desc": "JAMIE MCGEEVER | Why Trump’s tariffs had plenty of bark, but limited bite&nbsp;&nbsp;TimesLIVE",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONG9IMzRHYm1QU195ZkcyNV8yZmRwYlk0dE9uS3Y5UHB1NHJoVFExNzRjdTEzOXBEb1Fja0FyU2xMWnVJckdxQm5WMTZVZXp5M1FiWFJYZ2hQUDNMM0k0czE3a2thUUt5MnJDak92MXVhdTBJX0FHUTAtNHJEdHpncTJFVmZXTXdCbVJ2SHgtb3U2T2ZvNjNKZHFIelQ5eWhrOXZvWWo4bEFxVzFpMHhtVnkwcXdhRWNJTVJSQ1h1WU05bWNBa0psODlieFBVQ0RYVUdfNXZrbG16WDdkSWFGVnFKQlE?oc=5",
+        "pubTime": "2026-06-30 21:57",
+        "source": "news.google.com",
+        "titleZh": "傑米·麥基弗 | 為何川普的關稅「聲勢浩大，實則威力有限」——《TimesLIVE》",
+        "descZh": "傑米·麥吉弗 | 為何川普的關稅「聲勢浩大，實則威力有限」&nbsp;&nbsp;TimesLIVE"
+      },
+      {
+        "title": "Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk - 24/7 Wall St.",
+        "desc": "Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk&nbsp;&nbsp;24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3JpRy1pNWRYbGtOOWxxNGJuLWY1QlJYS2Z0Q2x6N192Z3VqZEV2MFJwdm9EYk04bmhIVk90cWJSanhqMk0yN1FuVEMxS1FUVmhwZ1ZLbUtacFN1andfYUkzUlNsLUhkQ3RiaFpVSm83ZTd1b0lndFdRZVNINWs2NWpfUzJZclBUM18zOFBlYlNldTVNNmpQUG92XzIzTUdTbWRsRW5TVWZGQlM3VUpKX1RkOHBIVjg1d3ZxeVVqWm4zNzVETXc?oc=5",
+        "pubTime": "2026-06-30 18:11",
+        "source": "news.google.com",
+        "titleZh": "川普威脅對數位稅徵收 100% 關稅。這 5 檔科技股風險最高 — 24/7 Wall St.",
+        "descZh": "川普威脅對數位稅徵收 100% 關稅。這 5 檔科技股風險最高&nbsp;&nbsp;24/7 Wall St."
+      },
+      {
+        "title": "Trump’s tariffs threaten stability of US-Mexico-Canada trade deal - Crypto Briefing",
+        "desc": "Trump’s tariffs threaten stability of US-Mexico-Canada trade deal&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QY2tScnhfd2xYNnlxSXZpVUJOb2R3V21TdkE0MjhORV90VWZtQmFQSnhkcUJodS10MG1ZZmFyeGFKd0szcmNWMWMwWXRZc3VzVjRZd3V1VlF6RER4WV9SM1lYN0xLZVlBRFpnTkpqaXJMUXM?oc=5",
+        "pubTime": "2026-06-30 17:08",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施威脅美墨加貿易協定的穩定性 - Crypto Briefing",
+        "descZh": "川普的關稅威脅到美墨加貿易協定的穩定性&nbsp;&nbsp;《Crypto Briefing》"
+      },
+      {
+        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+        "desc": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
+        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-30 04:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院戲劇性的一天：川普一勝三敗",
+        "descZh": "當川普慶祝一項將總統罷免及更換監管機構官員的權力擴大之裁決時，其他幾項裁決卻對他構成了重大打擊。"
+      },
+      {
+        "title": "Trump’s Misguided Trade Policy - American Enterprise Institute - AEI",
+        "desc": "Trump’s Misguided Trade Policy&nbsp;&nbsp;American Enterprise Institute - AEI",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMDRKb0JqejFvbEhtLTJ5MERraUxnTGQ4NXNMUmVxUS1SYnNNRk1HLW9ZQ1dfemlNT2pfTEtyOVdwdGtGY1VCdEF0bU9YeG9TS3JNSG92ZDl5T2M2a2dYRF9UYWM2enljek45VE1mRkZpUQ?oc=5",
+        "pubTime": "2026-06-30 03:05",
+        "source": "news.google.com",
+        "titleZh": "川普的錯誤貿易政策 — 美國企業研究所（AEI）",
+        "descZh": "川普的錯誤貿易政策　美國企業研究所（AEI）"
+      },
+      {
+        "title": "New York Unleashes $30M Lifeline as Trump's Tariffs Push Farmers to the Brink - Agrolatam",
+        "desc": "New York Unleashes $30M Lifeline as Trump's Tariffs Push Farmers to the Brink&nbsp;&nbsp;Agrolatam",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVm90MVdESzdMcElBVWlEUXRSUllnNXJvb0FwTU1jZjFaaTZJVXlvRURHRzRzV1AySjVpVlE5UTI5dlFlVW1MckxtT01vblRiNG5XYS1jWlFOV3RyOVJreUVRa3lXQndyWnR2R0xGMzRRWWRVeHJRemhMcUlQazJzZzM4MkZKaGc3MUxn?oc=5",
+        "pubTime": "2026-06-30 02:47",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅將農民逼至絕境，紐約州撥出 3,000 萬美元紓困金 - Agrolatam",
+        "descZh": "川普的關稅將農民逼至絕境，紐約撥出 3,000 萬美元紓困金&nbsp;&nbsp;Agrolatam"
+      },
+      {
+        "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+        "desc": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+        "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-30 00:51",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院阻止川普解僱聯邦儲備委員會委員麗莎·庫克的企圖",
+        "descZh": "這項被視為中央銀行獨立性勝利的裁決，將有關罷免的爭議重新交由下級法院處理。"
+      },
+      {
+        "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
+        "desc": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-29 23:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普針對伊·珍·卡羅爾性侵案提出的最後上訴遭駁回",
+        "descZh": "最高法院的裁決意味著，美國總統現在必須向卡羅爾支付法院先前裁定她應獲的 500 萬美元（360 萬英鎊）損害賠償金。"
+      },
+      {
+        "title": "Watch: Biden calls Trump a 'loser' at fundraising event",
+        "desc": "Former US President Joe Biden blasted President Donald Trump during a gala event, criticising what he described as \"vanity projects\" in Washington, DC.",
+        "url": "https://www.bbc.co.uk/news/videos/c20yzz0d7zyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-06-29 21:09",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：拜登在募款活動上稱川普為「輸家」",
+        "descZh": "美國前總統喬·拜登在一場盛大的晚宴上猛烈抨擊總統唐納德·川普，批評華盛頓特區所謂的「面子工程」。"
+      }
+    ]
+  },
+  {
     "date": "20260630",
     "fetchTime": "2026-06-30 05:48",
     "count": 8,
@@ -2566,103 +2681,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普在藝術家退出美國 250 自由節後說：「取消吧",
         "descZh": "川普建議，在大部分頭條人物退出與白宮有關的活動後，改為舉行「讓美國再次偉大」集會。"
-      }
-    ]
-  },
-  {
-    "date": "20260601",
-    "fetchTime": "2026-06-01 05:29",
-    "count": 10,
-    "articles": [
-      {
-        "title": "Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped",
-        "desc": "Trump's former vice-president, who was targeted by rioters during the January 6 riots, says the fund that could potentially compensate them is a \"bad idea\".",
-        "url": "https://www.bbc.com/news/articles/ce8p7mg30dyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-01 04:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "彭斯稱川普的 「反武器化 」基金 「令人深惡痛絕」，並表示應予撤銷",
-        "descZh": "特朗普的前副總統在 1 月 6 日的騷亂中成為騷亂者的目標，他表示有可能補償他們的基金是個 「壞主意」。"
-      },
-      {
-        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
-        "desc": "Trump suggests holding a \"Make America Great Again\" rally instead after most headliners drop out of White-House-linked event.",
-        "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-01 01:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在藝術家退出美國 250 自由節後說：「取消吧",
-        "descZh": "川普建議，在大部分頭條人物退出與白宮有關的活動後，改為舉行「讓美國再次偉大」集會。"
-      },
-      {
-        "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
-        "desc": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
-        "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-31 01:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普攻擊藝術家退出美國自由250演唱會，並考慮親自出席",
-        "descZh": "表演者 Young MC、Poison 主唱 Bret Michaels 和鄉村歌手 Martina McBride 擔心活動會有政治色彩。"
-      },
-      {
-        "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
-        "desc": "Every president in modern history - including Donald Trump this week - has taken an annual physical exam that is as much about messaging as it is about health.",
-        "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 23:06",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的醫生說他的健康狀況極佳 - 但美國總統的健康檢查是公關活動嗎？",
-        "descZh": "現代史上的每位總統，包括本週的唐納德‧川普 (Donald Trump) 在內，每年都會進行一次身體檢查，其目的既是為了傳達訊息，也是為了健康。"
-      },
-      {
-        "title": "Trump wants to ‘manage’ China trade. Businesses see a tariff opening. - Politico",
-        "desc": "Trump wants to ‘manage’ China trade. Businesses see a tariff opening.&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGZ0RElvZWg0Y0xtbTNTNXVkS2lrYU5fTG9RY054MVYwOVBwMzVua1dmMjJHQjNwRmVvRUp5WDRiZkhXb0ZfOHV6dzBjSDNXclN3RGNWUjRvRy1PXzhNcndxcHZCNW1TX3UxTHVIRHJHOWJhSzNEV0RvcW91N0xmRVN6VGZOa3l2UkhMNHhKbUI?oc=5",
-        "pubTime": "2026-05-30 22:00",
-        "source": "news.google.com",
-        "titleZh": "川普希望「管理」中國貿易。企業看到了關稅開放。- 政治新聞",
-        "descZh": "川普要「管理」中國貿易。企業看到了關稅開放。&nbsp;&nbsp;Politico"
-      },
-      {
-        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-        "desc": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 19:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普開會對伊朗問題做出「最終決定」後未宣佈達成協議",
-        "descZh": "美國總統與他的顧問見面，在此之前，官員們證實美國與伊朗已達成協議的框架。"
-      },
-      {
-        "title": "Trump in 'excellent health' but should lose weight and exercise more, his doctor says",
-        "desc": "The White House releases the results of the US president's latest medical examination, which states he is \"fully fit\" to carry out his duties.",
-        "url": "https://www.bbc.com/news/articles/cx21v0ezv14o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 16:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "醫師表示，川普「健康狀況極佳」，但應減重並多做運動",
-        "descZh": "白宮公布美國總統最新的體檢結果，表示他「完全適合」執行職務。"
-      },
-      {
-        "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
-        "desc": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 09:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前美國檢察長在國會調查中為處理 Epstein 檔案辯護",
-        "descZh": "美國最高檢察官被美國總統唐納德‧川普（Donald Trump）罷免約一個月後，美國最高檢察官的證詞出現了。"
-      },
-      {
-        "title": "US judge orders Trump's name be removed from Kennedy Center",
-        "desc": "The performing arts centre must also remain open despite Trump announcing a two-year closure for extensive renovations.",
-        "url": "https://www.bbc.com/news/articles/czr2je8lkvro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-05-30 06:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國法官下令從甘迺迪中心移除川普的名字",
-        "descZh": "儘管特朗普宣佈關閉兩年進行大規模翻新，表演藝術中心也必須繼續開放。"
-      },
-      {
-        "title": "Evaluating Trump’s Trade Policy on Trump’s Criteria - Council on Foreign Relations",
-        "desc": "Evaluating Trump’s Trade Policy on Trump’s Criteria&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3JQZDZOV1VHSXl2WkswRllNWVZuYnZVcGJfV0RwVFdfZDE1R0lkOEhpeDlqbE5Vb3RrLWFaN1pJamJGUzBwNlZoT2V6cmNDT0dhTlc0ZGVQNHUtUTJfMDhDQ0V6MjBqcFNydEVHcWItTkhNWVAwdk44RWtLdFNRNnNrQnU?oc=5",
-        "pubTime": "2026-05-30 05:44",
-        "source": "news.google.com",
-        "titleZh": "以特朗普的標準評估特朗普的貿易政策 - 外交關係委員會",
-        "descZh": "以特朗普的標準評估特朗普的貿易政策&nbsp;&nbsp;外交關係委員會"
       }
     ]
   }
