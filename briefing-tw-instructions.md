@@ -478,5 +478,5 @@ git push https://GITHUB_TOKEN_FROM_SKILL_MD@github.com/AirInno/taiwan-market.git
 ```
 
 Files to save:
-- `briefings/${TODAY}-tw.md` — **always**（${TODAY} = STEP 8 算出的「今天台灣日期」UTC+8，**絕對不可用 UTC 日期**）
+- `briefings/${TODAY}-tw.md` — **always**（${TODAY} = STEP 8 讀 `data-latest.json` 最新一筆的 `date` 欄位，**不是**用系統時鐘/UTC 推算「今天」——這是刻意設計，標籤永遠對齊資料交易日，見上方 459-461 行說明）
 - `briefings/${TODAY}-trump.md` — **always**（同上，與 tw 同一日期）
