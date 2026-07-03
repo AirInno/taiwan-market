@@ -45,6 +45,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC",sans-
 .tc.warn{background:rgba(249,115,22,.18);border:1px solid #f97316;color:#fb923c}
 .tc.hi{background:rgba(239,68,68,.18);border:1px solid #ef4444;color:#f87171}
 .tc.crit{background:rgba(147,51,234,.2);border:1px solid #9333ea;color:#c084fc}
+#apos{margin:5px 0 2px}
 .wr{background:rgba(255,255,255,.05);border-radius:6px;padding:7px 11px;margin-top:8px;font-size:.7rem;line-height:1.7;color:#a0aec0}
 .wr strong{color:#e2e8f0}
 .navs{display:flex;padding:0 22px;margin-top:14px;border-bottom:1px solid #2d3748;overflow-x:auto}
@@ -186,6 +187,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="ab-ico">⚠️</div>
   <div class="ab-body">
     <h2 id="at">載入中...</h2>
+    <div id="apos"></div>
     <p id="ad"></p>
     <div class="trigs" id="atr"></div>
     <div class="wr" id="awr" style="display:none"></div>
@@ -698,6 +700,9 @@ function rAlert(){
   ];
   const fired=trigs.filter(t=>t.lvl!=='正常');
   $('at').textContent='【'+L.警示+'】';
+  const posMap={正常:{v:100,label:'滿倉',c:'ok'},注意:{v:50,label:'半倉',c:'warn'},高度警戒:{v:0,label:'空手',c:'hi'},極度警戒:{v:0,label:'空手',c:'crit'}};
+  const pos=posMap[L.警示]||posMap.正常;
+  $('apos').innerHTML=`<span class="tc ${pos.c}">📐 建議倉位 ${pos.v}%（${pos.label}）</span>`;
   let desc=fired.length?'由 '+fired.map(t=>t.l).join('、')+' 觸發 ｜ 連續賣超第'+L.連續賣超+'日':'各項指標均在正常範圍內';
   if(mLvl==='正常'&&fired.length)desc+=' ｜ 整體市場流向正常，為個股/ETF配置調整';
   $('ad').textContent=desc;
