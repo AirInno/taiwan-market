@@ -18345,7 +18345,9 @@
         "融資餘額": 6395,
         "融券餘額": 536
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260303",
@@ -18523,7 +18525,9 @@
         "融資餘額": 5680,
         "融券餘額": 467
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260304",
@@ -18701,7 +18705,9 @@
         "融資餘額": 5850,
         "融券餘額": 408
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260305",
@@ -18879,7 +18885,9 @@
         "融資餘額": 5732,
         "融券餘額": 426
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260306",
@@ -19057,7 +19065,9 @@
         "融資餘額": 5736,
         "融券餘額": 425
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260309",
@@ -19235,7 +19245,9 @@
         "融資餘額": 5777,
         "融券餘額": 371
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260310",
@@ -19413,7 +19425,9 @@
         "融資餘額": 5785,
         "融券餘額": 381
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260311",
@@ -19592,7 +19606,9 @@
         "融資餘額": 5938,
         "融券餘額": 423
       }
-    }
+    },
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260312",
@@ -19756,7 +19772,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.33,
     "etf0050_hold": 3.56,
-    "delta_hold": 64.24
+    "delta_hold": 64.24,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260313",
@@ -19920,7 +19939,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.27,
     "etf0050_hold": 3.65,
-    "delta_hold": 64.24
+    "delta_hold": 64.24,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260316",
@@ -20084,7 +20106,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.21,
     "etf0050_hold": 3.41,
-    "delta_hold": 64.2
+    "delta_hold": 64.2,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260317",
@@ -20249,7 +20274,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.22,
     "etf0050_hold": 3.48,
-    "delta_hold": 64.34
+    "delta_hold": 64.34,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260318",
@@ -20414,7 +20442,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.23,
     "etf0050_hold": 3.62,
-    "delta_hold": 64.39
+    "delta_hold": 64.39,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260319",
@@ -20575,7 +20606,10 @@
     },
     "tsmc_hold": 71.13,
     "etf0050_hold": 3.22,
-    "delta_hold": 64.44
+    "delta_hold": 64.44,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260320",
@@ -20739,7 +20773,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.1,
     "etf0050_hold": 2.93,
-    "delta_hold": 64.53
+    "delta_hold": 64.53,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260323",
@@ -20903,7 +20940,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.03,
     "etf0050_hold": 2.65,
-    "delta_hold": 64.4
+    "delta_hold": 64.4,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260324",
@@ -21067,7 +21107,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.01,
     "etf0050_hold": 2.83,
-    "delta_hold": 64.52
+    "delta_hold": 64.52,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260325",
@@ -21232,7 +21275,10 @@
     "delta警示": "正常",
     "tsmc_hold": 71.0,
     "etf0050_hold": 2.85,
-    "delta_hold": 64.77
+    "delta_hold": 64.77,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260326",
@@ -21396,7 +21442,10 @@
     "delta警示": "正常",
     "tsmc_hold": 70.97,
     "etf0050_hold": 3.04,
-    "delta_hold": 64.71
+    "delta_hold": 64.71,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260327",
@@ -21562,7 +21611,10 @@
     "delta警示": "正常",
     "tsmc_hold": 70.92,
     "etf0050_hold": 2.76,
-    "delta_hold": 64.6
+    "delta_hold": 64.6,
+    "margin": null,
+    "futures": null,
+    "分歧信號": null
   },
   {
     "date": "20260330",
@@ -21733,7 +21785,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.85,
     "etf0050_hold": 2.64,
-    "delta_hold": 64.51
+    "delta_hold": 64.51,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260331",
@@ -21905,7 +21959,9 @@
     "delta警示": "注意",
     "tsmc_hold": 70.76,
     "etf0050_hold": 2.52,
-    "delta_hold": 64.29
+    "delta_hold": 64.29,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260401",
@@ -22078,7 +22134,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.78,
     "etf0050_hold": 3.0,
-    "delta_hold": 64.3
+    "delta_hold": 64.3,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260402",
@@ -22250,7 +22308,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.74,
     "etf0050_hold": 3.02,
-    "delta_hold": 64.21
+    "delta_hold": 64.21,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260407",
@@ -22423,7 +22483,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.76,
     "etf0050_hold": 3.0,
-    "delta_hold": 64.35
+    "delta_hold": 64.35,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260408",
@@ -22596,7 +22658,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.84,
     "etf0050_hold": 3.33,
-    "delta_hold": 64.5
+    "delta_hold": 64.5,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260409",
@@ -22769,7 +22833,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.84,
     "etf0050_hold": 3.57,
-    "delta_hold": 64.56
+    "delta_hold": 64.56,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260413",
@@ -22941,7 +23007,9 @@
     "delta警示": "正常",
     "tsmc_hold": 70.87,
     "etf0050_hold": 3.75,
-    "delta_hold": 64.58
+    "delta_hold": 64.58,
+    "margin": null,
+    "分歧信號": null
   },
   {
     "date": "20260414",
@@ -23125,7 +23193,8 @@
         "融資餘額": 5020,
         "融券餘額": 93
       }
-    }
+    },
+    "分歧信號": null
   },
   {
     "date": "20260415",
@@ -23312,7 +23381,8 @@
         "融資餘額": 4930,
         "融券餘額": 99
       }
-    }
+    },
+    "分歧信號": null
   },
   {
     "date": "20260416",
@@ -25081,7 +25151,8 @@
     "us_close_date": "04/28",
     "tsmc_hold": 70.83,
     "etf0050_hold": 3.82,
-    "delta_hold": 64.48
+    "delta_hold": 64.48,
+    "margin": null
   },
   {
     "date": "20260429",
@@ -25266,7 +25337,8 @@
     "us_close_date": "04/29",
     "tsmc_hold": 70.77,
     "etf0050_hold": 3.61,
-    "delta_hold": 64.44
+    "delta_hold": 64.44,
+    "margin": null
   },
   {
     "date": "20260430",
@@ -25451,7 +25523,8 @@
     "us_close_date": "05/01",
     "tsmc_hold": 70.67,
     "etf0050_hold": 3.53,
-    "delta_hold": 64.42
+    "delta_hold": 64.42,
+    "margin": null
   },
   {
     "date": "20260504",
@@ -25636,7 +25709,8 @@
     "us_close_date": "05/04",
     "tsmc_hold": 70.7,
     "etf0050_hold": 3.95,
-    "delta_hold": 64.41
+    "delta_hold": 64.41,
+    "margin": null
   },
   {
     "date": "20260505",
@@ -25821,7 +25895,8 @@
     "us_close_date": "05/05",
     "tsmc_hold": 70.67,
     "etf0050_hold": 3.66,
-    "delta_hold": 64.26
+    "delta_hold": 64.26,
+    "margin": null
   },
   {
     "date": "20260506",
@@ -26007,7 +26082,8 @@
     "us_close_date": "05/07",
     "tsmc_hold": 70.65,
     "etf0050_hold": 3.56,
-    "delta_hold": 64.36
+    "delta_hold": 64.36,
+    "margin": null
   },
   {
     "date": "20260507",
@@ -26389,7 +26465,8 @@
     "us_close_date": "05/08",
     "tsmc_hold": 70.66,
     "etf0050_hold": 3.39,
-    "delta_hold": 64.28
+    "delta_hold": 64.28,
+    "margin": null
   },
   {
     "date": "20260511",
@@ -26574,7 +26651,8 @@
     "us_close_date": "05/11",
     "tsmc_hold": 70.6,
     "etf0050_hold": 3.33,
-    "delta_hold": 64.3
+    "delta_hold": 64.3,
+    "margin": null
   },
   {
     "date": "20260512",
@@ -26759,7 +26837,8 @@
     "us_close_date": "05/12",
     "tsmc_hold": 70.56,
     "etf0050_hold": 3.31,
-    "delta_hold": 64.14
+    "delta_hold": 64.14,
+    "margin": null
   },
   {
     "date": "20260513",
@@ -26944,7 +27023,8 @@
     "us_close_date": "05/13",
     "tsmc_hold": 70.53,
     "etf0050_hold": 3.13,
-    "delta_hold": 64.14
+    "delta_hold": 64.14,
+    "margin": null
   },
   {
     "date": "20260514",
@@ -27130,7 +27210,8 @@
     "us_close_date": "05/14",
     "tsmc_hold": 70.52,
     "etf0050_hold": 3.34,
-    "delta_hold": 64.17
+    "delta_hold": 64.17,
+    "margin": null
   },
   {
     "date": "20260515",
@@ -27315,7 +27396,8 @@
     "us_close_date": "05/15",
     "tsmc_hold": 70.51,
     "etf0050_hold": 3.09,
-    "delta_hold": 64.13
+    "delta_hold": 64.13,
+    "margin": null
   },
   {
     "date": "20260518",
@@ -27499,7 +27581,8 @@
     "us_close_date": "05/18",
     "tsmc_hold": 70.47,
     "etf0050_hold": 2.92,
-    "delta_hold": 64.12
+    "delta_hold": 64.12,
+    "margin": null
   },
   {
     "date": "20260519",
@@ -27683,7 +27766,8 @@
     "us_close_date": "05/19",
     "tsmc_hold": 70.4,
     "etf0050_hold": 2.71,
-    "delta_hold": 64.11
+    "delta_hold": 64.11,
+    "margin": null
   },
   {
     "date": "20260520",
@@ -27876,7 +27960,8 @@
     "delta_hold": {
       "張數": 1665582,
       "比率": 64.12
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260521",
@@ -28070,7 +28155,8 @@
     "delta_hold": {
       "張數": 1665591,
       "比率": 64.12
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260522",
@@ -28264,7 +28350,8 @@
     "delta_hold": {
       "張數": 1665559,
       "比率": 64.12
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260525",
@@ -28459,7 +28546,8 @@
     "delta_hold": {
       "張數": 1669855,
       "比率": 64.28
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260526",
@@ -28863,7 +28951,8 @@
     "delta_hold": {
       "張數": 1673387,
       "比率": 64.42
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260528",
@@ -29057,7 +29146,8 @@
     "delta_hold": {
       "張數": 1671309,
       "比率": 64.34
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260529",
@@ -29252,7 +29342,8 @@
     "delta_hold": {
       "張數": 1671461,
       "比率": 64.34
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260601",
@@ -29656,7 +29747,8 @@
     "delta_hold": {
       "張數": 1670489,
       "比率": 64.31
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260603",
@@ -30059,7 +30151,8 @@
     "delta_hold": {
       "張數": 1672751,
       "比率": 64.39
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260605",
@@ -30253,7 +30346,8 @@
     "delta_hold": {
       "張數": 1670029,
       "比率": 64.29
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260608",
@@ -30446,7 +30540,8 @@
     "delta_hold": {
       "張數": 1668682,
       "比率": 64.24
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260609",
@@ -30639,7 +30734,8 @@
     "delta_hold": {
       "張數": 1669478,
       "比率": 64.27
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260610",
@@ -30832,7 +30928,8 @@
     "delta_hold": {
       "張數": 1662754,
       "比率": 64.01
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260611",
@@ -31025,7 +31122,8 @@
     "delta_hold": {
       "張數": 1661452,
       "比率": 63.96
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260612",
@@ -31219,7 +31317,8 @@
     "delta_hold": {
       "張數": 1662044,
       "比率": 63.98
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260615",
@@ -31623,7 +31722,8 @@
     "delta_hold": {
       "張數": 1663664,
       "比率": 64.04
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260617",
@@ -31817,7 +31917,8 @@
     "delta_hold": {
       "張數": 1661259,
       "比率": 63.95
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260618",
@@ -32012,7 +32113,8 @@
     "delta_hold": {
       "張數": 1661530,
       "比率": 63.96
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260622",
@@ -32415,7 +32517,8 @@
     "delta_hold": {
       "張數": 1660732,
       "比率": 63.93
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260624",
@@ -32608,7 +32711,8 @@
     "delta_hold": {
       "張數": 1657543,
       "比率": 63.81
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260625",
@@ -32801,7 +32905,8 @@
     "delta_hold": {
       "張數": 1657181,
       "比率": 63.79
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260626",
@@ -32995,7 +33100,8 @@
     "delta_hold": {
       "張數": 1651911,
       "比率": 63.59
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260629",
@@ -33188,7 +33294,8 @@
     "delta_hold": {
       "張數": 1652042,
       "比率": 63.6
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260630",
@@ -33381,7 +33488,8 @@
     "delta_hold": {
       "張數": 1650418,
       "比率": 63.53
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260701",
@@ -33576,7 +33684,8 @@
     "delta_hold": {
       "張數": 1650534,
       "比率": 63.54
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260702",
@@ -33769,7 +33878,8 @@
     "delta_hold": {
       "張數": 1649065,
       "比率": 63.48
-    }
+    },
+    "margin": null
   },
   {
     "date": "20260703",
@@ -33939,6 +34049,10 @@
       "狀態": "空方一致",
       "現貨": "賣超",
       "期貨淨口": -81052
-    }
+    },
+    "tsmc_hold": null,
+    "etf0050_hold": null,
+    "delta_hold": null,
+    "margin": null
   }
 ]
