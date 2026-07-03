@@ -43,9 +43,15 @@ echo %CYAN%[3/4]%RESET% git push (auto sync remote)...
 git push 2>&1
 if !ERRORLEVEL! NEQ 0 (
   echo %YELLOW%[INFO] Remote ahead, pulling first...%RESET%
+  for /f %%c in ('git stash list ^| find /c /v ""') do set "STASH_BEFORE=%%c"
   git stash
+  for /f %%c in ('git stash list ^| find /c /v ""') do set "STASH_AFTER=%%c"
   git pull --rebase
-  git stash pop
+  if !STASH_AFTER! GTR !STASH_BEFORE! (
+    git stash pop
+  ) else (
+    echo       %YELLOW%[INFO] No new stash created, skip pop.%RESET%
+  )
   git push 2>&1
   if !ERRORLEVEL! NEQ 0 (
     echo %RED%[ERROR] git push failed after pull.%RESET%
