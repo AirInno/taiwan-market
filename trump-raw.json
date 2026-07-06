@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260707",
+    "fetchTime": "2026-07-07 05:51",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "desc": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 03:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普證實曾要求國際足總重新審查巴洛貢的禁賽處分",
+        "descZh": "總統唐納德·川普證實，他已要求國際足總（FIFA）重新審查美國前鋒福拉林·巴洛貢在世界盃中遭處以一場禁賽的處分。"
+      },
+      {
+        "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+        "desc": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+        "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 03:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "查理·柯克的家人出席了針對涉嫌謀殺他的嫌犯所舉行的聽證會",
+        "descZh": "23歲的泰勒·羅賓遜被指控謀殺柯克——這位特朗普的重要盟友，同時也是青年組織「轉捩點美國」（Turning Point USA）的創辦人。"
+      },
+      {
+        "title": "'That wasn't a foul' - Trump on Fifa overturning red card ban",
+        "desc": "USA striker Folarin Balogun's one-game ban has been suspended after the president's intervention.",
+        "url": "https://www.bbc.co.uk/news/videos/c04yy266n0lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-06 23:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「那不是犯規」——川普針對國際足總撤銷紅牌禁賽處分一事發表評論",
+        "descZh": "在主席介入後，美國前鋒福拉林·巴洛貢的一場禁賽處分已被暫緩執行。"
+      },
+      {
+        "title": "Looking at Trump’s trade agenda - Pet Food Processing",
+        "desc": "Looking at Trump’s trade agenda&nbsp;&nbsp;Pet Food Processing",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONm1zdFNCSXNPY2tYQ2dQMXJzX2NPQXo1TkVxdjY1Vl9KNVhFMldOTGFvX3NJQjhCSG94WjR0Smx5Q19zNi1xcG5LRUVqb21QRzllWVJNVExwVDliQkFfenRBRVJWZExpbjVNaVhwMTBhaWM1cUhqZ3hrNXR5S1lubHpzZjVHQQ?oc=5",
+        "pubTime": "2026-07-06 20:31",
+        "source": "news.google.com",
+        "titleZh": "探討川普的貿易議程——寵物食品加工業",
+        "descZh": "探討川普的貿易議程&nbsp;&nbsp;寵物食品加工"
+      },
+      {
+        "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
+        "desc": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-06 17:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "紅牌制度因川普、國際足總及巴洛貢的裁決而陷入混亂",
+        "descZh": "這項實質上推翻美國前鋒福拉林·巴洛貢所獲紅牌的決定，留下了許多未解之謎。"
+      },
+      {
+        "title": "Nvidia Stock Leads 3 Mega Cap Tech Picks After Trump Tariff Whiplash - simplywall.st",
+        "desc": "Nvidia Stock Leads 3 Mega Cap Tech Picks After Trump Tariff Whiplash&nbsp;&nbsp;simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUDZ1UGw0WnUydlhVRGtLOElfQmNOYTNzN3d4WV9BVkZXeUtNZzBEUDcyTmtuM0U0cVdqeDNPMzB2el9rY0QzbjBXNmZnYVF1T0Zta09rMjZJcTJVajh1b3Nab05NODhSX1pCdEsxNkRtZXBobm9qQlZzUmlQV3U3ZmZQa1FxX3VsSXo2WkNqcU9hTDFNQlFXSURQNDdKUzdNdC1rOGEwMG1FYi04WW1wTnltV3dVb1dCQ0tCWDNYQldNSE1DUW11TUlR0gHPAUFVX3lxTFBBbjRFeWhHanV5LU1nWnZTaTZLcWZreGFIUXIyM21pMHgtVy1udjR4bmFacUZUY0wwV2UwN3VfVWI5ZFJXZ2xQeGloZWdrOVBHQVptSWhPTVpJZExNQjFwVGt1cmFocW40bDlqV0FKOVFSWXBobUZvMUsyMVk3X2xDenI2WThfT3RRN1hwOVotY2Z6Z1RiUndoWmxCNUZEcWpLSGZQT1lzcnBfMmZEcmQ0UTZVam1BRjZ6VmZFcEVIUlZGTUxjeHdWY0RyVUhpMA?oc=5",
+        "pubTime": "2026-07-06 05:32",
+        "source": "news.google.com",
+        "titleZh": "在川普關稅風波後，Nvidia 股票領銜三大巨頭科技股推薦名單 - simplywall.st",
+        "descZh": "在川普關稅政策引發劇烈震盪後，Nvidia 股票領銜三大超大市值科技股精選&nbsp;&nbsp;simplywall.st"
+      },
+      {
+        "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+        "desc": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+        "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-05 16:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國以煙火、飛機編隊飛行及極端天氣慶祝建國250週年",
+        "descZh": "美國總統唐納德·川普的演說中，除了闡述部分政治議程外，也向退伍軍人及美國歷史致敬。"
+      },
+      {
+        "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+        "desc": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-05 07:33",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "牛仔、戰鬥機與美國邊境巡邏隊——深入探討川普的大規模招募行動",
+        "descZh": "太空軍與海關及邊境巡邏隊正利用一場牛仔競技表演來提升招募人數。"
+      }
+    ]
+  },
+  {
     "date": "20260706",
     "fetchTime": "2026-07-06 05:30",
     "count": 1,
@@ -2422,85 +2501,6 @@
         "source": "news.google.com",
         "titleZh": "關於中國，川普選對了戰場，卻選錯了策略——《衛報》",
         "descZh": "關於中國，川普選對了戰場，卻選錯了策略&nbsp;&nbsp;《衛報》"
-      }
-    ]
-  },
-  {
-    "date": "20260607",
-    "fetchTime": "2026-06-07 05:34",
-    "count": 8,
-    "articles": [
-      {
-        "title": "On China, Trump picked the right battle but the wrong strategy - The Guardian",
-        "desc": "On China, Trump picked the right battle but the wrong strategy&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Edy03emxsbVZUelJNbjJ6anNyd2k0TmtFYjE3QkkwU2VBQVhYLWNpQWNpYy1rRjBpS3ptbmxYLVB6dDdnVXdMXzBCSXVJTGpJVDdZMEtXcG9yYmRLTjNnUkN0SjNyeXJiTzJwUDNrYktKU2sxTVdPcHFnR0ZnZw?oc=5",
-        "pubTime": "2026-06-06 19:01",
-        "source": "news.google.com",
-        "titleZh": "關於中國，川普選對了戰場，卻選錯了策略——《衛報》",
-        "descZh": "關於中國，川普選對了戰場，卻選錯了策略&nbsp;&nbsp;《衛報》"
-      },
-      {
-        "title": "US Senate approves $70bn for Trump immigration agencies",
-        "desc": "The package to fund agencies including ICE until the end of Trump's term had face Democratic opposition over immigration agents killing two US citizens.",
-        "url": "https://www.bbc.com/news/articles/c4g4g3zxp79o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-05 23:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國參議院批准撥款700億美元予川普政府的移民機構",
-        "descZh": "這項旨在為包括移民及海關執法局（ICE）在內的各機構提供資金直至川普任期結束的法案，因移民執法人員射殺兩名美國公民一事而遭到民主黨的反對。"
-      },
-      {
-        "title": "Trump Tariff Plan on Forced Labor Faces Doubts Over Effectiveness - Modern Diplomacy",
-        "desc": "Trump Tariff Plan on Forced Labor Faces Doubts Over Effectiveness&nbsp;&nbsp;Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3JMYktkY0F0QV9pVmhHSHNUMFZNdjlyb0hiREgwOS1rVGE0Z3dFV3BiN280OEN2M1NOTHg5WW5qNXY2cHVLSlBMTlRieW94RUhFUElvcXBhRS1IQmF5WU1teVF5bXB2WElodDlPdlVzZHlCazRjWVJ2WUpDcjNTUHNUSDZLOGZLei1iZDFUdWQzVzVmT1dsb3BObFU2NUM0UFJWV1VwUQ?oc=5",
-        "pubTime": "2026-06-05 14:41",
-        "source": "news.google.com",
-        "titleZh": "川普針對強迫勞動的關稅計畫成效備受質疑 - Modern Diplomacy",
-        "descZh": "川普針對強迫勞動的關稅計畫成效備受質疑&nbsp;&nbsp;Modern Diplomacy"
-      },
-      {
-        "title": "Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend' - BBC",
-        "desc": "Donald Trump confident of India trade deal, calls Narendra Modi a 'great friend'&nbsp;&nbsp;BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzRHRCRXNaSVpNdmh0YzdsVWU5WlJfSjV6aWk4anlmQU54ZWdBNlg4UWdWbkdfSl8wQUNFd3h6SUFTYXE3d3k4TnpMVWttbmw2dHdIOWxPd3JFQQ?oc=5",
-        "pubTime": "2026-06-05 14:03",
-        "source": "news.google.com",
-        "titleZh": "川普對與印度的貿易協議充滿信心，稱納倫德拉·莫迪為「摯友」——BBC",
-        "descZh": "川普對與印度的貿易協議充滿信心，稱納倫德拉·莫迪為「摯友」&nbsp;&nbsp;BBC"
-      },
-      {
-        "title": "Trump cancels concerts for America's 250th birthday - but how else is it celebrating?",
-        "desc": "A UFC fight on the White House lawn is among a range of events planned to celebrate the 250th anniversary of America's founding.",
-        "url": "https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-05 08:19",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普取消美國建國250週年慶祝演唱會——但其他慶祝活動又是如何進行的？",
-        "descZh": "在白宮草坪上舉行一場UFC格鬥賽，是為慶祝美國建國250週年而規劃的一系列活動之一。"
-      },
-      {
-        "title": "Trump announces $700m coal investment using wartime powers",
-        "desc": "The president is directing money into coal as the Iran war drives up energy costs for Americans.",
-        "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-05 08:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普動用戰時權力，宣布投入7億美元投資煤炭產業",
-        "descZh": "隨著伊朗戰爭推高美國民眾的能源成本，總統正將資金投入煤炭產業。"
-      },
-      {
-        "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-        "desc": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
-        "url": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-05 07:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的白宮舞廳計畫如何在一年內規模與成本翻倍",
-        "descZh": "BBC Verify 探討了白宮數十年來最大的變革，在過去一年中是如何演變的。"
-      },
-      {
-        "title": "EU exports to US collapse 30% in first quarter as Trump tariffs reshape transatlantic trade - Crypto Briefing",
-        "desc": "EU exports to US collapse 30% in first quarter as Trump tariffs reshape transatlantic trade&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3LVBoeXZNZmpoOFFTSkg3d3JQSHF0MU04UE0wcnlBZllwWnFLUXh0Z0ZDNkUzYUlYU0J5VDBuVk5wRTFkQWRMWHJNaERoazJsNVVycjVKTkxnaEVEM1A5SlhuTi1vZzQ2QXNkZQ?oc=5",
-        "pubTime": "2026-06-05 07:35",
-        "source": "news.google.com",
-        "titleZh": "受川普關稅影響，跨大西洋貿易格局重塑，歐盟第一季對美出口暴跌 30% - Crypto Briefing",
-        "descZh": "受川普關稅影響，跨大西洋貿易格局重塑，歐盟第一季對美出口暴跌 30%&nbsp;&nbsp;Crypto Briefing"
       }
     ]
   }
