@@ -1,2 +1,7 @@
 secrets/
 briefings/backups/
+
+# 2026/07/06：防呆規則，比照 rental-market 同批修復——secrets/email_config.json 的備份copy
+# 若不小心存進 repo 內建的 backups/ 資料夾，會透過 git add -A 洩漏 email 帳密，故補這條擋住。
+backups/*email*
+backups/*secret*
