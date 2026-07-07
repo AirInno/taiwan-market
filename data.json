@@ -34415,22 +34415,32 @@
       }
     ],
     "global": {
-      "sp500": 7537.43,
-      "sp500_chg": 2.49,
-      "us10y": 4.48,
-      "us10y_chg": 2.4,
-      "gold": 4149.8,
-      "gold_chg": 2.0,
+      "us10y": 4.53,
+      "us10y_chg": 2.51,
+      "sox": 12300.52,
+      "sox_chg": -10.28,
+      "vix": 16.13,
+      "vix_chg": -8.61,
+      "nasdaq": 25818.69,
+      "nasdaq_chg": -0.01,
+      "usdtwd": 32.13,
+      "usdtwd_chg": 0.92,
+      "oil": 72.32,
+      "oil_chg": 5.45,
       "jpytwd": 0.2,
-      "jpytwd_chg": 0.15,
-      "usdtwd": 32.09,
-      "usdtwd_chg": 0.8,
-      "nasdaq": 26121.16,
-      "nasdaq_chg": 3.26,
-      "sox": 12900.14,
-      "sox_chg": -2.3,
-      "vix": 15.86,
-      "vix_chg": -4.4
+      "jpytwd_chg": 0.1,
+      "gold": 4110.4,
+      "gold_chg": 1.03,
+      "qqq": 709.43,
+      "qqq_chg": -2.02,
+      "tsm_adr": 432.57,
+      "tsm_adr_chg": -4.95,
+      "smh": 581.45,
+      "smh_chg": -8.0,
+      "xle": 54.64,
+      "xle_chg": 1.98,
+      "sp500": 7503.85,
+      "sp500_chg": 0.85
     },
     "futures": {
       "投信": 68187,
@@ -34445,6 +34455,7 @@
     "tsmc_hold": null,
     "etf0050_hold": null,
     "delta_hold": null,
-    "margin": null
+    "margin": null,
+    "us_close_date": "07/07"
   }
 ]
