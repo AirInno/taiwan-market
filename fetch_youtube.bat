@@ -28,7 +28,7 @@ python -m pip install --quiet youtube-transcript-api requests >> "%LOG%" 2>&1
 echo [3/4] Fetch transcript... >> "%LOG%"
 python scripts\fetch_youtube_transcript.py >> "%LOG%" 2>&1
 if errorlevel 1 (
-  echo [WARN] fetch_youtube_transcript.py exited with error (RSS failed after 3 retries) - no new transcript this run, will retry at next schedule (11:30/14:30 or tomorrow) >> "%LOG%"
+  echo [WARN] fetch_youtube_transcript.py exited with error - RSS failed after 3 retries, no new transcript this run, will retry at next schedule 11:30 or 14:30 or tomorrow >> "%LOG%"
 ) else (
   echo [OK] fetch_youtube_transcript.py finished normally >> "%LOG%"
 )
