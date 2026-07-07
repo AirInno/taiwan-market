@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260708",
+    "fetchTime": "2026-07-08 05:48",
+    "count": 9,
+    "articles": [
+      {
+        "title": "What is the 'Trump dance'? And where have we seen it in sport?",
+        "desc": "As the 'Trump dance' gains attention once again, we look at which sportspeople are doing it - and why.",
+        "url": "https://www.bbc.co.uk/sport/articles/c0rg289ywqno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 17:59",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "什麼是「川普舞」？我們曾在哪些體育賽事中見過這種舞步？",
+        "descZh": "隨著「川普舞」再度引發關注，我們來看看哪些運動員正在跳這支舞——以及他們為何這麼做。"
+      },
+      {
+        "title": "Why European backlash over Trump intervention won't worry Infantino",
+        "desc": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 16:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何歐洲對川普介入一事的反彈不會讓因凡蒂諾感到擔憂",
+        "descZh": "在擔任國際足總主席10年後，福拉林·巴洛貢的爭議會不會讓詹尼·因凡蒂諾的處境雪上加霜？別指望了。"
+      },
+      {
+        "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+        "desc": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 15:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「推翻這個」——比利時嘲諷美國，並表示川普的舉動激勵了他們",
+        "descZh": "比利時球員尼古拉斯·拉斯金表示，國際足總允許美國前鋒福拉林·巴洛貢在西雅圖舉行的十六強賽中對陣比利時的決定，激發了球隊的鬥志。"
+      },
+      {
+        "title": "Why some African nations are turning down Trump aid money",
+        "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 08:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何部分非洲國家拒絕接受川普的援助資金",
+        "descZh": "川普政府將這筆援助視為一種交易性質的舉措——但有些人認為這並非一筆公平的交易。"
+      },
+      {
+        "title": "Watch: Does Trump’s Fifa intervention undermine football’s integrity?",
+        "desc": "The BBC's Daniel Bush looks at the US president's comments over his request for Fifa to review Folarin Balogun's one-match ban.",
+        "url": "https://www.bbc.co.uk/news/videos/ckg77mrj3v7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 06:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普對國際足總的干預是否損害了足球的公正性？",
+        "descZh": "BBC記者丹尼爾·布希探討了美國總統針對其要求國際足總重新審查福拉林·巴洛貢一場禁賽處分的言論。"
+      },
+      {
+        "title": "World Cup fans react to Balogun's one-game ban suspension",
+        "desc": "The USA star striker will be available to play at today's match against Belgium after President Trump called Fifa for his ban to be reviewed.",
+        "url": "https://www.bbc.co.uk/news/videos/cly77en9z9lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 06:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "世界盃球迷對巴洛貢遭禁賽一場的處分作出反應",
+        "descZh": "在川普總統致電國際足總要求重新審視對他的禁賽處分後，這位美國明星前鋒將能出戰今天對陣比利時的比賽。"
+      },
+      {
+        "title": "'That wasn't a foul' - Trump on Fifa overturning red card ban",
+        "desc": "USA striker Folarin Balogun's one-game ban has been suspended after the president's intervention.",
+        "url": "https://www.bbc.co.uk/news/videos/c04yy266n0lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-06 23:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「那不是犯規」——川普針對國際足總撤銷紅牌禁賽處分一事發表評論",
+        "descZh": "在主席介入後，美國前鋒福拉林·巴洛貢的一場禁賽處分已被暫緩執行。"
+      },
+      {
+        "title": "Looking at Trump’s trade agenda - Pet Food Processing",
+        "desc": "Looking at Trump’s trade agenda&nbsp;&nbsp;Pet Food Processing",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONm1zdFNCSXNPY2tYQ2dQMXJzX2NPQXo1TkVxdjY1Vl9KNVhFMldOTGFvX3NJQjhCSG94WjR0Smx5Q19zNi1xcG5LRUVqb21QRzllWVJNVExwVDliQkFfenRBRVJWZExpbjVNaVhwMTBhaWM1cUhqZ3hrNXR5S1lubHpzZjVHQQ?oc=5",
+        "pubTime": "2026-07-06 20:31",
+        "source": "news.google.com",
+        "titleZh": "探討川普的貿易議程——寵物食品加工業",
+        "descZh": "探討川普的貿易議程&nbsp;&nbsp;寵物食品加工"
+      },
+      {
+        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
+        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
+        "pubTime": "2026-07-06 19:44",
+        "source": "news.google.com",
+        "titleZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
+        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
+      }
+    ]
+  },
+  {
     "date": "20260707",
     "fetchTime": "2026-07-07 05:51",
     "count": 8,
@@ -2467,40 +2555,6 @@
         "source": "news.google.com",
         "titleZh": "讓全球化發揮作用：川普關稅戰背後的黑幫邏輯 - The Edge Malaysia",
         "descZh": "讓全球化發揮作用：川普關稅戰的「黑幫邏輯」&nbsp;&nbsp;《The Edge Malaysia》"
-      }
-    ]
-  },
-  {
-    "date": "20260608",
-    "fetchTime": "2026-06-08 05:41",
-    "count": 3,
-    "articles": [
-      {
-        "title": "1 Cash-Rich Industrial Titan Under $40 to Buy Hand Over Fist to Capitalize on the New Trump Tariff Supercycle - 24/7 Wall St.",
-        "desc": "1 Cash-Rich Industrial Titan Under $40 to Buy Hand Over Fist to Capitalize on the New Trump Tariff Supercycle&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFlraWQ2dXM5d3dralBQazczYldGWENRSnh6MDJrTzRoczhYbU5Vclk5MjZmU29oWTdrOXczNG1nbkJYWm9rVmI1a1pJV3NISU9md0RUU1FvUC1mT0NBR08wTlAxcXhOT3FqZnNBY2x0NzMtQXlmcGNqQzYzZDVwRTdZWWxpQnV1c0Rlc3RsNzRiYUFlTVBZWm4ySmdZQjFFZkNEVVVmQTRKRFY2dEhCYVRsODU0ZjBleW1fM1F5SWRvNTVQWEs5NFBUaTJDaHFiQy1NSUFWSWFvZjJRNDZwV25IOHZzdjg?oc=5",
-        "pubTime": "2026-06-07 22:40",
-        "source": "news.google.com",
-        "titleZh": "1 股價低於 40 美元、現金充裕的工業巨頭，正大舉買進以把握川普新關稅超級週期的商機 — 24/7 Wall St.",
-        "descZh": "1 股價低於 40 美元、現金充沛的工業巨頭，正大舉買進以把握川普新關稅超級週期的商機&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "Making Globalisation Work: The Gangster Logic of Trump’s Tariff Wars - The Edge Malaysia",
-        "desc": "Making Globalisation Work: The Gangster Logic of Trump’s Tariff Wars&nbsp;&nbsp;The Edge Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CNEpCd3NQcElQSmNQdHpKREpmTHhFdjJkUDA0U0tZTHg5VWw1REVUY01hVV9QdVI0ell0TDdTdFY4Vks2bTBOS3Iya3ZXV0Fx?oc=5",
-        "pubTime": "2026-06-07 12:30",
-        "source": "news.google.com",
-        "titleZh": "讓全球化發揮作用：川普關稅戰背後的黑幫邏輯 - The Edge Malaysia",
-        "descZh": "讓全球化發揮作用：川普關稅戰的「黑幫邏輯」&nbsp;&nbsp;《The Edge Malaysia》"
-      },
-      {
-        "title": "On China, Trump picked the right battle but the wrong strategy - The Guardian",
-        "desc": "On China, Trump picked the right battle but the wrong strategy&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Edy03emxsbVZUelJNbjJ6anNyd2k0TmtFYjE3QkkwU2VBQVhYLWNpQWNpYy1rRjBpS3ptbmxYLVB6dDdnVXdMXzBCSXVJTGpJVDdZMEtXcG9yYmRLTjNnUkN0SjNyeXJiTzJwUDNrYktKU2sxTVdPcHFnR0ZnZw?oc=5",
-        "pubTime": "2026-06-06 19:01",
-        "source": "news.google.com",
-        "titleZh": "關於中國，川普選對了戰場，卻選錯了策略——《衛報》",
-        "descZh": "關於中國，川普選對了戰場，卻選錯了策略&nbsp;&nbsp;《衛報》"
       }
     ]
   }
