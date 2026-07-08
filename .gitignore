@@ -5,3 +5,10 @@ briefings/backups/
 # 若不小心存進 repo 內建的 backups/ 資料夾，會透過 git add -A 洩漏 email 帳密，故補這條擋住。
 backups/*email*
 backups/*secret*
+
+# 2026/07/08：清理untracked殘留＋徹底防備份洩漏——備份/日誌/快取/舊版檔全部不進repo
+# （原本只擋 backups/*email*、backups/*secret*，擴大為整個資料夾，與 rental-market 07/06 同原則）
+backups/
+logs/
+__pycache__/
+*.bak
