@@ -14,12 +14,13 @@ echo ==== %TS% ==== >> "%LOG%"
 
 echo [1/4] Sync with remote... >> "%LOG%"
 git fetch origin >> "%LOG%" 2>&1
-for /f %%i in ('git status --porcelain ^| find /c /v ""') do set "DIRTY=%%i"
+REM -uno: only tracked-file modifications count; untracked files are safe because reset --hard never touches them
+for /f %%i in ('git status --porcelain -uno ^| find /c /v ""') do set "DIRTY=%%i"
 if "%DIRTY%"=="0" (
   git reset --hard origin/main >> "%LOG%" 2>&1
 ) else (
   echo [WARNING] Uncommitted local changes detected - skipping reset --hard this run to avoid discarding them: >> "%LOG%"
-  git status --porcelain >> "%LOG%" 2>&1
+  git status --porcelain -uno >> "%LOG%" 2>&1
 )
 
 echo [2/4] Ensure dependencies... >> "%LOG%"
