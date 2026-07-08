@@ -1,5 +1,66 @@
 [
   {
+    "date": "20260709",
+    "fetchTime": "2026-07-09 05:35",
+    "count": 6,
+    "articles": [
+      {
+        "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
+        "desc": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
+        "url": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-09 04:31",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法官下令將川普的500萬美元賠償金支付給E·珍·卡羅爾",
+        "descZh": "最高法院拒絕受理他針對此案提出的上訴，但川普仍試圖拖延付款。"
+      },
+      {
+        "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+        "desc": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-08 23:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "鮑恩：儘管特朗普口出狂言，但他除了與伊朗談判外別無選擇",
+        "descZh": "BBC國際新聞主編傑瑞米·鮑恩撰文指出，談判進程岌岌可危，而美國近期發動的空襲更顯示出要達成協議將面臨多大困難。"
+      },
+      {
+        "title": "'We don't need anybody's help': Trump renews Nato criticism",
+        "desc": "US President Donald Trump renewed his criticism of NATO during the alliance's summit, saying he was repeatedly disappointed by the organisation.",
+        "url": "https://www.bbc.co.uk/news/videos/czrxjvd2k3xo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 22:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「我們不需要任何人的幫助」：川普再度批評北約",
+        "descZh": "美國總統唐納德·川普在北約峰會期間再次批評該組織，表示他對該組織一再感到失望。"
+      },
+      {
+        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
+        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
+        "pubTime": "2026-07-07 17:14",
+        "source": "news.google.com",
+        "titleZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
+        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
+      },
+      {
+        "title": "Why European backlash over Trump intervention won't worry Infantino",
+        "desc": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 16:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何歐洲對川普介入一事的反彈不會讓因凡蒂諾感到擔憂",
+        "descZh": "在擔任國際足總主席10年後，福拉林·巴洛貢的爭議會不會讓詹尼·因凡蒂諾的處境雪上加霜？別指望了。"
+      },
+      {
+        "title": "Why some African nations are turning down Trump aid money",
+        "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-07 08:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何部分非洲國家拒絕接受川普的援助資金",
+        "descZh": "川普政府將這筆援助視為一種交易性質的舉措——但有些人認為這並非一筆公平的交易。"
+      }
+    ]
+  },
+  {
     "date": "20260708",
     "fetchTime": "2026-07-08 05:48",
     "count": 9,
@@ -2449,112 +2510,6 @@
         "source": "news.google.com",
         "titleZh": "川普的新一輪關稅攻勢引發全球反彈 - 《快報論壇報》",
         "descZh": "川普的新一輪關稅攻勢引發全球反彈&nbsp;&nbsp;《快報論壇報》"
-      }
-    ]
-  },
-  {
-    "date": "20260609",
-    "fetchTime": "2026-06-09 06:07",
-    "count": 11,
-    "articles": [
-      {
-        "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
-        "desc": "The Knicks' stunning winning streak has energised New York as the team prepares for the third game of the NBA Finals at home.",
-        "url": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 04:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「這座城市要瘋了」：尼克隊的精彩表現點燃紐約全城熱情，川普的到場更讓球場人山人海",
-        "descZh": "尼克隊驚人的連勝紀錄為紐約注入了活力，球隊正準備在主場迎戰NBA總決賽的第三場比賽。"
-      },
-      {
-        "title": "Trump has denied climate change but is now threatening Brazil with tariffs over Amazon deforestation - Fortune",
-        "desc": "Trump has denied climate change but is now threatening Brazil with tariffs over Amazon deforestation&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm9ock9pTGwyQldXN2RsM01aR1haR1pDam5hSnVOQlRWWmhxa2hHcDVtR0JWTWlEN25zbXFVOXJZeDkzN1ZEazhBZkN0ZWN1eUd1VU1pbTFYcXhxb2NkdE1lalRPNVJqVlY0TnE4MEpPcVN2cHdEN0pKMDVPb1c0cFZQdi1fZGMzZzlCbFNhWGc3cFZrLW13TkRHU2pJVWNvS3BYSmFGaFVZQkk?oc=5",
-        "pubTime": "2026-06-09 04:27",
-        "source": "news.google.com",
-        "titleZh": "川普曾否認氣候變遷，如今卻以亞馬遜雨林砍伐問題為由，威脅對巴西徵收關稅 - 《財星》",
-        "descZh": "川普曾否認氣候變遷，如今卻以亞馬遜雨林砍伐為由，威脅對巴西徵收關稅&nbsp;&nbsp;《財星》"
-      },
-      {
-        "title": "Has Trump lost control of the Iran war?",
-        "desc": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
-        "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 03:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普是否已失去對伊朗戰爭的控制？",
-        "descZh": "自兩個月前脆弱的停火協議生效以來，以色列與伊朗首次互相發動飛彈攻擊。"
-      },
-      {
-        "title": "Trump denies promising 'no new wars' – but he campaigned on that",
-        "desc": "President Trump denies having promised 'no new wars'. BBC Verify has found multiple examples of him saying this during the 2024 US election campaign.",
-        "url": "https://www.bbc.com/news/videos/cr5j4q878p5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 02:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普否認曾承諾「不再發動新戰爭」——但他當初正是以此為競選口號",
-        "descZh": "川普總統否認曾承諾「不再發動新戰爭」。BBC Verify 發現他在 2024 年美國大選期間曾多次發表此類言論。"
-      },
-      {
-        "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-        "desc": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
-        "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 01:18",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "身陷囹圄的加密貨幣創辦人山姆·班克曼-弗里德尋求川普特赦",
-        "descZh": "加密貨幣平台 FTX 的前負責人目前正在服刑 25 年，他於週一正式提出特赦申請。"
-      },
-      {
-        "title": "Trump's new tariff offensive sparks global backlash - The Express Tribune",
-        "desc": "Trump's new tariff offensive sparks global backlash&nbsp;&nbsp;The Express Tribune",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSENscVJEN1N5U3ZVdkF3NF92TkNBZmZoeWZGbWdRSTF2VU1DMmFqM2d4R0pJRl8wWmpWMzZPUGFFT0FYaURYb212SHJlcXJYZEpOTGk0Z2pMSVhUUTVuMEZWN0pnbEEyejZOeUhrRUoxeXA5bEVibUNLN0M4NUhTYlJkT0xwRG9pTEJWM3RIUjfSAZgBQVVfeXFMTUc1RnBueThUN183ZVhwWV9kRUdtMFA5UHJfTDlYeTlyV3NnQ2ZzTmZ3VXNGUzZaR2xFQW1lZGRSQ1NxOTZMZEVILXFXdkR0VktiMzF2SUhpNWRGaG85QkZQSWxjUnNTbjkyQXhXVWFEbEY0LTZPbnlFX0lSNHZLU25XNXlvYkQ2dEFKOUZyQkpvajBmYmpvTEo?oc=5",
-        "pubTime": "2026-06-09 00:55",
-        "source": "news.google.com",
-        "titleZh": "川普的新一輪關稅攻勢引發全球反彈 - 《快報論壇報》",
-        "descZh": "川普的新一輪關稅攻勢引發全球反彈&nbsp;&nbsp;《快報論壇報》"
-      },
-      {
-        "title": "Trump cancels concerts for America's 250th birthday - but how else is it celebrating?",
-        "desc": "A UFC fight on the White House lawn is among a range of events planned to celebrate the 250th anniversary of America's founding.",
-        "url": "https://www.bbc.com/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-08 19:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普取消美國建國250週年慶祝演唱會——但其他慶祝活動又是如何進行的？",
-        "descZh": "在白宮草坪上舉行一場UFC格鬥賽，是為慶祝美國建國250週年而規劃的一系列活動之一。"
-      },
-      {
-        "title": "Five people injured in stabbing at New York City's Penn Station",
-        "desc": "The city is currently heightening security measures before President Trump visits on Monday to watch the NBA finals.",
-        "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-08 09:33",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "紐約市賓州車站發生持刀傷人事件，五人受傷",
-        "descZh": "在川普總統將於週一到訪觀看NBA總決賽之前，該市目前正加強安保措施。"
-      },
-      {
-        "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-        "desc": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
-        "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-08 03:55",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普因「選舉舞弊」指控引發爭執，突然終止與NBC的訪談",
-        "descZh": "在訪談過程中，節目主持人克莉絲汀·韋爾克多次就幾個要點向總統提出質疑。"
-      },
-      {
-        "title": "1 Cash-Rich Industrial Titan Under $40 to Buy Hand Over Fist to Capitalize on the New Trump Tariff Supercycle - 24/7 Wall St.",
-        "desc": "1 Cash-Rich Industrial Titan Under $40 to Buy Hand Over Fist to Capitalize on the New Trump Tariff Supercycle&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFlraWQ2dXM5d3dralBQazczYldGWENRSnh6MDJrTzRoczhYbU5Vclk5MjZmU29oWTdrOXczNG1nbkJYWm9rVmI1a1pJV3NISU9md0RUU1FvUC1mT0NBR08wTlAxcXhOT3FqZnNBY2x0NzMtQXlmcGNqQzYzZDVwRTdZWWxpQnV1c0Rlc3RsNzRiYUFlTVBZWm4ySmdZQjFFZkNEVVVmQTRKRFY2dEhCYVRsODU0ZjBleW1fM1F5SWRvNTVQWEs5NFBUaTJDaHFiQy1NSUFWSWFvZjJRNDZwV25IOHZzdjg?oc=5",
-        "pubTime": "2026-06-07 22:40",
-        "source": "news.google.com",
-        "titleZh": "1 股價低於 40 美元、現金充裕的工業巨頭，正大舉買進以把握川普新關稅超級週期的商機 — 24/7 Wall St.",
-        "descZh": "1 股價低於 40 美元、現金充裕的工業巨頭，正大舉買進以把握川普新關稅超級週期的商機&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "Making Globalisation Work: The Gangster Logic of Trump’s Tariff Wars - The Edge Malaysia",
-        "desc": "Making Globalisation Work: The Gangster Logic of Trump’s Tariff Wars&nbsp;&nbsp;The Edge Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CNEpCd3NQcElQSmNQdHpKREpmTHhFdjJkUDA0U0tZTHg5VWw1REVUY01hVV9QdVI0ell0TDdTdFY4Vks2bTBOS3Iya3ZXV0Fx?oc=5",
-        "pubTime": "2026-06-07 12:30",
-        "source": "news.google.com",
-        "titleZh": "讓全球化發揮作用：川普關稅戰背後的黑幫邏輯 - The Edge Malaysia",
-        "descZh": "讓全球化發揮作用：川普關稅戰的「黑幫邏輯」&nbsp;&nbsp;《The Edge Malaysia》"
       }
     ]
   }
