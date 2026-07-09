@@ -1,5 +1,75 @@
 [
   {
+    "date": "20260710",
+    "fetchTime": "2026-07-10 05:52",
+    "count": 7,
+    "articles": [
+      {
+        "title": "Trump’s latest tariff proposal has a new rationale, but the same outcome - The Hill",
+        "desc": "Trump’s latest tariff proposal has a new rationale, but the same outcome&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xTVJtOUh1MTVFMnpXcFluMjdxUXo4MkZhYi1DWVJJLWI0UlctSG9pd2tnR1RvRE1WOG03YWhzVGNnN3VYOUhobG5qbXJfTWNDMHAxcmI2UFR0RDZHVGhESEUtcktEb1VLZmQyUDJpTy1Ka3ZrLVBqUFFtZXRBcFnSAYQBQVVfeXFMT1JkdDh5dzUwakF4LU5UaDNaRGpPMmRHT2Nnb3g0NlJBQWdBTjNPZjVJRXgwVllFc0NRcXNibi0tNllpNDEwVUN0cXkxRHlvanVCLXYtMFphbGFzSk95YjFLVnhXNHZUM0trRXplTkZxX1BFZGZxYlZXTDREMEpLbGFjY0Y2?oc=5",
+        "pubTime": "2026-07-09 23:00",
+        "source": "news.google.com",
+        "titleZh": "川普最新的關稅提案雖有新的理由，但結果依舊如故——《The Hill》",
+        "descZh": "川普最新的關稅提案雖有新的理由，但結果依然如故&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Travellers react as Florida airport renamed after Trump",
+        "desc": "Palm Beach International Airport was officially renamed as President Donald J. Trump International Airport on 9 July.",
+        "url": "https://www.bbc.co.uk/news/videos/cly9r0zwkzko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-09 21:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "佛羅里達州機場更名為「川普機場」後，旅客們紛紛表達反應",
+        "descZh": "棕櫚灘國際機場已於7月9日正式更名為「唐納德·J·川普總統國際機場」。"
+      },
+      {
+        "title": "The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet - 24/7 Wall St.",
+        "desc": "The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet&nbsp;&nbsp;24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjlkeDA4T243Y3lxbURYeVU2VjVQZmtBV2thLWE2VUVMRG5SbzFycEs1VHFzbGdfaHhBbkxPLWhlbmJvWDR6Y3NDV210Y1pRY3ZpZDlOZFlIMjc1YWwzZTM3YS1RcjFBNE9ISElSc0Jidi0xNmhvTDBaZ3o1azhpSWNMem8wVnFrT3FsZ3RXb3Fja0hjQ1pIZEkxcC0yMjNGd2tUSkNscnJiT3MyeUJVN2MzcUNwU0hXZy1KOHM2SlBvNDNIeTF4VXl3?oc=5",
+        "pubTime": "2026-07-09 20:49",
+        "source": "news.google.com",
+        "titleZh": "聯準會表示，川普關稅的隱性成本即將衝擊您的荷包 — 24/7 Wall St.",
+        "descZh": "聯準會表示，川普關稅的隱性成本即將衝擊您的荷包&nbsp;&nbsp;24/7 Wall St."
+      },
+      {
+        "title": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft - Yahoo Finance",
+        "desc": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjVKWVRHVGRyX2hjQ2RFWVVtcUQ4ZGY0LXByN3VvSE5ncV9XQ0MwR2V3akRIMUZsS0R5ajctU193eVhNSGpWaUZjR2NwOTJzV2E1M29DYTBsQ2o5QTdnenBmREVxZXFpMjNVLTFBNDFudVRfYnVaSl9Na1Z0ckw5bGNZd3FIYzQwNHJxWjdHNElCdGYzOUNtdTRB?oc=5",
+        "pubTime": "2026-07-09 08:01",
+        "source": "news.google.com",
+        "titleZh": "川普宣布人工智慧行動計畫，宣稱「美國必勝」——就在同一天，他買進了數百萬美元的 NVIDIA、蘋果和微軟股票 - 雅虎財經",
+        "descZh": "川普宣布其人工智慧行動計畫，宣稱「美國必將勝出」——就在同一天，他買進了價值數百萬的 Nvidia、蘋果和微軟股票&nbsp;&nbsp;雅虎財經"
+      },
+      {
+        "title": "Trump 'immediately' asking US Supreme Court to reconsider birthright citizenship case",
+        "desc": "The long-shot bid by Trump comes a week after the high court ruled that those born in the US have a constitutional right to citizenship.",
+        "url": "https://www.bbc.co.uk/news/articles/cx23zk1jp1go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-09 07:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普「立即」要求美國最高法院重新審理「出生地公民權」案件",
+        "descZh": "在最高法院裁定出生於美國者享有憲法賦予的公民權一週後，川普提出了這項勝算渺茫的提議。"
+      },
+      {
+        "title": "Asian nations are building new trading zones to deflect the Trump tariff impact - American Journal of Transportation",
+        "desc": "Asian nations are building new trading zones to deflect the Trump tariff impact&nbsp;&nbsp;American Journal of Transportation",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmpiQ3ZOSi1UQV80akFxY2JUTVRWSi1EVENKQ2QxSy16ZDU5bzNqZWJ5VWNXa3pYV0V6Q0RfRGRGZTI3RE5yRE9udjh3cjAtLU1EdENEOGwwNGRHQmFpZWVDa0VGbnpBX1ozbWt1WmpOUTFEVnF5elRqRHQ0bHYtTnFoTy1iLUR5ZXN4dVdSenItQ2xlOTc4WEd5WUo0aE5OamVsdWJIcWZSOW5UamRvODlUSElNZjNj?oc=5",
+        "pubTime": "2026-07-09 01:04",
+        "source": "news.google.com",
+        "titleZh": "亞洲各國正建立新的貿易區，以抵禦川普關稅的影響——《美國運輸期刊》",
+        "descZh": "亞洲各國正建立新的貿易區，以抵禦川普關稅的影響&nbsp;&nbsp;《美國運輸期刊》"
+      },
+      {
+        "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+        "desc": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-08 23:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "鮑恩：儘管特朗普口出狂言，但他除了與伊朗談判外別無選擇",
+        "descZh": "BBC國際新聞主編傑瑞米·鮑恩撰文指出，談判進程岌岌可危，而美國近期發動的空襲更顯示，要達成協議將是何等艱難。"
+      }
+    ]
+  },
+  {
     "date": "20260709",
     "fetchTime": "2026-07-09 05:35",
     "count": 6,
@@ -2386,130 +2456,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普告訴BBC，內塔尼亞胡並未違抗他",
         "descZh": "在與美國總統的通話中，BBC記者莎拉·史密斯向川普詢問了關於伊朗戰爭以及他與以色列領導人的關係。"
-      }
-    ]
-  },
-  {
-    "date": "20260610",
-    "fetchTime": "2026-06-10 06:01",
-    "count": 13,
-    "articles": [
-      {
-        "title": "US striking Iran in response to downing of helicopter, military says",
-        "desc": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-10 05:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美軍表示，美國對伊朗發動空襲是對直升機遭擊落事件的回應",
-        "descZh": "美國總統唐納德·川普稍早指責伊朗在霍爾木茲海峽上空擊落一架美國直升機，並誓言將予以還擊。"
-      },
-      {
-        "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-        "desc": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
-        "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-10 04:14",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "鮑恩：川普與內塔尼亞胡曾企圖重塑中東局勢——如今卻面臨陷入長期危機的風險",
-        "descZh": "美國與以色列領導人因對伊朗戰爭的誤判，已無法掌控其後果。"
-      },
-      {
-        "title": "OPINION: A Trump trade policy that works: reducing tariffs - Midland Daily News",
-        "desc": "OPINION: A Trump trade policy that works: reducing tariffs&nbsp;&nbsp;Midland Daily News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUNHdXlkOWRSN0I3TWJpSWpHckxpLXhiYXdoOXBIOUFvYXlsV0FXTXpkVXNLcG1lRU95SFhBQkNQa0pOTmdLY3llT3ZUTFlNbFNiRDAzSmYtVV8tMVFGdFBWUjhWck14MlZ6c0dxNC1RWVJtVkhyelIwcUF1dDAxSnc0NUhZaFRaaE5rUHJmNGt4aUwxcW9lWDl6SHNUejdWbGpldXlPQQ?oc=5",
-        "pubTime": "2026-06-10 03:12",
-        "source": "news.google.com",
-        "titleZh": "觀點：一項行之有效的川普貿易政策：降低關稅 ——《米德蘭每日新聞》",
-        "descZh": "觀點：行之有效的川普貿易政策：降低關稅&nbsp;&nbsp;米德蘭每日新聞"
-      },
-      {
-        "title": "Watch: Moment Trump is booed during the national anthem at NBA Finals",
-        "desc": "The US president later insisted the reaction inside the arena was \"mostly cheers\", describing the atmosphere as \"loud\" and \"enthusiastic\".",
-        "url": "https://www.bbc.com/news/videos/cm2r08d27eko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-10 02:14",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：NBA總決賽國歌奏響時，川普遭噓聲的瞬間",
-        "descZh": "美國總統隨後堅稱，場內的反應「大多是歡呼聲」，並形容現場氣氛「熱烈」且「充滿熱情」。"
-      },
-      {
-        "title": "From rules to discretion: How Trump reconfigured US tariff policy - Brookings",
-        "desc": "From rules to discretion: How Trump reconfigured US tariff policy&nbsp;&nbsp;Brookings",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanVpQ2p0NFNFcTh0c3JkVGZ3aS10NjFXWjB4ZGZBSDRwNE1qa19SLXAzRDVfZ0xabmNmdUkwb0dSMHA0WFU3ZDhLc0NTS21DVV96a0JDRk9ESUxYWlJwUElPNG5JVUJDV1hBZWpHS3N1c3piNENtRkVCaUI2MHFmeXhyRHJPdzhMci10TVVRSjhDOXoxWEtLUHBzSmFPY0tSMXc?oc=5",
-        "pubTime": "2026-06-09 23:04",
-        "source": "news.google.com",
-        "titleZh": "從規則到裁量權：川普如何重塑美國關稅政策——布魯金斯學會",
-        "descZh": "從規則到裁量權：川普如何重塑美國關稅政策&nbsp;&nbsp;布魯金斯學會"
-      },
-      {
-        "title": "Trump's trade war has a new target: forced labor. The case behind it is far from simple - CNBC",
-        "desc": "Trump's trade war has a new target: forced labor. The case behind it is far from simple&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjdDRzB3Q3VlZU1pakpuTXVwX1U0UWZVMWVMZFZBMks3RFNpaFpqbFhtaHFUejBFcnJwRVU0eGY4WVFSM3ZHTWM4VnVtUDNVYWZNcEotWGZMWVlqN3JtUVJYRldFcF9vZy1PczNNRkVMWE1zVld1SkdsSFNKMXVmbNIBhgFBVV95cUxOakdWQTB4c0R0cEp3eGFVaTI5VVpQUFhfb25qbko0ZGhPM2NyNFM0dU5ndGprYnFGc0ItNjZQMGxSd1VCSHJZWUxxSHJ1LTBwNFpFekxkVkNhUEdmVFB6QWV1UG9FNGViQnZHU3hieWhYZXpuQzlqeHMySUVHdk1kOEhCeEt5UQ?oc=5",
-        "pubTime": "2026-06-09 19:00",
-        "source": "news.google.com",
-        "titleZh": "川普的貿易戰有了新目標：強迫勞動。背後的原因絕非簡單——CNBC",
-        "descZh": "川普的貿易戰有了新目標：強迫勞動。背後的原因絕非簡單&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "desc": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 13:07",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "以色列與伊朗局勢升級可能增強德黑蘭在談判中的籌碼",
-        "descZh": "伊朗似乎因這一結果而更加有恃無恐，其領導人可能察覺到川普的冒險意願較低。"
-      },
-      {
-        "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers - Investor's Business Daily",
-        "desc": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers&nbsp;&nbsp;Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGM0TFBVcmtKRlg3bVlicUVxX2NXbFVha3g1RFlqbE56SlZPd0VKUk5QTzF3Yk4tSUtES0h3TnNIaUFud1VFZFlpdjBvSjVKbzVYV3l5M1pVcDB2U1ZNaXBpbFFneXZjejZTTUVYeGY1ajAyV1phMlNRNjl6VFU5NjNfNmkxZDBlbmZZc2xzMWFXQjlLTGExQWM5WUJ2TDAzc2FxbnZpcGVHQ1pOMkJxM01HSmpORlBpaXc?oc=5",
-        "pubTime": "2026-06-09 09:49",
-        "source": "news.google.com",
-        "titleZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈 - 《投資者商業日報》",
-        "descZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈&nbsp;&nbsp;《投資者商業日報》"
-      },
-      {
-        "title": "Trump tells BBC Netanyahu did not defy him",
-        "desc": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
-        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 06:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普告訴BBC，內塔尼亞胡並未違抗他",
-        "descZh": "在與美國總統的通話中，BBC記者莎拉·史密斯向川普詢問了關於伊朗戰爭以及他與以色列領導人的關係。"
-      },
-      {
-        "title": "Trump has denied climate change but is now threatening Brazil with tariffs over Amazon deforestation - Fortune",
-        "desc": "Trump has denied climate change but is now threatening Brazil with tariffs over Amazon deforestation&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm9ock9pTGwyQldXN2RsM01aR1haR1pDam5hSnVOQlRWWmhxa2hHcDVtR0JWTWlEN25zbXFVOXJZeDkzN1ZEazhBZkN0ZWN1eUd1VU1pbTFYcXhxb2NkdE1lalRPNVJqVlY0TnE4MEpPcVN2cHdEN0pKMDVPb1c0cFZQdi1fZGMzZzlCbFNhWGc3cFZrLW13TkRHU2pJVWNvS3BYSmFGaFVZQkk?oc=5",
-        "pubTime": "2026-06-09 04:27",
-        "source": "news.google.com",
-        "titleZh": "川普曾否認氣候變遷，如今卻以亞馬遜雨林砍伐問題為由，威脅對巴西徵收關稅 - 《財星》",
-        "descZh": "川普曾否認氣候變遷，如今卻以亞馬遜雨林砍伐為由，威脅對巴西徵收關稅&nbsp;&nbsp;《財星》"
-      },
-      {
-        "title": "Has Trump lost control of the Iran war?",
-        "desc": "For the first time since the start of a precarious ceasefire two months ago, Israel and Iran have traded missile strikes.",
-        "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 03:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普是否已失去對伊朗戰爭的控制？",
-        "descZh": "自兩個月前脆弱的停火協議生效以來，以色列與伊朗首次互發導彈。"
-      },
-      {
-        "title": "Trump denies promising 'no new wars' – but he campaigned on that",
-        "desc": "President Trump denies having promised 'no new wars'. BBC Verify has found multiple examples of him saying this during the 2024 US election campaign.",
-        "url": "https://www.bbc.com/news/videos/cr5j4q878p5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-09 02:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普否認曾承諾「不再發動新戰爭」——但他當初正是以此為競選口號",
-        "descZh": "川普總統否認曾承諾「不再發動新戰爭」。BBC Verify 發現他在 2024 年美國大選期間曾多次發表此類言論。"
-      },
-      {
-        "title": "Trump's new tariff offensive sparks global backlash - The Express Tribune",
-        "desc": "Trump's new tariff offensive sparks global backlash&nbsp;&nbsp;The Express Tribune",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSENscVJEN1N5U3ZVdkF3NF92TkNBZmZoeWZGbWdRSTF2VU1DMmFqM2d4R0pJRl8wWmpWMzZPUGFFT0FYaURYb212SHJlcXJYZEpOTGk0Z2pMSVhUUTVuMEZWN0pnbEEyejZOeUhrRUoxeXA5bEVibUNLN0M4NUhTYlJkT0xwRG9pTEJWM3RIUjfSAZgBQVVfeXFMTUc1RnBueThUN183ZVhwWV9kRUdtMFA5UHJfTDlYeTlyV3NnQ2ZzTmZ3VXNGUzZaR2xFQW1lZGRSQ1NxOTZMZEVILXFXdkR0VktiMzF2SUhpNWRGaG85QkZQSWxjUnNTbjkyQXhXVWFEbEY0LTZPbnlFX0lSNHZLU25XNXlvYkQ2dEFKOUZyQkpvajBmYmpvTEo?oc=5",
-        "pubTime": "2026-06-09 00:55",
-        "source": "news.google.com",
-        "titleZh": "川普的新一輪關稅攻勢引發全球反彈 - 《快報論壇報》",
-        "descZh": "川普的新一輪關稅攻勢引發全球反彈&nbsp;&nbsp;《快報論壇報》"
       }
     ]
   }
