@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260712",
+    "fetchTime": "2026-07-12 05:10",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Trump Pushes Apple, NVIDIA and SpaceX to Back Intel’s US Chip Revival - Analytics Insight",
+        "desc": "Trump Pushes Apple, NVIDIA and SpaceX to Back Intel’s US Chip Revival&nbsp;&nbsp;Analytics Insight",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmRpc0taSWNzc2EzS3UtX1ZoU1NDQ3YyOUJaZnBJS3FHQzZpcXRZYmNyXzFZT3BtSXo2ZU51dWlMZUdfdmlFNmxHbWJUQVlIX2p0a1dfMFpPVzR2TXJIZ2d1a2phYTVRTTBBUzh3Y0tqOHk1M3k1cmxnWVhaMEVXeWt6cGFqRVE2eEpWZktxR05icENheGF1ajhRTDJ1akkwS1M5NV8xVzbSAbYBQVVfeXFMTmEtOWdlWjJSMEl4bXlQazFYMTBsbmNiMWJzLVhLc1lTblFyWFRTVXNqN3p0UWdNWDhYc0MtamVUek9CSEhSVEl0eGc1OE1JR0xNRlhRQmtWeFYwdnpYRlNfN3ctNjRYeFE3Q0w3OVpJU1ltelZNUnFKc2g2RVQ1RFJjaGhaUXkwdEtYVmh1WGswcXd3cWw1bHoxQXo2bGx0Q0p5Q1N5N2VTWkhZaThha3ZCaXIzRFE?oc=5",
+        "pubTime": "2026-07-12 03:00",
+        "source": "news.google.com",
+        "titleZh": "川普敦促蘋果、NVIDIA 和 SpaceX 支持英特爾在美國重振晶片產業 — Analytics Insight",
+        "descZh": "川普敦促蘋果、NVIDIA 和 SpaceX 支持英特爾在美國重振晶片產業&nbsp;&nbsp;分析洞見"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-12 00:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府就「空軍一號」相關報導向《紐約時報》記者發出傳票",
+        "descZh": "這些記者在報導了總統新專機（該專機由卡達贈送）涉嫌存在的安全問題後，收到了法律傳票。"
+      },
+      {
+        "title": "Landmark US housing bill becomes law despite Trump protest",
+        "desc": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-11 21:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "儘管川普提出抗議，這項具有里程碑意義的美國住房法案仍正式成為法律",
+        "descZh": "總統原本希望在《住房法》通過之前，先通過選民身分證明法案，該法案旨在降低成本並增加供應量。"
+      },
+      {
+        "title": "The White House Made Fixing Intel Its Pet Project. It’s Working. - WSJ",
+        "desc": "The White House Made Fixing Intel Its Pet Project. It’s Working.&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51MVJOcmhOX2lRTVFBSmozTDNjYUxwR1JmNFB3bnJsZUpMSHd0UUJHa3ExaEhXNVNuV0pMdUpQNWtiUk00SDNfTEdtRU53NlhtUHljbTRUYzJESmtCVFNyZXFJVHNvYU5RTU1Oa2Q3NXV2S0RZMVE?oc=5",
+        "pubTime": "2026-07-11 09:00",
+        "source": "news.google.com",
+        "titleZh": "白宮將整頓情報系統列為重點專案。成效顯著。——《華爾街日報》",
+        "descZh": "白宮將整頓情報系統列為重點專案。成效顯著。&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "Asia’s big trade pacts soften damage from Trump tariffs - KrASIA",
+        "desc": "Asia’s big trade pacts soften damage from Trump tariffs&nbsp;&nbsp;KrASIA",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PY3ZnVTJjNFFBQmQxMlNsNklXcEVoNm12dldfUWp1VEc2MWtKMGZvUk82YWtCcVlQX0ZWdFRhQWFLWVN5UTlLNWxmVHhZWDduZDhadFJTeV9OV1ZHVzZTV1VqMXBaYl9KdHN3NWo2bDJlaHhYeUw0WnN6bHAyQjg?oc=5",
+        "pubTime": "2026-07-11 08:32",
+        "source": "news.google.com",
+        "titleZh": "亞洲大型貿易協定緩解了川普關稅造成的衝擊——KrASIA",
+        "descZh": "亞洲大型貿易協定緩解了川普關稅造成的衝擊&nbsp;&nbsp;KrASIA"
+      },
+      {
+        "title": "Did Trump’s tariffs paint the US into an economic corner? - South China Morning Post",
+        "desc": "Did Trump’s tariffs paint the US into an economic corner?&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmNlNjVLOEpNb0ZwLXhCQTFtTkFOeGx2bU5vUFJ2T296MkxlR2VweHdrWmNQTHFfSlU2WWtUVDhhSFlVV1ZNYk5PajBMcURKVVp3cDNtYzdDR253cGR1Sk1mMnFGTEk3OTRKZXNCOEtlcUFwZFR0dzM1X2xiNFQ4VDRjWUhmejZZa1VmRHNXZVZBZkIwcm1RdVN6NTgwMEc5cHhORWo2VFlKMmJGaEg5aGQtMnpaT0xGUy1ob0EyNNIBvwFBVV95cUxQcHFvN04zWWUySmowbnlDcUM2WFZvZDZ6dkZ0c3VxOEJqVHA0Tjg2TENOVDA0dkFLeE5vSG5vTlFYNlQzMTZEM09GNzQ0YlZ2VVBPZ2pwT3RjS0pnNmxrOU1LdDFQNEpnMlREaF84dGloaEVobW42dWtfcG1MMDI4RHpsc2tCTGpNMGg4NURBSXNZU3kycHA5ZVVGblVOZHZqdENhdFMxSGRkRXdyUUNOYjVVQ0VfX2xtWDdyZVJzUQ?oc=5",
+        "pubTime": "2026-07-11 06:00",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅政策是否將美國逼入經濟死胡同？——《南華早報》",
+        "descZh": "川普的關稅政策是否將美國逼入經濟死胡同？&nbsp;&nbsp;《南華早報》"
+      },
+      {
+        "title": "Eight charged over alleged conspiracy to attack White House UFC event",
+        "desc": "Thousands of people attended the event last month, including President Trump and Vice-President JD Vance.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy091zzgpdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-11 03:27",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "八人因涉嫌密謀襲擊白宮UFC賽事而被起訴",
+        "descZh": "上個月有數千人出席了這場活動，其中包括川普總統和副總統 J.D. 凡斯。"
+      },
+      {
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "desc": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-10 23:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "易捷航空同意接受這項出人意料的收購要約，因競爭對手——一家美國公司——突然出手",
+        "descZh": "該航空公司表示，美國公司阿波羅（Apollo）提出的收購要約，已勝過卡斯爾萊克（Castlelake）近期提出的收購要約。"
+      },
+      {
+        "title": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - The Globe and Mail",
+        "desc": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause&nbsp;&nbsp;The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYUpMVVhKbDN5TFkzdjQyZ2pVZmQ1U3FqdWV5YW92T01CZ3ZjdVhoemtoVkVPRDBoRlJwRG16cUQwMndQejlLY3JlWGt0WG8yTzMwSnRTZUtpYW9hZ0N6bmR1N2N6TmFiWGtORjBJeUdkczJIbk5iT3BqNm9tTWdTY3F4MW1lME5MSXZhQmlnUVBicmZKVDhseVNnRnNPcVNyR2pGLXVjeWMtZDZvMDNmUWQ3ckFxbnZ3YW44YkZsNkxaa1I1Zm9lVWhvTGw1eXlra0MtUkUwNmYzU0JMRXFIUzUybFJWM3F0VnREYWRXd2lkVTRRUGN1N3RHZmwzUlNsVGZ6Zg?oc=5",
+        "pubTime": "2026-07-10 19:09",
+        "source": "news.google.com",
+        "titleZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易——《環球郵報》",
+        "descZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易&nbsp;&nbsp;《環球郵報》"
+      }
+    ]
+  },
+  {
     "date": "20260711",
     "fetchTime": "2026-07-11 05:30",
     "count": 6,
@@ -2278,112 +2366,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "影片：歷史悠久的美國-加拿大邊境圖書館增設專屬魁北克省的入口",
         "descZh": "在共用主入口逾一個世紀後，2025年，川普政府禁止加拿大人使用該圖書館位於美國一側的入口。"
-      }
-    ]
-  },
-  {
-    "date": "20260612",
-    "fetchTime": "2026-06-12 06:20",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Police investigate '8647' written in grass on US national mall",
-        "desc": "\"Eighty-six\" is a slang term for \"get rid of\". Some US officials claim the numbers are meant to encourage violence against Trump, the 47th president.",
-        "url": "https://www.bbc.com/news/articles/clywv23m3vyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-12 05:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "警方調查美國國家廣場草地上出現的「8647」字樣",
-        "descZh": "「86」是「除掉」的俚語。部分美國官員聲稱，這些數字意在煽動對第47任總統川普的暴力行為。"
-      },
-      {
-        "title": "Trump names new spy chief after pushback over previous pick",
-        "desc": "The nomination comes after lawmakers objected to his first selection, Bill Pulte, over a lack of relevant experience.",
-        "url": "https://www.bbc.com/news/articles/cy497vjmd4wo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-12 04:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在前任人選遭遇反對後，任命了新的情報首長",
-        "descZh": "此次提名是在議員們以缺乏相關經驗為由，反對他最初的人選比爾·普爾特之後提出的。"
-      },
-      {
-        "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-        "desc": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
-        "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-12 04:22",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "是立場反覆還是深思熟慮？——剖析川普對伊朗的策略",
-        "descZh": "BBC記者蓋瑞·奧唐納（Gary O'Donoghue）探討美國總統針對這場戰爭所傳達的矛盾訊息，以及這引發的種種疑問。"
-      },
-      {
-        "title": "Treasury refunds $22 billion in Trump tariffs, offsetting May duty collections - Firstpost",
-        "desc": "Treasury refunds $22 billion in Trump tariffs, offsetting May duty collections&nbsp;&nbsp;Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzJTMzI5RV9KSHB3YXpJb1ppdXVNQVJNUVdZbnBjTGpVMjRLMXdqbTd4bk9RX3F4ZWZZNG5BQUdHb3RhWGZ3V3JRUVRjeWFKV2FWbkxMYTlnWmJMNXVteXFud3hsaS1IOGxQSXNaVElXdGVKU1hvbTR6Ujh6ZjdZRGJwV2hEZmtCc25MOU5kSEM3SkZCcmZQVFBmbUhjb0hiRzAwQjJtXzBrT2VrY1JNbXI5X1V6M1dLMVJXd3BwZjJsampnNVVEWUVpY1k1b25DQVHSAdcBQVVfeXFMTnhPSjBhcFBRMFFaQ3FFckRlMkpsOWdfbTF4QU5Ccms4RGcyUmtPN3didU5uc2JvWndCR3E0anNGcDNLRmNmYjF3NGpzN25NQnpHME1QTEZ6Rm5RTGxVSFU3X19XTS1xTk9hdmJUUHZyeHc3OWJZZ1k2SGFLelhsNnYzemdYWWl6T25ob3dxYlB6N1FiVHJYaThzRXpkSEJQX3hzMWRZcndBUy1FR1N2ck5ueklBUEMxY0d4YklyY1ZWa2pfeEduZExFOU5pbjh6b012bmpiOWs?oc=5",
-        "pubTime": "2026-06-11 13:58",
-        "source": "news.google.com",
-        "titleZh": "美國財政部退還 220 億美元的川普關稅，抵銷了 5 月份的關稅收入 - Firstpost",
-        "descZh": "美國財政部退還 220 億美元的川普關稅，抵銷了 5 月份的關稅收入&nbsp;&nbsp;Firstpost"
-      },
-      {
-        "title": "Trump's Tariffs, Government Revenue, and the Cost of Living: The Case of Food and the Agricultural Tariff Exemptions - American Enterprise Institute - AEI",
-        "desc": "Trump's Tariffs, Government Revenue, and the Cost of Living: The Case of Food and the Agricultural Tariff Exemptions&nbsp;&nbsp;American Enterprise Institute - AEI",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTC03OGs3LWV4ZXVLeGlORnNhemdpY2FvdDZKeHVkTVRWeDctVkIxWEZUbTJpT2tTdDYwWmVBMDdIbXZrQzdSNGVVRW5WcThkcXdMVXZ4eEVhQnVHTDZPRzdyZE5yd3dwbVpGYzlfdzhTcGM2cC1XelY2OUx1LXB5Qk44SWNuS2liSVZ3ZG4zOV9ybmw3YnZfaEN3UW9RenFjRFMxV0NNSm9HdW1GZWpFbkttbW1xeFROcDhqWTk1VlhtaDRpUHFTYkx0NVRKT0RIaG94TWQxczA5ZnlWd19xRVRCb21heHhRT2RxQ0RmZw?oc=5",
-        "pubTime": "2026-06-11 12:10",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅、政府收入與生活成本：以食品及農業關稅豁免為例 - 美國企業研究所 - AEI",
-        "descZh": "川普的關稅、政府收入與生活成本：以食品及農業關稅豁免為例&nbsp;&nbsp;美國企業研究所 - AEI"
-      },
-      {
-        "title": "US refunds $22 bn in tariffs after court setback to Trump's trade policy - Business Standard",
-        "desc": "US refunds $22 bn in tariffs after court setback to Trump's trade policy&nbsp;&nbsp;Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHRhSmtkVUxXbjJFTlk4RHFyeHU3QnhKSVI4R0ZwTUk5WTdyQ0hydE1LN0NXZDBBTDItb1VtODFqWmFSMGRZUUtDc0p2bkNJUXVJWUd3TUl5WFZ0bzFWbFZITzdScVp1c0ZkczQ2SkFxdUVWV1YzczZLYjdkWDVfdmo0Y3FpTUZBODdLbDFtckQ2b292Ti1sR0xIUEVDSi0wZHlZdGhrWDk4QkgtUUZDM2t3d3dJNnduRXktZDA3ak9uc25Dam5zYzkyTHpFdEhZV3fSAdcBQVVfeXFMTWVMS2wyZk5CUzFCRVpNcURqdmE1RW9rNjJ6bUpBdXJsRENBeFhweDJ5VVdwZ0xoVHNlMWFJRnIxQTluQ2JrNFZQc1AtZkEtMGFjcUM0dzFYQlNaNHdjSWdBeXhUdVZUZm5NNXpDd0Z4VndwU3hsZnowT2FHY1paTVJQNHdvRHd1dnRKOHVMaHhvTWM2dUtZcjJmTW1BRnF3NmZiOGRUWUY1dHZib2RaS1pYUm1DZzlPVXl5SmhLMlpsRUNfN1VXMHd4RFVPU3Z0SUhtRWR4Qm8?oc=5",
-        "pubTime": "2026-06-11 10:37",
-        "source": "news.google.com",
-        "titleZh": "美國因法院對川普貿易政策的裁決不利，退還220億美元關稅 - 《商業標準報》",
-        "descZh": "美國因法院對川普貿易政策的裁決而退還220億美元關稅&nbsp;&nbsp;《商業標準報》"
-      },
-      {
-        "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
-        "desc": "After more than a century of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administration in 2025.",
-        "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-11 07:54",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：歷史悠久的美國-加拿大邊境圖書館增設專屬魁北克省的入口",
-        "descZh": "在共用主入口逾一個世紀後，2025年，川普政府禁止加拿大人使用該圖書館位於美國一側的入口。"
-      },
-      {
-        "title": "US Refunds $22 Billion in Tariffs, Canceling Out Customs Revenue - Bloomberg.com",
-        "desc": "US Refunds $22 Billion in Tariffs, Canceling Out Customs Revenue&nbsp;&nbsp;Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUGI0bDZTV1lOOE1haVpOcTRuU2RvZ0FLRTRiRHdxaEpCMmhyeHduR3lqU0dIR083R09feGlXZFBtM1FvNi1tOGhyY2xJc0xNN24tZWFHTXMzZmVmaTVOUTZNM19hR3FqTTFGTVk1QzZBeG5uREo2d0x3QVhWSkpCa3hSQXMwN0xGRF9ZcVBGcmhNWkdpZDRxVDhPX0wzMVR2c29zcnB1V0ZYbEllZ3diY29Vcw?oc=5",
-        "pubTime": "2026-06-11 05:12",
-        "source": "news.google.com",
-        "titleZh": "美國退還220億美元關稅，抵銷關稅收入 - Bloomberg.com",
-        "descZh": "美國退還 220 億美元關稅，抵銷關稅收入&nbsp;&nbsp;Bloomberg.com"
-      },
-      {
-        "title": "Trump: 'I love the inflation'",
-        "desc": "The president also revealed that the US is 'taking out' millions of barrels of oil from Iran, saying Tehran didn't know 'until right now'.",
-        "url": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-11 01:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普：「我喜歡通膨」",
-        "descZh": "總統還透露，美國正從伊朗「移出」數百萬桶石油，並表示德黑蘭方面「直到此刻」才得知此事。"
-      },
-      {
-        "title": "Court battle intensifies over billions in Trump tariff refunds - MSN",
-        "desc": "Court battle intensifies over billions in Trump tariff refunds&nbsp;&nbsp;MSN",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSE9yNHV1a0lHMmcxczkyb0xST2ZvZFAwSDFDRFFtc3VmRmlzbzloRjZ2OHBzLVN3YmRZZUQ2U0dmNmthN3dtT3VFWEZhWnA1di1NY0VwRk5iVjFEQkM5Y1BaRjZfeUlLT0Z2WFh0MDVCbmNoVFJlbnVpa2l2X3FEc2oyU3lUNkNQTXIwdXRqd21fT3JfRWZaVXV6LWdBbjE5U1pfanVmYnJLR241bTg1YTdtUjdlYUJDaEJfZnFUNEFXWGRxZ2JkS3Nvb2dvX21wSjlzck5BQlI?oc=5",
-        "pubTime": "2026-06-11 00:52",
-        "source": "news.google.com",
-        "titleZh": "圍繞數十億美元川普關稅退款的法庭之爭日趨白熱化 - MSN",
-        "descZh": "涉及數十億美元的川普關稅退稅案，法庭攻防戰愈演愈烈&nbsp;&nbsp;MSN"
-      },
-      {
-        "title": "Trump cuts key metal tariffs amid mixed trade policy signals - MSN",
-        "desc": "Trump cuts key metal tariffs amid mixed trade policy signals&nbsp;&nbsp;MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTXVrbDVRVUpaSlBrVkduTUo4Wl8xTWNFU1NiZmpKMzh2NW5RRXJkQU4xUUFKT0daWVpIMjZ4MENkR2FPMGg5c0xzVzRhaENZTEdTcEhYWjdpVXY4Rl8zR0o0elhDU3RQcnhKcEVHLWxyNktHbHhJTlhrUVVTZGxqa1NEM2w3S2RBaDVocUM1ZUg5aGloOHZHRGhuTnlZSmQ4cXJXN1NFU3lrTXg3VWw1eU5CR2d3OUp1RXlVbDhudkFCaWV1VWd4dmF0RGRuNGVEQzJTeg?oc=5",
-        "pubTime": "2026-06-10 23:50",
-        "source": "news.google.com",
-        "titleZh": "川普在貿易政策訊號喜憂參半之際，下調關鍵金屬關稅 - MSN",
-        "descZh": "川普在貿易政策訊號喜憂參半之際，下調關鍵金屬關稅&nbsp;&nbsp;MSN"
       }
     ]
   }
