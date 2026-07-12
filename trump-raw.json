@@ -1,5 +1,48 @@
 [
   {
+    "date": "20260713",
+    "fetchTime": "2026-07-13 05:10",
+    "count": 4,
+    "articles": [
+      {
+        "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+        "desc": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-13 03:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "安東尼·祖切爾：從川普的批評者到盟友，林賽·葛拉漢是「讓美國再次偉大」時代的政治倖存者",
+        "descZh": "BBC北美特派員撰文指出，這位參議員的從政生涯，其特點在於願意適應美國劇烈變化的政治環境。"
+      },
+      {
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "desc": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-13 01:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國參議員、川普的親密盟友林賽·葛拉漢因「短暫且突發的病症」去世",
+        "descZh": "唐納德·川普向這位71歲的南卡羅來納州參議員致敬，稱他為「真正的美國愛國者」，並表示大家將「非常想念他」。"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-12 00:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府就「空軍一號」相關報導向《紐約時報》記者發出傳票",
+        "descZh": "這些記者在報導了總統新專機（該專機由卡達贈送）涉嫌存在的安全問題後，收到了法律傳票。"
+      },
+      {
+        "title": "Landmark US housing bill becomes law despite Trump protest",
+        "desc": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-11 21:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "儘管川普提出抗議，這項具有里程碑意義的美國住房法案仍正式成為法律",
+        "descZh": "總統原本希望在《住房法》通過之前，先通過選民身分證明法案，該法案旨在降低成本並增加供應量。"
+      }
+    ]
+  },
+  {
     "date": "20260712",
     "fetchTime": "2026-07-12 05:10",
     "count": 9,
@@ -2260,112 +2303,6 @@
         "source": "news.google.com",
         "titleZh": "上訴法院裁定，川普的全球10%關稅暫可維持 - 《The Hill》",
         "descZh": "上訴法院裁定川普的10%全球關稅暫可維持&nbsp;&nbsp;《國會山報》"
-      }
-    ]
-  },
-  {
-    "date": "20260613",
-    "fetchTime": "2026-06-13 06:03",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Trump Tariff Tracker – June 12, 2026 (via Passle) - Baker Botts",
-        "desc": "Trump Tariff Tracker – June 12, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHM4b3dUZXR1UWd3b3hMekhMaDNST051QUZtb0hJNXhIak02MHlVeWo2dlYwNUw1X0lkc1p2ODlycjhQcjRTRFlXZ2xNNmx6QzJhdEVERkFrdG0tZV81eG1PQVYyaFNjNjdkb2hvczgyTjNlV2x3MTdLUEtPTllqWVNWdw?oc=5",
-        "pubTime": "2026-06-13 05:19",
-        "source": "news.google.com",
-        "titleZh": "川普關稅追蹤 – 2026年6月12日（透過 Passle） - Baker Botts",
-        "descZh": "川普關稅追蹤 – 2026年6月12日（透過 Passle）&nbsp;&nbsp;貝克·博茨律師事務所"
-      },
-      {
-        "title": "Trump 'anti-weaponisation' fund  indefinitely blocked as judge wants guarantee it's abandoned",
-        "desc": "The proposed \"anti-weaponisation\" fund was announced to settle a lawsuit by Trump against the Internal Revenue Service over the leak of his tax returns.",
-        "url": "https://www.bbc.com/news/articles/cy73k3xm77zo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-13 01:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的「反武器化」基金遭無限期凍結，因法官要求確保該計畫已正式終止",
-        "descZh": "這項擬議的「反武器化」基金，是為了解決川普針對國稅局洩露其納稅申報表一事所提起的訴訟而宣布的。"
-      },
-      {
-        "title": "US court lets Trump keep 10% global tariff in place: What it means for India - Moneycontrol.com",
-        "desc": "US court lets Trump keep 10% global tariff in place: What it means for India&nbsp;&nbsp;Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDRiYjQxOGx6NW52S2p3RUlpcTVOZS1DenlEMW1Ib2JXVmZfS2NtRVVRQ2Z6cnYtOThfaVo1TnNGRGVHaXZ2aVZpX0MzY0ZvR0ZaUHh4TjFfMF9ZNkIwWjlYSTdmWVdIT1liUmpsNWNMTElHOFVjSE5Ra3FicFpkZHA1TmFPZ3ZoYnl2V0NfNHBKNS1fMjNPN3NLRW5jRl9VZUhiQkpuWm0wa3VNcHprNkFjNmxNc3ZhWHQ4ZlAtZGdPM0RtWWQ4WHdZY9IB0AFBVV95cUxPdVpPMUszQ2tFa1VfOW5ISzVDcER2d2NDdXdoWDRQcU9mLUQ1Q1FFekw4TXhudUppN2I5ZndHOXRsUENfZTh3X0pwZGVpeHVUSTZ2b2l0UlhMcGM0MWRKT3dlLXlibzQ5Uk1kOUpBMEpRZGpTNkliV3FIYzhITHFnQWV2V2tGc3pqWmF0T2lENkNIN1djbUtmSGFTcllCSlV0ZVBIb2N6ekpLenBqMXA5TnNvU1BvaEVJMGdFVWpWYmtvYjRiX0Q3NEpmRkxwdzdt?oc=5",
-        "pubTime": "2026-06-12 14:03",
-        "source": "news.google.com",
-        "titleZh": "美國法院允許川普維持10%全球關稅：這對印度意味著什麼 - Moneycontrol.com",
-        "descZh": "美國法院允許川普維持10%全球關稅：這對印度意味著什麼&nbsp;&nbsp;Moneycontrol.com"
-      },
-      {
-        "title": "Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC",
-        "desc": "The Trump-backed candidate is running as a Republican in the deeply liberal state on a platform that he says isn't beholden to party ideology.",
-        "url": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-12 13:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前英國政治幕僚史蒂夫·希爾頓告訴BBC，若當選加州州長，他將對該州進行全面改革",
-        "descZh": "這位獲得川普支持的候選人，正以共和黨人身分在這座極度自由派的州參選，並宣稱其政見不受黨派意識形態束縛。"
-      },
-      {
-        "title": "From 32% to 10% to 18%: Indonesia Lives Under Trump's Tariff Uncertainties - Jakarta Globe",
-        "desc": "From 32% to 10% to 18%: Indonesia Lives Under Trump's Tariff Uncertainties&nbsp;&nbsp;Jakarta Globe",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1yS3l2RmVzdU1NNE11Y1FuaG9qTEdlRGxvZDR1S21INHRBWnl4Qnd6WFQ0Wk9KSVUyUnlWTWFValdScC1QaXRjb19HNXZQVTljWl8zOFpBdmFoOTRrRnZFVldzSm4tU3o1QUNuWnEzVWdDSkdmNE5Bd0dsS2NhRGZxVVFHck5hM3Z4bVRtU09TZmR6aUhmb3l4VEhMTFB0ZkxzUQ?oc=5",
-        "pubTime": "2026-06-12 09:05",
-        "source": "news.google.com",
-        "titleZh": "從32%到10%再到18%：印尼在川普關稅不確定性中掙扎 ——《雅加達環球報》",
-        "descZh": "從 32% 到 10% 再到 18%：印尼在川普關稅不確定性中掙扎&nbsp;&nbsp;《雅加達環球報》"
-      },
-      {
-        "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
-        "desc": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
-        "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-12 04:22",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "是立場反覆還是深思熟慮？——剖析川普對伊朗的策略",
-        "descZh": "BBC記者蓋瑞·奧唐納（Gary O'Donoghue）探討美國總統針對這場戰爭所傳達的矛盾訊息，以及這引發的種種疑問。"
-      },
-      {
-        "title": "Trump policy whiplash could slam Japanese carmakers for $40 billion on tariffs, EVs, emissions - Automotive News",
-        "desc": "Trump policy whiplash could slam Japanese carmakers for $40 billion on tariffs, EVs, emissions&nbsp;&nbsp;Automotive News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVk5BdmRKR3hYZFRxMmhBXzI0V3pVOE1EX3daN3FZc04zb25rSWdJQTRsaC1EUTFQbVpUR21NSVByaUdNdi1PTzcxenVtRnZiU0FEYzg0UFlVQVJFWXQ1aXVUT2JMTzk0TzhWWVdsYlpWRlFFU20yMjBOMHBkeUxDdm1ZZjlPS0NaRlV2cGFZUVVjRm9oOGVRa2djcU9aWXZNN1k5bVMzX21ZTUlWa0Rwdl9zNTNFWmxqaEhJ?oc=5",
-        "pubTime": "2026-06-12 02:51",
-        "source": "news.google.com",
-        "titleZh": "川普政策反覆無常，恐使日本車廠在關稅、電動車及排放標準方面蒙受400億美元損失 - 《汽車新聞》",
-        "descZh": "川普政策反覆無常，恐使日本車廠在關稅、電動車及排放標準方面蒙受400億美元損失&nbsp;&nbsp;《汽車新聞》"
-      },
-      {
-        "title": "Treasury refunds $22 billion in Trump tariffs, offsetting May duty collections - Firstpost",
-        "desc": "Treasury refunds $22 billion in Trump tariffs, offsetting May duty collections&nbsp;&nbsp;Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYzJTMzI5RV9KSHB3YXpJb1ppdXVNQVJNUVdZbnBjTGpVMjRLMXdqbTd4bk9RX3F4ZWZZNG5BQUdHb3RhWGZ3V3JRUVRjeWFKV2FWbkxMYTlnWmJMNXVteXFud3hsaS1IOGxQSXNaVElXdGVKU1hvbTR6Ujh6ZjdZRGJwV2hEZmtCc25MOU5kSEM3SkZCcmZQVFBmbUhjb0hiRzAwQjJtXzBrT2VrY1JNbXI5X1V6M1dLMVJXd3BwZjJsampnNVVEWUVpY1k1b25DQVHSAdcBQVVfeXFMTnhPSjBhcFBRMFFaQ3FFckRlMkpsOWdfbTF4QU5Ccms4RGcyUmtPN3didU5uc2JvWndCR3E0anNGcDNLRmNmYjF3NGpzN25NQnpHME1QTEZ6Rm5RTGxVSFU3X19XTS1xTk9hdmJUUHZyeHc3OWJZZ1k2SGFLelhsNnYzemdYWWl6T25ob3dxYlB6N1FiVHJYaThzRXpkSEJQX3hzMWRZcndBUy1FR1N2ck5ueklBUEMxY0d4YklyY1ZWa2pfeEduZExFOU5pbjh6b012bmpiOWs?oc=5",
-        "pubTime": "2026-06-11 13:58",
-        "source": "news.google.com",
-        "titleZh": "美國財政部退還 220 億美元的川普關稅，抵銷了 5 月份的關稅收入 - Firstpost",
-        "descZh": "美國財政部退還 220 億美元的川普關稅，抵銷了 5 月份的關稅收入&nbsp;&nbsp;Firstpost"
-      },
-      {
-        "title": "Trump's Tariffs, Government Revenue, and the Cost of Living: The Case of Food and the Agricultural Tariff Exemptions - American Enterprise Institute - AEI",
-        "desc": "Trump's Tariffs, Government Revenue, and the Cost of Living: The Case of Food and the Agricultural Tariff Exemptions&nbsp;&nbsp;American Enterprise Institute - AEI",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTC03OGs3LWV4ZXVLeGlORnNhemdpY2FvdDZKeHVkTVRWeDctVkIxWEZUbTJpT2tTdDYwWmVBMDdIbXZrQzdSNGVVRW5WcThkcXdMVXZ4eEVhQnVHTDZPRzdyZE5yd3dwbVpGYzlfdzhTcGM2cC1XelY2OUx1LXB5Qk44SWNuS2liSVZ3ZG4zOV9ybmw3YnZfaEN3UW9RenFjRFMxV0NNSm9HdW1GZWpFbkttbW1xeFROcDhqWTk1VlhtaDRpUHFTYkx0NVRKT0RIaG94TWQxczA5ZnlWd19xRVRCb21heHhRT2RxQ0RmZw?oc=5",
-        "pubTime": "2026-06-11 12:10",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅、政府收入與生活成本：以食品及農業關稅豁免為例 - 美國企業研究所 - AEI",
-        "descZh": "川普的關稅、政府收入與生活成本：以食品及農業關稅豁免為例&nbsp;&nbsp;美國企業研究所（AEI）"
-      },
-      {
-        "title": "US refunds $22 bn in tariffs after court setback to Trump's trade policy - Business Standard",
-        "desc": "US refunds $22 bn in tariffs after court setback to Trump's trade policy&nbsp;&nbsp;Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHRhSmtkVUxXbjJFTlk4RHFyeHU3QnhKSVI4R0ZwTUk5WTdyQ0hydE1LN0NXZDBBTDItb1VtODFqWmFSMGRZUUtDc0p2bkNJUXVJWUd3TUl5WFZ0bzFWbFZITzdScVp1c0ZkczQ2SkFxdUVWV1YzczZLYjdkWDVfdmo0Y3FpTUZBODdLbDFtckQ2b292Ti1sR0xIUEVDSi0wZHlZdGhrWDk4QkgtUUZDM2t3d3dJNnduRXktZDA3ak9uc25Dam5zYzkyTHpFdEhZV3fSAdcBQVVfeXFMTWVMS2wyZk5CUzFCRVpNcURqdmE1RW9rNjJ6bUpBdXJsRENBeFhweDJ5VVdwZ0xoVHNlMWFJRnIxQTluQ2JrNFZQc1AtZkEtMGFjcUM0dzFYQlNaNHdjSWdBeXhUdVZUZm5NNXpDd0Z4VndwU3hsZnowT2FHY1paTVJQNHdvRHd1dnRKOHVMaHhvTWM2dUtZcjJmTW1BRnF3NmZiOGRUWUY1dHZib2RaS1pYUm1DZzlPVXl5SmhLMlpsRUNfN1VXMHd4RFVPU3Z0SUhtRWR4Qm8?oc=5",
-        "pubTime": "2026-06-11 10:37",
-        "source": "news.google.com",
-        "titleZh": "美國退還220億美元關稅，因法院裁決對川普貿易政策不利 - 《商業標準報》",
-        "descZh": "美國因法院對川普貿易政策的裁決不利，退還 220 億美元關稅&nbsp;&nbsp;《商業標準報》"
-      },
-      {
-        "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
-        "desc": "After more than a century of sharing the main entrance, Canadians were barred from using the library's US-side door by the Trump administration in 2025.",
-        "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-11 07:54",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：歷史悠久的美國-加拿大邊境圖書館增設專屬魁北克省的入口",
-        "descZh": "在共用主入口逾一個世紀後，2025年，川普政府禁止加拿大人使用該圖書館位於美國一側的入口。"
       }
     ]
   }
