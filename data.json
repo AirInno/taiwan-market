@@ -34997,6 +34997,10 @@
       "狀態": "空方一致",
       "現貨": "賣超",
       "期貨淨口": -81066
-    }
+    },
+    "tsmc_hold": null,
+    "etf0050_hold": null,
+    "delta_hold": null,
+    "margin": null
   }
 ]
