@@ -1,5 +1,57 @@
 [
   {
+    "date": "20260714",
+    "fetchTime": "2026-07-14 05:25",
+    "count": 5,
+    "articles": [
+      {
+        "title": "Trump watches IndyCar pit stop outside White House",
+        "desc": "The event was a preview of the actual race that President Trump commissioned by signing an executive order in January.",
+        "url": "https://www.bbc.co.uk/news/videos/cgjx33y16ljo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-14 03:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在白宮外觀看印地賽車的進站維修",
+        "descZh": "這項活動是對實際比賽的預演，該比賽是由川普總統於一月簽署行政命令後所委託舉辦的。"
+      },
+      {
+        "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+        "desc": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-14 02:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國法官撤銷唐納德·川普與國稅局達成的18億美元和解協議，該協議原本賦予他免於稅務稽查的豁免權",
+        "descZh": "法官表示，這起訴訟是基於「不當目的」提起的，並將一名川普的律師移交相關單位，以考慮是否採取紀律處分。"
+      },
+      {
+        "title": "Tariffs as Leverage, White House as Shareholder: How Trump Used 'National-Level Salesmanship' to Strong-Arm Apple and Nvidia Orders for Intel - finance.biggo.com",
+        "desc": "Tariffs as Leverage, White House as Shareholder: How Trump Used 'National-Level Salesmanship' to Strong-Arm Apple and Nvidia Orders for Intel&nbsp;&nbsp;finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HUVprTjdQT2EzTGl5OVc1UzFYQ0o5YmJqRE1VRER6UEI0WEQ2am1JR3IwRldrRlRBQ3lOVm50d2VhTEZXNUdNZ3pLUTZFQWFfOWIycDFBczU5TGxZZUw0dXp4SWRVYUxITE5pZHBXalkza1NhQ3c?oc=5",
+        "pubTime": "2026-07-13 15:19",
+        "source": "news.google.com",
+        "titleZh": "關稅作為槓桿，白宮扮演股東角色：川普如何運用「國家級推銷術」迫使蘋果與英偉達向英特爾下單 - finance.biggo.com",
+        "descZh": "關稅作為槓桿，白宮作為股東：川普如何運用「國家級推銷術」強迫蘋果與英偉達向英特爾下單&nbsp;&nbsp;finance.biggo.com"
+      },
+      {
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "desc": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-13 06:08",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國參議員、川普的親密盟友林賽·葛拉漢因「短暫且突發的病症」去世",
+        "descZh": "這位71歲的南卡羅來納州參議員的發言人表示，初步調查結果顯示，格雷厄姆的死因與心臟有關。"
+      },
+      {
+        "title": "From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+        "desc": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-13 03:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "從川普的批評者到盟友，林賽·葛拉漢是「讓美國再次偉大」時代的一位政治倖存者",
+        "descZh": "BBC北美特派員撰文指出，這位參議員的從政生涯，其特點在於願意適應美國劇烈變化的政治環境。"
+      }
+    ]
+  },
+  {
     "date": "20260713",
     "fetchTime": "2026-07-13 05:10",
     "count": 4,
@@ -2197,112 +2249,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "觀看：為什麼川普沒去世界盃？",
         "descZh": "北美三支主辦國的隊長均缺席了本屆賽事的開幕戰。"
-      }
-    ]
-  },
-  {
-    "date": "20260614",
-    "fetchTime": "2026-06-14 05:42",
-    "count": 11,
-    "articles": [
-      {
-        "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
-        "desc": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
-        "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 04:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普伊朗談判的核心：核問題的挑戰",
-        "descZh": "美國官員表示，這項協議將導致伊朗的濃縮鈾遭到銷毀，但具體細節仍有待商定。"
-      },
-      {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "desc": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 02:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示美伊協議將於週日簽署，但德黑蘭對簽署時機表示質疑",
-        "descZh": "美國總統發表上述言論之際，伊朗表示確切日期尚未決定，但「不會是明天」。"
-      },
-      {
-        "title": "Trump's name removed from Kennedy Center after court order",
-        "desc": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-        "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 01:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "法院下令後，肯尼迪中心移除了川普的名字",
-        "descZh": "週五，施工人員架設了腳手架，圍觀群眾一直聚集到傍晚，不過由於暴風雨的影響，工程被迫延至週六才進行。"
-      },
-      {
-        "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-        "desc": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-        "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-13 12:09",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，美國在空襲中擊斃了委內瑞拉「特倫德阿拉瓜」幫派的首領",
-        "descZh": "美國總統在社群媒體貼文中寫道，尼諾·格雷羅是在一次「迅速且致命的武力打擊」中喪生的。"
-      },
-      {
-        "title": "Watch: Why is Trump not at the World Cup?",
-        "desc": "All three leaders of the North America host nations have missed the tournament opening matches.",
-        "url": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-13 08:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：為什麼川普沒有出席世界盃？",
-        "descZh": "北美三支主辦國的隊長均缺席了本屆賽事的開幕戰。"
-      },
-      {
-        "title": "Trump Tariff Tracker – June 12, 2026 (via Passle) - Baker Botts",
-        "desc": "Trump Tariff Tracker – June 12, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHM4b3dUZXR1UWd3b3hMekhMaDNST051QUZtb0hJNXhIak02MHlVeWo2dlYwNUw1X0lkc1p2ODlycjhQcjRTRFlXZ2xNNmx6QzJhdEVERkFrdG0tZV81eG1PQVYyaFNjNjdkb2hvczgyTjNlV2x3MTdLUEtPTllqWVNWdw?oc=5",
-        "pubTime": "2026-06-13 05:19",
-        "source": "news.google.com",
-        "titleZh": "川普關稅追蹤 – 2026年6月12日（透過 Passle） - Baker Botts",
-        "descZh": "川普關稅追蹤 – 2026年6月12日（透過 Passle）&nbsp;&nbsp;貝克·博茨"
-      },
-      {
-        "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake - PBS",
-        "desc": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake&nbsp;&nbsp;PBS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3c3R1NiVC1TazlXa3hFZ1NNUGxPSUlIcmEzbl9uQThiVVMxOHBWa0U0Z1VqaXpqQm9qLVhmUXloVm5SdC16Z1lsbDZuNW1reW1CMDNfLWIyWFRfNlJiYnV0ekFnNnNyb2tsbEh4OWZPdXdVVWJpME5kbzJobVA4M0w0eUs2cl95NEVhUTR2WmhjQXBuZGtoUE1WaXlNOURQVENsQzA2TEhQNHROaUhUb1RWNNIBuAFBVV95cUxNd0dZaHIyMGhmaF9oN0pwVmJCS2daTUwwQXgxMm1OVElQTXFkd3ZGRGMwYzU1OGZReVA3T091bVZwOTF0MG42TGpjOFZVdW5DbHZHMHdFMVNxdmlldEpRUFJ1eF9OaEc2b2pSd0tiVUplV2FVNFVZYVpuZmp4el9OM1VnSC1aRV9aNHp3UktIWG9PTzNaa2JhWlRNZTFROXdSMGo0eHFwb24zeDR3RkZQT0o1VnJkRG93?oc=5",
-        "pubTime": "2026-06-13 05:12",
-        "source": "news.google.com",
-        "titleZh": "七國集團峰會前夕，加拿大央行總裁卡尼因貿易談判前景不明而對川普軟化態度 - PBS",
-        "descZh": "七國集團峰會前夕，加拿大央行總裁卡尼因貿易談判前景不明而對川普態度轉趨溫和&nbsp;&nbsp;PBS"
-      },
-      {
-        "title": "US court lets Trump keep 10% global tariff in place: What it means for India - Moneycontrol.com",
-        "desc": "US court lets Trump keep 10% global tariff in place: What it means for India&nbsp;&nbsp;Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDRiYjQxOGx6NW52S2p3RUlpcTVOZS1DenlEMW1Ib2JXVmZfS2NtRVVRQ2Z6cnYtOThfaVo1TnNGRGVHaXZ2aVZpX0MzY0ZvR0ZaUHh4TjFfMF9ZNkIwWjlYSTdmWVdIT1liUmpsNWNMTElHOFVjSE5Ra3FicFpkZHA1TmFPZ3ZoYnl2V0NfNHBKNS1fMjNPN3NLRW5jRl9VZUhiQkpuWm0wa3VNcHprNkFjNmxNc3ZhWHQ4ZlAtZGdPM0RtWWQ4WHdZY9IB0AFBVV95cUxPdVpPMUszQ2tFa1VfOW5ISzVDcER2d2NDdXdoWDRQcU9mLUQ1Q1FFekw4TXhudUppN2I5ZndHOXRsUENfZTh3X0pwZGVpeHVUSTZ2b2l0UlhMcGM0MWRKT3dlLXlibzQ5Uk1kOUpBMEpRZGpTNkliV3FIYzhITHFnQWV2V2tGc3pqWmF0T2lENkNIN1djbUtmSGFTcllCSlV0ZVBIb2N6ekpLenBqMXA5TnNvU1BvaEVJMGdFVWpWYmtvYjRiX0Q3NEpmRkxwdzdt?oc=5",
-        "pubTime": "2026-06-12 14:03",
-        "source": "news.google.com",
-        "titleZh": "美國法院允許川普維持10%全球關稅：這對印度意味著什麼 - Moneycontrol.com",
-        "descZh": "美國法院允許川普維持10%全球關稅：這對印度意味著什麼&nbsp;&nbsp;Moneycontrol.com"
-      },
-      {
-        "title": "Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC",
-        "desc": "The Trump-backed candidate is running as a Republican in the deeply liberal state on a platform that he says isn't beholden to party ideology.",
-        "url": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-12 13:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前英國政治幕僚史蒂夫·希爾頓向BBC表示，若當選加州州長，他將對該州進行全面改革",
-        "descZh": "這位獲得川普支持的候選人，正以共和黨人身分在這座極度自由派的州參選，並宣稱其政見不受黨派意識形態束縛。"
-      },
-      {
-        "title": "From 32% to 10% to 18%: Indonesia Lives Under Trump's Tariff Uncertainties - Jakarta Globe",
-        "desc": "From 32% to 10% to 18%: Indonesia Lives Under Trump's Tariff Uncertainties&nbsp;&nbsp;Jakarta Globe",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcW1yS3l2RmVzdU1NNE11Y1FuaG9qTEdlRGxvZDR1S21INHRBWnl4Qnd6WFQ0Wk9KSVUyUnlWTWFValdScC1QaXRjb19HNXZQVTljWl8zOFpBdmFoOTRrRnZFVldzSm4tU3o1QUNuWnEzVWdDSkdmNE5Bd0dsS2NhRGZxVVFHck5hM3Z4bVRtU09TZmR6aUhmb3l4VEhMTFB0ZkxzUQ?oc=5",
-        "pubTime": "2026-06-12 09:05",
-        "source": "news.google.com",
-        "titleZh": "從32%到10%再到18%：印尼在川普關稅不確定性中掙扎——《雅加達環球報》",
-        "descZh": "從 32% 到 10% 再到 18%：印尼在川普關稅不確定性中掙扎&nbsp;&nbsp;《雅加達環球報》"
-      },
-      {
-        "title": "Appeals court rules Trump’s 10 percent global tariff can stay, for now - The Hill",
-        "desc": "Appeals court rules Trump’s 10 percent global tariff can stay, for now&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeUZveVY0dWtkcG95R1BLUnA3M1VCQk51U25nNkVWaElCTmJ1ajR1Tjl0YlkwOXlNNVVLOHR0ZC1lLWRmdmtnQkZIZXdnODBfWVRWMnRBLTFRRHpYRVNGS01RdEFHMy00cm81X0tZUGtfOEFGaXlzWGdLbFZZUVI3eGJKMzMzODTSAYwBQVVfeXFMTkVmTm5RWFhQYlNUUGROMUJmeGtDVVBEXzlrYnViUnJ1cldKN0tqUWYzSHZIRF9iYlp0akhMSDlGcjV3OXZXWndtTU1RbUt1bElVWVZ3UUkzSm5qWVM5SUxuMElvdUZDVHJNdE83bXlEdjVjdW1xVEJwVzBhUlBDTUFBMXo0endWWmdrWG0?oc=5",
-        "pubTime": "2026-06-12 08:08",
-        "source": "news.google.com",
-        "titleZh": "上訴法院裁定，川普的全球10%關稅暫可維持 - 《The Hill》",
-        "descZh": "上訴法院裁定川普的10%全球關稅暫可維持&nbsp;&nbsp;《國會山報》"
       }
     ]
   }
