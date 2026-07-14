@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260715",
+    "fetchTime": "2026-07-15 05:27",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+        "desc": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-15 04:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國重啟對伊朗港口的封鎖之際，川普撤回對霍爾木茲海峽貨運徵收 20% 費用的威脅",
+        "descZh": "隨著美國持續努力打破伊朗對該水道的主導地位，川普放棄了24小時前所作出的承諾——對使用該海峽的貨輪徵收費用。"
+      },
+      {
+        "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+        "desc": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
+        "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-15 01:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普就性侵及誹謗案，向作家 E·珍·卡羅爾支付 500 萬美元賠償金",
+        "descZh": "總統曾試圖推遲支付款項，同時努力說服最高法院推翻該判決。"
+      },
+      {
+        "title": "Trump's tariff strategy takes a hit as US refunds $81bn to importers - EasternEye",
+        "desc": "Trump's tariff strategy takes a hit as US refunds $81bn to importers&nbsp;&nbsp;EasternEye",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkY3MTlEc2RaekR2cTJjTjU5WGVTX3IyMERJSUlDQ181UHZPU0VuWGlaYlgxbmZaSWVETGNoNGJRNEZqaU92d3UzV19FVE41M3N0VkxVQUYzMnJnZ0pyOHlQRFdmOWpNYnQ5ZmdLWTloaWt6eWZPRjZQYVJaTHpUeQ?oc=5",
+        "pubTime": "2026-07-14 18:42",
+        "source": "news.google.com",
+        "titleZh": "美國向進口商退還810億美元，川普的關稅策略遭受打擊——《EasternEye》",
+        "descZh": "美國向進口商退還 810 億美元，川普的關稅策略遭受打擊&nbsp;&nbsp;EasternEye"
+      },
+      {
+        "title": "Trump forced to return $81 billion after Supreme Court torpedoes tariffs - The Independent",
+        "desc": "Trump forced to return $81 billion after Supreme Court torpedoes tariffs&nbsp;&nbsp;The Independent",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWE5zb1VYQ2tOVGlqbC1qQnVtRnZ4SE94dmUzZll6ZHRELXpxeXYtZG8zbDZqUENocnNSaDd3YjUtSXY1THdTbHFEU0JHYmJKMzJVdXZmQ1ItWjRWNnZhd2dleUdwQ3M0MHlqMnhhUTU5blgxZFB3REtGd2hPRV9kcHV6UHN4ZGZ3eU81YVJhaWFQRGJreW9PZ0tKSzNpSklT?oc=5",
+        "pubTime": "2026-07-14 17:52",
+        "source": "news.google.com",
+        "titleZh": "最高法院推翻關稅後，川普被迫退還 810 億美元——《獨立報》",
+        "descZh": "最高法院推翻關稅後，川普被迫退還810億美元&nbsp;&nbsp;《獨立報》"
+      },
+      {
+        "title": "Trump tariffs struck down by US Supreme Court: How much has been refunded so far - inkl",
+        "desc": "Trump tariffs struck down by US Supreme Court: How much has been refunded so far&nbsp;&nbsp;inkl",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1JEUGoxM1dOb0JSblY3ZTlzQVZWeEpKT3ZjZW9tOWZnRTc4VlJ4MHlueXZtOUthRl9RaEFPYTRrNzFid1FWM1o0b1hiRU9jNk90bFBsNjFVX3lXWjZOc21FM1hJQWxaVlprYjVaMTFrblNya3VEcVZvMHdFQ3drQkI2a0tHZGRIMzBZbHB0dkVFdElLZlItQjhNQ1lyaVpqdFphbDlJU2o?oc=5",
+        "pubTime": "2026-07-14 17:48",
+        "source": "news.google.com",
+        "titleZh": "美國最高法院推翻川普關稅：迄今已退還多少金額 - inkl",
+        "descZh": "美國最高法院推翻川普關稅：迄今已退還多少款項&nbsp;&nbsp;inkl"
+      },
+      {
+        "title": "Trump admin refunds $81B in tariffs after his key trade policy was struck down by Supreme Court - The Independent",
+        "desc": "Trump admin refunds $81B in tariffs after his key trade policy was struck down by Supreme Court&nbsp;&nbsp;The Independent",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHlPdmxqeEo0YnFCUERBNmpyXzdTLWUtcHZweXc4RWN2R2NLX1d4MDRJR2FLN1QzbDZ6N0ktQlpyeE0teTFTWi1kMmxlU0wyZUJNYnR6ZkZOeV8yejVOV3ZOck5EWDBRTmljR0hXYXFBUFVlWXpseGxVVVRqV0Z6b1hSOWtfbk5PcDhhQUpINXhoSTVOam0xalFPa1RfdGkwRndpM0lCV1B2c1B1UlhJ?oc=5",
+        "pubTime": "2026-07-14 16:54",
+        "source": "news.google.com",
+        "titleZh": "川普政府在最高法院推翻其關鍵貿易政策後，退還了 810 億美元的關稅 —— 《獨立報》",
+        "descZh": "川普政府退還 810 億美元關稅，因其關鍵貿易政策遭最高法院駁回&nbsp;&nbsp;《獨立報》"
+      },
+      {
+        "title": "Trump watches IndyCar pit stop outside White House",
+        "desc": "The event was a preview of the actual race that President Trump commissioned by signing an executive order in January.",
+        "url": "https://www.bbc.co.uk/news/videos/cgjx33y16ljo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-14 03:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在白宮外觀看印地賽車的進站維修",
+        "descZh": "這項活動是對實際比賽的預演，該比賽是由川普總統於一月簽署行政命令所委託舉辦的。"
+      },
+      {
+        "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+        "desc": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-14 02:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國法官撤銷唐納德·川普與國稅局達成的18億美元和解協議，該協議原本賦予他免於稅務稽查的豁免權",
+        "descZh": "法官表示，這起訴訟是基於「不當目的」提起的，並將一名川普的律師移交相關單位，以考慮是否採取紀律處分。"
+      },
+      {
+        "title": "Tariffs as Leverage, White House as Shareholder: How Trump Used 'National-Level Salesmanship' to Strong-Arm Apple and Nvidia Orders for Intel - finance.biggo.com",
+        "desc": "Tariffs as Leverage, White House as Shareholder: How Trump Used 'National-Level Salesmanship' to Strong-Arm Apple and Nvidia Orders for Intel&nbsp;&nbsp;finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HUVprTjdQT2EzTGl5OVc1UzFYQ0o5YmJqRE1VRER6UEI0WEQ2am1JR3IwRldrRlRBQ3lOVm50d2VhTEZXNUdNZ3pLUTZFQWFfOWIycDFBczU5TGxZZUw0dXp4SWRVYUxITE5pZHBXalkza1NhQ3c?oc=5",
+        "pubTime": "2026-07-13 15:19",
+        "source": "news.google.com",
+        "titleZh": "關稅作為槓桿，白宮扮演股東角色：川普如何運用「國家級推銷術」強迫蘋果與英偉達向英特爾下單 - finance.biggo.com",
+        "descZh": "關稅作為槓桿，白宮作為股東：川普如何運用「國家級推銷術」強迫蘋果與英偉達向英特爾下單&nbsp;&nbsp;finance.biggo.com"
+      }
+    ]
+  },
+  {
     "date": "20260714",
     "fetchTime": "2026-07-14 05:25",
     "count": 5,
@@ -2179,76 +2267,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "隨著川普年屆80歲，身為八旬老人工作究竟是種什麼樣的體驗？",
         "descZh": "值此唐納德·川普總統慶祝生日的之際，我們訪問了那些工作至八旬高齡的人士，請教他們維持活力所需的關鍵。"
-      }
-    ]
-  },
-  {
-    "date": "20260615",
-    "fetchTime": "2026-06-15 05:46",
-    "count": 7,
-    "articles": [
-      {
-        "title": "Trump’s tariffs stoke global trade jitters as China, EU vow response - Gulf Business",
-        "desc": "Trump’s tariffs stoke global trade jitters as China, EU vow response&nbsp;&nbsp;Gulf Business",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHNKb0o5UlRIS3pTcmh0Q3otTmFsd0RxWkE2UHRoQ2tVdnlvTFVXaEMtVnVUV1MyYTRkVGRUdGgyeWdVcENCZHpHOGFPUGpzS3ZiVXp2M0o4ZjVzZzJMODFsczl4YjZUWmFYc0xiX3I1ZkJoTVlsRkpNQVFESXkzN2RjQ2M0bHRyNmw0ZGM4MEVhV2FHRU9QSy1MQmhCMXRlbFp2ZkFWVQ?oc=5",
-        "pubTime": "2026-06-15 05:06",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅措施引發全球貿易不安，中國與歐盟誓言將採取反制措施 - Gulf Business",
-        "descZh": "川普的關稅措施引發全球貿易不安，中國與歐盟誓言將採取反制措施&nbsp;&nbsp;《海灣商業》"
-      },
-      {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "desc": "The US president's comments come as Iran says an exact date has not been decided.",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 19:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示美伊協議將於週日簽署，但德黑蘭對簽署時機表示質疑",
-        "descZh": "美國總統發表上述言論之際，伊朗表示尚未決定確切日期。"
-      },
-      {
-        "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
-        "desc": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-        "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 14:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，美國在空襲中擊斃了委內瑞拉「特倫德阿拉瓜」幫派的首領",
-        "descZh": "美國總統在社群媒體貼文中寫道，尼諾·格雷羅是在一次「迅速且致命的武力打擊」中喪生的。"
-      },
-      {
-        "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
-        "desc": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
-        "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 07:22",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著川普年屆80歲，身為八旬老人工作究竟是種什麼樣的體驗？",
-        "descZh": "值此唐納德·川普總統慶祝生日的之際，我們訪問了那些工作至八旬高齡的人士，請教他們維持活力所需的秘訣。"
-      },
-      {
-        "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
-        "desc": "US officials say the deal will lead to the destruction of Iran's enriched uranium, but details are still to be worked out.",
-        "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 04:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普伊朗談判的核心：核問題的挑戰",
-        "descZh": "美國官員表示，這項協議將導致伊朗的濃縮鈾遭到銷毀，但具體細節仍有待商定。"
-      },
-      {
-        "title": "Trump's name removed from Kennedy Center after court order",
-        "desc": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-        "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 01:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "法院下令後，肯尼迪中心移除了川普的名字",
-        "descZh": "週五，施工人員架設了腳手架，圍觀群眾一直聚集到傍晚，不過由於暴風雨的影響，工程被迫延至週六才進行。"
-      },
-      {
-        "title": "Watch: Why is Trump not at the World Cup?",
-        "desc": "All three leaders of the North America host nations have missed the tournament opening matches.",
-        "url": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-13 08:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "觀看：為什麼川普沒去世界盃？",
-        "descZh": "北美三支主辦國的隊長均缺席了本屆賽事的開幕戰。"
       }
     ]
   }
