@@ -18,7 +18,7 @@ jobs:
           python-version: '3.11'
 
       - name: 安裝 pytest
-        run: pip install pytest
+        run: pip install pytest requests
 
       - name: 執行驗證測試
         id: first_test
