@@ -1,5 +1,66 @@
 [
   {
+    "date": "20260716",
+    "fetchTime": "2026-07-16 05:26",
+    "count": 6,
+    "articles": [
+      {
+        "title": "Epstein 'mistakes' and Trump ties: Key takeaways from Todd Blanche's confirmation hearing",
+        "desc": "Blanche faced bipartisan questioning on Wednesday as he seeks to take on the role of US attorney general permanently.",
+        "url": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-16 03:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "愛潑斯坦的「失誤」與特朗普的關聯：托德·布蘭奇確認聽證會的關鍵要點",
+        "descZh": "布蘭奇週三面臨兩黨議員的質詢，他正尋求正式出任美國司法部長一職。"
+      },
+      {
+        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+        "desc": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-16 02:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國發動新一輪空襲之際，伊朗威脅將封鎖更多貿易航線",
+        "descZh": "美國總統唐納德·川普誓言，如果伊朗不重返談判，下週將對其橋樑和發電廠發動打擊。"
+      },
+      {
+        "title": "Trump says ICE agents should not give up traffic stops",
+        "desc": "The US president's intervention comes after a reported change of course by the agency following fatal shootings in Maine and Texas.",
+        "url": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-16 01:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，移民及海關執法局（ICE）探員不應放棄交通攔檢",
+        "descZh": "據報導，在緬因州和德克薩斯州發生致命槍擊事件後，該機構改變了方針，隨後美國總統出面介入。"
+      },
+      {
+        "title": "US Congress takes next step to make daylight saving time permanent",
+        "desc": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
+        "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-15 19:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國國會朝將夏令時永久化邁出下一步",
+        "descZh": "眾議院通過了一項由川普支持的法案，該法案將終結美國人長達數十年來每年必須將時鐘調動兩次的狀況。"
+      },
+      {
+        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+        "desc": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-15 07:17",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在霍爾木茲海峽過路費問題上的讓步，顯示他正苦於難以結束與伊朗的戰爭",
+        "descZh": "美國總統這突如其來的態度轉變，是這場已持續超過四個月的衝突中的最新轉折。"
+      },
+      {
+        "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+        "desc": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
+        "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-15 01:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普就性侵及誹謗案，向作家 E·珍·卡羅爾支付 500 萬美元賠償金",
+        "descZh": "總統曾試圖推遲支付款項，同時努力說服最高法院推翻該判決。"
+      }
+    ]
+  },
+  {
     "date": "20260715",
     "fetchTime": "2026-07-15 05:27",
     "count": 9,
@@ -2161,112 +2222,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普盛讚伊朗協議，但疑慮與風險依然存在",
         "descZh": "伊朗協議的宣布對總統而言是一份令人欣喜的生日禮物——但其成敗可能取決於具體細節。"
-      }
-    ]
-  },
-  {
-    "date": "20260616",
-    "fetchTime": "2026-06-16 06:31",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Trump Thanks China and Russia, Partners of Iran, for Diplomatic Help - The New York Times",
-        "desc": "Trump Thanks China and Russia, Partners of Iran, for Diplomatic Help&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSDVTR1ZOMkRfZ21ZQnNER0poLW1vM2V6ODFMU0JFdEpRNEFtRWQzUm9OcVEycW9LUUJWWElXdF9qdEE2bU5BYkJUTFZhRzNLY2lYbW94OVNyRXVFTmgzcXFvMWxhWURVQW42WnFBQTN4bUNGTnFF?oc=5",
-        "pubTime": "2026-06-16 04:26",
-        "source": "news.google.com",
-        "titleZh": "川普感謝伊朗的夥伴中國與俄羅斯提供外交協助——《紐約時報》",
-        "descZh": "川普感謝伊朗的夥伴中國與俄羅斯提供外交協助&nbsp;&nbsp;《紐約時報》"
-      },
-      {
-        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-        "desc": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
-        "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-15 22:26",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "鮑恩：伊朗協議結束了川普的戰爭，這場戰爭揭示了美國霸權的極限",
-        "descZh": "這項旨在結束戰事並重新開放霍爾木茲海峽的協議，讓各方回到了戰爭爆發前24小時的狀態——只是如今已有數千人喪生。"
-      },
-      {
-        "title": "Trump and thousands of others watch UFC fight on White House lawn",
-        "desc": "Justin Gaethje beat Ilia Topuria to win the lightweight championship in the main event.",
-        "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-15 22:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普與數千名民眾在白宮草坪上觀看UFC格鬥賽",
-        "descZh": "賈斯汀·蓋奇在主賽中擊敗伊利亞·托普里亞，奪得輕量級冠軍頭銜。"
-      },
-      {
-        "title": "Trump aims to end Iran war but nuclear issue remains unresolved",
-        "desc": "President Trump says the US and Iran have agreed a deal to end the war but it is unclear what has been agreed on Iran's nuclear programme",
-        "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-15 21:54",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普旨在結束伊朗戰爭，但核問題仍未解決",
-        "descZh": "川普總統表示，美國與伊朗已達成一項結束戰爭的協議，但雙方就伊朗核計畫達成何種共識尚不清楚"
-      },
-      {
-        "title": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran - The New York Times",
-        "desc": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHNMV0J3Ym1HWnhieHhWM0VUd2ZodDN1YXJoWGFHRXdiZ2pvbmRaczJpZ2RycWFjNDgtYjdsOFNRQWtNeFZ2Y3ZHZFRYODNzMXl1REF6blFvZVBmUjJwbXdnUmNLSHdDRHhyMi1JeWJFVTktc05jM2IwTW1RbXFmdzd5OGs1SHd5LUJIcg?oc=5",
-        "pubTime": "2026-06-15 20:32",
-        "source": "news.google.com",
-        "titleZh": "川普聲稱根據與伊朗達成的協議，海峽將「永久免收過路費」——《紐約時報》",
-        "descZh": "川普聲稱根據與伊朗達成的協議，海峽將「永久免收過路費」&nbsp;&nbsp;《紐約時報》"
-      },
-      {
-        "title": "Trump's tariffs wiped out 89,000 manufacturing jobs instead of creating them, new report finds - Crypto Briefing",
-        "desc": "Trump's tariffs wiped out 89,000 manufacturing jobs instead of creating them, new report finds&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBub1lnZnlsWjNXbXFwSUwzaHcxaW9sZXBJOVJLRFdIZ1NvZlhEMXVBNGk0YjQwaG5EY0E2YURTSmJXamhSSW14aEJIRnFqVVk3SUg0eERLSHJuaEF1a2drSzJzdWd0RVZJcEhJYjhCVjhnTy1LTWc?oc=5",
-        "pubTime": "2026-06-15 18:18",
-        "source": "news.google.com",
-        "titleZh": "最新報告指出，川普的關稅政策不僅未能創造就業機會，反而導致 89,000 個製造業工作崗位消失 - Crypto Briefing",
-        "descZh": "最新報告指出，川普的關稅政策不僅未能創造就業機會，反而導致 89,000 個製造業工作崗位消失&nbsp;&nbsp;Crypto Briefing"
-      },
-      {
-        "title": "The Taiwan Lobby moves to put a full court press on Trump - Responsible Statecraft",
-        "desc": "The Taiwan Lobby moves to put a full court press on Trump&nbsp;&nbsp;Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PMmVHSm02cUUwMXF1UUsxODJjdWxvWE8zWEdXaE85blpIdGg4elRCcUkzS0pEQ2kwZGJlNllPbmpDZ0p1YkY5a3VxUVdCTTNkWU5VT0Q4Q19jOTQ?oc=5",
-        "pubTime": "2026-06-15 17:31",
-        "source": "news.google.com",
-        "titleZh": "「台灣遊說團體」正全力向川普施壓 - 《負責任的外交》",
-        "descZh": "「台灣遊說團體」正全力向川普施壓&nbsp;&nbsp;《負責任的外交》"
-      },
-      {
-        "title": "China reacts after Trump announces deal to end Iran war - Newsweek",
-        "desc": "China reacts after Trump announces deal to end Iran war&nbsp;&nbsp;Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jN2luZFpWaENlZy1oWnlpc2FZOUszSWg5Z09fTW1TZEJ1TzMyVk1lMW05aDQybGpPZWhmajRCbHZrS2NCYkhHZi1DdzNxODhuN0ZDYXA4OElLaE9hRTg5dlhxTU9aZkpNQmZoam1EZFJyM0lCbjY4?oc=5",
-        "pubTime": "2026-06-15 16:52",
-        "source": "news.google.com",
-        "titleZh": "川普宣布達成結束伊朗戰爭的協議後，中國作出反應 - 《新聞週刊》",
-        "descZh": "川普宣布達成結束伊朗戰爭的協議後，中國作出回應&nbsp;&nbsp;《新聞週刊》"
-      },
-      {
-        "title": "How Trump is relaunching a tariff war citing ‘forced labour’ concerns - Al Jazeera",
-        "desc": "How Trump is relaunching a tariff war citing ‘forced labour’ concerns&nbsp;&nbsp;Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHpSUExhLUk3WUUzWEo2N29vckJ4ZXppTHVwMkw0RVlCMll0N0hmOXpQNTNPeENYZ2hTMFV3aERBNFM4ZVZLRlpERjVyXzY5NHVKZXdLZWxuQ0c4S0Y1ZHR1XzBmSVZkOGRRYzRXQTh1R0llejEybGNObkNWVV9tdlhibk50WEkycVFOT0hsTkE2dHdiVllWaWtqTjhHYy1xLWNqVDV5NWV4b2c10gGyAUFVX3lxTE1YSXZBVC04VUU3NVlRRjNfOVhtNlhFb3ZZcUFIUFdXVkx1bkd1MDdXV2IxOHFNamhjUTlPUk1zTU5pamdYakhWbFM0cDJCbjhseG53SFQwbTNnV3huZTZOOHJJYjYwWW9EN2FUZk9HTjQ1dk5fNGxWZXFFNGVHaVFxNEZRb3NXRHB6V2hpSEU4c3kxbm9oNDkzdWdEYnE4bmlpZkNrWDNfQXoyVFpBTlhVV1E?oc=5",
-        "pubTime": "2026-06-15 16:47",
-        "source": "news.google.com",
-        "titleZh": "川普如何以「強迫勞動」為由重啟關稅戰 - 半島電視台",
-        "descZh": "川普如何以「強迫勞動」為由重啟關稅戰&nbsp;&nbsp;半島電視台"
-      },
-      {
-        "title": "Trump heralds Iran deal but questions - and risks - remain",
-        "desc": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
-        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-15 10:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普盛讚伊朗協議，但疑慮與風險依然存在",
-        "descZh": "伊朗協議的宣布對總統而言是一份令人欣喜的生日禮物——但其成敗可能取決於具體細節。"
-      },
-      {
-        "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
-        "desc": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
-        "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-14 07:22",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著川普年屆80歲，身為八旬老人工作究竟是種什麼樣的體驗？",
-        "descZh": "值此唐納德·川普總統慶祝生日的之際，我們訪問了那些工作至八旬高齡的人士，請教他們維持活力所需的關鍵。"
       }
     ]
   }
