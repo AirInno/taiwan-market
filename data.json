@@ -35535,22 +35535,32 @@
       }
     ],
     "global": {
-      "gold": 4039.1,
-      "gold_chg": 1.05,
-      "vix": 15.82,
-      "vix_chg": 5.26,
-      "sp500": 7572.4,
-      "sp500_chg": 1.2,
-      "usdtwd": 32.2,
-      "usdtwd_chg": 0.32,
+      "vix": 16.73,
+      "vix_chg": 11.31,
       "jpytwd": 0.2,
-      "jpytwd_chg": -0.71,
-      "us10y": 4.54,
-      "us10y_chg": 0.13,
-      "nasdaq": 26269.23,
-      "nasdaq_chg": 1.54,
-      "sox": 12398.89,
-      "sox_chg": -1.4
+      "jpytwd_chg": -0.56,
+      "tsm_adr": 409.74,
+      "tsm_adr_chg": -6.23,
+      "sox": 11867.5,
+      "sox_chg": -8.43,
+      "usdtwd": 32.27,
+      "usdtwd_chg": 0.53,
+      "us10y": 4.57,
+      "us10y_chg": 0.0,
+      "sp500": 7533.77,
+      "sp500_chg": -0.13,
+      "nasdaq": 25881.95,
+      "nasdaq_chg": -1.24,
+      "gold": 3979.9,
+      "gold_chg": -0.43,
+      "smh": 568.92,
+      "smh_chg": -6.39,
+      "qqq": 705.94,
+      "qqq_chg": -2.4,
+      "xle": 57.02,
+      "xle_chg": 4.01,
+      "oil": 78.89,
+      "oil_chg": 0.96
     },
     "futures": {
       "自營": 657,
@@ -35561,6 +35571,7 @@
       "狀態": "空方一致",
       "現貨": "賣超",
       "期貨淨口": -84453
-    }
+    },
+    "us_close_date": "07/16"
   }
 ]
