@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260719",
+    "fetchTime": "2026-07-19 05:10",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "desc": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-19 01:29",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普威脅對加拿大加徵新關稅，指責野火將「骯髒」的空氣飄入美國各城市",
+        "descZh": "加拿大領導人馬克·卡尼表示，美國和加拿大在應對氣候變遷方面負有同等責任；專家指出，氣候變遷正導致野火情勢日益惡化。"
+      },
+      {
+        "title": "Trump tests China relations with election meddling claims - The Washington Post",
+        "desc": "Trump tests China relations with election meddling claims&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1Q1bUxpdG1LMG1EaDI5SDZTRk01RDJhcVRheXBMdXVXUWR0M3ZySnpwcklrUDZpOUZCTHBWekVJaTJXMjNJMkhIUkxOQ1ZQbGo3UHIzWUFsSVZGWUdnUW9adlRUSW9LdHBzQlVHSm9aYVk3NlpQZk5rLTdfY09EeEQ3TVROMFVCbE9TbjhseVBHV2ZocVdfU3Z6TmgtT0NPR3YtdHkwMVhQSUluQUVyb2gwOHN1YjNmMGc?oc=5",
+        "pubTime": "2026-07-18 08:17",
+        "source": "news.google.com",
+        "titleZh": "川普以「干預選舉」指控試探中美關係——《華盛頓郵報》",
+        "descZh": "川普以「干預選舉」指控試探中美關係&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Trump administration races to rebuild tariff wall knocked down by Supreme Court - PBS",
+        "desc": "Trump administration races to rebuild tariff wall knocked down by Supreme Court&nbsp;&nbsp;PBS",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckc2VmUtQXc4QzRfcHQ4TkE3R2FzSEtHeVMyQ09qTjBjby1TMXlaWEJiTXFIbk9TNk9IejJUeWNiT1JaTmJ4NHlXUjhpSGFZTlBNNFdrMXJubnpQcTRiWjFvb2dZaFBjVkRvT0FBcWRELVltLVNKbFhjSC16R2JYdGphM1hIWmZhN3BvWUdFYTJmT2xsT21Lb0J2aE4xODRsTVBXLWN1NEUwQWx1a0xKR0p2VzQzWG800gG-AUFVX3lxTE1vSklEVXVGUVMxajl6WXgzNE9qNmJvWGREdUJqSDRYV1RxWWZ6NnloWlNSdVFsVzcyOVkwZmNJNHl0ZjJWR1g4VXhvTHA4VlBEdGNfLXN5LUhNM0NNb3lobkR4SXNReFU4TzJkM0V3RU1vdHBkNHdTY0pORmJrTG51WWFSYXg3M29peDAxdjl1MVFnSmVOWkJ1MFc4eFM0VTlvYzh4X1hDNEFMYTZKdmZCV2daeWdGODdIemNLdEE?oc=5",
+        "pubTime": "2026-07-18 05:23",
+        "source": "news.google.com",
+        "titleZh": "川普政府急於重建遭最高法院推翻的關稅壁壘 - PBS",
+        "descZh": "川普政府急於重建遭最高法院推翻的關稅壁壘&nbsp;&nbsp;PBS"
+      },
+      {
+        "title": "Trump’s New Tariffs: What to Know - Council on Foreign Relations",
+        "desc": "Trump’s New Tariffs: What to Know&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95MzM5ams5dVdVUVhQZUcxMUx4VC1wR1l3eEY0VmY4RWdzbkFMQXBjMHlvdnpDd1hsMXd5YXBHbE1nVURMQ2lnSWVRZUVqelJHU0xLUG5NWnJQMFdWRWlGMHN1OVBLaU1XclhQRg?oc=5",
+        "pubTime": "2026-07-18 02:38",
+        "source": "news.google.com",
+        "titleZh": "川普的新關稅：您需要了解的事項 —— 外交關係協會",
+        "descZh": "川普的新關稅：您需要了解的事項&nbsp;&nbsp;外交關係協會"
+      },
+      {
+        "title": "Senate Advances Trump Trade Court Nominee - Legis1",
+        "desc": "Senate Advances Trump Trade Court Nominee&nbsp;&nbsp;Legis1",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ROEhvNUxxQjVLYkFZeElxOEs1TUZ6LTl1RWY4cnQwT1RGNWFkOEhIbEVBM09HVmx3Sjc1NTA0QmRUR2xLVkxJNV9IaTFraWFMSVpZaTNIcGJaTEl6dTQtTEY1Q1hMaV9KSnp3bDZzdkpoLXc?oc=5",
+        "pubTime": "2026-07-18 02:13",
+        "source": "news.google.com",
+        "titleZh": "參議院推進川普貿易法庭提名人選 - Legis1",
+        "descZh": "參議院推進川普提名的貿易法庭人選&nbsp;&nbsp;Legis1"
+      },
+      {
+        "title": "Trump's new tariffs on Brazil reflect the weakness of US trade strategy - Peterson Institute for International Economics",
+        "desc": "Trump's new tariffs on Brazil reflect the weakness of US trade strategy&nbsp;&nbsp;Peterson Institute for International Economics",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3BBSWptQUt5N2VVNzlfTWFxUjdDT3ZfN3lBY29MdEc1UTg0bHZSX2ZMc01CZWJybWNnMV81WkpsdlZIVG5VdmJjTkxaTm5NdElqdUlocXBIdnJxVWs4S1ZiT1o5ZHBTcXluN0U5VHR5Z2NMbF9PamN0NUhEbW1oOURHem9lTGszbkR4U05YUEdxc2lEVzRJd2dCMnNfT3BIV3Z4Sm5iRmpTaGp0SUxnbA?oc=5",
+        "pubTime": "2026-07-18 01:23",
+        "source": "news.google.com",
+        "titleZh": "川普對巴西實施的新關稅，反映出美國貿易策略的薄弱之處——彼得森國際經濟研究所",
+        "descZh": "川普對巴西實施的新關稅反映出美國貿易策略的薄弱之處&nbsp;&nbsp;彼得森國際經濟研究所"
+      },
+      {
+        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+        "desc": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-17 19:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普指控中國干預2020年大選，並在中期選舉前質疑投票安全",
+        "descZh": "中國表示，川普的說法是捏造的；美國民主黨則指稱，他此舉是在為破壞十一月的選舉鋪路。"
+      },
+      {
+        "title": "Trump Media to sell instant access to 'market-moving' social posts",
+        "desc": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-17 15:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普媒體將出售「能影響市場」的社群貼文即時瀏覽權限",
+        "descZh": "「川普媒體」即將為華爾街交易員推出一項快速、付費的資訊流服務，專門彙整其最具影響力的貼文。"
+      },
+      {
+        "title": "Trump’s top tariff negotiator gives Utah leaders exclusive look at plans to remake global economy - Deseret News",
+        "desc": "Trump’s top tariff negotiator gives Utah leaders exclusive look at plans to remake global economy&nbsp;&nbsp;Deseret News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcDBlbkM3STVJdmYwQm8yemlRcEt3RTZ0OE43T0NRNVRWNW5GcXowemdadWduVzZUekwyX1pxT05sODUzb0k4OUpMVG5kNldEb0g3em1CRUJpOV9RZk04cGJXMG1OcEE1RmFPNUtjU0NYQnhnSHZHUXR6QXBWLURqMEN6OXBNODREc0lFS05qXzFiOFBsNVM1d3ZPbFdwT3VodVVCR2NJZUhTS05uM21lVzM5Q0dmemhKdnYzNHZYT09WUWhXZlVRVXU2RWF3Wlk0amViZXEyUEpKdjAx?oc=5",
+        "pubTime": "2026-07-17 13:00",
+        "source": "news.google.com",
+        "titleZh": "川普的首席關稅談判代表向猶他州領袖們獨家揭示重塑全球經濟的計畫 — 《德塞雷特新聞》",
+        "descZh": "川普的首席關稅談判代表向猶他州領袖們獨家揭示重塑全球經濟的計畫&nbsp;&nbsp;《德塞雷特新聞》"
+      },
+      {
+        "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products - The Guardian",
+        "desc": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWZktWWkE0YXhESVpvRU1jUHpsRWY1QjJDeGJNaE1kc0lNeS1GcFJRUHFrY1ZyYlk1dUVRNHZScGZpN0pCNV9JTmVXNTVBenozWEZvcURjc01Wd3hlLXJNUTBjY0o1Z2ROeEhrLXdaUkM1Z3M?oc=5",
+        "pubTime": "2026-07-17 11:30",
+        "source": "news.google.com",
+        "titleZh": "巴西誓言，若美國對其部分產品徵收 25% 關稅，將採取報復措施——《衛報》",
+        "descZh": "巴西誓言，若美國對其部分產品徵收 25% 關稅，將採取報復措施&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump administration tightens visa rules for foreign students",
+        "desc": "Students will need federal permission to stay longer than four years in the US and universities will lose the power to extend visas.",
+        "url": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-17 05:31",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府收緊針對外國留學生的簽證規定",
+        "descZh": "學生若要在美國停留超過四年，將需要取得聯邦政府的許可，而大學將喪失延長簽證的權力。"
+      }
+    ]
+  },
+  {
     "date": "20260718",
     "fetchTime": "2026-07-18 05:11",
     "count": 23,
@@ -2377,94 +2483,6 @@
         "source": "news.google.com",
         "titleZh": "密西根州的勞工不需要關稅來發展——他們需要的是競爭所需的工具 | 評論 - 《底特律新聞報》",
         "descZh": "密西根州的勞工不需要關稅來發展——他們需要的是競爭的工具 | 評論&nbsp;&nbsp;《底特律新聞報》"
-      }
-    ]
-  },
-  {
-    "date": "20260619",
-    "fetchTime": "2026-06-19 06:27",
-    "count": 9,
-    "articles": [
-      {
-        "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-        "desc": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
-        "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-19 05:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國解除海上封鎖，伊朗最高領袖表示川普是「出於絕望」才達成這項協議",
-        "descZh": "伊朗最高領袖表示，他不同意這項協議，並稱唐納德·川普是「出於走投無路」才簽署了這項協議。"
-      },
-      {
-        "title": "Apple to Buy Computer Chips From Intel, Trump Says - The New York Times",
-        "desc": "Apple to Buy Computer Chips From Intel, Trump Says&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZWpDbTdNTGNZTTlvNXBHTGVPQWhFY2ZEWFUtaHA2aXNYTGt2SDIwUDlrN0c0MDJtS0JUaExmdDBYRW95SUZzSWVZUU9pMFVRTW11TVhWb01fY3JacWRZcHJHLXdxTEl2akJaZXJGQWpHbkczNHFvWjQzLTJxTDQ?oc=5",
-        "pubTime": "2026-06-19 02:08",
-        "source": "news.google.com",
-        "titleZh": "川普表示：蘋果將向英特爾採購電腦晶片——《紐約時報》",
-        "descZh": "川普表示，蘋果將向英特爾採購電腦晶片&nbsp;&nbsp;《紐約時報》"
-      },
-      {
-        "title": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
-        "desc": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT&nbsp;&nbsp;Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
-        "pubTime": "2026-06-18 21:18",
-        "source": "news.google.com",
-        "titleZh": "川普透露與蘋果的合作關係、與英偉達的聯手以及美國持股後，英特爾股價飆升 - 英特爾（NASDAQ:INT - Benzinga）",
-        "descZh": "川普透露與蘋果的合作關係、與英偉達的聯手以及美國持股後，英特爾股價飆升 - 英特爾 (NASDAQ:INT) &nbsp;Benzinga"
-      },
-      {
-        "title": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward - Business Insider",
-        "desc": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward&nbsp;&nbsp;Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUtzVDZWaFo2U0dqdEJhMjk5bGFpdlYzczE2RXVtMnljU1lkb0xpOWpQS0REMWtjbUtTN3BRdG5pdGpDNUdLdHZndWFrSzRlRksyRGN1SGZGSjNhYjFteDYzdEtrRkRsUVpoWmtvamJkZ0ppeVY0c0t6aVQtbElnTEZuaFVRc2dzSzROcWN3?oc=5",
-        "pubTime": "2026-06-18 19:14",
-        "source": "news.google.com",
-        "titleZh": "川普最新針對英特爾的推銷話術，讓這家晶片製造商的股價飆升 —— 《Business Insider》",
-        "descZh": "川普最新的英特爾推銷話術讓這家晶片製造商的股價飆升&nbsp;&nbsp;《Business Insider》"
-      },
-      {
-        "title": "The case for Trump’s tariffs doesn’t survive contact with the facts - Washington Examiner",
-        "desc": "The case for Trump’s tariffs doesn’t survive contact with the facts&nbsp;&nbsp;Washington Examiner",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGtFakhRMThBX1FRX3ZHc2lMcG9BRlZJMXNRSm82cG9RRmNkRzdTYWVMaXJSS3ZlcEF6OFdOVl9SMTdGN19vQktKTVFMSzhxWkhkMzBfWXNxZnhZcnVjQkhxMHNkRjRsOTVaWDNIQUtOU3RDc182djJaR0hVbmdRV2pKbUVzM2pXSU8tcU1CdzM4enltSEI2ZGt4Zi12dS1vMlZYdDJRcFRDUmVoQk1MRk9yXzNwVWIwNkREZlhQYXIxLVVhMkcwVVZWa1psYnNsUlE?oc=5",
-        "pubTime": "2026-06-18 18:00",
-        "source": "news.google.com",
-        "titleZh": "川普加徵關稅的論點經不起事實檢驗——《華盛頓觀察家報》",
-        "descZh": "特朗普徵收關稅的論點經不起事實的檢驗&nbsp;&nbsp;《華盛頓觀察家報》"
-      },
-      {
-        "title": "Korea boosts US lobbying as Trump tariffs loom on trade and semiconductors - CHOSUNBIZ - Chosunbiz",
-        "desc": "Korea boosts US lobbying as Trump tariffs loom on trade and semiconductors - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdXI1NEwwUllBdXlKNnRDVnRmeGFjTlNRNF94c1BkaDJVUDBRTWNKMUlId29kYlM4dW9UZWxqMFRfVUl3X09JenhOa1lPbXRGY0x3TzkwM1lmaUFtRVJpM05DWGh0RzhhQlktaXkyd3lPaXNQMXJwemtfQWdMM2vSAZMBQVVfeXFMUFJodDNFcDJCcnlDdFowYzk1SDYzaXkyMm1qTkZVaG1wZmw0VmN3eFo2aHBac3NxdjNsY1BZZ3ktX3ZhUHNfYVpBOEVJRS1CRWVjeFN0ZUpOU1hsckhKNGx1cElZQXZwR1d1VHZDS0d2MllfMmpUWmZDdjlEbDFYd3hqSDVNMm5peEVHQ3lkQk10blU0?oc=5",
-        "pubTime": "2026-06-18 15:53",
-        "source": "news.google.com",
-        "titleZh": "隨著川普可能對貿易及半導體徵收關稅，韓國加強在美國的遊說力度 - CHOSUNBIZ - Chosunbiz",
-        "descZh": "隨著川普政府可能對貿易及半導體徵收關稅，韓國加強在美國的遊說力度 - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz"
-      },
-      {
-        "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
-        "desc": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
-        "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-18 09:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美伊協議未能解決核心爭議點——以及一項價值3,000億美元的疑問",
-        "descZh": "川普一再強調，這項協議能確保伊朗永遠不會購買、研發或製造核武器。但協議的條文並未達到這一標準。"
-      },
-      {
-        "title": "Michigan workers don’t need tariffs to build — they need tools to compete | Opinion - The Detroit News",
-        "desc": "Michigan workers don’t need tariffs to build — they need tools to compete | Opinion&nbsp;&nbsp;The Detroit News",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0FEU195RTdpcEpTbDEyWVhiaXNnWXRmXzBnY3g3cEVwNkFzWUd5YmZGLXRjS0JTNUwycnJZX3hnUURXNjBVc0pvQUxoTkFGaEE5blpxRmRwb29TalB3X1FoM1hjdlFGQUtuNzJyZzE3REZwaWxzVnpqYllQWF9aOFJ4MGtHVkdhTTkzVWhlVjhiU1NDZlV6c014OUFTZllacFJiM1gyQ1FIOHF2ZjFuanJWN1JwRUpwaEVGSVd3?oc=5",
-        "pubTime": "2026-06-18 06:15",
-        "source": "news.google.com",
-        "titleZh": "密西根州的勞工不需要關稅來發展——他們需要的是競爭所需的工具 | 評論 - 《底特律新聞報》",
-        "descZh": "密西根州的勞工不需要關稅來發展——他們需要的是競爭的工具 | 評論&nbsp;&nbsp;《底特律新聞報》"
-      },
-      {
-        "title": "Why Trump’s Pentagon Abandoned ‘Indo-Pacific’ - Foreign Policy",
-        "desc": "Why Trump’s Pentagon Abandoned ‘Indo-Pacific’&nbsp;&nbsp;Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmFQOGhWWEVlRXVkdDBqckxwYTZXNXdtNW5JaFFZOTQyTmIzaEYxM2JPTngzZEhQNUNiaWlWV25OQkdxTFcyS3k5dUNpX29sdVppN3oyRHVnSG1fdEc2SkZGR21RZGMxcUtsZi01Nm5ZN0Q4R2FmZWxkY2lxeDdiTWE5OVk5ZklqZFNxLUlDZVc2N2pmYVIyVG5DODlvWjA?oc=5",
-        "pubTime": "2026-06-18 02:47",
-        "source": "news.google.com",
-        "titleZh": "為何川普政府的五角大廈放棄了「印太」概念——《外交政策》",
-        "descZh": "為何川普政府的五角大廈放棄了「印太」戰略？&nbsp;&nbsp;《外交政策》"
       }
     ]
   }
