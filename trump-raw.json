@@ -1,5 +1,57 @@
 [
   {
+    "date": "20260724",
+    "fetchTime": "2026-07-24 05:31",
+    "count": 5,
+    "articles": [
+      {
+        "title": "US announces fresh raft of tariffs on overseas goods",
+        "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-24 05:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國宣布對海外商品實施新一輪關稅",
+        "descZh": "這些關稅針對約60個貿易夥伴，理由是這些國家未能妥善遏止強迫勞動。"
+      },
+      {
+        "title": "'Everything on the table' as Canada plans response to US tariffs",
+        "desc": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect.",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-24 03:59",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "加拿大擬定因應美國關稅的對策，表示「所有選項都在考慮之中」",
+        "descZh": "總理馬克·卡尼表示，在美國新關稅生效之際，與華盛頓的貿易談判正日趨白熱化。"
+      },
+      {
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "desc": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-24 01:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，沙烏地阿拉伯必須承認以色列，才能達成核協議",
+        "descZh": "美國總統表示，這項旨在協助沙烏地阿拉伯發展核能的里程碑式協議，取決於該國是否加入《亞伯拉罕協定》。"
+      },
+      {
+        "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+        "desc": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+        "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-23 20:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與沙烏地阿拉伯達成的核協議，拋棄了美國長期以來的要求",
+        "descZh": "在中東簽署核協議是一項大膽之舉，已在美國和以色列引發批評。"
+      },
+      {
+        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+        "desc": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-23 08:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "加拿大「實力雄厚」的乳製品產業已成為川普貿易政策瞄準的目標",
+        "descZh": "在美國總統將加拿大產業單獨列為用以為新關稅辯護的三大「刺激因素」之一後，該國產業成為眾人矚目的焦點。"
+      }
+    ]
+  },
+  {
     "date": "20260723",
     "fetchTime": "2026-07-23 05:33",
     "count": 37,
@@ -2944,67 +2996,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普對英國新任首相有何期待？",
         "descZh": "美國總統曾被認為與基爾·斯塔默關係密切，但隨著伊朗戰爭的爆發，這段友誼迅速破裂。"
-      }
-    ]
-  },
-  {
-    "date": "20260624",
-    "fetchTime": "2026-06-24 05:53",
-    "count": 6,
-    "articles": [
-      {
-        "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-        "desc": "It marked the first time Congress has instructed a president to end a military action since the War Powers Resolution of 1973 was enacted.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-24 05:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國會首度通過戰爭權力法案，譴責川普對伊朗發動的戰爭",
-        "descZh": "這是自1973年《戰爭權力決議案》頒布以來，國會首度指示總統終止一項軍事行動。"
-      },
-      {
-        "title": "How Washington DC's Reflecting Pool became a global talking point",
-        "desc": "President Trump says the pool is probably going to be drained again, two weeks after a multi-million dollar renovation was completed.",
-        "url": "https://www.bbc.co.uk/news/videos/cy4ed2dkxv1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-24 02:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "華盛頓特區的「倒影池」如何成為全球熱議話題",
-        "descZh": "川普總統表示，這座游泳池很可能又要被放乾了，而這距離耗資數百萬美元的翻新工程完工才剛過兩週。"
-      },
-      {
-        "title": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing - CNBC",
-        "desc": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG1FeEVaSGNsWkJ6bTQ4ZXNpYlBieUxZc0JNay1pRy1ZY1VvejZVb192VEJMbmc1bHRYNURUTExHb0lYaXltZ005ZVZPU2I3dEdnVXE1MU03RXNlUnZVeXF6blRKOXZEQll3eVRvM0VtY0ZkY2xfZzc3VzNBcEEydU8yRdIBiAFBVV95cUxQY2Q2N2FQaFp0M3pxNzdqQlRUVWpFVzhkM1p6NXE2NW1ienVycjR4NlpfZnJnbmlFRVpIQmlWV2dFcXViT243b3J1VG0tZlZVVXpTdWl6SFBnaXNyQlBiTUZOcmRyQ3hMYVhDOG9mWlN0YW9nYUxJMXhDc0t0d2dvcmNlOUo4andR?oc=5",
-        "pubTime": "2026-06-23 20:00",
-        "source": "news.google.com",
-        "titleZh": "沃倫、凱利兩位參議員就關稅對製造業的影響向川普政府施壓 —— CNBC",
-        "descZh": "沃倫、凱利兩位參議員就關稅對製造業的影響向川普政府施壓&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "What does Trump want from a new UK prime minister?",
-        "desc": "The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.",
-        "url": "https://www.bbc.co.uk/news/videos/c2kyz2eqxwvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-23 05:51",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普對英國新任首相有何期待？",
-        "descZh": "美國總統曾被認為與基爾·斯塔默關係密切，但隨著伊朗戰爭的爆發，這段友誼迅速破裂。"
-      },
-      {
-        "title": "Watch: 'I wish him well' - Trump reacts to Starmer's resignation",
-        "desc": "The US President criticised the UK’s approach to energy and immigration arguing that the prime minister's decisions had hurt him politically.",
-        "url": "https://www.bbc.co.uk/news/videos/cq618p80y2eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-23 05:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：〈「祝他一切順利」——川普對史塔默辭職一事作出回應〉",
-        "descZh": "美國總統批評英國在能源與移民問題上的做法，並指出首相的決策在政治上對他造成了損害。"
-      },
-      {
-        "title": "Trump's New US Tariff Wall Shakes Up Winners, Losers Lineup - Yahoo Finance",
-        "desc": "Trump's New US Tariff Wall Shakes Up Winners, Losers Lineup&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHRlZnVjTFhYRGY2cWJRSl9oV0VhU2sxT2xuejJaeXdTSmtJd0pmbHowcTI0bGNhRnNWTVJRYkpjTUZIX0x1NlBlazBfbEpHYTVDQy03eXdlZzFiTW11YWQ2WTVzSWt1NG9zN3VJWC1iam5KcWIxWUtXbjBmYXRybjVwNkJoLXNmUV8wOWdoZDkwLWY0RkJ2NlZENnAyeThLNWpDT0E3UWZlRVlkOUlkU2dSX1FiSjIxT2xlc1JpVQ?oc=5",
-        "pubTime": "2026-06-22 14:17",
-        "source": "news.google.com",
-        "titleZh": "川普的新一輪美國關稅壁壘顛覆了贏家與輸家的陣容 - 雅虎財經",
-        "descZh": "川普的新一輪美國關稅壁壘顛覆了贏家與輸家的陣容&nbsp;&nbsp;Yahoo Finance"
       }
     ]
   }
