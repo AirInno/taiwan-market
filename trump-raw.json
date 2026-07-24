@@ -1,5 +1,327 @@
 [
   {
+    "date": "20260725",
+    "fetchTime": "2026-07-25 05:33",
+    "count": 35,
+    "articles": [
+      {
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "desc": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-25 04:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普誓言就歐盟對美國科技公司處以罰款一事展開調查",
+        "descZh": "美國總統表示，對谷歌、蘋果、Meta 和亞馬遜開出的罰款應「全數撤銷」。"
+      },
+      {
+        "title": "Trump’s New Tariffs Aren’t About Forced Labor—They’re About Restoring the Tariff Wall - Cato Institute",
+        "desc": "Trump’s New Tariffs Aren’t About Forced Labor—They’re About Restoring the Tariff Wall&nbsp;&nbsp;Cato Institute",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56SzBaMU0tWXMyWFlzZmJSQkZmUkEwYWxxRkRHamtHUGtJekhLT2IwM3JaeGtBVVl5a195MUR3Z0JremhqdzdSX2taQVl0OEk3QXR2UERR?oc=5",
+        "pubTime": "2026-07-25 02:07",
+        "source": "news.google.com",
+        "titleZh": "川普的新關稅與強迫勞動無關——而是為了重建關稅高牆 - 卡托研究所",
+        "descZh": "川普的新關稅與強迫勞動無關——而是為了重建關稅高牆&nbsp;&nbsp;卡托研究所"
+      },
+      {
+        "title": "Trump’s Latest Tariffs Haven’t Changed Much. How They Stack Up. - Barron's",
+        "desc": "Trump’s Latest Tariffs Haven’t Changed Much. How They Stack Up.&nbsp;&nbsp;Barron's",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43eUwweE5mMDM2Wl95bnF0bWFHay01ZUZ4aEFpY3otcm5uU3JRVlVLM090RzlQclc2ckpsSVlWb1RvVUVhRnpkQnd1ZGFEMEV3anhOSXRoNklTbFRQZFNJQXpWQlliTHVhaDh1RWRB?oc=5",
+        "pubTime": "2026-07-25 02:02",
+        "source": "news.google.com",
+        "titleZh": "川普最新關稅措施並未帶來太大改變。各項措施的比較分析。——《巴倫周刊》",
+        "descZh": "川普最新關稅措施並未帶來太大改變。各項措施的比較。&nbsp;&nbsp;《巴倫周刊》"
+      },
+      {
+        "title": "US tariff hikes linked to claims of foreign forced labor dismay and anger trading partners - ABC Columbia",
+        "desc": "US tariff hikes linked to claims of foreign forced labor dismay and anger trading partners&nbsp;&nbsp;ABC Columbia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcE9GUTY0VjNURU1DZWpja0VDaUFaWEFHSmlMVnhpM2J2OS1lU3BpV0dneUg4OHk4N2pZdTVid0hFT1d2T3p4S19lV2RGbzk1dnlNVnVEeEdjRjVqM1VpZ2lVXzBnZm5HRFhXcm1NamhnRi1waEVub01RYmttRGZpMTdSVFdYdG5TcG5HMUlQNWdSN2xKV1RKb1laTTlnMDB5d0NITjZaLWptTmdlUUJjcWIzVll5Ull3UHY4cV9lcEhpUDJFOWNKbG93?oc=5",
+        "pubTime": "2026-07-24 23:30",
+        "source": "news.google.com",
+        "titleZh": "美國以「外國強迫勞動」為由提高關稅，令貿易夥伴深感失望與憤怒——ABC哥倫比亞",
+        "descZh": "美國以指控外國存在強迫勞動為由提高關稅，引發貿易夥伴的失望與憤怒&nbsp;&nbsp;ABC哥倫比亞"
+      },
+      {
+        "title": "Trump's next phase of global tariffs goes into effect, affecting countries that provide 99.4% of US imports - Yahoo Finance",
+        "desc": "Trump's next phase of global tariffs goes into effect, affecting countries that provide 99.4% of US imports&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTkRQcUdhQVZMZm8wdUxJOWJUYW96bHZVQ2RRRVJUenJJXzR1TUxXSzhyaGgxSGtoUHJFa21KMjgtZWRyRUR2eHk5WW5UUl9CLWhnN2pDYXJfS2hTdWhQVU1wMEQ5UEo3bU04Ujg5QThnNGw1S2pyRHNfZ0h1SXJsTEpaN0Vta3d3alJKanNWb0VNMUs0QWhFeTVxellmV0xFNVR0Ml9vam0xTE9iQjZKbGJYVURjV2JIQmgxR2ptck1hNmc2TlA2R21uemhOd3N5T1Bvb0VGYXJBSkJXdGN6SE1KZXpSa2gwSnJocm54ZmhCX0w5ZkRaamFkdw?oc=5",
+        "pubTime": "2026-07-24 23:17",
+        "source": "news.google.com",
+        "titleZh": "川普的下一階段全球關稅措施正式生效，影響範圍涵蓋提供美國99.4%進口商品的國家——雅虎財經",
+        "descZh": "川普的下一階段全球關稅措施正式生效，影響範圍涵蓋提供美國99.4%進口商品的國家&nbsp;&nbsp;Yahoo Finance"
+      },
+      {
+        "title": "The latest in Trump's tariff policies - The Detroit News",
+        "desc": "The latest in Trump's tariff policies&nbsp;&nbsp;The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWFxNWZyaGk2bVZBNGpTbzM0Xzd4cnp4NDJRdmIxcnVYc1htS2NqYUd4Z21aYWFQLTd6a3RzYW9xTWVtdVZ2WTlJMDEwVk5xS3Z1ZUVxTjJDelo3OEZ5alNqYkJmZEl2VlB3cjhwX1JvY0hRbGNzY1dQbzFqeERzTXRWNFVuNzUxdE9PN2dLYjBVV2p1NHBTaEs5dVFHRE50clNWZg?oc=5",
+        "pubTime": "2026-07-24 22:20",
+        "source": "news.google.com",
+        "titleZh": "川普關稅政策的最新動態——《底特律新聞報》",
+        "descZh": "川普關稅政策的最新動態&nbsp;&nbsp;《底特律新聞報》"
+      },
+      {
+        "title": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations - The New York Times",
+        "desc": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sMVBwRnFDcGlLQjFxSWxUQXFaTUcydS1mS0RrRkVMUXUwYTVmeFRNcHUwbjdwa04wa2xLOGpYUWJLdF80cHdjYkRrTmpYVjczWjVNdHNEaVlMYTAzeFdqR1ZjRFFJMUtQNDk1UUctb0x2eE5YMGo1N0ZB?oc=5",
+        "pubTime": "2026-07-24 22:09",
+        "source": "news.google.com",
+        "titleZh": "川普政府對超過80個國家徵收約10%的新關稅——《紐約時報》",
+        "descZh": "川普政府對超過 80 個國家徵收約 10% 的新關稅&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Trump’s Section 301 Tariffs: Map of Countries Targeted With New Rates - The New York Times",
+        "desc": "Trump’s Section 301 Tariffs: Map of Countries Targeted With New Rates&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BLW9tbWk2anRIaEdtTGVXd1Iwbjc4dnVOWkVXWTA1Ml9CMjdnT1VMUnNQVEtGbE5Oam5KaGJDdEI1LUFNeFpVSVI4aXFudlJxbG5majd3aVR1VDlhQ0RKbG5nYXl4YjQ?oc=5",
+        "pubTime": "2026-07-24 21:57",
+        "source": "news.google.com",
+        "titleZh": "川普的第301條關稅：受新關稅率影響國家地圖 - 《紐約時報》",
+        "descZh": "川普的第301條關稅：受新關稅率影響國家地圖&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "US hits dozens of countries with new wave of tariffs",
+        "desc": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-24 20:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國對數十個國家實施新一輪關稅",
+        "descZh": "這項關稅是基於對強迫勞動的擔憂而徵收的，將取代美國最高法院於二月推翻相關關稅後所實施的一項臨時性全球關稅。"
+      },
+      {
+        "title": "Europe wins and Brazil loses in Trump tariff overhaul - Financial Times",
+        "desc": "Europe wins and Brazil loses in Trump tariff overhaul&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2lPcXNQLWZUZ1hacDRQSHQyVTFFRG5Zem5zc2pUZmd1RDBLWTlpTVQtSVJ6a1VxZ3NGdUdjbjNpaUpyeGhnTGRzSnc2WUxoYlRwWDJIeHJZTTEwRWsyZGl5TEtsSUVsWDI2czhjWFhYZDNMVnE5MlRoZ3cwSTFNemlGUDg?oc=5",
+        "pubTime": "2026-07-24 20:38",
+        "source": "news.google.com",
+        "titleZh": "川普關稅改革：歐洲獲利，巴西受損——《金融時報》",
+        "descZh": "川普關稅改革中，歐洲獲利，巴西受損&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "US hits 60 trading partners with new duties as Donald Trump rebuilds tariff wall - Financial Times",
+        "desc": "US hits 60 trading partners with new duties as Donald Trump rebuilds tariff wall&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWNmbDJNOWZrbG9kNGFlai16cHpQSjJ6RHhWSDdjWVdZNjFsb0hMVUxtNTZURUNqcGFQSVNkQWFxSzNPQ3VOZ09qYTdoUFdfRU1NQ0NYamtHaFdRRkVBM2RGUTZsUTBNNlRqVGZfSUhOQWlBSlZxYU9tRElNSkJzOGZGVG8?oc=5",
+        "pubTime": "2026-07-24 20:30",
+        "source": "news.google.com",
+        "titleZh": "美國對60個貿易夥伴加徵新關稅，唐納德·川普正重建關稅高牆——《金融時報》",
+        "descZh": "唐納德·川普重建關稅高牆，美國對60個貿易夥伴加徵新關稅&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "New Trump tariffs take effect. Here's what shoppers should know about prices. - KHOU",
+        "desc": "New Trump tariffs take effect. Here's what shoppers should know about prices.&nbsp;&nbsp;KHOU",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUI0NEl3QkZBdEQyUkxCRlJYckZVTWJTWHAxZTJ0SWZ6WXJYcE12bXdUWFJ6bjJCbkpnZ0hkQk9JZUdneUJaX3ltTjRNSHpPZnllOENhWHB6R1lkbGU1dmFCSEdOQmdEMmVFRGRCSkhYcXpyNWQ4U25haUdjNkFPcDh6dzM3bThKQjJITjZlaW9yeDhfTGJWaF9TRlB6WG1ObHFPajVlM1dOSy1EYWphZVhodkNJUQ?oc=5",
+        "pubTime": "2026-07-24 19:47",
+        "source": "news.google.com",
+        "titleZh": "川普的新關稅措施正式生效。以下是消費者應了解的價格相關資訊。 - KHOU",
+        "descZh": "川普政府的新關稅措施正式生效。以下是消費者應了解的價格相關資訊。&nbsp;&nbsp;KHOU"
+      },
+      {
+        "title": "Trump Rolls Out New Tariff Wave as Trade Policy Remains Cornerstone of Second-Term Agenda - The Maine Wire",
+        "desc": "Trump Rolls Out New Tariff Wave as Trade Policy Remains Cornerstone of Second-Term Agenda&nbsp;&nbsp;The Maine Wire",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclEtYjEwV3Y2MGxuNFlfTlhrTVN1Ym1rVHMzQlROT21TS1VDNGd6NjhxMXNuQWZ6dFI1UGptU0Z6bklpTmpBUVc2bjc3cmwwXzZCc1E5cmhlZm5UcWpsTEc4dnR1SlZaOXhLSGxCUXlwOVZNYXhFaElaTHN1TklzejJwZERCTmNQSDVCMWtvTjRDSmMyekFEanlOUW80N2JGUTVaMFJfZEhzNkJyMDF1dHdwcllLZWIwTW96cG9wdVFrd1BXdmc?oc=5",
+        "pubTime": "2026-07-24 19:39",
+        "source": "news.google.com",
+        "titleZh": "川普推出新一波關稅措施，貿易政策仍為第二任期議程的基石——《緬因線報》",
+        "descZh": "川普推出新一波關稅措施，貿易政策仍為第二任期議程的基石&nbsp;&nbsp;《緬因線報》"
+      },
+      {
+        "title": "Trump’s latest tariffs put UK at disadvantage to EU, say experts - The Guardian",
+        "desc": "Trump’s latest tariffs put UK at disadvantage to EU, say experts&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWNOdlFfbVFwaHUxYmZ1RWNrMGNRdkxENDBuWkJVUFhVcURCQWFuZFRMSmZkbDVpcjVHOFBsVlQ4d1BLQ0Y3Yjd2ZDAyUnA1aUhrcWdjRDhKQy1uQzZPWV9NbEhjV0YyUm9ZNzVqdU1BdzQ0Sk1yVXpRSlgxeW5IQnJuZ1gxY0dya3BzdTlRSnhxUUN0MW5RYk9jcW1fSlVNanhFTWdn?oc=5",
+        "pubTime": "2026-07-24 19:04",
+        "source": "news.google.com",
+        "titleZh": "專家指出，川普最新關稅措施使英國相較於歐盟處於劣勢——《衛報》",
+        "descZh": "專家指出，川普最新實施的關稅使英國相較於歐盟處於劣勢&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "U.S. allies hit with new tariffs object to Trump's forced labor allegations - NPR",
+        "desc": "U.S. allies hit with new tariffs object to Trump's forced labor allegations&nbsp;&nbsp;NPR",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmJLczZYZkZFZFBvdlp4TGJRcTRzQ2xRV21hbHd2T3J6bURsbHB6NDVtLUpfaml2RHM5VHF4NVdFTEw0YVU1RDVpcWNvQUpFdURkQ0xhRWhZQmpYV1pSa000cU83YTUzZjU2bzdLcFRBUktoU3pDM2dsSUxELU5HYUp0SQ?oc=5",
+        "pubTime": "2026-07-24 18:31",
+        "source": "news.google.com",
+        "titleZh": "遭新關稅打擊的美國盟友反對川普關於強迫勞動的指控——NPR",
+        "descZh": "遭新關稅打擊的美國盟友反對川普關於強迫勞動的指控&nbsp;&nbsp;NPR"
+      },
+      {
+        "title": "Watch: Another day, more Trump tariffs - but are they working?",
+        "desc": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+        "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-24 18:21",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：又一天，川普又加關稅——但這些措施真的有效嗎？",
+        "descZh": "BBC 記者薩米拉·侯賽因（Samira Hussain）解析川普總統的關稅措施如何影響美國經濟、誰為此付出代價，以及這些措施是否奏效。"
+      },
+      {
+        "title": "Outside In | Why Donald Trump may regret reheating his global trade war - South China Morning Post",
+        "desc": "Outside In | Why Donald Trump may regret reheating his global trade war&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUdzbGhyblZwZVIwVWt6bkJFbk0tRnpMUDJPQkpaVXdHaF9fbUxJMnpvS1h1SEZGdzFPU3VJTzBSdUdWSlJqbjRDdmFlWEVnNXBkZTloNUVITmlmSVBqcjhoVldGRVNWWmt3dDRuWkREeU9xUzVkcDFWMVpaM3kwWDJ1MElJcGFzZ3JTcjNEXy1oTU1qOG0zeGk3YmtaNjVFV19nUjZqZVAxYzBh0gGsAUFVX3lxTE5fRE9RTHR5eWYwSXhhSVB4bnFkU2NPU3EzUmNfakdwdzlyQi1vMWVUZmFqWVQ1clMxenJhdm1wY0RDamFoOTZiaHBvVWxLZVBfUEdfdzNZeHV0ZlBhWk9yR1hwSUtqQ0NsNVhpTVFyWGRhcXhkSXdwWk14N3pSaDVEeWV3d1E5Y0ZmaF9lVE5xTU05NG1Db0sxTEctOVFqejRSZ2w5QlF1bm9lcFc?oc=5",
+        "pubTime": "2026-07-24 17:05",
+        "source": "news.google.com",
+        "titleZh": "《Outside In》｜唐納德·川普為何可能會後悔重燃全球貿易戰——《南華早報》",
+        "descZh": "《Outside In》｜唐納德·川普為何可能會後悔重燃全球貿易戰　《南華早報》"
+      },
+      {
+        "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners - NPR",
+        "desc": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners&nbsp;&nbsp;NPR",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnZaQ2tuMHlORnFCcER6SHZyb2NyRHE5Y3dnaG5MRDd3YlRFVFhuQ2RRLXlHYVdMaHhVSWtQWWRJVVVEY2I1d0xBSV9wd2t2TWo4SU9HUVVzRjBhRW9QLVYwSHdBLTd2eHRCOUQxSWExcUJmd0RqdG9fckdOdkl0bjhEYw?oc=5",
+        "pubTime": "2026-07-24 17:00",
+        "source": "news.google.com",
+        "titleZh": "倔強的川普對美國最大貿易夥伴實施替代性關稅 —— NPR",
+        "descZh": "倔強的川普對美國最大貿易夥伴實施替代性關稅&nbsp;&nbsp;NPR"
+      },
+      {
+        "title": "What are tariffs, how do they work and why is Trump using them? - BBC",
+        "desc": "What are tariffs, how do they work and why is Trump using them?&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+        "pubTime": "2026-07-24 16:28",
+        "source": "news.google.com",
+        "titleZh": "什麼是關稅？它們如何運作？川普為何要使用關稅？——BBC",
+        "descZh": "什麼是關稅？它們如何運作？川普為何要使用關稅？&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "‘Forced labour’ rationale for Trump tariffs met with bewilderment - The Guardian",
+        "desc": "‘Forced labour’ rationale for Trump tariffs met with bewilderment&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkV1aHp2ZU5hQzFLeGVmYTdMb1cxVWoxeUx5YUxmLWhGZnczdVEzVDk4aDEzVy1UWmZBRlBaMUk3akptX1dCZ2xtTnlKVEVERFdUMFJISzhGU0Q0QlM2UlZQUlNSVFR6TzlyNF9rT05vLUctVkpPV1VWbHVJZUZNR242M0x4ZDVwcWRYMy1rc1NycXlQSkRjQXNJZWgzQkNvUWc?oc=5",
+        "pubTime": "2026-07-24 13:35",
+        "source": "news.google.com",
+        "titleZh": "川普以「強迫勞動」為由徵收關稅，此舉引發眾人困惑——《衛報》",
+        "descZh": "川普以「強迫勞動」為由徵收關稅，引發各界困惑&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump’s Trade Wars Are Back—Despite the Supreme Court - WSJ",
+        "desc": "Trump’s Trade Wars Are Back—Despite the Supreme Court&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVkybXZZb1Z2VENZRFktczNNanVSdjFfb09VN0MxUlVwVkNTTGhYX0NqNWpLYVBfY2xXMTZzUkQ0UXZhd0oxcjRtSV9WalFfOHdXRWFXbXZmaElFS0p2aUlVUnF4dEkxVm44SEtPSnpfQnNHeXFIZk5JSlBOaE83b0xMQ3hyWF9ZUlZZMlR5WTJkRVFxY0NaNHhFYkU?oc=5",
+        "pubTime": "2026-07-24 10:00",
+        "source": "news.google.com",
+        "titleZh": "川普的貿易戰捲土重來——儘管最高法院已作出裁決 - 《華爾街日報》",
+        "descZh": "川普的貿易戰捲土重來——儘管最高法院已作出裁決&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "What to know about Trump’s new tariffs on more than 80 countries - The Guardian",
+        "desc": "What to know about Trump’s new tariffs on more than 80 countries&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EcVNFeEZCN1dYckRSa1pmS0I4ZEdjazMzNnBRUy1LQ1psdjJjRFVpYmNNYUdEWjVzdHc3UDhhRGpTMHJMVUg5cms3OW5GVjFPOF9HM2UyRWZVQmdGM0FyS1hiaWRGQWdnZGt2R2dJUlhJYXJxX0N2OWhEYk9lYjg?oc=5",
+        "pubTime": "2026-07-24 09:56",
+        "source": "news.google.com",
+        "titleZh": "關於川普對80多個國家加徵新關稅，你需要知道什麼——《衛報》",
+        "descZh": "關於川普對逾80個國家徵收新關稅的相關資訊&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump to impose double-digit tariffs on dozens of countries - NPR",
+        "desc": "Trump to impose double-digit tariffs on dozens of countries&nbsp;&nbsp;NPR",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqcWdJU0FnRnVWMmUwNnJtTDdCSGlmcVdHb2k0MlVUTl83V2l6RlFPT0NoR3dBcjlIVlo4S1RkMEdVaE4wbm5JdklsRXF4eUZ1QlpSdGYzU2xYZVA0R09RZmQydnJsNEVubjQ0YjRtRWp6bTVKMFZ5Z19B?oc=5",
+        "pubTime": "2026-07-24 06:06",
+        "source": "news.google.com",
+        "titleZh": "川普將對數十個國家徵收雙位數關稅 —— NPR",
+        "descZh": "川普將對數十個國家徵收兩位數的關稅&nbsp;&nbsp;NPR"
+      },
+      {
+        "title": "US imposes new tariffs on 60 partners over forced labour concerns; Singapore subject to 12.5% levy - The Business Times",
+        "desc": "US imposes new tariffs on 60 partners over forced labour concerns; Singapore subject to 12.5% levy&nbsp;&nbsp;The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTW5FNVk1dFdlcExFS1RrWEYyZ1FjbGRxVWlWc01nLTE0OEZDbHpIeHlYaGpTeElGcno5MkRFT25YTXphRkNjUGxsbUg1MHlxdC16TzlzUWJ2Ukp6WXlFNlZPM1VkOHpMX1BTcG5kUTloYVhzbVpiUDZEb0hhblhxXzRrTVJvYU5IV2hreTNrLTJzUE5xRE5SZTBWbGRuQU5RZ1Z6QTFYbmZEelhYZmstTzNQblU4VlJUaU81dzZZLTlEVElEZ0VKMVNVenkxRGxST21VQjZiX3F5bjlN?oc=5",
+        "pubTime": "2026-07-24 05:55",
+        "source": "news.google.com",
+        "titleZh": "美國因強迫勞動疑慮對60個貿易夥伴國加徵新關稅；新加坡將被課徵12.5%關稅——《商業時報》",
+        "descZh": "美國因強迫勞動疑慮對60個貿易夥伴國徵收新關稅；新加坡將被課徵12.5%關稅&nbsp;&nbsp;《商業時報》"
+      },
+      {
+        "title": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns - CBS News",
+        "desc": "Trump administration imposes new tariffs on dozens of countries, citing forced labor concerns&nbsp;&nbsp;CBS News",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqRHhXcTl4Tk5RdlFWWWdJeHpaNEcwN0R5MHk3ZlJTMWFQM1N3cC1Zb21pUnJPaGt2VG1RU0dlZUZrOFl3WXE5V1R5VlZmbktGdEEwMnBlOTZBSDhlVXJUQnB2UnM3TjBNdjNoeGVBZFBZVlp1YzlQdm9qdHYtZw?oc=5",
+        "pubTime": "2026-07-24 05:31",
+        "source": "news.google.com",
+        "titleZh": "川普政府以強迫勞動問題為由，對數十個國家徵收新關稅——CBS新聞",
+        "descZh": "川普政府以強迫勞動為由，對數十個國家徵收新關稅&nbsp;&nbsp;CBS新聞"
+      },
+      {
+        "title": "What's going on with the US-Saudi nuclear deal?",
+        "desc": "Less than 24 hours after the agreement was signed, President Trump posted on social media that the deal required Saudi Arabia to sign up to the Abraham Accords.",
+        "url": "https://www.bbc.co.uk/news/videos/cd7ldlwlny8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-24 05:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美沙核協議究竟怎麼回事？",
+        "descZh": "協議簽署後不到24小時，川普總統就在社群媒體上發文表示，這項協議要求沙烏地阿拉伯加入《亞伯拉罕協定》。"
+      },
+      {
+        "title": "US hits dozens of countries with new wave of tariffs - BBC",
+        "desc": "US hits dozens of countries with new wave of tariffs&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dHVkTjVlTmhhVDRrd0labG9jWmJLMXVJUlVMaDdKSTZ2UlpKNXVSYWpoWldwOVM5N1lqekNueThacThfMWdzc0hCaDB3cXAwdUEySHB0azZ2ZGRD?oc=5",
+        "pubTime": "2026-07-24 05:25",
+        "source": "news.google.com",
+        "titleZh": "美國對數十個國家實施新一輪關稅 - BBC",
+        "descZh": "美國對數十個國家實施新一輪關稅&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Trump imposes new tariffs targeting dozens of countries - CNN",
+        "desc": "Trump imposes new tariffs targeting dozens of countries&nbsp;&nbsp;CNN",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tbzdkbUtPQWNTSzVCb21SZklWTDAxbWg2eDI3ckZJN0ZqNG5SUEtnRzZTQnNTZ2hONzNOUVF1aVlfRHdZRlVmd2s1aXZUXzVVYWwyQzdRYUhCRlZGQ3haTzlRTXZTSUk?oc=5",
+        "pubTime": "2026-07-24 05:03",
+        "source": "news.google.com",
+        "titleZh": "川普對數十個國家實施新關稅 —— CNN",
+        "descZh": "川普對數十個國家實施新關稅&nbsp;&nbsp;CNN"
+      },
+      {
+        "title": "Lots of Trump's tariffs expire on Friday. It's Thursday afternoon, and no one knows what will replace them. - Reason Magazine",
+        "desc": "Lots of Trump's tariffs expire on Friday. It's Thursday afternoon, and no one knows what will replace them.&nbsp;&nbsp;Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUc0OElpU3F1bmNlRzBQQzduRFpkMU5MZFl4Vmp2Rk1NdEFKVXdBUkVDM1d6LW5EdWpYQ0s3VXliX0txQ3MzS3h4dXlSYUs4aXBQMU52OGtkZTFUQW5Nb0VYUmVXZVpoLXFyR0p1QzNWaFBJczdiQVJfRk9LdUdWQzU0VjYxQlhvQ0luMktvd3ZsUVMwLXhEdWo2Ym45MlZXMTlocmh0c0lHaTBvNFE4Wk5xTnBuWEt5STBHR1dFOWFUUklyaGJyNFFqTmhTUQ?oc=5",
+        "pubTime": "2026-07-24 04:30",
+        "source": "news.google.com",
+        "titleZh": "川普實施的許多關稅將於週五到期。現在是週四下午，但無人知曉將由什麼措施取而代之。——《Reason》雜誌",
+        "descZh": "川普實施的許多關稅措施將於週五到期。現在是週四下午，但尚無人知曉將以何種措施取而代之。&nbsp;&nbsp;《Reason》雜誌"
+      },
+      {
+        "title": "EU’s Google fine risks triggering Trump as he gears up for more tariffs - politico.eu",
+        "desc": "EU’s Google fine risks triggering Trump as he gears up for more tariffs&nbsp;&nbsp;politico.eu",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MWndISWdsMlp2QWFIM1FBVVBpNnZpbFRyaHN2WWYzcWtNbzZTYS1rZ1NaRkJMa05YQi0xdjlwdjRneDFLeFV3UTZaQzVmNVJxTXZtRzNQb2FILWFYNHd3bDhydXlJUDdBUnZNcVJWZWc5YnEtXzM4?oc=5",
+        "pubTime": "2026-07-24 02:10",
+        "source": "news.google.com",
+        "titleZh": "歐盟對谷歌開出罰單，恐激怒正準備加徵更多關稅的川普 - politico.eu",
+        "descZh": "歐盟對谷歌開出罰單，恐激怒正準備加徵更多關稅的川普&nbsp;&nbsp;politico.eu"
+      },
+      {
+        "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners - The Guardian",
+        "desc": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnhmQTk3OG96ZkhSbnZtVU54S3ZNUkdhdjRPRVF2dDlwTHh4RDVLcW9UTmxHMHhLTDlzaFhwRTgtbnBiSHU4MDRWQ0R6enEtZHRnM29CZVE0Si03WlI2OVRnZEdWd1lEUl85Sy10dVNXRWhpNk9PTE1GYmhnQTQ4VW9uWFpySF8tbnc?oc=5",
+        "pubTime": "2026-07-24 00:53",
+        "source": "news.google.com",
+        "titleZh": "川普對英國、歐盟及數十個其他貿易夥伴國加徵新關稅——《衛報》",
+        "descZh": "川普對英國、歐盟及數十個其他貿易夥伴國加徵新關稅&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+        "desc": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+        "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-23 20:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普與沙烏地阿拉伯達成的核協議，拋棄了美國長期以來的要求",
+        "descZh": "在中東簽署核協議是一項大膽的舉措，已在美國和以色列引發批評。"
+      },
+      {
+        "title": "Is Trump winning the tariff wars? - Financial Times",
+        "desc": "Is Trump winning the tariff wars?&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRElLRnV3b2VtbmdMbm51WWVHdUlpRngxa0V0ellSeHdaTVVfRXMtNFRaYno2dWNTdkFmLVdWZjJuekhXYUg2RlBvYmlYbnRZazVJaUN0enRpM29aM1E1VHBRRnZUZFlvdEg1RXo2eFNWWVpUWU9VT0ZKSmROX1RfZEdPSl8?oc=5",
+        "pubTime": "2026-07-23 18:12",
+        "source": "news.google.com",
+        "titleZh": "川普正在贏得關稅戰嗎？——《金融時報》",
+        "descZh": "川普正在贏得關稅戰嗎？&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "The US is issuing billions in tariff refunds. That won’t unwind the damage to the global trading system - The Conversation",
+        "desc": "The US is issuing billions in tariff refunds. That won’t unwind the damage to the global trading system&nbsp;&nbsp;The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWTVSWkV3Z1RELWNDcDQwalpsaTd6bmpJV2xvM1VKaFZyLV92alBWcEFXSGhUb09LMmgxa2k0VThYTUNJd05qZEdOOWRIaUhJWUJLNnlyUHVfbmFHYzdxLWtIVWU1eEMteVczcXQ1SlJQNVcxZmRvb2hWOFhBZ0J5bzBfaWxYdjJYa3hKeThmNXZLNDdQQ3JxaVV5dUdEM3h5RWNXek5WN19ZV2hadmRJaUJTZlIydktpVEE5ODBKejJ0czZnSW5mUjI5NGl3cG1UaHc?oc=5",
+        "pubTime": "2026-07-23 09:56",
+        "source": "news.google.com",
+        "titleZh": "美國正發放數十億的關稅退款。這並不能彌補全球貿易體系所遭受的損害——《The Conversation》",
+        "descZh": "美國正發放數十億的關稅退款。這並不能彌補全球貿易體系所遭受的損害&nbsp;&nbsp;The Conversation"
+      },
+      {
+        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+        "desc": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-23 08:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "加拿大「實力雄厚」的乳製品產業已成為川普貿易政策瞄準的目標",
+        "descZh": "在美國總統將加拿大產業單獨列為用以為新關稅辯護的三大「刺激因素」之一後，該國產業成為眾人矚目的焦點。"
+      }
+    ]
+  },
+  {
     "date": "20260724",
     "fetchTime": "2026-07-24 05:31",
     "count": 5,
@@ -2863,139 +3185,6 @@
         "source": "news.google.com",
         "titleZh": "書籍指出，川普曾因印度關稅數據一事與盧特尼克發生衝突 —— PRESS Insider",
         "descZh": "據書中所述，川普曾因印度的關稅數據與盧特尼克發生衝突&nbsp;&nbsp;PRESS Insider"
-      }
-    ]
-  },
-  {
-    "date": "20260625",
-    "fetchTime": "2026-06-25 05:50",
-    "count": 14,
-    "articles": [
-      {
-        "title": "Trump accuses oil firms of price gouging at petrol pumps",
-        "desc": "The president's remarks come as global oil prices have fallen but remain higher than before the US-Israel war with Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-25 05:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普指責石油公司藉加油站哄抬油價",
-        "descZh": "總統發表這番言論之際，全球油價雖已下跌，但仍高於美國與以色列對伊朗開戰前的水平。"
-      },
-      {
-        "title": "Congress has told Trump to stop the Iran war, will it matter?",
-        "desc": "The BBC's Gary O'Donoghue explains why Congress's war powers resolution has gotten under the president's skin.",
-        "url": "https://www.bbc.co.uk/news/videos/cx24793rx4lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-25 05:22",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國會已要求川普停止對伊朗開戰，這會產生影響嗎？",
-        "descZh": "英國廣播公司（BBC）的蓋瑞·奧唐納休（Gary O'Donoghue）解釋了為何國會的《戰爭權力決議案》讓總統如此不悅。"
-      },
-      {
-        "title": "Trump Clashed With Commerce Secretary Over India Tariffs, New Book Reveals Heated Exchange - pragativadi.com",
-        "desc": "Trump Clashed With Commerce Secretary Over India Tariffs, New Book Reveals Heated Exchange&nbsp;&nbsp;pragativadi.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTJfY1Mya25ZNElIdTg1dk9NTjdXcDQ3TWdmdkxMQWNDNENtYmgxSWxJN2hXRllRZWpVeDRPRjgyeWNFSlZWUEFmd2FJOG1Kam5nc19YNnE5US1xaU9XQjF3NURIUGF0Q2hCX2xNQ1U3MlMzUHhOcHlNc2VrN2hQS2VER25PT09ocEwtMzl6Q0tQU0IzVTdyb1VnRUN4eEx4TWg5dHowZmFRVTl5cTVvWkZJdnE?oc=5",
-        "pubTime": "2026-06-25 03:53",
-        "source": "news.google.com",
-        "titleZh": "新書揭露川普曾因印度關稅問題與商務部長發生衝突，書中描述雙方激烈交鋒 - pragativadi.com",
-        "descZh": "新書揭露川普曾因對印度關稅問題與商務部長發生衝突，書中描述雙方激烈交鋒&nbsp;&nbsp;pragativadi.com"
-      },
-      {
-        "title": "Trump set to launch America250 festivities with a rally on the National Mall",
-        "desc": "A flyover by stealth bombers, a performance by God Bless the USA singer Lee Greenwood, and a Trump speech in the nation's capital will kick off weeks of festivities.",
-        "url": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-25 02:37",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普將於國家廣場舉行集會，為「美國250」慶典揭開序幕",
-        "descZh": "隱形轟炸機的空中巡遊、《God Bless the USA》演唱者李·格林伍德的演出，以及川普在首都的演說，將拉開為期數週慶典活動的序幕。"
-      },
-      {
-        "title": "Trump cancels signing of landmark bipartisan bill aimed at lowering housing costs",
-        "desc": "Congress earlier approved the legislation in a rare, bipartisan move, signalling how pressing the housing issue has become for American voters.",
-        "url": "https://www.bbc.co.uk/news/articles/cn4dwz5vz5lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-25 02:35",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普取消簽署一項旨在降低住房成本的具有里程碑意義的兩黨法案",
-        "descZh": "國會先前以罕見的跨黨派合作方式通過了這項法案，顯示住房問題對美國選民而言已變得何等迫切。"
-      },
-      {
-        "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-        "desc": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-24 22:57",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "國會首度通過戰爭權力法案，在伊朗問題上與川普立場相左",
-        "descZh": "專家表示，川普很可能對此置之不理，但儘管這項決議的實質效力有限，卻具有重要的政治意義。"
-      },
-      {
-        "title": "I ran the numbers. Trump cost us 274,000 jobs. - The Argument",
-        "desc": "I ran the numbers. Trump cost us 274,000 jobs.&nbsp;&nbsp;The Argument",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sUWtiWElHeENYWENKU0xnck9uS2VlR0JKVExJRHlJb3dNNXlwZ2tPcno4T3pxOE1rTWQ4dHlxWUE1SjFRV1k3YjlOLTY5TS1TYjF3MHlrRW5XN1RRUlRfQXNWYUo2ZGtFd01aSlUzLTRGTlg0ZENTRGdnTQ?oc=5",
-        "pubTime": "2026-06-24 18:02",
-        "source": "news.google.com",
-        "titleZh": "我算過數字了。川普讓我們損失了 274,000 個工作機會。——《The Argument》",
-        "descZh": "我算過數字了。川普讓我們損失了 274,000 個工作機會。&nbsp;&nbsp;《The Argument》"
-      },
-      {
-        "title": "Trump clashed with Lutnick over India tariff data, book says - PRESS Insider",
-        "desc": "Trump clashed with Lutnick over India tariff data, book says&nbsp;&nbsp;PRESS Insider",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWFEdEtiNFBSZzBfd1EweXpkdUd0ZWpGM2t3RS11TDhoRVZDakhkbFR0MGtOZXdlbHp5SHFkS21tRUFOTDhjUC1jNDBXNFpBOUtCSTJmZDRwR1I2MnBrM1B6MDYxN1dzbHBsNlJ6VWRWb05sVnBmR0R3SjVZSUF4WE9WRmhxUUlkRUNKal9GOGd3ekRu?oc=5",
-        "pubTime": "2026-06-24 16:54",
-        "source": "news.google.com",
-        "titleZh": "書籍指出，川普曾因印度關稅數據一事與盧特尼克發生衝突 —— PRESS Insider",
-        "descZh": "據書中所述，川普曾因印度的關稅數據與盧特尼克發生衝突&nbsp;&nbsp;PRESS Insider"
-      },
-      {
-        "title": "Trump Touts Tariffs, Slams EV Mandates at PA Mack Trucks Plant - Commercial Carrier Journal",
-        "desc": "Trump Touts Tariffs, Slams EV Mandates at PA Mack Trucks Plant&nbsp;&nbsp;Commercial Carrier Journal",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0t2eWY5eG16WTgyLXlLVzZWWlhaeHBnc0tORUdqdHJIc0JrRUdoWlFQbUxxNGZqN0lhOERqV2NrOHhVa0RBUmpKM2s3b193UkdSYXFkWXVaeTNTYnFYcDJUUWwxZjhrNlFaUWZyOG1RUWFqOG1aNkVXaVlxMmdHei1aZEdCbGZXY21qY2V4X3dLR2JfVWpucGVFeWg1WllFdjYtY3h3YU95R1Jab0RkU3pkOFlnMlR0S25JSjZHNkIzZ0Ix?oc=5",
-        "pubTime": "2026-06-24 10:42",
-        "source": "news.google.com",
-        "titleZh": "川普在賓州麥克卡車工廠大肆宣揚關稅政策，並抨擊電動車配額制度——《商用運輸期刊》",
-        "descZh": "川普在賓州麥克卡車工廠大肆宣揚關稅政策，並抨擊電動車配額制度&nbsp;&nbsp;《Commercial Carrier Journal》"
-      },
-      {
-        "title": "Wide-ranging speech | President Trump visits Pa. to back tariffs and other economic policies - WGAL",
-        "desc": "Wide-ranging speech | President Trump visits Pa. to back tariffs and other economic policies&nbsp;&nbsp;WGAL",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc056MnNFZTYxeGFqOE5tRy1vdWtVTjhTZDl6NnNtaFE1Zkc3NXBwdnVKT3NIQm5oaGpZeVkxTUZXWjZKV2x4NUxIeHJUX0lFcFgxSGpoN1FLUkVpRE5kbFctVGlXY2NpOE8ySmVYblFRY3pNaml5bnNFWjRLNEtudzhQT0FyR0xENW1xN1NsZ2dCTmNmLTJzRGp0ZUdNLUdzV2c?oc=5",
-        "pubTime": "2026-06-24 08:07",
-        "source": "news.google.com",
-        "titleZh": "內容廣泛的演說 | 川普總統造訪賓州，力挺關稅及其他經濟政策 - WGAL",
-        "descZh": "內容廣泛的演說 | 川普總統造訪賓州，力挺關稅及其他經濟政策&nbsp;&nbsp;WGAL"
-      },
-      {
-        "title": "Trump signals he may pull out of trade agreement with Mexico and Canada, which could impact Texas businesses - Houston Public Media",
-        "desc": "Trump signals he may pull out of trade agreement with Mexico and Canada, which could impact Texas businesses&nbsp;&nbsp;Houston Public Media",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUNMWTZFc1JKSTE5NnhSeVRiRXNrOUJUZHJ5VGpEckl5bWZQbDIwNEtMN2VvN1VBejNUN2h5dnRNZEV2THNtcllET0hJOFliRHlUYUt2NGs4OWhMYmp6ZnBYQ2FURGVob3kxN1A5emJiZzFMVzdtUnVZNG40dlNGbmlrTDNFSEdtUFdoOGlMQ2pZcjdjdHhvSUtQLXNMd2VrQ2pZSzJQMzhYdWFSamdOZk9tSFNmWUEtUHZF0gHDAUFVX3lxTE8yMWVlTWNveVdvVWhoWHZ6dHdtTkVYV09MNWVRZVZhZC0xNEJTUVdGYl9LR1A5SXNST2tTYXRZTXdmRzV3M2tHT3piU0d1Z1lpTnNZajFXRG1tbHhZalZjWmMyWk03VzIwbW9JMC1LNFJoRHZnQXRUblE0emdZZW9jZTBSZmQ4T0k5bE02bVBIWHU4bndhWE03dXpVOENhUUduakdtcXRWM2x1UGJFSlFKdnZEd3NPb0dPYVlMd2VISnZ2bw?oc=5",
-        "pubTime": "2026-06-24 04:58",
-        "source": "news.google.com",
-        "titleZh": "川普暗示可能退出與墨西哥及加拿大的貿易協定，此舉可能影響德州企業——休士頓公共媒體",
-        "descZh": "川普暗示可能退出與墨西哥及加拿大的貿易協定，此舉可能影響德州企業&nbsp;&nbsp;休士頓公共媒體"
-      },
-      {
-        "title": "How Washington DC's Reflecting Pool became a global talking point",
-        "desc": "President Trump says the pool is probably going to be drained again, two weeks after a multi-million dollar renovation was completed.",
-        "url": "https://www.bbc.co.uk/news/videos/cy4ed2dkxv1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-24 02:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "華盛頓特區的「倒影池」如何成為全球熱議話題",
-        "descZh": "川普總統表示，這座游泳池很可能又要被放乾了，而這距離耗資數百萬美元的翻新工程完工才兩週。"
-      },
-      {
-        "title": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing - CNBC",
-        "desc": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG1FeEVaSGNsWkJ6bTQ4ZXNpYlBieUxZc0JNay1pRy1ZY1VvejZVb192VEJMbmc1bHRYNURUTExHb0lYaXltZ005ZVZPU2I3dEdnVXE1MU03RXNlUnZVeXF6blRKOXZEQll3eVRvM0VtY0ZkY2xfZzc3VzNBcEEydU8yRdIBiAFBVV95cUxQY2Q2N2FQaFp0M3pxNzdqQlRUVWpFVzhkM1p6NXE2NW1ienVycjR4NlpfZnJnbmlFRVpIQmlWV2dFcXViT243b3J1VG0tZlZVVXpTdWl6SFBnaXNyQlBiTUZOcmRyQ3hMYVhDOG9mWlN0YW9nYUxJMXhDc0t0d2dvcmNlOUo4andR?oc=5",
-        "pubTime": "2026-06-23 20:00",
-        "source": "news.google.com",
-        "titleZh": "沃倫、凱利兩位參議員就關稅對製造業的影響向川普政府施壓 —— CNBC",
-        "descZh": "沃倫、凱利兩位參議員就關稅對製造業的影響向川普政府施壓&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "What does Trump want from a new UK prime minister?",
-        "desc": "The US president was once considered to have a close friendship with Keir Starmer, but that quickly fell apart with the war in Iran.",
-        "url": "https://www.bbc.co.uk/news/videos/c2kyz2eqxwvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-23 05:51",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普對英國新任首相有何期待？",
-        "descZh": "美國總統曾被認為與基爾·斯塔默關係密切，但隨著伊朗戰爭的爆發，這段友誼迅速破裂。"
       }
     ]
   }
