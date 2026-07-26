@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260727",
+    "fetchTime": "2026-07-27 05:22",
+    "count": 12,
+    "articles": [
+      {
+        "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+        "desc": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-27 05:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國大使表示，川普暫停對伊朗的攻擊，為談判騰出空間",
+        "descZh": "在歷經近兩週的報復性襲擊，險些導致旨在永久結束戰爭的談判破局之後，過去兩晚，美國與伊朗均未發動攻擊。"
+      },
+      {
+        "title": "Trump's what's-old-is-new-again tariff tactic - Axios",
+        "desc": "Trump's what's-old-is-new-again tariff tactic&nbsp;&nbsp;Axios",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQ0RSOGNVc1M0a3NqRDlkZTFHME9ZV1l2Rm5UNzZfLVZIV09yMTdFN1plRU5jTjhaaTUtS05Qd2Nua2ZpU3JtTjd6TDE1SG1hZThUclJFdnd6LS1NcThwemxIM25jQjBH?oc=5",
+        "pubTime": "2026-07-26 13:22",
+        "source": "news.google.com",
+        "titleZh": "川普那套「舊瓶裝新酒」的關稅策略 — Axios",
+        "descZh": "川普那套「舊瓶裝新酒」的關稅策略&nbsp;&nbsp;Axios"
+      },
+      {
+        "title": "Trump's New Tariff Wall Could Reshape Global Trade and Hit Businesses Worldwide - Agrolatam",
+        "desc": "Trump's New Tariff Wall Could Reshape Global Trade and Hit Businesses Worldwide&nbsp;&nbsp;Agrolatam",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUwtXzFWckZUZy1pRjFHMlRkOVVFVkIwZjB0a0VDdU9DZHlNb3dKT2hrNHJ3ZS16V3BQeWU5azBQOGx1a3VYLUNiRGNaLXlXUU5JQUJhZ3VUMkpQekNVaUVFZ0NrdVNMaWxSYTA2UjZJZHJrbU9rQ2RLTFJNTHp2bA?oc=5",
+        "pubTime": "2026-07-26 06:02",
+        "source": "news.google.com",
+        "titleZh": "川普的新關稅壁壘可能重塑全球貿易格局，並衝擊世界各地的企業——Agrolatam",
+        "descZh": "川普的新關稅壁壘可能重塑全球貿易格局，並衝擊世界各地的企業&nbsp;&nbsp;Agrolatam"
+      },
+      {
+        "title": "This wave of Trump tariffs is likely here to stay; more are coming - Reuters",
+        "desc": "This wave of Trump tariffs is likely here to stay; more are coming&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhnbzZuUVgwb2duQzN4ZGpYM1hkWXRKUTlBZUVpWFRLUjVQaDFWQVkzdm5qLWpfckwtZ3QyZFlpMTZSYkJlNWhxT1lXcGFETW12Z1JNWUtnQWxzRE8xSWFmcmhhMXhMbjlOMVBXbFBJRHBjc3BGdXdOX3Brc1A2VkltcTdRcHRQeUEyUnlSVUtESDY5MU1QeDhxZUNub0gxSjFTaEVHaEpJYVQxWkh4c0VR?oc=5",
+        "pubTime": "2026-07-26 03:58",
+        "source": "news.google.com",
+        "titleZh": "這波川普關稅很可能將長期存在；更多關稅即將到來——路透社",
+        "descZh": "這波由川普發起的關稅措施很可能將持續下去；更多關稅措施即將出台&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "desc": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-25 21:51",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在白宮記者晚宴上抨擊媒體",
+        "descZh": "由於四月發生槍擊事件導致首場晚宴被迫取消，本次活動旨在慶祝新聞自由。"
+      },
+      {
+        "title": "Trump administration lowers tariffs against Taiwan after TSMC announces $100 billion investment - KJZZ",
+        "desc": "Trump administration lowers tariffs against Taiwan after TSMC announces $100 billion investment&nbsp;&nbsp;KJZZ",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdmR5VXdZRlhsTjUtUVAtQnBmbU9JdFA1WG1ITlIxNkFEQUlfM1QtNkVDTUNqdWFpdXlFTlpNZnk4MF9JRDBpNHlnMnplMElqd2dXVXFsRkM4RWNZWFRydWpYTUxIaFBXbUFqcGRxbHIyQVNBOGFfUmVzNTdTSWpPUWpJOE55dlVQeXpQc3FVNnIxMldRc1JvMlVvaXE2VHd5RENZMEdvZmgtdV80YzNFVHBZaDRzdzBoNjdnSHZTMFZPZ2ItU3hzMG9ndEtZbDVp?oc=5",
+        "pubTime": "2026-07-25 20:00",
+        "source": "news.google.com",
+        "titleZh": "台積電宣布投資1,000億美元後，川普政府調降對台關稅 - KJZZ",
+        "descZh": "台積電宣布投資1,000億美元後，川普政府調降對台關稅&nbsp;&nbsp;KJZZ"
+      },
+      {
+        "title": "Businesses sue to block Trump’s tariff reboot - politico.eu",
+        "desc": "Businesses sue to block Trump’s tariff reboot&nbsp;&nbsp;politico.eu",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXZ2RlYyNmIteWszdTdYajdVMGFIQkZQWE15U3FBWjhGZGJhMWFEdm0td2pBQ2FPWlF4ZWxyLW1sQTZseXdNMFZQSTNnczJDaGNrZm9JaFdfXzlwRXc5UEFhb3loSDZJMzEwaWlZZnNmSlNybUcyS3B4LVY5UG5TaEVyeUdqUQ?oc=5",
+        "pubTime": "2026-07-25 19:07",
+        "source": "news.google.com",
+        "titleZh": "企業提起訴訟，試圖阻止川普重啟關稅措施 - politico.eu",
+        "descZh": "企業提起訴訟，試圖阻止川普重啟關稅措施&nbsp;&nbsp;politico.eu"
+      },
+      {
+        "title": "'Security was tighter this time': Inside the room at Trump press dinner",
+        "desc": "The BBC's Bernd Debusmann Jr attended the rearranged dinner after the first was disrupted by a gunman.",
+        "url": "https://www.bbc.co.uk/news/videos/cm2gjrn0rvqo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-25 14:33",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「這次安保措施更嚴密」：直擊川普記者晚宴會場內情",
+        "descZh": "BBC記者小伯恩德·德布斯曼（Bernd Debusmann Jr）出席了這場重新安排的晚宴——此前首場晚宴因一名持槍歹徒的闖入而中斷。"
+      },
+      {
+        "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+        "desc": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
+        "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-25 10:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普下令史密森尼學會發布關於「不準確」美國歷史的警告",
+        "descZh": "川普政府經常指責這家全球最大的研究型博物館懷有反美偏見。"
+      },
+      {
+        "title": "Two small American businesses sue Trump administration over new tariffs | Trump tariffs - The Guardian",
+        "desc": "Two small American businesses sue Trump administration over new tariffs | Trump tariffs&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1pEdmM1d2tVcUVXQl9GZ2RvbXgyZkkwaGNmWm5URVpRM1dFQVVJNzRrN0lqNW5oelhEZkxuM2lRLUdnX3gyYWtKYmkxZXpEdElnbHdlcDd1RTZqQ1NZb185akZpckZaMGMwVjJDSkJsaldwYjVfcXBJZDVzdVFhUmpyeFAtbDEwb1lxUjhxWml0ajA?oc=5",
+        "pubTime": "2026-07-25 05:51",
+        "source": "news.google.com",
+        "titleZh": "兩家美國小型企業就新關稅措施起訴川普政府 | 川普關稅 - 《衛報》",
+        "descZh": "兩家美國小型企業就新關稅措施起訴川普政府 | 川普關稅&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Exporters shrug off new Trump tariffs - Bangkok Post",
+        "desc": "Exporters shrug off new Trump tariffs&nbsp;&nbsp;Bangkok Post",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVm5LVm5WMG9GeHQ0WmRoREluQ3puME1WQmJtZzYtc3J4bkE1SVV1YW5ycjlmRVNWcTBoaTlIV3c1TjZGdXRRM0NpOHc2cGk2TVZyQ3Y0QjJhZ2ZyTGFHTDEzNjZzQU5jY3BSTXJWMGI1cHNIbjR6elN2Q0ZMVm1rOFdOQXp2emFZZnVOeHRxbHFTSzFq?oc=5",
+        "pubTime": "2026-07-25 05:50",
+        "source": "news.google.com",
+        "titleZh": "出口商對川普的新關稅不以為意——《曼谷郵報》",
+        "descZh": "出口商對川普的新關稅不以為意&nbsp;&nbsp;《曼谷郵報》"
+      },
+      {
+        "title": "Trump tariff fine print reveal raft of exemptions - Politico",
+        "desc": "Trump tariff fine print reveal raft of exemptions&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40b1hYcGVkalJjakZOdVlMbU9rU1A0VnJIeE8xc2ZBX2dodnhXdkRCYTY2V0xKOFVzejRwNEdDMDE3a2VESGl4LW93Z3lWb1BrSV9lOVc5U1A5XzZRZF91eGlJS2VtUmh1b0Jrbm5OOXB2emtkQ0Y0VmpqNks3SjA?oc=5",
+        "pubTime": "2026-07-25 05:30",
+        "source": "news.google.com",
+        "titleZh": "川普關稅細則揭露大量豁免條款——《Politico》",
+        "descZh": "川普關稅細則揭露大量豁免條款&nbsp;&nbsp;《Politico》"
+      }
+    ]
+  },
+  {
     "date": "20260726",
     "fetchTime": "2026-07-26 05:13",
     "count": 40,
@@ -3403,76 +3518,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "美國國家公園管理局表示，倒影池的襯墊遭鋒利刀具或剃刀割破",
         "descZh": "本週稍早，唐納德·川普將泳池中「一條長達300英尺的裂痕」歸咎於破壞者，並指控有人在水中投放肥料。"
-      }
-    ]
-  },
-  {
-    "date": "20260627",
-    "fetchTime": "2026-06-27 05:44",
-    "count": 7,
-    "articles": [
-      {
-        "title": "Trump’s tariffs stoke global trade jitters as China, EU vow response - Gulf Business",
-        "desc": "Trump’s tariffs stoke global trade jitters as China, EU vow response&nbsp;&nbsp;Gulf Business",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHFVZjg2ZFptY3NHME1XU1hvX0FmeU9XM3hUS3d3S1Nob1VWblVKU1BOS2IyRVRaMzhBY3BJdkpLQm8wMkVIZ0pKRER1NHR0ZkJFX1ExVG1IWmZRdFNQSks1c29mb1U3eUxBZ19xWEhia3NMNkM4RDhEV1BfS0QzYWNsOVZrd3pORVNOVm04VTlFTVJTNVEtRi0zeTI4N1BHS3MwdE93?oc=5",
-        "pubTime": "2026-06-27 05:26",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅措施加劇全球貿易不安，中國與歐盟誓言將採取反制措施——《海灣商業報》",
-        "descZh": "川普的關稅措施加劇全球貿易不安，中國與歐盟誓言採取反制措施&nbsp;&nbsp;《海灣商業》"
-      },
-      {
-        "title": "Trump's 100% Tariff Threat Hits Tech Giants on Digital Taxes - The Tech Buzz",
-        "desc": "Trump's 100% Tariff Threat Hits Tech Giants on Digital Taxes&nbsp;&nbsp;The Tech Buzz",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYm9uNDEyQVc0WXJKcWFYMHVhUUFSNjBYOUtmUm9JeVBNZ3BHSDdiZnRFb3I4RU1DdDJCRVJYRkZIWFdJVmRrdDhzVDRkeGlzYktHRnIwQWQwWFdQbWl6dnBLMEc0NWZvMFNZTTFDTWtoWkgyUEdQWDhPNnBVZ001YXFhSDNWWEVoUEFhZ3Y3RUpmWkVxMmlj?oc=5",
-        "pubTime": "2026-06-27 02:50",
-        "source": "news.google.com",
-        "titleZh": "川普威脅徵收 100% 關稅，科技巨頭因數位稅面臨衝擊 —《科技熱點》",
-        "descZh": "川普以「100%關稅」相威脅，科技巨頭面臨數位稅壓力&nbsp;&nbsp;科技熱點"
-      },
-      {
-        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-        "desc": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-27 00:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前川普顧問約翰·博爾頓對不當處理機密文件一事認罪",
-        "descZh": "檢方表示，博爾頓可能面臨最高五年監禁，並已同意支付225萬美元罰款。"
-      },
-      {
-        "title": "Soumaya Keynes on the right way to fight a trade war - Reason Magazine",
-        "desc": "Soumaya Keynes on the right way to fight a trade war&nbsp;&nbsp;Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ObElsUTVDa29LNGhRZURDbTBPRHotM3B2UXJLYi16anNDaEJiclRsbWttVlhpVkduZjhFNWJ4TXVfaGs1TzB3UDcxLTRvZWxDcDcwQVBGcGV2Xzg1YlBQaENWd0pXUmhIWFZfckdsamFEbWtTRVlPazdlQXNPdw?oc=5",
-        "pubTime": "2026-06-26 23:00",
-        "source": "news.google.com",
-        "titleZh": "蘇瑪亞·凱恩斯談應對貿易戰的正確方式——《理性》雜誌",
-        "descZh": "蘇瑪亞·凱恩斯談應對貿易戰的正確方式&nbsp;&nbsp;《理性》雜誌"
-      },
-      {
-        "title": "Trump's Tariffs Could Return Through a New Legal Route, Here's How - outlookbusiness.com",
-        "desc": "Trump's Tariffs Could Return Through a New Legal Route, Here's How&nbsp;&nbsp;outlookbusiness.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZm81Qk1UaTViR05iTXNPekk2X2dSclJndEE5M09uMmJxb1pjSFpvZ3BlbU51Q0pXZE5DbW5ONlRIMFI3NVRKbXhoQXJUcTdNWGpxenhqY01SZWExWVJaVW91bUhUUjNIakFfeHJmUHFHUlczdWNsbXVLV1h4OWhYRHJhbEE3UUhrWHhsdGxQNlM5dzMyVzVLWklzNks3N3JFVmg3Mms3aDlKRWI2WnJtdXFwTGPSAcIBQVVfeXFMT2F6cnRTakl0YWdiSngwTUhiWnVmS3RMZWctLXVOamNMV2NhaWFKRERVUWt6YW4tSkhvdVJlX2J3MXBxNEdwcWJaaHNESkRiQVZ3cFNGOFYwd1NBeHZoeEYyODR2Q0RTSUpQMmNLaUM4MGkwZzkxSDlVbk9YaVpUaTJqREs1aURGRXVFdGNJZk0xd1pPaUstaEd6SWZFcHh5dTE5SWxwLTdfeE03REota1JfYkYzMndEZ2pGcUhxaWlYS1E?oc=5",
-        "pubTime": "2026-06-26 15:30",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅可能透過新的法律途徑重現，具體方式如下 - outlookbusiness.com",
-        "descZh": "川普的關稅可能透過新的法律途徑重現，具體方式如下&nbsp;&nbsp;outlookbusiness.com"
-      },
-      {
-        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-        "desc": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-26 14:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國國家公園管理局表示，倒影池的襯裡遭鋒利刀具或剃刀劃破",
-        "descZh": "本週稍早，唐納德·川普將泳池中「一條長達300英尺的裂口」歸咎於破壞者，並指控有人在水中投放肥料。"
-      },
-      {
-        "title": "Trump launches America250 festivities with a rally on the National Mall",
-        "desc": "A stealth bomber flyover and a Trump speech in the nation's capital kicks off weeks of festivities.",
-        "url": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-25 10:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在國家廣場舉行集會，為「美國250」慶祝活動揭開序幕",
-        "descZh": "一架隱形轟炸機的飛越表演，以及川普在首都的演說，拉開了為期數週慶典活動的序幕。"
       }
     ]
   }
