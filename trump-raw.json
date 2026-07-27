@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260728",
+    "fetchTime": "2026-07-28 05:33",
+    "count": 11,
+    "articles": [
+      {
+        "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+        "desc": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-28 05:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在美國暫停與伊朗的戰爭之際，川普真的已經彈盡糧絕了嗎？",
+        "descZh": "美國在與伊朗的戰爭中已發射了數千枚難以補充的飛彈。我們將深入探討其「自由武庫」的儲備量是否已降至危險低點。"
+      },
+      {
+        "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+        "desc": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-28 04:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在加拿大即將調高關稅之際，川普於受重創的密西根州為關稅政策辯護",
+        "descZh": "總統表示，他的經濟政策正在為汽車產業注入新活力，並迫使海外企業遷回美國。"
+      },
+      {
+        "title": "Donald Trump rebuilds his tariff wall - Financial Times",
+        "desc": "Donald Trump rebuilds his tariff wall&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTlELUp1OGd2NXNFZXpUUHdtTGdBckZONWVLOHJnNzVHaUhLNmtiVHk1ZHY0YW9vQklWdEdqSlhad0xtbUd6R1RJb2hlTDlFV2ZUc3B6aFZrN29KOFVFZnlWUDlQNGJObFJ1UlhiLWNXUVdWcXZBbDZ5TFRZQ1JzOEhRNWM?oc=5",
+        "pubTime": "2026-07-28 00:57",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普重築關稅高牆——《金融時報》",
+        "descZh": "唐納德·川普重築關稅高牆&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "What Trump's sweeping new tariffs mean for your wallet - ABC News - Breaking News, Latest News and Videos",
+        "desc": "What Trump's sweeping new tariffs mean for your wallet&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3hiakNYWU1RVWhTc0ctU1p3RFItS0p5OUNfaE9meG93dGJpOHdNM05lLS01a084WnQ0blVRdlFZd1FfMEgxc0lsWW5uN2xGenNjbDVWTUQxRm9lV0xqcEZ4dnR1dUg5eGJSRU1TZkEyejV5MXpiRVk2LVpYQkRrLVVQTVNnMFcxZ2fSAY8BQVVfeXFMTTBMTjZlaFd2VUFyaWNWYXRMeklaRS0yODdJdUxvTnRvb04yMVYyWkRnXzZ3MVdiYU1MODJTMFhNeEpHN2F1M3M3V2VKTE9ld1haUXB2NkZQUHNFaHUtWGZMUkQzWGdsQzVXZ2VRckZHV000T1Jibk5tTzM0OWs2SFhVUDExVy0wc0NoN29SRGs?oc=5",
+        "pubTime": "2026-07-28 00:34",
+        "source": "news.google.com",
+        "titleZh": "川普這波全面性新關稅將對您的荷包造成什麼影響——ABC新聞——突發新聞、最新消息與影片",
+        "descZh": "川普這波全面性新關稅將對您的荷包造成什麼影響？&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Trump admin's Section 301 tariff policy may face legal challenge, says GTRI - Business Standard",
+        "desc": "Trump admin's Section 301 tariff policy may face legal challenge, says GTRI&nbsp;&nbsp;Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnE5Tm9tWWdzNG1ySmJNbk9WYkxmX1pCU2Rlc0VwQUdqUmJWWXpjeWU5bWJUWU94djJoMkFGbWRWVXhJU250dWYzX3BxUGx3aFpod0VDOGJyYWtFeTV4MDdYRDJ4WkxGeDNuOGpteGhWM05HTlFZWEJkZXBjTlVqTHgyTndQbFZkc01TSnJsdkdJZkRYa3Rna1BZcVJBb0xObEYwRE5wQU1nNkY3V2s5VlI4WkZVWE5oSFMxMGZTWXfSAcYBQVVfeXFMUHRjVXA5Y1FPWVdTaFFjWXVaVE5Nd3d6d1hNZGg5dE90MWRqdksyc0pPRldYeDVoS2lFczhoUXdPTUJ6ZklaT05QS0tnZXBqTUwwLWpWQnlZTmJuclg1MGxjZV9LQTNlZF9xSi1OXzNjVEtmby1CU1dVNl9CekhxN1g5WGtHZ29SRWc1THZJd2RYQzdhV1BSaU1NX0dwUGx2bEQyREhNS3ROYzRHbXA2amVsSDlnZ2pGSWt2YzZYNGJWWHMtS0hn?oc=5",
+        "pubTime": "2026-07-27 18:46",
+        "source": "news.google.com",
+        "titleZh": "GTRI 表示，川普政府的第 301 條關稅政策可能面臨法律挑戰——《商業標準報》",
+        "descZh": "GTRI 表示，川普政府的第 301 條關稅政策可能面臨法律挑戰——《商業標準報》"
+      },
+      {
+        "title": "Indian textile exporters divided over Trump’s latest tariff move; industry seeks faster trade pact, policy - The Economic Times",
+        "desc": "Indian textile exporters divided over Trump’s latest tariff move; industry seeks faster trade pact, policy&nbsp;&nbsp;The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQcm4xVy1VVVpvOXNHSWd3Y0diNEMya19yelY2aWY3aFFkRUh3NGM3ZmxxUXc5UEVuYmlZLUEySWxJX1UwUHN5bzVHRHdGaDB2NjZwcWtEXzBDZF9ZZ1dGczAxWWF2Y3BDNXkydGpLMktZQUdCRDNZcElRYjBJcDRtQXFmVllfWnJXNjNIZzdSV3RNVFZycWtNVVU2QzlJeWNoaFpLc3hKbThFdEhiYzNicnNDX18xNE83dndnNU5fdGhnTFZpdXR4c0w5TGZhNUxDalpWWFAxZ2xGcWlDUndhUnJpc2hvQ1Y3ZFRfUVUtMS0xOFgySndyNkdzM3lXQmlnTFRiU05aVjBSV285N1MwTEtKaWNoTGt6U0w2aEZ2Qy0zZjhs0gGqAkFVX3lxTE1NYXIteFd1b3Z5Undaa1dEeGxkeGJqMzhQQzlDX0pwNy1fT3U3bEV5X0dOdVRlS1U1UkVJOFhER1p4V3hjc09ibEVMcUNMcUFWcUU4WmFoZF9tVjhvOWNwR0ZoeWNRNnhhOXdtMEpnNTdsX2ZqNjZVREV1c2VlNEU3WmhESXV5NlM5SWRhQVktY09HT0NYTlNTNXZ0VTlPYkQ5Q3Y5b0ZWdmNVV2wxem9Uc3AtRE1MVUpjOTBwUl9uWlIzQ2F6U1cwUEJjXzFPN3dTQU9vVHNLODFGZmZpREZuaW9BZWJBZTBFTXRhOS1XSGtxeDVJZDItTzhVRGVGcnJTY09tbGM4WUFJai1uWjlLTWVaamtRWDZKSXNYYm4xU3RMaEh1T01CZ2c?oc=5",
+        "pubTime": "2026-07-27 16:43",
+        "source": "news.google.com",
+        "titleZh": "印度紡織品出口商對川普的最新關稅舉措意見分歧；業界呼籲加快達成貿易協定並制定相關政策——《經濟時報》",
+        "descZh": "印度紡織品出口商對川普的最新關稅舉措意見分歧；業界呼籲加快達成貿易協定並制定相關政策&nbsp;&nbsp;《經濟時報》"
+      },
+      {
+        "title": "Trump's Tariff Strategy: Effectiveness and Global Impact - ummid.com",
+        "desc": "Trump's Tariff Strategy: Effectiveness and Global Impact&nbsp;&nbsp;ummid.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWtTOU54ejFMVmNwdjJ1UXRCc0d3OGRFSnZMNk9YejlOVTRrNkhscmFNU0VpS2JKQVo3MDlpZDRkdlRsanJya283a29sN25NZzE0N2R6cEtVNjA3LThDaUlhU3VYTEZDWV9uLWkwNHpDV0ZLLWpLdWZndWVLVWZSakRacWxIYzNPaFZUWTVpTXV1QlcyT3h3?oc=5",
+        "pubTime": "2026-07-27 15:00",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅策略：成效與全球影響 - ummid.com",
+        "descZh": "川普的關稅策略：成效與全球影響&nbsp;&nbsp;ummid.com"
+      },
+      {
+        "title": "As Trump’s tariffs hit, the message is clear: SA must find new markets - Business Day",
+        "desc": "As Trump’s tariffs hit, the message is clear: SA must find new markets&nbsp;&nbsp;Business Day",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU5ySEFGdXRseExwVjBNbEgtWUNrRThnM3JYMGRSVDJvQjFfVjVYQW9kdjZOZk4zcXlmLVByUE81a0lzS0FYelhScVdWZV9vUjZ1SlNDOEhhNGhIM0RkcFZJRUpEX0NuRUxfQWMxeGREdGVwaE1EWXZsUWxCQzNCZ3BaM01pc2JTSFNjYzJDbHkzVDV0Q204dnpZSGw2UTc2QnJpNV9WbmlnQVFNalhXQ08xdGg?oc=5",
+        "pubTime": "2026-07-27 11:00",
+        "source": "news.google.com",
+        "titleZh": "隨著川普的關稅措施生效，訊息已十分明確：南非必須開拓新市場——《商業日報》",
+        "descZh": "隨著川普的關稅措施生效，訊息很明確：南非必須開拓新市場&nbsp;&nbsp;《商業日報》"
+      },
+      {
+        "title": "Shein swings to $99m loss as Donald Trump's tariffs hit sales - BBC",
+        "desc": "Shein swings to $99m loss as Donald Trump's tariffs hit sales&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sQjV5UVM3bllOSko0ekpHS1BjVzBJbXZjaWV0ZTA1TUxybEd1RWFJeXl2aWE2eWlNUVNRWV9YellPMGlYTGJyS1hudWdUSnRoVjFtem54V3VZQQ?oc=5",
+        "pubTime": "2026-07-27 10:08",
+        "source": "news.google.com",
+        "titleZh": "受川普關稅影響銷售，Shein 轉虧 9,900 萬美元 —— BBC",
+        "descZh": "受川普關稅影響銷售，Shein 轉虧 9,900 萬美元&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Shein warns of Trump tariff impact after posting quarterly loss - USA Today",
+        "desc": "Shein warns of Trump tariff impact after posting quarterly loss&nbsp;&nbsp;USA Today",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkw2YXZHODhiYklscXBJZUcxWnRSTGVDYjE2QlFLN0dmdkZJZ2NmdDZQWHVoeHNKdEFIelNlZDZ2Ri1SUTNZZTBMUTBiUU43bU5Fa1JnUVNrbldyVnNzZkZyWDVlUTZWS0Fyc3pLcllYclRjVnBHbDJwMWhodzgwcEEwYnJuREtjbkZmUg?oc=5",
+        "pubTime": "2026-07-27 09:07",
+        "source": "news.google.com",
+        "titleZh": "Shein 公布季度虧損後，警告川普關稅將造成影響——《今日美國》",
+        "descZh": "Shein 公布季度虧損後，警告川普關稅將造成衝擊&nbsp;&nbsp;《今日美國》"
+      },
+      {
+        "title": "Trump’s latest global tariffs are being challenged in a US court. Here’s how - The Business Times",
+        "desc": "Trump’s latest global tariffs are being challenged in a US court. Here’s how&nbsp;&nbsp;The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVRlaEdRbi1GUUNJR2txMEI0bEhMQ2NxaWFwMEdOUm14VGtTMnoxT3RhckZ4MDB5Qk92d0lUbHpWeUNLbWlXWmZXQk9rWjdXN01fTU1MUUh2aEp5ajlXYkphaTlvYlN1Tk94eVU0RXlHb01nUW1sMm4wdUdaWEp6WXlWTm0wSGVxVGhDRHpfeVc3RFo0dG1zU0FTUGR3VkJ2RkpKTGRWYmV0RmVFemZmN2JiSUJyNkJUdVRjVElLMA?oc=5",
+        "pubTime": "2026-07-27 08:31",
+        "source": "news.google.com",
+        "titleZh": "川普最新實施的全球關稅措施正遭到美國法院的挑戰。詳情如下——《商業時報》",
+        "descZh": "川普最新實施的全球關稅措施正遭到美國法院的挑戰。詳情請見《商業時報》"
+      }
+    ]
+  },
+  {
     "date": "20260727",
     "fetchTime": "2026-07-27 05:22",
     "count": 12,
@@ -3457,67 +3563,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "梅洛尼與川普：一場備受矚目的公開決裂，目前看來極難彌合",
         "descZh": "義大利總理不久前還被稱為「川普的幕後推手」，但兩人的關係已從公開抨擊演變為人身攻擊。"
-      }
-    ]
-  },
-  {
-    "date": "20260628",
-    "fetchTime": "2026-06-28 05:34",
-    "count": 6,
-    "articles": [
-      {
-        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-        "desc": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-27 10:57",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前川普顧問約翰·博爾頓對不當處理機密文件一事認罪",
-        "descZh": "檢方表示，博爾頓可能面臨最高五年監禁，並已同意支付225萬美元罰款。"
-      },
-      {
-        "title": "Trump’s tariffs stoke global trade jitters as China, EU vow response - Gulf Business",
-        "desc": "Trump’s tariffs stoke global trade jitters as China, EU vow response&nbsp;&nbsp;Gulf Business",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHFVZjg2ZFptY3NHME1XU1hvX0FmeU9XM3hUS3d3S1Nob1VWblVKU1BOS2IyRVRaMzhBY3BJdkpLQm8wMkVIZ0pKRER1NHR0ZkJFX1ExVG1IWmZRdFNQSks1c29mb1U3eUxBZ19xWEhia3NMNkM4RDhEV1BfS0QzYWNsOVZrd3pORVNOVm04VTlFTVJTNVEtRi0zeTI4N1BHS3MwdE93?oc=5",
-        "pubTime": "2026-06-27 05:26",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅措施加劇全球貿易不安，中國與歐盟誓言將採取反制措施——《海灣商業報》",
-        "descZh": "川普的關稅措施加劇全球貿易不安，中國與歐盟誓言將採取反制措施&nbsp;&nbsp;《海灣商業》"
-      },
-      {
-        "title": "Trump's 100% Tariff Threat Hits Tech Giants on Digital Taxes - The Tech Buzz",
-        "desc": "Trump's 100% Tariff Threat Hits Tech Giants on Digital Taxes&nbsp;&nbsp;The Tech Buzz",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYm9uNDEyQVc0WXJKcWFYMHVhUUFSNjBYOUtmUm9JeVBNZ3BHSDdiZnRFb3I4RU1DdDJCRVJYRkZIWFdJVmRrdDhzVDRkeGlzYktHRnIwQWQwWFdQbWl6dnBLMEc0NWZvMFNZTTFDTWtoWkgyUEdQWDhPNnBVZ001YXFhSDNWWEVoUEFhZ3Y3RUpmWkVxMmlj?oc=5",
-        "pubTime": "2026-06-27 02:50",
-        "source": "news.google.com",
-        "titleZh": "川普威脅徵收 100% 關稅，科技巨頭因數位稅面臨衝擊 —《科技熱點》",
-        "descZh": "川普以「100%關稅」相威脅，科技巨頭面臨數位稅壓力&nbsp;&nbsp;科技熱點"
-      },
-      {
-        "title": "Soumaya Keynes on the right way to fight a trade war - Reason Magazine",
-        "desc": "Soumaya Keynes on the right way to fight a trade war&nbsp;&nbsp;Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ObElsUTVDa29LNGhRZURDbTBPRHotM3B2UXJLYi16anNDaEJiclRsbWttVlhpVkduZjhFNWJ4TXVfaGs1TzB3UDcxLTRvZWxDcDcwQVBGcGV2Xzg1YlBQaENWd0pXUmhIWFZfckdsamFEbWtTRVlPazdlQXNPdw?oc=5",
-        "pubTime": "2026-06-26 23:00",
-        "source": "news.google.com",
-        "titleZh": "蘇瑪亞·凱恩斯談應對貿易戰的正確方式——《理性》雜誌",
-        "descZh": "蘇瑪亞·凱恩斯談應對貿易戰的正確方式&nbsp;&nbsp;《理性》雜誌"
-      },
-      {
-        "title": "Trump's Tariffs Could Return Through a New Legal Route, Here's How - outlookbusiness.com",
-        "desc": "Trump's Tariffs Could Return Through a New Legal Route, Here's How&nbsp;&nbsp;outlookbusiness.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZm81Qk1UaTViR05iTXNPekk2X2dSclJndEE5M09uMmJxb1pjSFpvZ3BlbU51Q0pXZE5DbW5ONlRIMFI3NVRKbXhoQXJUcTdNWGpxenhqY01SZWExWVJaVW91bUhUUjNIakFfeHJmUHFHUlczdWNsbXVLV1h4OWhYRHJhbEE3UUhrWHhsdGxQNlM5dzMyVzVLWklzNks3N3JFVmg3Mms3aDlKRWI2WnJtdXFwTGPSAcIBQVVfeXFMT2F6cnRTakl0YWdiSngwTUhiWnVmS3RMZWctLXVOamNMV2NhaWFKRERVUWt6YW4tSkhvdVJlX2J3MXBxNEdwcWJaaHNESkRiQVZ3cFNGOFYwd1NBeHZoeEYyODR2Q0RTSUpQMmNLaUM4MGkwZzkxSDlVbk9YaVpUaTJqREs1aURGRXVFdGNJZk0xd1pPaUstaEd6SWZFcHh5dTE5SWxwLTdfeE03REota1JfYkYzMndEZ2pGcUhxaWlYS1E?oc=5",
-        "pubTime": "2026-06-26 15:30",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅可能透過新的法律途徑重現，具體方式如下 - outlookbusiness.com",
-        "descZh": "川普的關稅可能透過新的法律途徑重現，具體方式如下&nbsp;&nbsp;outlookbusiness.com"
-      },
-      {
-        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-        "desc": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-26 14:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國國家公園管理局表示，倒影池的襯墊遭鋒利刀具或剃刀割破",
-        "descZh": "本週稍早，唐納德·川普將泳池中「一條長達300英尺的裂痕」歸咎於破壞者，並指控有人在水中投放肥料。"
       }
     ]
   }
