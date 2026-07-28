@@ -1,5 +1,156 @@
 [
   {
+    "date": "20260729",
+    "fetchTime": "2026-07-29 05:35",
+    "count": 16,
+    "articles": [
+      {
+        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+        "desc": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-29 04:57",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "烏克蘭戰爭與伊朗戰爭持續延燒之際，澤連斯基與內塔尼亞胡會晤川普",
+        "descZh": "這兩位領導人當時正在華盛頓，出席參議員林賽·葛拉漢的葬禮；葛拉漢是以色列的堅定支持者，也是美國對烏克蘭提供援助的倡導者。"
+      },
+      {
+        "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
+        "desc": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-29 04:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在林賽·葛拉漢的葬禮上稱其為「美國參議院的巨人」",
+        "descZh": "美國總統是出席這位本月稍早過世的已故議員追悼儀式的多位政要之一。"
+      },
+      {
+        "title": "Do Trump’s Latest Comments Prove Plaintiffs’ Case Against Tariffs? - Yahoo",
+        "desc": "Do Trump’s Latest Comments Prove Plaintiffs’ Case Against Tariffs?&nbsp;&nbsp;Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXg4eVJFb21QQmZ4UGwtRnZValZJNDFfcWY4WmxVLTJvblF5OVdGYVZ2Mmh5QkQxc09jVjNlckxXNng4RTQ2Zk9TVDRoYWtzeEtpU0J6SXN6c3cwX19FTTNsRTl2Vi1TVmNpT3BlM2QzcU9Rd01DSzlTaTIyUlVGOG00OWVrbkIyNVpjUllieFFjbUkyODRDekFaSTU2V0k?oc=5",
+        "pubTime": "2026-07-29 04:18",
+        "source": "news.google.com",
+        "titleZh": "川普的最新言論是否證明了原告針對關稅的訴求？ - Yahoo",
+        "descZh": "川普的最新言論是否證明了原告針對關稅的訴訟主張？&nbsp;&nbsp;Yahoo"
+      },
+      {
+        "title": "New Republican ads slam Democrats opposed to Trump's tariffs - CNBC",
+        "desc": "New Republican ads slam Democrats opposed to Trump's tariffs&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZURPc2NOZmh4eTZQdENCc3Q3MVRnYl9CWVBkUnRISVQzdjFrYTd1aEFoMVo4ckd1YllxanFFWTVpMjBPMlhiZnRpRHlYRTRNdXJ2XzdpUmNVTzdsY0dDZjJLd3VHRDFFN18xYUZEQk1pSjJoQmhPRzFvRHRqeXdOM2dwWdIBiAFBVV95cUxOOElvRmUzcjRjM2RrS0pnaUhNYkZmZzhfMG43RTVKdy1vdVZVanotdmlWVVZKVFF1dmc5ZE9uVWZWZTRkejJtRWdoVVphbVVocUcxZHFLNjVpQjU4dFVaVTZGSTFwYkxlSjVYR2QxTEFWRFJTcnNUWEVORUhNQjgtUnh6aXh2OTNP?oc=5",
+        "pubTime": "2026-07-28 19:00",
+        "source": "news.google.com",
+        "titleZh": "共和黨新廣告抨擊反對川普關稅政策的民主黨人 - CNBC",
+        "descZh": "共和黨新廣告抨擊反對川普關稅的民主黨人&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trump tariffs - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump tariffs&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fVVNiM3dhclowSHVRazBsSzZWNEJTUlgtRkM2THpGRFJab2o3RWdDNkQ2VzAySlg5X1FHeUtMelZRd3FxZ0VuMFVKd05SS1Ra?oc=5",
+        "pubTime": "2026-07-28 11:55",
+        "source": "news.google.com",
+        "titleZh": "川普關稅 - ABC新聞 - 突發新聞、最新新聞與影片",
+        "descZh": "川普關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新新聞與影片"
+      },
+      {
+        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+        "desc": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
+        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-28 08:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "對澤連斯基與內塔尼亞胡訪問華盛頓有何期待",
+        "descZh": "共和黨參議員林賽·葛拉漢的葬禮將吸引這兩位世界領袖造訪該市，屆時他們將分別前往白宮，商討該地區的戰爭問題。"
+      },
+      {
+        "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+        "desc": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-28 07:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在加拿大即將調高關稅之際，川普於受重創的密西根州為關稅政策辯護",
+        "descZh": "總統表示，他的經濟政策正在為汽車產業注入新活力，並迫使海外企業遷回美國。"
+      },
+      {
+        "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+        "desc": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-28 05:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在美國暫停與伊朗的戰爭之際，川普真的已經彈盡糧絕了嗎？",
+        "descZh": "美國在與伊朗的戰爭中已發射了數千枚難以補充的飛彈。我們將深入探討其「自由武庫」的儲備量是否已降至危險低點。"
+      },
+      {
+        "title": "Donald Trump rebuilds his tariff wall - Financial Times",
+        "desc": "Donald Trump rebuilds his tariff wall&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTlELUp1OGd2NXNFZXpUUHdtTGdBckZONWVLOHJnNzVHaUhLNmtiVHk1ZHY0YW9vQklWdEdqSlhad0xtbUd6R1RJb2hlTDlFV2ZUc3B6aFZrN29KOFVFZnlWUDlQNGJObFJ1UlhiLWNXUVdWcXZBbDZ5TFRZQ1JzOEhRNWM?oc=5",
+        "pubTime": "2026-07-28 00:57",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普重築關稅高牆——《金融時報》",
+        "descZh": "唐納德·川普重築關稅高牆&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "What Trump's sweeping new tariffs mean for your wallet - ABC News - Breaking News, Latest News and Videos",
+        "desc": "What Trump's sweeping new tariffs mean for your wallet&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3hiakNYWU1RVWhTc0ctU1p3RFItS0p5OUNfaE9meG93dGJpOHdNM05lLS01a084WnQ0blVRdlFZd1FfMEgxc0lsWW5uN2xGenNjbDVWTUQxRm9lV0xqcEZ4dnR1dUg5eGJSRU1TZkEyejV5MXpiRVk2LVpYQkRrLVVQTVNnMFcxZ2fSAY8BQVVfeXFMTTBMTjZlaFd2VUFyaWNWYXRMeklaRS0yODdJdUxvTnRvb04yMVYyWkRnXzZ3MVdiYU1MODJTMFhNeEpHN2F1M3M3V2VKTE9ld1haUXB2NkZQUHNFaHUtWGZMUkQzWGdsQzVXZ2VRckZHV000T1Jibk5tTzM0OWs2SFhVUDExVy0wc0NoN29SRGs?oc=5",
+        "pubTime": "2026-07-28 00:34",
+        "source": "news.google.com",
+        "titleZh": "川普這波全面性新關稅將對您的荷包造成什麼影響——ABC新聞——突發新聞、最新消息與影片",
+        "descZh": "川普這波全面性新關稅將對您的荷包造成什麼影響？&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Getting Real About Trump’s Trade War - Policy Magazine",
+        "desc": "Getting Real About Trump’s Trade War&nbsp;&nbsp;Policy Magazine",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wcHNyMzJRaTRSQU51aVFydGp0QVBuMVNOS0VNa01KYWFlWlhSZGdqdFl0cHhsbGRhOXhSLU1ZeEVNaEs3a1ppRnhmTDFNVU0yV0szV25BVkFRRWNkODIyTXNjcURxN3pnMk52LU5aaUVmVFp6?oc=5",
+        "pubTime": "2026-07-27 21:12",
+        "source": "news.google.com",
+        "titleZh": "客觀看待川普的貿易戰——《政策雜誌》",
+        "descZh": "客觀看待川普的貿易戰&nbsp;&nbsp;《Policy》雜誌"
+      },
+      {
+        "title": "Trump admin's Section 301 tariff policy may face legal challenge, says GTRI - Business Standard",
+        "desc": "Trump admin's Section 301 tariff policy may face legal challenge, says GTRI&nbsp;&nbsp;Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnE5Tm9tWWdzNG1ySmJNbk9WYkxmX1pCU2Rlc0VwQUdqUmJWWXpjeWU5bWJUWU94djJoMkFGbWRWVXhJU250dWYzX3BxUGx3aFpod0VDOGJyYWtFeTV4MDdYRDJ4WkxGeDNuOGpteGhWM05HTlFZWEJkZXBjTlVqTHgyTndQbFZkc01TSnJsdkdJZkRYa3Rna1BZcVJBb0xObEYwRE5wQU1nNkY3V2s5VlI4WkZVWE5oSFMxMGZTWXfSAcYBQVVfeXFMUHRjVXA5Y1FPWVdTaFFjWXVaVE5Nd3d6d1hNZGg5dE90MWRqdksyc0pPRldYeDVoS2lFczhoUXdPTUJ6ZklaT05QS0tnZXBqTUwwLWpWQnlZTmJuclg1MGxjZV9LQTNlZF9xSi1OXzNjVEtmby1CU1dVNl9CekhxN1g5WGtHZ29SRWc1THZJd2RYQzdhV1BSaU1NX0dwUGx2bEQyREhNS3ROYzRHbXA2amVsSDlnZ2pGSWt2YzZYNGJWWHMtS0hn?oc=5",
+        "pubTime": "2026-07-27 18:46",
+        "source": "news.google.com",
+        "titleZh": "GTRI 表示，川普政府的第 301 條關稅政策可能面臨法律挑戰——《商業標準報》",
+        "descZh": "GTRI 表示，川普政府的第 301 條關稅政策可能面臨法律挑戰——《商業標準報》"
+      },
+      {
+        "title": "Trump's Tariff Strategy: Effectiveness and Global Impact - ummid.com",
+        "desc": "Trump's Tariff Strategy: Effectiveness and Global Impact&nbsp;&nbsp;ummid.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWtTOU54ejFMVmNwdjJ1UXRCc0d3OGRFSnZMNk9YejlOVTRrNkhscmFNU0VpS2JKQVo3MDlpZDRkdlRsanJya283a29sN25NZzE0N2R6cEtVNjA3LThDaUlhU3VYTEZDWV9uLWkwNHpDV0ZLLWpLdWZndWVLVWZSakRacWxIYzNPaFZUWTVpTXV1QlcyT3h3?oc=5",
+        "pubTime": "2026-07-27 15:00",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅策略：成效與全球影響 - ummid.com",
+        "descZh": "川普的關稅策略：成效與全球影響&nbsp;&nbsp;ummid.com"
+      },
+      {
+        "title": "As Trump’s tariffs hit, the message is clear: SA must find new markets - Business Day",
+        "desc": "As Trump’s tariffs hit, the message is clear: SA must find new markets&nbsp;&nbsp;Business Day",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU5ySEFGdXRseExwVjBNbEgtWUNrRThnM3JYMGRSVDJvQjFfVjVYQW9kdjZOZk4zcXlmLVByUE81a0lzS0FYelhScVdWZV9vUjZ1SlNDOEhhNGhIM0RkcFZJRUpEX0NuRUxfQWMxeGREdGVwaE1EWXZsUWxCQzNCZ3BaM01pc2JTSFNjYzJDbHkzVDV0Q204dnpZSGw2UTc2QnJpNV9WbmlnQVFNalhXQ08xdGg?oc=5",
+        "pubTime": "2026-07-27 11:00",
+        "source": "news.google.com",
+        "titleZh": "隨著川普的關稅措施生效，訊息已十分明確：南非必須開拓新市場——《商業日報》",
+        "descZh": "隨著川普的關稅措施生效，訊息很明確：南非必須開拓新市場&nbsp;&nbsp;《商業日報》"
+      },
+      {
+        "title": "Shein warns of Trump tariff impact after posting quarterly loss - USA Today",
+        "desc": "Shein warns of Trump tariff impact after posting quarterly loss&nbsp;&nbsp;USA Today",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkw2YXZHODhiYklscXBJZUcxWnRSTGVDYjE2QlFLN0dmdkZJZ2NmdDZQWHVoeHNKdEFIelNlZDZ2Ri1SUTNZZTBMUTBiUU43bU5Fa1JnUVNrbldyVnNzZkZyWDVlUTZWS0Fyc3pLcllYclRjVnBHbDJwMWhodzgwcEEwYnJuREtjbkZmUg?oc=5",
+        "pubTime": "2026-07-27 09:07",
+        "source": "news.google.com",
+        "titleZh": "Shein 公布季度虧損後，警告川普關稅將造成影響——《今日美國》",
+        "descZh": "Shein 公布季度虧損後，警告川普關稅將造成影響&nbsp;&nbsp;《今日美國》"
+      },
+      {
+        "title": "Trump’s latest global tariffs are being challenged in a US court. Here’s how - The Business Times",
+        "desc": "Trump’s latest global tariffs are being challenged in a US court. Here’s how&nbsp;&nbsp;The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVRlaEdRbi1GUUNJR2txMEI0bEhMQ2NxaWFwMEdOUm14VGtTMnoxT3RhckZ4MDB5Qk92d0lUbHpWeUNLbWlXWmZXQk9rWjdXN01fTU1MUUh2aEp5ajlXYkphaTlvYlN1Tk94eVU0RXlHb01nUW1sMm4wdUdaWEp6WXlWTm0wSGVxVGhDRHpfeVc3RFo0dG1zU0FTUGR3VkJ2RkpKTGRWYmV0RmVFemZmN2JiSUJyNkJUdVRjVElLMA?oc=5",
+        "pubTime": "2026-07-27 08:31",
+        "source": "news.google.com",
+        "titleZh": "川普最新實施的全球關稅措施正遭到美國法院的挑戰。詳情如下——《商業時報》",
+        "descZh": "川普最新實施的全球關稅措施正遭到美國法院的挑戰。詳情請見《商業時報》"
+      }
+    ]
+  },
+  {
     "date": "20260728",
     "fetchTime": "2026-07-28 05:33",
     "count": 11,
@@ -3529,40 +3680,6 @@
         "source": "news.google.com",
         "titleZh": "獨家報導：美國特使堅稱，川普的關稅政策與言論「並非針對」加拿大——CTV新聞",
         "descZh": "獨家報導：美國特使堅稱，川普的關稅政策與言論「並非針對」加拿大&nbsp;&nbsp;CTV News"
-      }
-    ]
-  },
-  {
-    "date": "20260629",
-    "fetchTime": "2026-06-29 05:33",
-    "count": 3,
-    "articles": [
-      {
-        "title": "How Jamieson Greer Took Over Trump’s Trade Agenda - WSJ",
-        "desc": "How Jamieson Greer Took Over Trump’s Trade Agenda&nbsp;&nbsp;WSJ",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHZFVVBLbFJxQ0lETVRlaEtyVlYzX2RfTjd3UExfYzltTzBvODlPTFR0QWlPNmxLRC1IYnpWdElaQ2hqcHFUV1hTUy1wdk9kODhHYkNmbkxZbGhWd2FzcXhVQUdobHlfX0tiWVdEeDZwbnVwYVFiVUVXOE1qV1duUk1FVQ?oc=5",
-        "pubTime": "2026-06-28 17:00",
-        "source": "news.google.com",
-        "titleZh": "傑米森·格里爾如何接手川普的貿易議程——《華爾街日報》",
-        "descZh": "傑米森·格里爾如何接手川普的貿易議程&nbsp;&nbsp;《華爾街日報》"
-      },
-      {
-        "title": "Trump's face is added to select US passports for America's 250th birthday",
-        "desc": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-        "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-28 04:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為慶祝美國建國250週年，部分美國護照上將印有川普的肖像",
-        "descZh": "這款紀念特別版護照將於 7 月 6 日發行，且僅限親臨辦理"
-      },
-      {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "desc": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-27 07:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "梅洛尼與川普：一場備受矚目的公開決裂，目前看來極難彌合",
-        "descZh": "義大利總理不久前還被稱為「川普的幕後推手」，但兩人的關係已從公開抨擊演變為人身攻擊。"
       }
     ]
   }
