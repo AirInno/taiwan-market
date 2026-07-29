@@ -1,5 +1,138 @@
 [
   {
+    "date": "20260730",
+    "fetchTime": "2026-07-30 05:23",
+    "count": 14,
+    "articles": [
+      {
+        "title": "A look at Trump's $22 billion plans to makeover Dulles Airport near Washington",
+        "desc": "The BBC's Shaimaa Khalil reports from aboard one of the airport's iconic 'people movers' that have been in use since 1962.",
+        "url": "https://www.bbc.co.uk/news/videos/c1m1zg5xzj2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-30 05:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "一窺川普耗資 220 億美元、旨在改造華盛頓附近杜勒斯機場的計畫",
+        "descZh": "BBC記者沙伊瑪·哈利勒（Shaimaa Khalil）從機場一輛自1962年起便投入使用的標誌性「自動人行道」上發回報導。"
+      },
+      {
+        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+        "desc": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-29 20:17",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "烏克蘭戰爭與伊朗戰爭持續延燒之際，澤連斯基與內塔尼亞胡會晤川普",
+        "descZh": "兩位領導人在白宮接連舉行雙邊會談後，似乎都感到鼓舞。"
+      },
+      {
+        "title": "Trump Defends Tariff Policies, Announces New Duties on 60 Trading Partners - Global Trade Magazine",
+        "desc": "Trump Defends Tariff Policies, Announces New Duties on 60 Trading Partners&nbsp;&nbsp;Global Trade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm8zeDI1eFhDSjktcVVwVWRoUVBvWmQ4N05ING5YeU9TODBBTnd2X2NpWEdtckN2MmJTUHZDVy0xcVJFYzlEY1lIM1BocXd2aHlTdnBPOFQ3VEk1VFQ3b0VQMmRQdlp4YnFhWmpRVEpfYnYtUkRWVzFnYXU4WEJVT0JFM1hTd2VRN1Y1R0VvNXVCaE0yLW9KVEs5TWp4TEw0VEROd0ZIcWM?oc=5",
+        "pubTime": "2026-07-29 19:19",
+        "source": "news.google.com",
+        "titleZh": "川普為關稅政策辯護，宣布對 60 個貿易夥伴國加徵新關稅——《全球貿易》雜誌",
+        "descZh": "川普為關稅政策辯護，宣布對 60 個貿易夥伴國加徵新關稅&nbsp;&nbsp;《全球貿易》雜誌"
+      },
+      {
+        "title": "Trump administration bans new Chinese humanoid robots",
+        "desc": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-29 10:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府禁止進口中國製的新型類人型機器人",
+        "descZh": "美國與中國正展開一場競逐，爭奪機器人技術與人工智慧領域的全球領先地位。"
+      },
+      {
+        "title": "Trump tariffs on trading partners could raise prices for Arizona consumers - KOLD",
+        "desc": "Trump tariffs on trading partners could raise prices for Arizona consumers&nbsp;&nbsp;KOLD",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnpQSVhDcy0xdmE4bElDNjRtRkxfazJWb1BCczZkRThpekNUalQzUGtRc1ZQR0JnZVBUSmJRamV6dDAzc2Uwd09zTDF6bGtnOC1zWWtNWGRMR1NmSy1qWnZGNVB1c29zTFlldDVfQUM5WUg0MEI2dXBfZnJfUnd1b3hPVTNJSVVSdklpNUdid3VFbkpNUkNkU3g1ekxTSzQ4V3fSAbYBQVVfeXFMTl9uMWFDWkVCaXczNll4TEx0WF9MZ3hDZk43OG5mbjVGU0FFNktjNmFlRzBkRGpNRlg5UXlRYVV5RTVpSVlRN0duV1E5dnhicWhLcW9JRkNGV000WFJqV09pbUNmUnJ2ZENWa2wzcktQMmFrZUhvMHNtOUVpYkVtbk45WUgtTWFwdWFFRVlHTlBhV2g0UEJnbi1xOUNMcktKYVdzU1UtM2tZTW5ITjZ4YXZ3XzFKVGc?oc=5",
+        "pubTime": "2026-07-29 09:14",
+        "source": "news.google.com",
+        "titleZh": "川普對貿易夥伴徵收的關稅可能導致亞利桑那州消費者面臨物價上漲 - KOLD",
+        "descZh": "川普對貿易夥伴徵收的關稅可能導致亞利桑那州消費者面臨物價上漲&nbsp;&nbsp;KOLD"
+      },
+      {
+        "title": "Watch: Trump delivers eulogy honouring Lindsey Graham",
+        "desc": "The US president hailed the late senator as a \"true American original\" at the funeral attended by Netanyahu and Zelensky.",
+        "url": "https://www.bbc.co.uk/news/videos/cy45kev0709o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-29 06:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普發表悼詞，緬懷林賽·葛拉漢",
+        "descZh": "在內塔尼亞胡和澤連斯基出席的葬禮上，美國總統盛讚這位已故參議員是「真正的美國原創人物」。"
+      },
+      {
+        "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
+        "desc": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-29 05:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在林賽·葛拉漢的葬禮上稱其為「美國參議院的巨人」",
+        "descZh": "美國總統是出席這位本月稍早過世的已故議員追悼儀式的多位政要之一。"
+      },
+      {
+        "title": "Do Trump’s Latest Comments Prove Plaintiffs’ Case Against Tariffs? - Yahoo",
+        "desc": "Do Trump’s Latest Comments Prove Plaintiffs’ Case Against Tariffs?&nbsp;&nbsp;Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXg4eVJFb21QQmZ4UGwtRnZValZJNDFfcWY4WmxVLTJvblF5OVdGYVZ2Mmh5QkQxc09jVjNlckxXNng4RTQ2Zk9TVDRoYWtzeEtpU0J6SXN6c3cwX19FTTNsRTl2Vi1TVmNpT3BlM2QzcU9Rd01DSzlTaTIyUlVGOG00OWVrbkIyNVpjUllieFFjbUkyODRDekFaSTU2V0k?oc=5",
+        "pubTime": "2026-07-29 04:18",
+        "source": "news.google.com",
+        "titleZh": "川普的最新言論是否證明了原告針對關稅的訴求？ - Yahoo",
+        "descZh": "川普的最新言論是否證明了原告針對關稅的訴訟主張？&nbsp;&nbsp;Yahoo"
+      },
+      {
+        "title": "Canada Needs to Fight Trump Strategically, Not Tactically - Policy Magazine",
+        "desc": "Canada Needs to Fight Trump Strategically, Not Tactically&nbsp;&nbsp;Policy Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHZtMlVVc005WFBUUS16RDg5VTlkTVRlOG1HSzZDZHhoWmxWNTlidWpDNVdncFJJSENCeGRJdG94LVBJY1Zpd3BFR0NuVDB5aUxPZFpIcnlEV0NGWHl0MFNrd0R4QktPeFdJYm9td04tSGhidmdKT0U0M3NhaWd6bzRzcGxPVm8xcm5WZ1hWQVg?oc=5",
+        "pubTime": "2026-07-29 03:48",
+        "source": "news.google.com",
+        "titleZh": "加拿大應以戰略而非戰術的方式應對川普——《政策雜誌》",
+        "descZh": "加拿大應以戰略而非戰術方式應對川普&nbsp;&nbsp;《政策》雜誌"
+      },
+      {
+        "title": "Why is Ukraine rolling out the red carpet for a US far-right influencer?",
+        "desc": "Laura Loomer, Trump ally, MAGA influencer, and former Ukraine critic was granted extensive access to the country.",
+        "url": "https://www.bbc.co.uk/news/videos/cn8n41ywwj1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-28 21:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何烏克蘭要為一位美國極右翼網紅鋪設紅地毯？",
+        "descZh": "蘿拉·盧默（Laura Loomer）——身為川普盟友、「讓美國再次偉大」（MAGA）網紅，以及前烏克蘭批評者——獲准在該國享有廣泛的活動自由。"
+      },
+      {
+        "title": "Trump tariffs have moderate impact on Eurozone growth through 2027 - plataformamedia.com",
+        "desc": "Trump tariffs have moderate impact on Eurozone growth through 2027&nbsp;&nbsp;plataformamedia.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnNjSklQbWxFemlOdFM1cS1ZcU1icGhZN1hqZWN0cnJnNkNjZ0tja01pUDc3Ml9rdHVoRUZGS3RDWXNtNlBFeGx2QzVjQ0FEbmh3WlM4LXplVDBHVmZfMktIQW1NWUd5NXF3WEo1QmdCQ0kyNWF6NXo0cEtnd3c1MDgtdTBURG10SDd5LVlXRU8?oc=5",
+        "pubTime": "2026-07-28 20:27",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施對歐元區經濟成長的影響至2027年為止屬溫和程度 - plataformamedia.com",
+        "descZh": "川普的關稅措施對歐元區的經濟成長影響有限，此影響將持續至2027年&nbsp;&nbsp;plataformamedia.com"
+      },
+      {
+        "title": "New Republican ads slam Democrats opposed to Trump's tariffs - cnbc.com",
+        "desc": "New Republican ads slam Democrats opposed to Trump's tariffs&nbsp;&nbsp;cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZURPc2NOZmh4eTZQdENCc3Q3MVRnYl9CWVBkUnRISVQzdjFrYTd1aEFoMVo4ckd1YllxanFFWTVpMjBPMlhiZnRpRHlYRTRNdXJ2XzdpUmNVTzdsY0dDZjJLd3VHRDFFN18xYUZEQk1pSjJoQmhPRzFvRHRqeXdOM2dwWdIBiAFBVV95cUxOOElvRmUzcjRjM2RrS0pnaUhNYkZmZzhfMG43RTVKdy1vdVZVanotdmlWVVZKVFF1dmc5ZE9uVWZWZTRkejJtRWdoVVphbVVocUcxZHFLNjVpQjU4dFVaVTZGSTFwYkxlSjVYR2QxTEFWRFJTcnNUWEVORUhNQjgtUnh6aXh2OTNP?oc=5",
+        "pubTime": "2026-07-28 19:00",
+        "source": "news.google.com",
+        "titleZh": "共和黨新廣告抨擊反對川普關稅的民主黨人 - cnbc.com",
+        "descZh": "共和黨新廣告抨擊反對川普關稅政策的民主黨人&nbsp;&nbsp;cnbc.com"
+      },
+      {
+        "title": "Trump tariffs - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump tariffs&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fVVNiM3dhclowSHVRazBsSzZWNEJTUlgtRkM2THpGRFJab2o3RWdDNkQ2VzAySlg5X1FHeUtMelZRd3FxZ0VuMFVKd05SS1Ra?oc=5",
+        "pubTime": "2026-07-28 11:55",
+        "source": "news.google.com",
+        "titleZh": "川普關稅 - ABC新聞 - 突發新聞、最新新聞與影片",
+        "descZh": "川普關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新新聞與影片"
+      },
+      {
+        "title": "Canada tariff fight hands Democrats cudgel in Michigan midterm races - The Hill",
+        "desc": "Canada tariff fight hands Democrats cudgel in Michigan midterm races&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQTVtckRWb0xWN0pBVVZ4WThaWWpEdlJaeXYweDZJX01GaHNvS25OY05ub3FhZTNLZXJ0eENVdHVGUUI4YWV0dDAyY0h5cEV1akdGeTZ3MDV3a0NpUDMwQy1PbFlOYnNvVldJd1B0WTJ1WmxiVG8zYUhuSElQN0VtY3NsOG94ZVVJSVdOeXJZVXpkMDBP?oc=5",
+        "pubTime": "2026-07-28 05:49",
+        "source": "news.google.com",
+        "titleZh": "加拿大關稅之爭為民主黨在密西根州中期選戰中提供了一項利器——《The Hill》",
+        "descZh": "加拿大關稅之爭為民主黨在密西根州中期選戰中提供攻勢武器&nbsp;&nbsp;《The Hill》"
+      }
+    ]
+  },
+  {
     "date": "20260729",
     "fetchTime": "2026-07-29 05:35",
     "count": 16,
@@ -3601,85 +3734,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "影片：拜登在募款活動上稱川普為「輸家」",
         "descZh": "美國前總統喬·拜登在一場盛大的晚宴上猛烈抨擊總統唐納德·川普，批評華盛頓特區所謂的「面子工程」。"
-      }
-    ]
-  },
-  {
-    "date": "20260630",
-    "fetchTime": "2026-06-30 05:48",
-    "count": 8,
-    "articles": [
-      {
-        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-        "desc": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-30 04:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院戲劇性的一天：川普一勝三敗",
-        "descZh": "當川普慶祝一項將總統罷免及更換監管機構官員的權力擴大之裁決時，其他幾項裁決卻對他構成了重大打擊。"
-      },
-      {
-        "title": "Supreme Court allows late-arriving mail-in ballots in defeat for Trump",
-        "desc": "The decision could affect voting deadlines of more than a dozen states that will be pivotal in deciding the control of Congress after the midterm elections.",
-        "url": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-30 04:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院允許逾期送達的郵寄選票，對川普而言是一記挫敗",
-        "descZh": "這項決定可能會影響十多個州的投票截止期限，這些州將在中期選舉後決定國會控制權歸屬的關鍵所在。"
-      },
-      {
-        "title": "Trump’s Misguided Trade Policy - American Enterprise Institute - AEI",
-        "desc": "Trump’s Misguided Trade Policy&nbsp;&nbsp;American Enterprise Institute - AEI",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMDRKb0JqejFvbEhtLTJ5MERraUxnTGQ4NXNMUmVxUS1SYnNNRk1HLW9ZQ1dfemlNT2pfTEtyOVdwdGtGY1VCdEF0bU9YeG9TS3JNSG92ZDl5T2M2a2dYRF9UYWM2enljek45VE1mRkZpUQ?oc=5",
-        "pubTime": "2026-06-30 03:05",
-        "source": "news.google.com",
-        "titleZh": "川普的錯誤貿易政策 — 美國企業研究所（AEI）",
-        "descZh": "川普的錯誤貿易政策　美國企業研究所（AEI）"
-      },
-      {
-        "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-        "desc": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-        "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-30 00:51",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院阻止川普解僱聯邦儲備委員會理事麗莎·庫克的企圖",
-        "descZh": "這項被視為中央銀行獨立性勝利的裁決，將有關罷免的爭議重新交由下級法院處理。"
-      },
-      {
-        "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-        "desc": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-29 23:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普針對伊·珍·卡羅爾性侵案提出的最後上訴遭駁回",
-        "descZh": "最高法院的裁決意味著，美國總統現在必須向卡羅爾支付法院先前裁定她應獲的 500 萬美元（360 萬英鎊）損害賠償金。"
-      },
-      {
-        "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-        "desc": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-        "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-29 20:04",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "拜登抨擊川普的「面子工程」，並在募款活動上稱他為「輸家」",
-        "descZh": "這位前美國總統抨擊了其繼任者在華盛頓特區推動的各項計畫，其中包括一間擬建的新白宮舞廳。"
-      },
-      {
-        "title": "The Trump Pentagon appointee who has divided top Republicans - The Washington Post",
-        "desc": "The Trump Pentagon appointee who has divided top Republicans&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTgxNG5oNHB4eTdiNWUxRWp5MXY2OUdwWHBvQjdtNF9hVXppaTVaNThaMkUyWElEVGlsX2xncG9iUEpxZFp4SWRJWThkamFnS3k5bjQ1SWs0T1YxcXVBbWk1UEM3SHQ4XzBRb3lvWE1JcGJCcHY0V2REbk00NWtrNktLYmdxSVg2WjVVR3lITW16YXZ3Z0w4RzVIYmZGeHdrYVlERnZ0XzhGbWJpYy1PQ0F4Yno?oc=5",
-        "pubTime": "2026-06-29 02:00",
-        "source": "news.google.com",
-        "titleZh": "這位由川普任命的五角大廈官員，已使共和黨高層意見分歧——《華盛頓郵報》",
-        "descZh": "這位由川普任命的五角大廈高層，已使共和黨高層意見分歧&nbsp;&nbsp;《華盛頓郵報》"
-      },
-      {
-        "title": "EXCLUSIVE: U.S. envoy insists Trump ‘did not take aim’ at Canada with tariff policies, rhetoric - CTV News",
-        "desc": "EXCLUSIVE: U.S. envoy insists Trump ‘did not take aim’ at Canada with tariff policies, rhetoric&nbsp;&nbsp;CTV News",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSUhfNGxjUlNRQV9LSFhCVUVRNjllZFA3dERneWE3U3BHUmZ0T3ZwdjJMRVdpbFQ2ZHQ4OXdPdnZfMUlXVlR2VVBiWWVVVDVDcnh2cm84dkMwLWxCN0ExSGRwQWhMN0ZaMDU3MFdBejZwaEhEVVdEdkMzbnpGQTRYSkZSdlJvelNmYlRpaFAtaDg1ZGpiRV9rbUtvNk5zSXcwd0pHTVBkYmxxR205YUZ3Sm13aEZsMUlJYlNvOU9mRVF1Y0hIQ0VqbGRB?oc=5",
-        "pubTime": "2026-06-28 17:00",
-        "source": "news.google.com",
-        "titleZh": "獨家報導：美國特使堅稱，川普的關稅政策與言論「並非針對」加拿大——CTV新聞",
-        "descZh": "獨家報導：美國特使堅稱，川普的關稅政策與言論「並非針對」加拿大&nbsp;&nbsp;CTV News"
       }
     ]
   }
