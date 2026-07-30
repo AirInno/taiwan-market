@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260731",
+    "fetchTime": "2026-07-31 05:37",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Trump’s Import Tariff Follies - American Enterprise Institute - AEI",
+        "desc": "Trump’s Import Tariff Follies&nbsp;&nbsp;American Enterprise Institute - AEI",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zNTNCMTV5dGxWcVFqT2M3b2VYS2N5TGpkVGpLeXFMWi1ERGlUdkRESHRnRGZJSHFmelhRckMzdFFfMjdDc0pLX1Y3NTk4aG9QWDlUZjhjZUNlSHpJWF9FYklhWEc4cXFJemxoTQ?oc=5",
+        "pubTime": "2026-07-31 05:11",
+        "source": "news.google.com",
+        "titleZh": "川普的進口關稅鬧劇 —— 美國企業研究所（AEI）",
+        "descZh": "川普的進口關稅鬧劇&nbsp;&nbsp;美國企業研究所（AEI）"
+      },
+      {
+        "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting - CNBC",
+        "desc": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XelpwU0VPTHpVOHd2RlBjMzY1ZmJCby1RSV9YYjJWSjgyZVZMWmx0dEctRFgwSDgxbldqczF0ZEJicjRfS3dxNWppWEpSR3R0UlVrUXp2RDBUandMN05MZC1JcTJ2M1Q2Qjk0eXlqLXlUdUJrNlHSAXtBVV95cUxPLUdNdFJ6X09vTmU4SldKQ185SnNhVXh0Tl9uQmswSXQyaUlBNFdMRkR3eEZ4VzVsTnc4OUEwT1F3R3RmVGh2dzlFRERadU9FaUtNeGg3bjUtRDJhY0IyeXRJR3R0OE56d1lRSHhHampfbFBCQkY0SHBpUzA?oc=5",
+        "pubTime": "2026-07-30 18:45",
+        "source": "news.google.com",
+        "titleZh": "川普曾承諾農業將迎來「黃金時代」。愛荷華州的農民表示，他們仍在等待——CNBC",
+        "descZh": "川普曾承諾農業將迎來「黃金時代」。愛荷華州的農民表示，他們仍在等待……CNBC"
+      },
+      {
+        "title": "Commentary: O, Canada! Caught in crossfire, California wineries despair over Trump tariffs - Los Angeles Times",
+        "desc": "Commentary: O, Canada! Caught in crossfire, California wineries despair over Trump tariffs&nbsp;&nbsp;Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQjBBbHVxSUs2b3I4cUw3b3BIR2NYN0JrbWxTckdxSEFJUHhhM1pyUUsxSE5xUXBfdG1GVWZ4M3JhTXkyRWlQX002R1hXNlZnM04tTmJPeU4teXBxdE5VRjdLNVFTc0hiZWs0MDN1cWRKMFk0S3U2MVB1cnhfYjNGdHpoOXFYRlFpQ1VvNnFrRUtSaFZjb0lzd0cwblI4UTVQamZWU3NhaEFnNHpTZ0wzQUtoVG1VenBoS2dLMmFKZw?oc=5",
+        "pubTime": "2026-07-30 18:00",
+        "source": "news.google.com",
+        "titleZh": "評論：噢，加拿大！身陷交火之中，加州酒莊因川普關稅而陷入絕望——《洛杉磯時報》",
+        "descZh": "評論：噢，加拿大！夾在兩火之間，加州酒莊因川普關稅而陷入絕望&nbsp;&nbsp;《洛杉磯時報》"
+      },
+      {
+        "title": "Trump considering AI controls after OpenAI hacking incidents",
+        "desc": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+        "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-30 15:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在 OpenAI 發生駭客攻擊事件後，川普正考慮對人工智慧實施管控",
+        "descZh": "這標誌著其政府對該技術的態度出現轉變，此前該政府對此採取了較為放任的態度。"
+      },
+      {
+        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
+        "desc": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
+        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-30 06:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "價值 500 萬美元？遊客對華盛頓翻新後的馬雕像反應不一",
+        "descZh": "川普政府已使用23.75克拉的黃金，為林肯紀念堂附近的《孫子兵法》雕像重新鍍金。"
+      },
+      {
+        "title": "A look at Trump's $22bn plans to makeover Dulles Airport near Washington",
+        "desc": "The BBC's Shaimaa Khalil reports from aboard one of the airport's iconic 'people movers' that have been in use since 1962.",
+        "url": "https://www.bbc.co.uk/news/videos/c1m1zg5xzj2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-07-30 05:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "一窺川普耗資220億美元改造華盛頓附近杜勒斯機場的計畫",
+        "descZh": "BBC記者沙伊瑪·哈利勒（Shaimaa Khalil）從機場一輛自1962年起便投入使用的標誌性「自動人行道」上發回報導。"
+      },
+      {
+        "title": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers - The New York Times",
+        "desc": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPamp6c0Mzal9zbUVkZDVneDJNVTJsYVZvRWNuYjZpTmI2RHROZ3ZZaWFmSjNLZXZ4ZzJVWU1sZzlrYzFhbFJaVW5sdEF6S0prMnNraG9XMy1BUHF6c3FYRVBKaV91cjBFUVdIb2xxcVhabzFmUVNLY3kybFRIRk9UQw?oc=5",
+        "pubTime": "2026-07-30 00:18",
+        "source": "news.google.com",
+        "titleZh": "《制裁法案》將賦予川普廣泛的新關稅權力——《紐約時報》",
+        "descZh": "《制裁法案》將賦予川普廣泛的新關稅權力&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Trump Defends Tariff Policies, Announces New Duties on 60 Trading Partners - Global Trade Magazine",
+        "desc": "Trump Defends Tariff Policies, Announces New Duties on 60 Trading Partners&nbsp;&nbsp;Global Trade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNm8zeDI1eFhDSjktcVVwVWRoUVBvWmQ4N05ING5YeU9TODBBTnd2X2NpWEdtckN2MmJTUHZDVy0xcVJFYzlEY1lIM1BocXd2aHlTdnBPOFQ3VEk1VFQ3b0VQMmRQdlp4YnFhWmpRVEpfYnYtUkRWVzFnYXU4WEJVT0JFM1hTd2VRN1Y1R0VvNXVCaE0yLW9KVEs5TWp4TEw0VEROd0ZIcWM?oc=5",
+        "pubTime": "2026-07-29 19:19",
+        "source": "news.google.com",
+        "titleZh": "川普為關稅政策辯護，宣布對 60 個貿易夥伴加徵新關稅——《全球貿易》雜誌",
+        "descZh": "川普為關稅政策辯護，宣布對 60 個貿易夥伴國加徵新關稅&nbsp;&nbsp;《全球貿易》雜誌"
+      },
+      {
+        "title": "Trump tariffs on trading partners could raise prices for Arizona consumers - KOLD",
+        "desc": "Trump tariffs on trading partners could raise prices for Arizona consumers&nbsp;&nbsp;KOLD",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnpQSVhDcy0xdmE4bElDNjRtRkxfazJWb1BCczZkRThpekNUalQzUGtRc1ZQR0JnZVBUSmJRamV6dDAzc2Uwd09zTDF6bGtnOC1zWWtNWGRMR1NmSy1qWnZGNVB1c29zTFlldDVfQUM5WUg0MEI2dXBfZnJfUnd1b3hPVTNJSVVSdklpNUdid3VFbkpNUkNkU3g1ekxTSzQ4V3fSAbYBQVVfeXFMTl9uMWFDWkVCaXczNll4TEx0WF9MZ3hDZk43OG5mbjVGU0FFNktjNmFlRzBkRGpNRlg5UXlRYVV5RTVpSVlRN0duV1E5dnhicWhLcW9JRkNGV000WFJqV09pbUNmUnJ2ZENWa2wzcktQMmFrZUhvMHNtOUVpYkVtbk45WUgtTWFwdWFFRVlHTlBhV2g0UEJnbi1xOUNMcktKYVdzU1UtM2tZTW5ITjZ4YXZ3XzFKVGc?oc=5",
+        "pubTime": "2026-07-29 09:14",
+        "source": "news.google.com",
+        "titleZh": "川普對貿易夥伴徵收的關稅可能導致亞利桑那州消費者面臨物價上漲 - KOLD",
+        "descZh": "川普對貿易夥伴徵收關稅可能導致亞利桑那州消費者面臨物價上漲&nbsp;&nbsp;KOLD"
+      }
+    ]
+  },
+  {
     "date": "20260730",
     "fetchTime": "2026-07-30 05:23",
     "count": 14,
@@ -3619,121 +3707,6 @@
         "source": "news.google.com",
         "titleZh": "川普的關稅措施威脅美墨加貿易協定的穩定性 - Crypto Briefing",
         "descZh": "川普的關稅威脅到美墨加貿易協定的穩定性&nbsp;&nbsp;《Crypto Briefing》"
-      }
-    ]
-  },
-  {
-    "date": "20260701",
-    "fetchTime": "2026-07-01 05:51",
-    "count": 12,
-    "articles": [
-      {
-        "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-        "desc": "Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
-        "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-01 05:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國最高法院維持對跨性別運動員參與女子中學及大學體育賽事的禁令",
-        "descZh": "川普稱這項裁決是「一大勝利」，而一個LGBT團體則表示這「令人心碎」。"
-      },
-      {
-        "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-        "desc": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-01 02:28",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國最高法院維持「出生公民權」裁決，對川普構成打擊",
-        "descZh": "這項裁決對唐納德·川普的移民政策構成重大打擊，並受到民權團體的歡迎。"
-      },
-      {
-        "title": "Supreme Court's birthright ruling is major blow to Trump",
-        "desc": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
-        "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-30 22:37",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院關於「出生地權」的裁決對川普造成重大打擊",
-        "descZh": "英國廣播公司（BBC）的蓋瑞·奧唐納休（Gary O’Donoghue）闡述了法院這項具有里程碑意義的裁決對美國總統意味著什麼。"
-      },
-      {
-        "title": "JAMIE MCGEEVER | Why Trump’s tariffs had plenty of bark, but limited bite - TimesLIVE",
-        "desc": "JAMIE MCGEEVER | Why Trump’s tariffs had plenty of bark, but limited bite&nbsp;&nbsp;TimesLIVE",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONG9IMzRHYm1QU195ZkcyNV8yZmRwYlk0dE9uS3Y5UHB1NHJoVFExNzRjdTEzOXBEb1Fja0FyU2xMWnVJckdxQm5WMTZVZXp5M1FiWFJYZ2hQUDNMM0k0czE3a2thUUt5MnJDak92MXVhdTBJX0FHUTAtNHJEdHpncTJFVmZXTXdCbVJ2SHgtb3U2T2ZvNjNKZHFIelQ5eWhrOXZvWWo4bEFxVzFpMHhtVnkwcXdhRWNJTVJSQ1h1WU05bWNBa0psODlieFBVQ0RYVUdfNXZrbG16WDdkSWFGVnFKQlE?oc=5",
-        "pubTime": "2026-06-30 21:57",
-        "source": "news.google.com",
-        "titleZh": "傑米·麥基弗 | 為何川普的關稅「聲勢浩大，實則威力有限」——《TimesLIVE》",
-        "descZh": "傑米·麥吉弗 | 為何川普的關稅「聲勢浩大，實則威力有限」&nbsp;&nbsp;TimesLIVE"
-      },
-      {
-        "title": "Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk - 24/7 Wall St.",
-        "desc": "Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3JpRy1pNWRYbGtOOWxxNGJuLWY1QlJYS2Z0Q2x6N192Z3VqZEV2MFJwdm9EYk04bmhIVk90cWJSanhqMk0yN1FuVEMxS1FUVmhwZ1ZLbUtacFN1andfYUkzUlNsLUhkQ3RiaFpVSm83ZTd1b0lndFdRZVNINWs2NWpfUzJZclBUM18zOFBlYlNldTVNNmpQUG92XzIzTUdTbWRsRW5TVWZGQlM3VUpKX1RkOHBIVjg1d3ZxeVVqWm4zNzVETXc?oc=5",
-        "pubTime": "2026-06-30 18:11",
-        "source": "news.google.com",
-        "titleZh": "川普威脅對數位稅徵收 100% 關稅。這 5 檔科技股風險最高 — 24/7 Wall St.",
-        "descZh": "川普威脅對數位稅徵收 100% 關稅。這 5 檔科技股風險最高&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "Trump’s tariffs threaten stability of US-Mexico-Canada trade deal - Crypto Briefing",
-        "desc": "Trump’s tariffs threaten stability of US-Mexico-Canada trade deal&nbsp;&nbsp;Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QY2tScnhfd2xYNnlxSXZpVUJOb2R3V21TdkE0MjhORV90VWZtQmFQSnhkcUJodS10MG1ZZmFyeGFKd0szcmNWMWMwWXRZc3VzVjRZd3V1VlF6RER4WV9SM1lYN0xLZVlBRFpnTkpqaXJMUXM?oc=5",
-        "pubTime": "2026-06-30 17:08",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅措施威脅美墨加貿易協定的穩定性 - Crypto Briefing",
-        "descZh": "川普的關稅威脅到美墨加貿易協定的穩定性&nbsp;&nbsp;《Crypto Briefing》"
-      },
-      {
-        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-        "desc": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-30 04:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院戲劇性的一天：川普一勝三敗",
-        "descZh": "當川普慶祝一項將總統罷免及更換監管機構官員的權力擴大之裁決時，其他幾項裁決卻對他構成了重大打擊。"
-      },
-      {
-        "title": "Trump’s Misguided Trade Policy - American Enterprise Institute - AEI",
-        "desc": "Trump’s Misguided Trade Policy&nbsp;&nbsp;American Enterprise Institute - AEI",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMDRKb0JqejFvbEhtLTJ5MERraUxnTGQ4NXNMUmVxUS1SYnNNRk1HLW9ZQ1dfemlNT2pfTEtyOVdwdGtGY1VCdEF0bU9YeG9TS3JNSG92ZDl5T2M2a2dYRF9UYWM2enljek45VE1mRkZpUQ?oc=5",
-        "pubTime": "2026-06-30 03:05",
-        "source": "news.google.com",
-        "titleZh": "川普的錯誤貿易政策 — 美國企業研究所（AEI）",
-        "descZh": "川普的錯誤貿易政策　美國企業研究所（AEI）"
-      },
-      {
-        "title": "New York Unleashes $30M Lifeline as Trump's Tariffs Push Farmers to the Brink - Agrolatam",
-        "desc": "New York Unleashes $30M Lifeline as Trump's Tariffs Push Farmers to the Brink&nbsp;&nbsp;Agrolatam",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVm90MVdESzdMcElBVWlEUXRSUllnNXJvb0FwTU1jZjFaaTZJVXlvRURHRzRzV1AySjVpVlE5UTI5dlFlVW1MckxtT01vblRiNG5XYS1jWlFOV3RyOVJreUVRa3lXQndyWnR2R0xGMzRRWWRVeHJRemhMcUlQazJzZzM4MkZKaGc3MUxn?oc=5",
-        "pubTime": "2026-06-30 02:47",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅將農民逼至絕境，紐約州撥出 3,000 萬美元紓困金 - Agrolatam",
-        "descZh": "川普的關稅將農民逼至絕境，紐約撥出 3,000 萬美元紓困金&nbsp;&nbsp;Agrolatam"
-      },
-      {
-        "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-        "desc": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-        "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-30 00:51",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院阻止川普解僱聯邦儲備委員會委員麗莎·庫克的企圖",
-        "descZh": "這項被視為中央銀行獨立性勝利的裁決，將有關罷免的爭議重新交由下級法院處理。"
-      },
-      {
-        "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-        "desc": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-29 23:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普針對伊·珍·卡羅爾性侵案提出的最後上訴遭駁回",
-        "descZh": "最高法院的裁決意味著，美國總統現在必須向卡羅爾支付法院先前裁定她應獲的 500 萬美元（360 萬英鎊）損害賠償金。"
-      },
-      {
-        "title": "Watch: Biden calls Trump a 'loser' at fundraising event",
-        "desc": "Former US President Joe Biden blasted President Donald Trump during a gala event, criticising what he described as \"vanity projects\" in Washington, DC.",
-        "url": "https://www.bbc.co.uk/news/videos/c20yzz0d7zyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-06-29 21:09",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：拜登在募款活動上稱川普為「輸家」",
-        "descZh": "美國前總統喬·拜登在一場盛大的晚宴上猛烈抨擊總統唐納德·川普，批評華盛頓特區所謂的「面子工程」。"
       }
     ]
   }
