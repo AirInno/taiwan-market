@@ -1,5 +1,84 @@
 [
   {
+    "date": "20260803",
+    "fetchTime": "2026-08-03 05:13",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Trump is determined to pursue his trade war – and he may be difficult to stop - The Guardian",
+        "desc": "Trump is determined to pursue his trade war – and he may be difficult to stop&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90QmZ6b1ZSUmRVQ3IzWE40ZFRGZ09XMFNLUS1rV2dlN1VWbGozWGViUEdwaHFrNk15RHFHNGFsRmVSdVZpNG4zRUV1bVhUMHF2SUxWdTlrZ1pSSFcxZ1RzWEJ0eUIzZUxfd1l4aVAxZmlMT3hGMWQw?oc=5",
+        "pubTime": "2026-08-02 20:01",
+        "source": "news.google.com",
+        "titleZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他——《衛報》",
+        "descZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+        "desc": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-02 19:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普取消對伊朗的空襲，但前提是必須「迅速」達成協議",
+        "descZh": "美國總統聲稱，由於協議的「框架」已達成共識，伊朗及其他中東國家已要求華府暫緩任何攻擊行動。"
+      },
+      {
+        "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum? - Al Jazeera",
+        "desc": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3ZVRUhGVjR6cmh4bXg1enR2RGJSTlpvX0dqQThmMndTZkdrRzlvdnZILTBHZlRKeHB2WTl1LXdGbzZGTHZnMFd6ZHNPX1JrLTF2ZnNpTVlSOHVqdGpTS1pVWThfM2hYUDlSVnl4T0gxek9yb0VnR2t2OHEyYWwzZk9pVjZSVzZ4MDAyTXNSZXE3SlVmNXU3WHBEWVdSQ2VjdE1ySjA0Tk5PaWN2Z0HSAbMBQVVfeXFMTUtrUDhMdDI4cWsybEVEdG5QVTJVMTZNRmFDVFpicUhGYlcxTmo4amFIX01GNWVuZGgzdkNpNVFYNlVaSWc0ZkhyalFCd3FHUHJNUWRjcWRIM3NsSDlvNVFzT3YtcU9VLWlNeWVMTHJxN0Q3YW83LWM0ZmRkb0dOMW1WU2NhUGJIY1FQdlFXWWZ5N1FUSVdDZ2J0YTFzaDRPLUI0bDZCdXpHZ1FvdFI1eGp4QlE?oc=5",
+        "pubTime": "2026-08-02 07:24",
+        "source": "news.google.com",
+        "titleZh": "「如火如荼」地成長：台灣能否維持經濟動能？——半島電視台",
+        "descZh": "「如火如荼」地成長：台灣能否維持經濟動能？&nbsp;&nbsp;半島電視台"
+      },
+      {
+        "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+        "desc": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+        "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-02 01:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府撤銷針對「倒影池」破壞行為的指控，並承認修復工作「搞砸了」",
+        "descZh": "唐納德·川普總統曾將責任歸咎於「病態」的破壞者，且一名前奧運選手已被起訴，但檢方現在表示，是承包商造成這起損壞。"
+      },
+      {
+        "title": "Trump threatens to revive $1.8bn 'anti-weaponisation' fund as Senate standoff deepens",
+        "desc": "\"It will immediately be back on the table, and I will get it done,\" the president wrote.",
+        "url": "https://www.bbc.co.uk/news/articles/cj9dwkk1lk7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-01 23:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著參議院僵局加劇，川普威脅要重啟18億美元的「反武器化」基金",
+        "descZh": "「這件事將立即重新提上議程，而我會把它辦妥，」總統寫道。"
+      },
+      {
+        "title": "This wave of Trump tariffs is likely here to stay; more are coming - Awani International",
+        "desc": "This wave of Trump tariffs is likely here to stay; more are coming&nbsp;&nbsp;Awani International",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzRZeXV1N0pLYTl5M3ZRZ2xFRjRZUkpNMVRIM3R1TEtndXR5VUp1Zy10NWxzSUtCQkVCOFJYd05YcUtSNFdNc1NIbXpiTjVsd0FmN29IbHBpR1FkT1JKbFVIODFBZ1FkODJqUVlFRjdITFUtMTlDWUMtRzAtaVpnblM5cTdfNnRFd25YdlRZX0l0YXF1N1R0Rm94MzFOekxXRlE?oc=5",
+        "pubTime": "2026-08-01 10:36",
+        "source": "news.google.com",
+        "titleZh": "這波川普關稅很可能將長期存在；更多關稅即將到來——Awani International",
+        "descZh": "這波川普關稅很可能將長期存在；更多關稅即將到來&nbsp;&nbsp;Awani International"
+      },
+      {
+        "title": "America’s tariff state is expanding. India must be patient - The Indian Express",
+        "desc": "America’s tariff state is expanding. India must be patient&nbsp;&nbsp;The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGdBdUNYQVdKRlhFcVVuWkxjdDB6dDlVZGpnbmItVjNBVXFjcGlVdGY1ampHRzVUQlhjRDNhZTFjdjkwX2xSQ3BPa0R6SkpoZXJlQzFab1BVOW9LRDVRRVE4UHVZZW5vQVMtendEQnNza290dmh0V1oyaHZ2Y053RDJlX2FQQXZnS0tnMmh2Nmo0SzFpaG9neHlWODd1a2puNVlsS0MtN25sYW9yYWV4TlRUZGk5QjTSAb4BQVVfeXFMTWNRSmpOQXRqNFFsRW5JSkdaN1pOZk5wei1KT1Jkelk1ZXlTdFhWU2Y2NmVJVC1sRDBIdWl1ZndZS0R6TGNheGNFN25PVzYyZlItYmxQRUxKY1RLRDVBZVNhTGwxeHJicnk5VEp0TEM1NVVlLTd5SVNMaUE2eWdaOWthSkJvUHVSczgxd2tJb3hmSzRDeDg1bXY3ZXdpYkR4cWFvM2k1OW0zUUJPZnR4TkNiWVJacHV0eEZId0wtUQ?oc=5",
+        "pubTime": "2026-08-01 09:10",
+        "source": "news.google.com",
+        "titleZh": "美國的關稅範圍正在擴大。印度必須保持耐心——《印度快報》",
+        "descZh": "美國的關稅範圍正在擴大。印度必須保持耐心&nbsp;&nbsp;《印度快報》"
+      },
+      {
+        "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+        "desc": "The US president's latest comments come weeks after he offered Kyiv the right to make the missiles.",
+        "url": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-01 05:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普目前對是否允許烏克蘭製造「愛國者」飛彈「尚不確定」",
+        "descZh": "美國總統的最新言論，是在他向基輔授予製造這些飛彈的權利數週後發表的。"
+      }
+    ]
+  },
+  {
     "date": "20260802",
     "fetchTime": "2026-08-02 05:13",
     "count": 11,
@@ -3574,139 +3653,6 @@
         "source": "news.google.com",
         "titleZh": "披露資料顯示，在關稅引發市場下跌後，川普買進了蘋果、英偉達及其他大型科技股 - 《數位今日》",
         "descZh": "披露資料顯示，川普在關稅引發市場下跌後買進了蘋果、英偉達及其他大型科技股&nbsp;&nbsp;數位今日"
-      }
-    ]
-  },
-  {
-    "date": "20260704",
-    "fetchTime": "2026-07-04 05:36",
-    "count": 14,
-    "articles": [
-      {
-        "title": "House Democrats Push Back Against Trump Tariff and Trade Policies - westerniowatoday.com",
-        "desc": "House Democrats Push Back Against Trump Tariff and Trade Policies&nbsp;&nbsp;westerniowatoday.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1h5Q2stMm5JMmlXMFdpSnlzc09SajRXNERlVFZYWEs5YVItaTBsclplbzdYS0N4cmJrbXdPNjRxRWFaUGNSYmxPS2hZMDBzX08yVnVxQVQ2Wm5YNU9IT3Q5RHFmRUVsMi1kNFNkd3g3MzNNck51MzFfcEpUeW8tTGFTcnlOaklGZ2RfZ3ExM1RXQXgzMUNYc3NJQmF0dW5uZUVDOFQ1b2xtUQ?oc=5",
-        "pubTime": "2026-07-03 17:29",
-        "source": "news.google.com",
-        "titleZh": "眾議院民主黨人反擊川普的關稅與貿易政策 - westerniowatoday.com",
-        "descZh": "眾議院民主黨人反擊川普的關稅與貿易政策&nbsp;&nbsp;westerniowatoday.com"
-      },
-      {
-        "title": "Donald Trump Latest News Today: Donald Trump Traded Stocks Before Tariff Pause; Financial Disclosure Reveals Apple, Nvidia, Amazon and More Tech Companies - The Sunday Guardian",
-        "desc": "Donald Trump Latest News Today: Donald Trump Traded Stocks Before Tariff Pause; Financial Disclosure Reveals Apple, Nvidia, Amazon and More Tech Companies&nbsp;&nbsp;The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZ1dQQmNuS3cxbFFVcVJWQjZ6ZWxJNU5IWlFLc3pCRm1vc2hCUFB4Yk9tc2ZPZFI0Yk8tOGs0YjItMDVuVzFvT1V3Nzd6VC1COElhUzRoUGJQSWVMMk9HZXYtdVJubnVfQ0pTMHo2ejlqam9sQm5LY0ZYMkQ3WHBlTnVTSDdaTXVvd0lYZFZZWHdROF9lVGo2Wl9acE1iYjdzWFlpNjBZNG5Fd2VrM2lIWmlURUJYbmo4ZjltNzVzY19RYV9CRVlMb2Q0c0k3RmRjc2xPajlYU1E0OGg1WFFXcHlBY1AtQVBEVFhfNGVWLVJOYWlHM2RkV1hiWjc2dF9kX3VkbmpleG9INTJ1bVc4RHc0LTBtelpHSE8zTHB2c9IBpAJBVV95cUxNQ1BqNGFCcF96TGh2X0s5NURXNjVJZ1NQYUItZmpDejdaUDRybjk5QnhET05FTDZ4ZElBbmVnOUxQM0J1V3dHMVcwaW1xMnR2VEgya083Q0FGekhCRU83YkFIUF9LT2NQeWFxVUdEZlJjUXllSXlPRTFVZnN4a3NMTTcxSHZybm5mM1p2UlB6TFRWQnV4QUZyc1dWR3BmR0QzQXNPeURKcDQ5YmN5SjJSSFVjSGU2LUdXQ09vUWU0WVZISmtQZFFjdXE4S0ZXYmxaM1kwaW5zeWxWMDE3QTltdEJscTFjVWZmZGtReUZ6ZUlGWXJkMjlqOTVZZENaYlFuM2tUWXRvaWg1SFdoZHVIUDNfaGFxRzVNdG9yQ1BWRUx6VG5S?oc=5",
-        "pubTime": "2026-07-03 15:27",
-        "source": "news.google.com",
-        "titleZh": "唐納德·川普今日最新消息：唐納德·川普在暫停加徵關稅前曾進行股票交易；財務披露文件顯示其持有蘋果、英偉達、亞馬遜等科技公司股票——《週日衛報》",
-        "descZh": "唐納德·川普今日最新消息：唐納德·川普在暫停加徵關稅前曾進行股票交易；財務披露文件顯示其持有蘋果、英偉達、亞馬遜等多家科技公司股票&nbsp;&nbsp;《週日衛報》"
-      },
-      {
-        "title": "Trump bought Apple, Nvidia and other big tech stocks after tariff-driven market drop, disclosure shows - 디지털투데이",
-        "desc": "Trump bought Apple, Nvidia and other big tech stocks after tariff-driven market drop, disclosure shows&nbsp;&nbsp;디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzlYZ2FnT2hkZDMydU1Zak92QjNJTEJVX2F1RzI3cEVTVUJPd1FBTDVUVXZRV1F3VGdFRmRNUHlyWkgwbWRDVzdCUTctUnRJYW1QNGlXZGVpeDYxSDZmUWRpNzlUeGlTazlnYURCaE5mMzdpRklZQWIxYk9TRV9zbWZfT3BsQ2Y0MW9vdGhWdWFRTHJpVnF3eWFfd2NmVkFGYk44NTJpQmJ4US1fTnlBWA?oc=5",
-        "pubTime": "2026-07-03 08:05",
-        "source": "news.google.com",
-        "titleZh": "披露資料顯示，在關稅引發市場下跌後，川普買進了蘋果、英偉達等大型科技股 - 《數位今日》",
-        "descZh": "披露資料顯示，川普在關稅引發市場下跌後買進了蘋果、英偉達等大型科技股&nbsp;&nbsp;數位今日"
-      },
-      {
-        "title": "Watch: What Trump's Mount Rushmore aspirations reveal",
-        "desc": "The BBC's Sarah Smith is at the monument in South Dakota, and looks at the political debate and practical challenges the proposition poses.",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g0qwee24o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-03 04:37",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普的「拉什莫爾山」抱負揭示了什麼",
-        "descZh": "BBC記者莎拉·史密斯目前身處南達科他州的這座紀念碑旁，並探討這項提案所引發的政治辯論及實際挑戰。"
-      },
-      {
-        "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-        "desc": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-        "url": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-03 04:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前奧運選手因涉嫌破壞華盛頓反射池而被起訴",
-        "descZh": "在唐納德·川普總統力推的翻新工程似乎出現差池後，美國當局以破壞財物罪起訴了他。"
-      },
-      {
-        "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound - CNBC",
-        "desc": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uU09BV2VxQk4wa2RVdFM0c1pfb2hsNlZoREp2a1h0OHFNQVRmVGk1aDFqZEl6ajhhY1p4WDRFeDVKSUkzN1NmSlVvOHFMZktfRDg0bEJITDFsT1dRNkxGclFRMFFmb1lIODh1TkFCU3ZaYXdHSVBzUmx4RkjSAYIBQVVfeXFMT1U5UVUxWUp0RXNqdGwxazBxbVRqU1JqNVY1MXUxTmtIa0J2dnlYc0NWNGhDMnlrbGlaRUpuV2wzNGJJOVIxNlVfeUZBZ3cxSzFXNl9od195bkFmNElDazlyYXdyd1NhbnlsMXhJRXRUTG5KQzFrLThoMGp3bG5vZEtHZw?oc=5",
-        "pubTime": "2026-07-03 02:37",
-        "source": "news.google.com",
-        "titleZh": "川普在關稅政策逆轉帶動股價反彈前，已買進蘋果、英偉達等科技巨頭股票——CNBC",
-        "descZh": "川普在關稅政策逆轉帶動股價反彈前，已買進蘋果、英偉達等科技巨頭的股票&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Asia's big trade pacts soften damage from Trump tariffs - Nikkei Asia",
-        "desc": "Asia's big trade pacts soften damage from Trump tariffs&nbsp;&nbsp;Nikkei Asia",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanFfeEllcHNNQUltUzNJWDl1SUl1U21ibTJlME9mWTcyQlhLamdiNGZaWDh5SExNV2Q5VW5NZE9RY3lBU2pyWWpNOFZwWVJyRXo0YnFDSVhPOFpaWkFoZVJKMU1FYlVwMmIxTG9LdFhLU1YwR1lMNS1xS1dGUjlCXzA1YnNYSXp2SFVid1RJSTlnRjUtemZxTmk5RUg3RThkb2xR?oc=5",
-        "pubTime": "2026-07-03 02:00",
-        "source": "news.google.com",
-        "titleZh": "亞洲大型貿易協定緩解了川普關稅造成的衝擊——《日經亞洲》",
-        "descZh": "亞洲大型貿易協定緩解了川普關稅造成的衝擊&nbsp;&nbsp;日經亞洲版"
-      },
-      {
-        "title": "Trump Tariff Tracker – July 2, 2026 (via Passle) - Baker Botts",
-        "desc": "Trump Tariff Tracker – July 2, 2026 (via Passle)&nbsp;&nbsp;Baker Botts",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEtpWUN4ZVFJU3k1ekVmcWo4alZCenR6RGJTVzBGZi16SVU4dDRZQUhNMnBoYl9RWmR4YlRLVFg3SjZmakxsdkhqSGJpNjVNeGpSX2prSm0tYzE1N1d2TDdRN1B3aDBPY3hfMWRyZ3pmU21XNjFhNTdLXzFkbUcwYmhB?oc=5",
-        "pubTime": "2026-07-02 22:21",
-        "source": "news.google.com",
-        "titleZh": "川普關稅追蹤 – 2026年7月2日（透過 Passle） - Baker Botts",
-        "descZh": "川普關稅追蹤 – 2026年7月2日（透過 Passle）&nbsp;&nbsp;貝克·博茨律師事務所"
-      },
-      {
-        "title": "How are Trump and America celebrating 250th independence milestone?",
-        "desc": "Fireworks, a state fair and a mixed martial arts event at the White House are among the festivities that have been happening.",
-        "url": "https://www.bbc.co.uk/news/articles/c5y8nnj33e1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-02 19:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普與美國是如何慶祝獨立250週年這個重要里程碑的？",
-        "descZh": "煙火秀、州博覽會以及在白宮舉行的綜合格鬥賽事，都是近期舉辦的慶祝活動之一。"
-      },
-      {
-        "title": "Trump presidency reignites its founding debate - how much power is too much?",
-        "desc": "What would the revolutionaries who broke from the British monarchy 250 years ago make of the current head of state?",
-        "url": "https://www.bbc.co.uk/news/articles/cp9lm9j2580o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-02 17:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普總統任期重新點燃了關於美國立國原則的辯論——權力究竟到什麼程度才算過多？",
-        "descZh": "250年前脫離英國君主制的那群革命者，若看到當前的國家元首，會作何感想？"
-      },
-      {
-        "title": "Trump tariffs uncertainty: Indian exporters see more enquiries from US, but not many orders - here’s why - The Times of India",
-        "desc": "Trump tariffs uncertainty: Indian exporters see more enquiries from US, but not many orders - here’s why&nbsp;&nbsp;The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX19HMG5HNnlESXZCQWVxLU5fNXFRb19oLVVPN1VZNDN5N3lBQXYwSHpYcV9CVC0zTlllX2NOMDZOb3B1SU45QXBTekRZbHlPSVVyNTF4YUk5M2lZem5nQzNyWDNHdGQxRWVNMURkbGhSY1lFNFdXemxJSnAwZkVzajhyaE16YW5SVGZObU0wTnI3ZHF4c0F1OG5yUFhPd0E1MUEzbGprZDlEWnphY283RnFpUmptZjR2WHhVc1JHY21OWXZrYkxfRzZneGxRTmtoVGJUblI3RTdQRzNmSHVONGgwaWt5SnFDdFMzay1YTk1VcXQxWldDdmptRUU5UG9WWkU0NFlDOElDVHkyTmF1eXZINNIBmAJBVV95cUxPZ0JmZi1Ea1VydGdxbXRZaVpmMG83clgzSkhibjFiSHAtVnpKY1VUNnUtOVdueDEtRWxQRGVLWmVsVXZNQTIxWHVUMHVPa0RRNU5qTFlXNXZHRkFZSk11ZkplMGtRdm5yNW54eUt4SUhhUGl3dnNVeWZERThsd1ZOX1NHUG9aX2ZwcGNnNVJHY2VNTjVKUDZ3VzFBczg4WmFraTRWd3Q3Wm5FSWo0UUlrRy00WDJZbnVCcGZac2RCTFNxSHdsTV9iZWF2Q1ZlQlBCTUEwd0lkNWxfS2dhQlhBRFFjLV80cVhxUlVqZUJyUDNTUmV2cHBkYlBUeUxkWm1udDRNYzJRYkdVdy1VMXBFVlBhOVEtWFVS?oc=5",
-        "pubTime": "2026-07-02 14:08",
-        "source": "news.google.com",
-        "titleZh": "川普關稅的不確定性：印度出口商表示來自美國的詢價增多，但訂單不多——原因如下——《印度時報》",
-        "descZh": "川普關稅的不確定性：印度出口商表示來自美國的詢價增多，但訂單不多——原因如下&nbsp;&nbsp;《印度時報》"
-      },
-      {
-        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
-        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
-        "pubTime": "2026-07-02 12:48",
-        "source": "news.google.com",
-        "titleZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
-        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
-      },
-      {
-        "title": "US won't renew trade deal with Mexico and Canada that Trump struck in 1st term - ABC News - Breaking News, Latest News and Videos",
-        "desc": "US won't renew trade deal with Mexico and Canada that Trump struck in 1st term&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzF5QkZKdUhTQzRtVnplcFBTb1drSDUzTmpUYVRpZnF0emhyZnJFVlBfR1EwODN1Z0djSG9vM1k5allaN2Z4bkhrUjNTa29jSUdVZFROZk8xXzZ6S3JXQmhITWVBNE1ONjFTOWs1LTcySFJBdzlQNnRaWmkwRlgySEUyZ3BZTHp3djhFWndmdWZDYlgzcy1JMDV30gGfAUFVX3lxTFA5TnVYZVZyLVE2U1FqQ0JtYThOTUV3bjlMQjRoTlFkTkwyMTdyUDNFQ0Z6dXJtNVJuN0NCSHRlZjMyRWFNdTJEQUdHdmthUG5rTnZKUXZYT1NjMjgyV0xtM3pMZXpRUzFZRy1vcTNaMFhUMnpDWmRDUDQ0aFJsNERYUUttYWpreGV6ZkFhQXdYNlVaOUwxX2lWcU9Mem1kYw?oc=5",
-        "pubTime": "2026-07-02 08:19",
-        "source": "news.google.com",
-        "titleZh": "美國將不會續簽川普首任任期內與墨西哥及加拿大達成的貿易協定 —— ABC新聞 —— 突發新聞、最新消息與影片",
-        "descZh": "美國將不會續簽川普首任任期內與墨西哥及加拿大達成的貿易協定&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
-      },
-      {
-        "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-        "desc": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
-        "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-02 06:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "從杜魯門的退休金到川普的數十億——這筆白宮意外之財，是歷任總統都無法比擬的",
-        "descZh": "歷史學家指出，川普去年高達22億美元的收入實屬史無前例，且模糊了利益衝突的界線。"
       }
     ]
   }
