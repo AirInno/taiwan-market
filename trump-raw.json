@@ -1,5 +1,57 @@
 [
   {
+    "date": "20260804",
+    "fetchTime": "2026-08-04 05:35",
+    "count": 5,
+    "articles": [
+      {
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "desc": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-04 03:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "伊朗表示，在川普表示將重啟談判後，該國正與阿曼進行磋商，但未與美國進行磋商",
+        "descZh": "伊朗表示未曾與美國進行任何談判，此舉促使唐納德·川普對伊朗領導層發出強烈譴責。"
+      },
+      {
+        "title": "Holdout senators back Blanche for AG after he formally withdraws Trump fund plan",
+        "desc": "Trump's controversial $1.8bn \"anti-weaponisation\" fund  could have been used to compensate people prosecuted over the US Capitol riot.",
+        "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-04 01:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在布蘭奇正式撤回「川普基金」計畫後，持觀望態度的參議員們轉而支持他出任司法部長",
+        "descZh": "川普那筆備受爭議的18億美元「反武器化」基金，原本可用於賠償因美國國會山莊暴動事件而遭起訴的人士。"
+      },
+      {
+        "title": "Trump keeps escalating his trade threats. This time, Europe isn’t biting. - Politico",
+        "desc": "Trump keeps escalating his trade threats. This time, Europe isn’t biting.&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVdwOFV5N1BiMVh3Rnd4Q25Fcm4zVGZ3QzR0TFBGZi1TN3RnQlJtc0xZaEZ0UThON19fdnZtRi1zWkdYX1FZM3JsQjQ0VzdXZUNiTkRvSWlxUmJwbm5uM0JvUlhmLV9kQjk4UUk4X19nSVA2VHZaVlhiVTVReDBEcDVR?oc=5",
+        "pubTime": "2026-08-03 04:00",
+        "source": "news.google.com",
+        "titleZh": "川普不斷升級其貿易威脅。這次，歐洲並未上當。——《Politico》",
+        "descZh": "川普不斷升級其貿易威脅。這次，歐洲並未上當。&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "Trump is determined to pursue his trade war – and he may be difficult to stop - theguardian.com",
+        "desc": "Trump is determined to pursue his trade war – and he may be difficult to stop&nbsp;&nbsp;theguardian.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90QmZ6b1ZSUmRVQ3IzWE40ZFRGZ09XMFNLUS1rV2dlN1VWbGozWGViUEdwaHFrNk15RHFHNGFsRmVSdVZpNG4zRUV1bVhUMHF2SUxWdTlrZ1pSSFcxZ1RzWEJ0eUIzZUxfd1l4aVAxZmlMT3hGMWQw?oc=5",
+        "pubTime": "2026-08-02 20:00",
+        "source": "news.google.com",
+        "titleZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他 - theguardian.com",
+        "descZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他&nbsp;&nbsp;theguardian.com"
+      },
+      {
+        "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum? - Al Jazeera",
+        "desc": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3ZVRUhGVjR6cmh4bXg1enR2RGJSTlpvX0dqQThmMndTZkdrRzlvdnZILTBHZlRKeHB2WTl1LXdGbzZGTHZnMFd6ZHNPX1JrLTF2ZnNpTVlSOHVqdGpTS1pVWThfM2hYUDlSVnl4T0gxek9yb0VnR2t2OHEyYWwzZk9pVjZSVzZ4MDAyTXNSZXE3SlVmNXU3WHBEWVdSQ2VjdE1ySjA0Tk5PaWN2Z0HSAbMBQVVfeXFMTUtrUDhMdDI4cWsybEVEdG5QVTJVMTZNRmFDVFpicUhGYlcxTmo4amFIX01GNWVuZGgzdkNpNVFYNlVaSWc0ZkhyalFCd3FHUHJNUWRjcWRIM3NsSDlvNVFzT3YtcU9VLWlNeWVMTHJxN0Q3YW83LWM0ZmRkb0dOMW1WU2NhUGJIY1FQdlFXWWZ5N1FUSVdDZ2J0YTFzaDRPLUI0bDZCdXpHZ1FvdFI1eGp4QlE?oc=5",
+        "pubTime": "2026-08-02 07:24",
+        "source": "news.google.com",
+        "titleZh": "「如火如荼」地成長：台灣能否維持經濟動能？——半島電視台",
+        "descZh": "「如火如荼」地成長：台灣能否維持經濟動能？&nbsp;&nbsp;半島電視台"
+      }
+    ]
+  },
+  {
     "date": "20260803",
     "fetchTime": "2026-08-03 05:13",
     "count": 8,
@@ -3628,31 +3680,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "美國以煙火、飛機編隊飛行及極端天氣慶祝建國250週年",
         "descZh": "美國總統唐納德·川普的演說中，除了闡述部分政治議程外，也向退伍軍人及美國歷史致敬。"
-      }
-    ]
-  },
-  {
-    "date": "20260705",
-    "fetchTime": "2026-07-05 05:24",
-    "count": 2,
-    "articles": [
-      {
-        "title": "Donald Trump Latest News Today: Donald Trump Traded Stocks Before Tariff Pause; Financial Disclosure Reveals Apple, Nvidia, Amazon and More Tech Companies - The Sunday Guardian",
-        "desc": "Donald Trump Latest News Today: Donald Trump Traded Stocks Before Tariff Pause; Financial Disclosure Reveals Apple, Nvidia, Amazon and More Tech Companies&nbsp;&nbsp;The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZ1dQQmNuS3cxbFFVcVJWQjZ6ZWxJNU5IWlFLc3pCRm1vc2hCUFB4Yk9tc2ZPZFI0Yk8tOGs0YjItMDVuVzFvT1V3Nzd6VC1COElhUzRoUGJQSWVMMk9HZXYtdVJubnVfQ0pTMHo2ejlqam9sQm5LY0ZYMkQ3WHBlTnVTSDdaTXVvd0lYZFZZWHdROF9lVGo2Wl9acE1iYjdzWFlpNjBZNG5Fd2VrM2lIWmlURUJYbmo4ZjltNzVzY19RYV9CRVlMb2Q0c0k3RmRjc2xPajlYU1E0OGg1WFFXcHlBY1AtQVBEVFhfNGVWLVJOYWlHM2RkV1hiWjc2dF9kX3VkbmpleG9INTJ1bVc4RHc0LTBtelpHSE8zTHB2c9IBpAJBVV95cUxNQ1BqNGFCcF96TGh2X0s5NURXNjVJZ1NQYUItZmpDejdaUDRybjk5QnhET05FTDZ4ZElBbmVnOUxQM0J1V3dHMVcwaW1xMnR2VEgya083Q0FGekhCRU83YkFIUF9LT2NQeWFxVUdEZlJjUXllSXlPRTFVZnN4a3NMTTcxSHZybm5mM1p2UlB6TFRWQnV4QUZyc1dWR3BmR0QzQXNPeURKcDQ5YmN5SjJSSFVjSGU2LUdXQ09vUWU0WVZISmtQZFFjdXE4S0ZXYmxaM1kwaW5zeWxWMDE3QTltdEJscTFjVWZmZGtReUZ6ZUlGWXJkMjlqOTVZZENaYlFuM2tUWXRvaWg1SFdoZHVIUDNfaGFxRzVNdG9yQ1BWRUx6VG5S?oc=5",
-        "pubTime": "2026-07-03 15:27",
-        "source": "news.google.com",
-        "titleZh": "唐納德·川普今日最新消息：唐納德·川普在暫停加徵關稅前曾進行股票交易；財務披露文件顯示其持有蘋果、英偉達、亞馬遜等多家科技公司股票——《週日衛報》",
-        "descZh": "唐納德·川普今日最新消息：唐納德·川普在暫停加徵關稅前曾進行股票交易；財務披露文件顯示其持有蘋果、英偉達、亞馬遜等多家科技公司股票&nbsp;&nbsp;《週日衛報》"
-      },
-      {
-        "title": "Trump bought Apple, Nvidia and other big tech stocks after tariff-driven market drop, disclosure shows - 디지털투데이",
-        "desc": "Trump bought Apple, Nvidia and other big tech stocks after tariff-driven market drop, disclosure shows&nbsp;&nbsp;디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzlYZ2FnT2hkZDMydU1Zak92QjNJTEJVX2F1RzI3cEVTVUJPd1FBTDVUVXZRV1F3VGdFRmRNUHlyWkgwbWRDVzdCUTctUnRJYW1QNGlXZGVpeDYxSDZmUWRpNzlUeGlTazlnYURCaE5mMzdpRklZQWIxYk9TRV9zbWZfT3BsQ2Y0MW9vdGhWdWFRTHJpVnF3eWFfd2NmVkFGYk44NTJpQmJ4US1fTnlBWA?oc=5",
-        "pubTime": "2026-07-03 08:05",
-        "source": "news.google.com",
-        "titleZh": "披露資料顯示，在關稅引發市場下跌後，川普買進了蘋果、英偉達及其他大型科技股 - 《數位今日》",
-        "descZh": "披露資料顯示，川普在關稅引發市場下跌後買進了蘋果、英偉達及其他大型科技股&nbsp;&nbsp;數位今日"
       }
     ]
   }
