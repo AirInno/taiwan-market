@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260808",
+    "fetchTime": "2026-08-08 05:05",
+    "count": 11,
+    "articles": [
+      {
+        "title": "New Sweeping U.S. Tariffs Use Forced-Labor Justification - The Organization for World Peace",
+        "desc": "New Sweeping U.S. Tariffs Use Forced-Labor Justification&nbsp;&nbsp;The Organization for World Peace",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN01UdTM4TVhFU3lGaXJCUWgxZ19aWWdVRkZ1dmdSRFREQWs2THNJWnhZM3FnbWdpUF83VnJId1pFamgzUzllVWIzTThGb2xlVlpjOXR4NkR4cFBacEl3WHRxMi1oWGgyU1EwU0JSVzRJMi1sTGpxNkJrU0ZpNjctdw?oc=5",
+        "pubTime": "2026-08-08 01:59",
+        "source": "news.google.com",
+        "titleZh": "美國新實施的大規模關稅以「強迫勞動」為藉口——世界和平組織",
+        "descZh": "美國新實施的大規模關稅以「強迫勞動」為藉口&nbsp;&nbsp;世界和平組織"
+      },
+      {
+        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "desc": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 01:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國上訴法院叫停川普宴會廳計畫，為最高法院的對決鋪路",
+        "descZh": "「是否應興建一座大型舞廳，應由國會決定，」上訴小組的多數意見指出。"
+      },
+      {
+        "title": "US Senator Cassidy will vote to confirm Blanche for AG, likely saving teetering nomination",
+        "desc": "Earlier, Republican Senator Lisa Murkowski said she opposed Trump's pick to lead the justice department",
+        "url": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 00:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國參議員卡西迪將投票支持布蘭奇出任司法部長，此舉有望挽救這項岌岌可危的提名",
+        "descZh": "稍早前，共和黨參議員莉莎·穆爾科斯基表示，她反對川普提名的人選出任司法部長一職"
+      },
+      {
+        "title": "Trump’s summer of tariffs means trade uncertainty is here to stay - Chatham House",
+        "desc": "Trump’s summer of tariffs means trade uncertainty is here to stay&nbsp;&nbsp;Chatham House",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUFuLVMtZ2dBeHJRMlhZMDAycmdBTlZMZE4zdXpQVUFXV0dTNDBCb2pRZWhaTEZJM0dBLVBSWXFLaUZ4cWVrUzdUczlzTnhEUmcxTHRKS1ZjeHpHa1VMNF9BaVdGaDUxd2hYOVlTdnZOeEVtNlpHVkRHZUd0aHVzeDJwd3VuRUE1bm9WR1ZQblkxVlRuQllz?oc=5",
+        "pubTime": "2026-08-07 23:51",
+        "source": "news.google.com",
+        "titleZh": "川普的「關稅之夏」意味著貿易不確定性將持續存在——查塔姆研究所",
+        "descZh": "川普的「關稅之夏」意味著貿易不確定性將持續存在&nbsp;&nbsp;查塔姆研究所"
+      },
+      {
+        "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+        "desc": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 21:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府將向一家德國公司支付12億美元，以叫停美國的風電項目",
+        "descZh": "RWE 的這筆賠償金，是近期一連串取消風力發電專案交易中的最新一例，而風力發電這項能源長期以來一直遭到川普的嘲諷。"
+      },
+      {
+        "title": "Trump-backed Republican congressman loses primary in Tennessee",
+        "desc": "Andy Ogles is the second person backed by the US president to lose this week but there were also some wins in Trump's corner.",
+        "url": "https://www.bbc.co.uk/news/articles/c79grd2prnro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 17:36",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "獲川普支持的共和黨國會議員在田納西州初選中落敗",
+        "descZh": "安迪·奧格爾斯是本週第二位獲得美國總統支持卻落敗的人，但川普陣營也取得了一些勝利。"
+      },
+      {
+        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+        "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 08:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普再度透過新的行政命令，試圖限制美國的出生公民權",
+        "descZh": "這些行政命令禁止「生育旅遊」，並擴大現有定義，將那些子女不符合美國出生公民權資格的人士納入其中。"
+      },
+      {
+        "title": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war - The Globe and Mail",
+        "desc": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war&nbsp;&nbsp;The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2o3WWFVa1RJam9wVjhGN2VfY1hxZHdMZ0pTWkFTMXdqelgzY3RWV28zZG9raG00Z1lvQkNheVFpOGxqR0tTQ29wTWtWbEhkano5d2ZkdWc4c0FjbWF1cXFhRmRXMjdXRVFEaG10SXRCT3dLYkJOMk80S2FsQkd4amg1OC1QNklJeEdGX1NnaVotMHhHN3VONHdoY2RPek42OFFweG13?oc=5",
+        "pubTime": "2026-08-07 07:25",
+        "source": "news.google.com",
+        "titleZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害——《環球郵報》",
+        "descZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害&nbsp;&nbsp;《環球郵報》"
+      },
+      {
+        "title": "Top Economist Steve Hanke Has a Blunt Response to Trump's Claim That Tariffs ‘Made Us Rich': 'WRONG' - benzinga.com",
+        "desc": "Top Economist Steve Hanke Has a Blunt Response to Trump's Claim That Tariffs ‘Made Us Rich': 'WRONG'&nbsp;&nbsp;benzinga.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT0R6LXRyT0VqTjFkdmZFeGlZVjk3SklVOXp5TFNYVUx0aW1EaGFxLVNKMHJsM3k1YWVhVTBDS0xTeWVPODBkWXl4YklXTDNNeVVBdTljN0VDenB3cGRnN0RtcXA5SXdPa0ZwZ2ZNNnBkNjZZRTRGY2hRMXRONUlreDN1U2J1NUloZlpsSmxGZWc0VWhIY0N0aHZuNlByTEFTTDAyZkU4dThVR3Q4Wm9PNkpuOFVtSmxxQnNLUzZxSURObUpkY2FXNDRpc3hkUm1xcWswNVJXM0Fxa1NGNUNyT2lB?oc=5",
+        "pubTime": "2026-08-06 20:37",
+        "source": "news.google.com",
+        "titleZh": "頂尖經濟學家史蒂夫·漢克針對川普聲稱「關稅讓我們變富」一事給出直率回應：「錯了」 - benzinga.com",
+        "descZh": "頂尖經濟學家史蒂夫·漢克針對川普聲稱「關稅讓我們變富」一事給出了直率的回應：「錯了」&nbsp;&nbsp;benzinga.com"
+      },
+      {
+        "title": "US President Donald Trump's administration has refunded about $100 billion in tariffs since the Supreme Court struck down a wave of his duties this year, court filings show. | via ANC 24/7 Check the comments section for the full story. - facebook.com",
+        "desc": "US President Donald Trump's administration has refunded about $100 billion in tariffs since the Supreme Court struck down a wave of his duties this year, court filings show. | via ANC 24/7 Check the c",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzQ0N1Iyd3ZfanNiYmxaZVRwUFdHSnFqeVN6VE1Ca1FoNW5iZkpkVlQyT1NweFI3OWxONVFoZnViLUVHNnZUbHFqeUkycThpNTVPaVZZbnBRcVFUT2FyRHE1Wi1adnd1WWx0Z1V3OFl6cTJZMHpUTS1qMmViS1B0dHNNN0t3RnVMejcyWFVIUWtad0N3LUp1T1ZpR0FUWDMxblpDd1U3ZHVkNDdxVmJvaVBRekR5TkphYk9oVllVYmFxdU5Bdmt5SVNQdnkyNWtOMXhKeXMtdw?oc=5",
+        "pubTime": "2026-08-06 20:15",
+        "source": "news.google.com",
+        "titleZh": "法院文件顯示，自今年最高法院推翻了川普的一系列關稅措施以來，美國總統唐納德·川普的政府已退還了約1,000億美元的關稅。| 來源：ANC 24/7 請至留言區查看完整報導。- facebook.com",
+        "descZh": "法院文件顯示，自今年最高法院推翻了川普的一系列關稅措施以來，美國總統唐納德·川普的政府已退還了約1,000億美元的關稅。| 來源：ANC 24/7 查看詳情"
+      },
+      {
+        "title": "Why is the US Refunding $100 Billion in Trump Tariffs? Here's What Happened - Open Magazine",
+        "desc": "Why is the US Refunding $100 Billion in Trump Tariffs? Here's What Happened&nbsp;&nbsp;Open Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYU8tTDNRaTg2MEpOUFhGY2xuLWZvcDkzV1UzX1plby1oX0RQYzNZc29DT1lqR2M5a2xlYlVTOEJoVGxGcTdONXBjVUdTQTlnLXktc2kweURwSk9xNU5GS1pBNVlMLWtiNjdBS2EtWGFnVkNpcWlidmpPTFBhbVhnelA1eDhlekVRY2xWY1YtaU5ySzBMMzZ1ck1wTXlqVXh0NGhHRkM0Y2xCQQ?oc=5",
+        "pubTime": "2026-08-06 13:31",
+        "source": "news.google.com",
+        "titleZh": "美國為何要退還 1,000 億美元的「川普關稅」？事情是這樣的——《Open Magazine》",
+        "descZh": "美國為何要退還 1,000 億美元的「川普關稅」？事情是這樣的……《Open Magazine》"
+      }
+    ]
+  },
+  {
     "date": "20260807",
     "fetchTime": "2026-08-07 08:55",
     "count": 18,
@@ -3862,67 +3968,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "鮑恩：儘管特朗普口出狂言，但他除了與伊朗談判外別無選擇",
         "descZh": "BBC國際新聞主編傑瑞米·鮑恩撰文指出，談判進程岌岌可危，而美國近期發動的空襲更顯示，要達成協議將是何等艱難。"
-      }
-    ]
-  },
-  {
-    "date": "20260709",
-    "fetchTime": "2026-07-09 05:35",
-    "count": 6,
-    "articles": [
-      {
-        "title": "Judge orders Trump's $5m damages be released to E Jean Carroll",
-        "desc": "The Supreme Court declined to hear his appeal of the case, but Trump still sought to delay the payment.",
-        "url": "https://www.bbc.co.uk/news/articles/c05yq5nmqvno?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-09 04:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "法官下令將川普的500萬美元賠償金支付給E·珍·卡羅爾",
-        "descZh": "最高法院拒絕受理他針對此案提出的上訴，但川普仍試圖拖延付款。"
-      },
-      {
-        "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-        "desc": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-        "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-08 23:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "鮑恩：儘管特朗普口出狂言，但他除了與伊朗談判外別無選擇",
-        "descZh": "BBC國際新聞主編傑瑞米·鮑恩撰文指出，談判進程岌岌可危，而美國近期發動的空襲更顯示出要達成協議將面臨多大困難。"
-      },
-      {
-        "title": "'We don't need anybody's help': Trump renews Nato criticism",
-        "desc": "US President Donald Trump renewed his criticism of NATO during the alliance's summit, saying he was repeatedly disappointed by the organisation.",
-        "url": "https://www.bbc.co.uk/news/videos/czrxjvd2k3xo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 22:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「我們不需要任何人的幫助」：川普再度批評北約",
-        "descZh": "美國總統唐納德·川普在北約峰會期間再次批評該組織，表示他對該組織一再感到失望。"
-      },
-      {
-        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
-        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
-        "pubTime": "2026-07-07 17:14",
-        "source": "news.google.com",
-        "titleZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
-        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
-      },
-      {
-        "title": "Why European backlash over Trump intervention won't worry Infantino",
-        "desc": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 16:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何歐洲對川普介入一事的反彈不會讓因凡蒂諾感到擔憂",
-        "descZh": "在擔任國際足總主席10年後，福拉林·巴洛貢的爭議會不會讓詹尼·因凡蒂諾的處境雪上加霜？別指望了。"
-      },
-      {
-        "title": "Why some African nations are turning down Trump aid money",
-        "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 08:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何部分非洲國家拒絕接受川普的援助資金",
-        "descZh": "川普政府將這筆援助視為一種交易性質的舉措——但有些人認為這並非一筆公平的交易。"
       }
     ]
   }
