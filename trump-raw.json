@@ -1,5 +1,174 @@
 [
   {
+    "date": "20260807",
+    "fetchTime": "2026-08-07 08:55",
+    "count": 18,
+    "articles": [
+      {
+        "title": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war - The Globe and Mail",
+        "desc": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war&nbsp;&nbsp;The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2o3WWFVa1RJam9wVjhGN2VfY1hxZHdMZ0pTWkFTMXdqelgzY3RWV28zZG9raG00Z1lvQkNheVFpOGxqR0tTQ29wTWtWbEhkano5d2ZkdWc4c0FjbWF1cXFhRmRXMjdXRVFEaG10SXRCT3dLYkJOMk80S2FsQkd4amg1OC1QNklJeEdGX1NnaVotMHhHN3VONHdoY2RPek42OFFweG13?oc=5",
+        "pubTime": "2026-08-07 07:25",
+        "source": "news.google.com",
+        "titleZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害——《環球郵報》",
+        "descZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害&nbsp;&nbsp;《環球郵報》"
+      },
+      {
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "desc": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 02:53",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普否認美國武器短缺，並表示正在「追查」資訊「洩密者」",
+        "descZh": "雖然確切數據屬於機密，但公開資訊顯示，美國已耗盡了許多難以製造的武器。"
+      },
+      {
+        "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers - Investor's Business Daily",
+        "desc": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers&nbsp;&nbsp;Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGM0TFBVcmtKRlg3bVlicUVxX2NXbFVha3g1RFlqbE56SlZPd0VKUk5QTzF3Yk4tSUtES0h3TnNIaUFud1VFZFlpdjBvSjVKbzVYV3l5M1pVcDB2U1ZNaXBpbFFneXZjejZTTUVYeGY1ajAyV1phMlNRNjl6VFU5NjNfNmkxZDBlbmZZc2xzMWFXQjlLTGExQWM5WUJ2TDAzc2FxbnZpcGVHQ1pOMkJxM01HSmpORlBpaXc?oc=5",
+        "pubTime": "2026-08-07 02:07",
+        "source": "news.google.com",
+        "titleZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、閃迪、特斯拉股價波動劇烈 —《投資者商業日報》",
+        "descZh": "道瓊期貨：川普與伊朗相關言論帶動科技股反彈；蘋果、美光、英偉達、SanDisk、特斯拉股價波動劇烈&nbsp;&nbsp;《投資者商業日報》"
+      },
+      {
+        "title": "Judge grants Trump's request to delay handing financial records to BBC",
+        "desc": "The US president is suing the BBC over a controversial episode of Panorama broadcast in 2024.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyewew50ryo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 00:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法官批准川普延遲向英國廣播公司（BBC）提交財務紀錄的請求",
+        "descZh": "美國總統正就英國廣播公司（BBC）於2024年播出的《全景》節目中一集具爭議性的內容，對該公司提起訴訟。"
+      },
+      {
+        "title": "Top Economist Steve Hanke Has a Blunt Response to Trump's Claim That Tariffs ‘Made Us Rich': 'WRONG' - Benzinga",
+        "desc": "Top Economist Steve Hanke Has a Blunt Response to Trump's Claim That Tariffs ‘Made Us Rich': 'WRONG'&nbsp;&nbsp;Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT0R6LXRyT0VqTjFkdmZFeGlZVjk3SklVOXp5TFNYVUx0aW1EaGFxLVNKMHJsM3k1YWVhVTBDS0xTeWVPODBkWXl4YklXTDNNeVVBdTljN0VDenB3cGRnN0RtcXA5SXdPa0ZwZ2ZNNnBkNjZZRTRGY2hRMXRONUlreDN1U2J1NUloZlpsSmxGZWc0VWhIY0N0aHZuNlByTEFTTDAyZkU4dThVR3Q4Wm9PNkpuOFVtSmxxQnNLUzZxSURObUpkY2FXNDRpc3hkUm1xcWswNVJXM0Fxa1NGNUNyT2lB?oc=5",
+        "pubTime": "2026-08-06 20:37",
+        "source": "news.google.com",
+        "titleZh": "頂尖經濟學家史蒂夫·漢克針對川普聲稱「關稅讓我們變富」一事給出直率回應：「錯了」——Benzinga",
+        "descZh": "頂尖經濟學家史蒂夫·漢克針對川普聲稱「關稅讓我們變富」一事給出了直率的回應：「錯了」&nbsp;&nbsp;Benzinga"
+      },
+      {
+        "title": "US President Donald Trump's administration has refunded about $100 billion in tariffs since the Supreme Court struck down a wave of his duties this year, court filings show. | via ANC 24/7 Check the comments section for the full story. - facebook.com",
+        "desc": "US President Donald Trump's administration has refunded about $100 billion in tariffs since the Supreme Court struck down a wave of his duties this year, court filings show. | via ANC 24/7 Check the c",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRzQ0N1Iyd3ZfanNiYmxaZVRwUFdHSnFqeVN6VE1Ca1FoNW5iZkpkVlQyT1NweFI3OWxONVFoZnViLUVHNnZUbHFqeUkycThpNTVPaVZZbnBRcVFUT2FyRHE1Wi1adnd1WWx0Z1V3OFl6cTJZMHpUTS1qMmViS1B0dHNNN0t3RnVMejcyWFVIUWtad0N3LUp1T1ZpR0FUWDMxblpDd1U3ZHVkNDdxVmJvaVBRekR5TkphYk9oVllVYmFxdU5Bdmt5SVNQdnkyNWtOMXhKeXMtdw?oc=5",
+        "pubTime": "2026-08-06 20:15",
+        "source": "news.google.com",
+        "titleZh": "法院文件顯示，自今年最高法院推翻了川普的一系列關稅措施以來，美國總統唐納德·川普的政府已退還約1,000億美元的關稅。| 來源：ANC 24/7 請至留言區查看完整報導。- facebook.com",
+        "descZh": "法院文件顯示，自今年最高法院推翻了川普的一系列關稅措施以來，美國總統唐納德·川普的政府已退還了約1,000億美元的關稅。| 來源：ANC 24/7 查看詳情"
+      },
+      {
+        "title": "Why is the US Refunding $100 Billion in Trump Tariffs? Here's What Happened - Open Magazine",
+        "desc": "Why is the US Refunding $100 Billion in Trump Tariffs? Here's What Happened&nbsp;&nbsp;Open Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYU8tTDNRaTg2MEpOUFhGY2xuLWZvcDkzV1UzX1plby1oX0RQYzNZc29DT1lqR2M5a2xlYlVTOEJoVGxGcTdONXBjVUdTQTlnLXktc2kweURwSk9xNU5GS1pBNVlMLWtiNjdBS2EtWGFnVkNpcWlidmpPTFBhbVhnelA1eDhlekVRY2xWY1YtaU5ySzBMMzZ1ck1wTXlqVXh0NGhHRkM0Y2xCQQ?oc=5",
+        "pubTime": "2026-08-06 13:31",
+        "source": "news.google.com",
+        "titleZh": "美國為何要退還 1,000 億美元的「川普關稅」？事情是這樣的——《Open Magazine》",
+        "descZh": "美國為何要退還 1,000 億美元的「川普關稅」？事情是這樣的……《Open Magazine》"
+      },
+      {
+        "title": "US refunds US$100 billion in tariffs struck down by Supreme Court, filing shows - The Business Times",
+        "desc": "US refunds US$100 billion in tariffs struck down by Supreme Court, filing shows&nbsp;&nbsp;The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVZRejhzWFh3UkEydjZDcEhQNDV2QTI3aFBCOWJvSk9idUdNczJHSE5vRzJLdndTTkFLU1ZXeDgtbGVaVjJ4UjhLRFhQcnduR3BsUWppdFBzcUUyZ0diZDRDVjJ4Vl8wR2VJdG0xNkgtWlc0N0hRWHU3Z2ptUVFTbVBaVHE5OGdZRVQ4VjhPS2JCSjRVMFJZTFdPSkNTSFJsbkV0dnVUcFNlN1ZQajhSdkR0ZDBBWW5nZURFdjR3YTlaYm8?oc=5",
+        "pubTime": "2026-08-06 10:35",
+        "source": "news.google.com",
+        "titleZh": "文件顯示，美國退還了最高法院裁定無效的1,000億美元關稅 - 《商業時報》",
+        "descZh": "文件顯示，美國退還了最高法院裁定無效的1,000億美元關稅&nbsp;&nbsp;《商業時報》"
+      },
+      {
+        "title": "Trump Administration Refunds $100 Billion in ‘Liberation Day’ Tariffs - bitcoinworld.co.in",
+        "desc": "Trump Administration Refunds $100 Billion in ‘Liberation Day’ Tariffs&nbsp;&nbsp;bitcoinworld.co.in",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQemZKTFFCV3huRndhSFdEblU1RmEwdmgwVmgtWEthMVVMUmxDeGFzMU9tTXcyODd5ZHZqNnVaWVRSdHFiSEViUGwtaWJDbEdqSzJFWjJvRzdKU2JEbUl3bXlNdk5oc1lJY19HODZkZ3I3OVhlTUZZdW94RFJNek1Hb29xb1F5eG9kNEV2UHA3S0RlWVA0YUE?oc=5",
+        "pubTime": "2026-08-06 10:20",
+        "source": "news.google.com",
+        "titleZh": "川普政府退還 1,000 億美元「解放日」關稅 - bitcoinworld.co.in",
+        "descZh": "川普政府退還 1,000 億美元「解放日」關稅&nbsp;&nbsp;bitcoinworld.co.in"
+      },
+      {
+        "title": "What are tariffs, how do they work and why is Trump using them? - BBC",
+        "desc": "What are tariffs, how do they work and why is Trump using them?&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+        "pubTime": "2026-08-06 06:47",
+        "source": "news.google.com",
+        "titleZh": "什麼是關稅？它們如何運作？川普為何要使用關稅？——BBC",
+        "descZh": "什麼是關稅？它們如何運作？川普為何要使用關稅？&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "U.S. Refunds $100bn in Struck-Down Trump Tariffs as Legal Battle Over Trade Powers Continues - Tekedia",
+        "desc": "U.S. Refunds $100bn in Struck-Down Trump Tariffs as Legal Battle Over Trade Powers Continues&nbsp;&nbsp;Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFhlMy1xbExMZ1VvS3F1YkR0T3FQejlIWUhGQ1llaVM0R283ZmFUWUVTalVkQlhiV2Ywb1A0YjNTSXZsQWlDeGFKVHJVM2pDX3JxU29WS3dkQUdvbHVpRkJQM3JDUFlMN3U0U2RSZW96SW9UU3F3TGJtZG1WWlZDdTBWWjNEa0JVZUV5RzFOSWNZaTg0ZzN6TmRwZVVRUXctZTcxd01ReDQ4MUFlbjdEZG9ZWWhSUQ?oc=5",
+        "pubTime": "2026-08-06 06:05",
+        "source": "news.google.com",
+        "titleZh": "美國退還1,000億美元遭撤銷的川普關稅，貿易權限之爭持續發酵 - Tekedia",
+        "descZh": "美國退還因被撤銷而產生的 1,000 億美元川普關稅，貿易權限的法律戰持續進行&nbsp;&nbsp;Tekedia"
+      },
+      {
+        "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses - BBC",
+        "desc": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZzRiTnJiUU9Jc1BZS1V2cXBwZDg4RjJVZ1FBeEtSMG12dllRUWZ3bGdpSzJ5S0UzS1VxRW1kWWtSODNxR0ZNTWhkcmFpanZEeUtZdUYzSWRsdw?oc=5",
+        "pubTime": "2026-08-06 03:39",
+        "source": "news.google.com",
+        "titleZh": "川普政府向企業退還1,000億美元「解放日」關稅 —— BBC",
+        "descZh": "川普政府向企業退還1,000億美元「解放日」關稅&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Did Iran hack water systems in at least seven US states?",
+        "desc": "President Donald Trump has said Iran is not to blame, but cyber experts tell the BBC it is likely the attack was directed by Tehran.",
+        "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-05 23:43",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "伊朗是否駭入了美國至少七個州的供水系統？",
+        "descZh": "美國總統唐納德·川普表示伊朗不應為此負責，但網路安全專家向英國廣播公司（BBC）指出，此次攻擊很可能是由德黑蘭策動的。"
+      },
+      {
+        "title": "Trump's Tariff Application Against Chile Misused Forced Labor Concept, Claims Lawsuit from 25 US States - elciudadano.com",
+        "desc": "Trump's Tariff Application Against Chile Misused Forced Labor Concept, Claims Lawsuit from 25 US States&nbsp;&nbsp;elciudadano.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZFA1Y1ZVbDNZQkxJOVFxNWxIbE5BYlZiTzNZMjEzWVFfYWx3LUpBdWVoeWZpbG9rb0VfX0hScGFkVDZTWUcxd3pHUXJxLWdkS21JVzdwR3ljbEV6amhpZklTb1FTNlJBV2pYY0NpTk13UU9qZzd2UHJLYVU1QVlaWW1FZFBPeC10aXJja19ScXBiaGN2ZVE5Z2VVWDNZZ2JhaWUxMkVINkxoOXc3cVNtbHVkRllaRkRQUEoxNGxTU2ZheHlhU09zRDNzUTIxdGRYUy1BbU5n?oc=5",
+        "pubTime": "2026-08-05 22:35",
+        "source": "news.google.com",
+        "titleZh": "25個美國州提起的訴訟指控：川普針對智利的關稅申請濫用了「強迫勞動」的概念 - elciudadano.com",
+        "descZh": "25個美國州提起的訴訟指控，川普針對智利的關稅申請濫用了「強迫勞動」的概念&nbsp;&nbsp;elciudadano.com"
+      },
+      {
+        "title": "Democratic-Led States Sue to Block Trump's Latest Tariffs, Calling Them an Illegal End Run Around Supreme Court - Latin Times",
+        "desc": "Democratic-Led States Sue to Block Trump's Latest Tariffs, Calling Them an Illegal End Run Around Supreme Court&nbsp;&nbsp;Latin Times",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQU1IaUpqQ3ZEZGRJLVh5ZkJZbTB6ekVqODZKQzh4NkNKRFhuaERXbzdTM2VTQUxRYXRhdmJ3eDVTUGxEemxUREVqeU92ZW1KSExWZXdMNEh5VlNudTU5bnlaMUtFbzZDcE5tRHkyWUM3bmpkNWIxUjc5aXgzY25lWTFtZXRIVzc0MXJHMWtCWlBZS3Z5UmhuQmZDZGNKUmlvWkVxNGFwaWxvU1ZUTXFUeHR3RXF2LVFWdjZWZnR1N3Q?oc=5",
+        "pubTime": "2026-08-05 22:27",
+        "source": "news.google.com",
+        "titleZh": "由民主黨主導的各州提起訴訟，試圖阻止川普的最新關稅措施，並指稱此舉是繞過最高法院的非法手段——《拉丁時報》",
+        "descZh": "由民主黨主導的各州提起訴訟，試圖阻止川普最新關稅措施，並指稱此舉是繞過最高法院的非法手段&nbsp;&nbsp;《拉丁時報》"
+      },
+      {
+        "title": "News Section 301 tariffs set to be permanent feature of US trade policy - The Loadstar",
+        "desc": "News Section 301 tariffs set to be permanent feature of US trade policy&nbsp;&nbsp;The Loadstar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkVIQUFhUE82cXNhM1dXcmlWMlNSdTBDNENvQjFrdFBNX081aDFzdnBiaGF2WDhVVnI3akJHeU9iRlVWdGlCWVhIeE5DMDF0YlN5SHM0b3pYcWx6WE9nXzVuY0N3X1BNSGFwa1lNUGtMcHkyT3FTbTBEcHJ0RlFJTVJPLXNCWXRPd2N4d2lKRW1UQVB4N0E?oc=5",
+        "pubTime": "2026-08-05 20:58",
+        "source": "news.google.com",
+        "titleZh": "新聞專欄：第301條關稅將成為美國貿易政策的常態——《The Loadstar》",
+        "descZh": "新聞專欄：301條款關稅將成為美國貿易政策的常態&nbsp;&nbsp;《Loadstar》"
+      },
+      {
+        "title": "Trump’s tariff ‘Plan B’ has arrived - Washington Examiner",
+        "desc": "Trump’s tariff ‘Plan B’ has arrived&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3FLQW9WRUdSek9xLTVMdklvU1FJRm5QTVdyRWx0cHExTEVQWllaTkhRRWFNUkV3R2tQRlRIOXlKRENnRTQ4VlBIRGhPSW8zRG1YeG5WVU9wS2wxVU1JYThYRW5zSWdQNTdEVmZtbVI0REJ0cmIySk1UMlltN2VnZG9sZFEzWjBtWVJHXw?oc=5",
+        "pubTime": "2026-08-05 18:00",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅「B計畫」已出爐——《華盛頓觀察家報》",
+        "descZh": "川普的關稅「B計畫」已出爐&nbsp;&nbsp;《華盛頓觀察家報》"
+      },
+      {
+        "title": "Trump Tariff Refund Wave Accelerates: US Customs Has Returned $100 Billion, New Tariff Disputes Flare Up - finance.biggo.com",
+        "desc": "Trump Tariff Refund Wave Accelerates: US Customs Has Returned $100 Billion, New Tariff Disputes Flare Up&nbsp;&nbsp;finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Yd1lONDdnRTlzZUFHTkdfWmFEVXd4MllUbmFJLVRpLVgzT2llbllCM09NSW5OTkJyaThfYl9udjNsSS1UY3pwN0hmd3NGeDdibG9QMWx5bXZMNTJTNl9CcDFKbFVfVHJaNGF2WjR2cGZwRWdPSkE?oc=5",
+        "pubTime": "2026-08-05 14:26",
+        "source": "news.google.com",
+        "titleZh": "川普關稅退款潮加速：美國海關已退還 1,000 億美元，新關稅糾紛再度爆發 - finance.biggo.com",
+        "descZh": "川普關稅退款潮加速：美國海關已退還 1,000 億美元，新關稅爭端再度升溫&nbsp;&nbsp;finance.biggo.com"
+      }
+    ]
+  },
+  {
     "date": "20260806",
     "fetchTime": "2026-08-06 05:39",
     "count": 13,
@@ -3754,94 +3923,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "為何部分非洲國家拒絕接受川普的援助資金",
         "descZh": "川普政府將這筆援助視為一種交易性質的舉措——但有些人認為這並非一筆公平的交易。"
-      }
-    ]
-  },
-  {
-    "date": "20260708",
-    "fetchTime": "2026-07-08 05:48",
-    "count": 9,
-    "articles": [
-      {
-        "title": "What is the 'Trump dance'? And where have we seen it in sport?",
-        "desc": "As the 'Trump dance' gains attention once again, we look at which sportspeople are doing it - and why.",
-        "url": "https://www.bbc.co.uk/sport/articles/c0rg289ywqno?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 17:59",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "什麼是「川普舞」？我們曾在哪些體育賽事中見過這種舞步？",
-        "descZh": "隨著「川普舞」再度引發關注，我們來看看哪些運動員正在跳這支舞——以及他們為何這麼做。"
-      },
-      {
-        "title": "Why European backlash over Trump intervention won't worry Infantino",
-        "desc": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 16:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何歐洲對川普介入一事的反彈不會讓因凡蒂諾感到擔憂",
-        "descZh": "在擔任國際足總主席10年後，福拉林·巴洛貢的爭議會不會讓詹尼·因凡蒂諾的處境雪上加霜？別指望了。"
-      },
-      {
-        "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
-        "desc": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 15:07",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「推翻這個」——比利時嘲諷美國，並表示川普的舉動激勵了他們",
-        "descZh": "比利時球員尼古拉斯·拉斯金表示，國際足總允許美國前鋒福拉林·巴洛貢在西雅圖舉行的十六強賽中對陣比利時的決定，激發了球隊的鬥志。"
-      },
-      {
-        "title": "Why some African nations are turning down Trump aid money",
-        "desc": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 08:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何部分非洲國家拒絕接受川普的援助資金",
-        "descZh": "川普政府將這筆援助視為一種交易性質的舉措——但有些人認為這並非一筆公平的交易。"
-      },
-      {
-        "title": "Watch: Does Trump’s Fifa intervention undermine football’s integrity?",
-        "desc": "The BBC's Daniel Bush looks at the US president's comments over his request for Fifa to review Folarin Balogun's one-match ban.",
-        "url": "https://www.bbc.co.uk/news/videos/ckg77mrj3v7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 06:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普對國際足總的干預是否損害了足球的公正性？",
-        "descZh": "BBC記者丹尼爾·布希探討了美國總統針對其要求國際足總重新審查福拉林·巴洛貢一場禁賽處分的言論。"
-      },
-      {
-        "title": "World Cup fans react to Balogun's one-game ban suspension",
-        "desc": "The USA star striker will be available to play at today's match against Belgium after President Trump called Fifa for his ban to be reviewed.",
-        "url": "https://www.bbc.co.uk/news/videos/cly77en9z9lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-07 06:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "世界盃球迷對巴洛貢遭禁賽一場的處分作出反應",
-        "descZh": "在川普總統致電國際足總要求重新審視對他的禁賽處分後，這位美國明星前鋒將能出戰今天對陣比利時的比賽。"
-      },
-      {
-        "title": "'That wasn't a foul' - Trump on Fifa overturning red card ban",
-        "desc": "USA striker Folarin Balogun's one-game ban has been suspended after the president's intervention.",
-        "url": "https://www.bbc.co.uk/news/videos/c04yy266n0lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-06 23:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「那不是犯規」——川普針對國際足總撤銷紅牌禁賽處分一事發表評論",
-        "descZh": "在主席介入後，美國前鋒福拉林·巴洛貢的一場禁賽處分已被暫緩執行。"
-      },
-      {
-        "title": "Looking at Trump’s trade agenda - Pet Food Processing",
-        "desc": "Looking at Trump’s trade agenda&nbsp;&nbsp;Pet Food Processing",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONm1zdFNCSXNPY2tYQ2dQMXJzX2NPQXo1TkVxdjY1Vl9KNVhFMldOTGFvX3NJQjhCSG94WjR0Smx5Q19zNi1xcG5LRUVqb21QRzllWVJNVExwVDliQkFfenRBRVJWZExpbjVNaVhwMTBhaWM1cUhqZ3hrNXR5S1lubHpzZjVHQQ?oc=5",
-        "pubTime": "2026-07-06 20:31",
-        "source": "news.google.com",
-        "titleZh": "探討川普的貿易議程——寵物食品加工業",
-        "descZh": "探討川普的貿易議程&nbsp;&nbsp;寵物食品加工"
-      },
-      {
-        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
-        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
-        "pubTime": "2026-07-06 19:44",
-        "source": "news.google.com",
-        "titleZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
-        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
       }
     ]
   }
