@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260809",
+    "fetchTime": "2026-08-09 04:54",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 23:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的前律師托德·布蘭奇以微弱優勢獲確認為美國司法部長",
+        "descZh": "儘管部分共和黨人罕見地提出反對，這項表決仍使川普的前刑事辯護律師正式成為該國最高執法官員。"
+      },
+      {
+        "title": "What is birthright citizenship and how common is birth tourism in the US?",
+        "desc": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 05:09",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "何謂「出生公民權」？在美國，「生育旅遊」有多普遍？",
+        "descZh": "川普政府正試圖透過終結「生育旅遊」及收緊其他資格標準，來限制部分人士取得美國公民身分。"
+      },
+      {
+        "title": "China Says Trump Tariffs Continue to Weigh on the Global Soybean Trade - Agrolatam",
+        "desc": "China Says Trump Tariffs Continue to Weigh on the Global Soybean Trade&nbsp;&nbsp;Agrolatam",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNURoVU5Ha1ExMUZtbUVpV050THB2c0xUOWx1ODVsWkFoRGtzcmVaNHVXY05mSEszVjZtTzBEbG40RHZaczZaOEZFQXkyUVN2Q081YUlGbEs5a2tDVjJtanpNdExZV3VmRHBrSDEzY0dpVjhMTXh0OUFnVnJKWFBuSg?oc=5",
+        "pubTime": "2026-08-08 03:36",
+        "source": "news.google.com",
+        "titleZh": "中國表示，川普的關稅措施持續對全球大豆貿易造成壓力 - Agrolatam",
+        "descZh": "中國表示，川普的關稅措施持續拖累全球大豆貿易&nbsp;&nbsp;Agrolatam"
+      },
+      {
+        "title": "New Sweeping U.S. Tariffs Use Forced-Labor Justification - The Organization for World Peace",
+        "desc": "New Sweeping U.S. Tariffs Use Forced-Labor Justification&nbsp;&nbsp;The Organization for World Peace",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN01UdTM4TVhFU3lGaXJCUWgxZ19aWWdVRkZ1dmdSRFREQWs2THNJWnhZM3FnbWdpUF83VnJId1pFamgzUzllVWIzTThGb2xlVlpjOXR4NkR4cFBacEl3WHRxMi1oWGgyU1EwU0JSVzRJMi1sTGpxNkJrU0ZpNjctdw?oc=5",
+        "pubTime": "2026-08-08 01:59",
+        "source": "news.google.com",
+        "titleZh": "美國新實施的大規模關稅以「強迫勞動」為藉口——世界和平組織",
+        "descZh": "美國新實施的大規模關稅以「強迫勞動」為藉口&nbsp;&nbsp;世界和平組織"
+      },
+      {
+        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "desc": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 01:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國上訴法院叫停川普宴會廳計畫，為最高法院的對決鋪路",
+        "descZh": "「是否應興建一座大型舞廳，應由國會決定，」上訴小組的多數意見指出。"
+      },
+      {
+        "title": "US Senator Cassidy will vote to confirm Blanche for AG, likely saving teetering nomination",
+        "desc": "Earlier, Republican Senator Lisa Murkowski said she opposed Trump's pick to lead the justice department",
+        "url": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 00:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國參議員卡西迪將投票支持布蘭奇出任司法部長，此舉有望挽救這項岌岌可危的提名",
+        "descZh": "稍早前，共和黨參議員莉莎·穆爾科斯基表示，她反對川普提名的人選出任司法部長一職"
+      },
+      {
+        "title": "Trump’s summer of tariffs means trade uncertainty is here to stay - Chatham House",
+        "desc": "Trump’s summer of tariffs means trade uncertainty is here to stay&nbsp;&nbsp;Chatham House",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUFuLVMtZ2dBeHJRMlhZMDAycmdBTlZMZE4zdXpQVUFXV0dTNDBCb2pRZWhaTEZJM0dBLVBSWXFLaUZ4cWVrUzdUczlzTnhEUmcxTHRKS1ZjeHpHa1VMNF9BaVdGaDUxd2hYOVlTdnZOeEVtNlpHVkRHZUd0aHVzeDJwd3VuRUE1bm9WR1ZQblkxVlRuQllz?oc=5",
+        "pubTime": "2026-08-07 23:59",
+        "source": "news.google.com",
+        "titleZh": "川普的「關稅之夏」意味著貿易不確定性將持續存在——查塔姆研究所",
+        "descZh": "川普的「關稅之夏」意味著貿易不確定性將持續存在&nbsp;&nbsp;查塔姆研究所"
+      },
+      {
+        "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+        "desc": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 21:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府將向一家德國公司支付12億美元，以叫停美國的風電項目",
+        "descZh": "RWE 此次的賠償案，是近期一連串取消風力發電專案交易中的最新一例，而風力發電這項能源，長期以來一直遭到川普的嘲諷。"
+      },
+      {
+        "title": "Trump-backed Republican congressman loses primary in Tennessee",
+        "desc": "Andy Ogles is the second person backed by the US president to lose this week but there were also some wins in Trump's corner.",
+        "url": "https://www.bbc.co.uk/news/articles/c79grd2prnro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 17:36",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "獲川普支持的共和黨國會議員在田納西州初選中落敗",
+        "descZh": "安迪·奧格爾斯是本週第二位遭美國總統支持卻仍落敗的人，但川普陣營也取得了一些勝利。"
+      },
+      {
+        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+        "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-07 08:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普再度透過新的行政命令，試圖限制美國的出生公民權",
+        "descZh": "這些行政命令禁止「生育旅遊」，並擴大現有定義，將那些子女不符合美國出生公民權資格的人士納入其中。"
+      },
+      {
+        "title": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war - The Globe and Mail",
+        "desc": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war&nbsp;&nbsp;The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2o3WWFVa1RJam9wVjhGN2VfY1hxZHdMZ0pTWkFTMXdqelgzY3RWV28zZG9raG00Z1lvQkNheVFpOGxqR0tTQ29wTWtWbEhkano5d2ZkdWc4c0FjbWF1cXFhRmRXMjdXRVFEaG10SXRCT3dLYkJOMk80S2FsQkd4amg1OC1QNklJeEdGX1NnaVotMHhHN3VONHdoY2RPek42OFFweG13?oc=5",
+        "pubTime": "2026-08-07 07:25",
+        "source": "news.google.com",
+        "titleZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害——《環球郵報》",
+        "descZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害&nbsp;&nbsp;《環球郵報》"
+      }
+    ]
+  },
+  {
     "date": "20260808",
     "fetchTime": "2026-08-08 05:05",
     "count": 11,
@@ -3898,76 +4004,6 @@
         "source": "news.google.com",
         "titleZh": "川普宣布人工智慧行動計畫，宣稱「美國必勝」——就在同一天，他買進了數百萬美元的 Nvidia、蘋果和微軟股票 - 雅虎財經",
         "descZh": "川普宣布其人工智慧行動計畫，宣稱「美國必將勝出」——就在同一天，他買進了價值數百萬的 NVIDIA、蘋果和微軟股票&nbsp;&nbsp;雅虎財經"
-      }
-    ]
-  },
-  {
-    "date": "20260710",
-    "fetchTime": "2026-07-10 05:52",
-    "count": 7,
-    "articles": [
-      {
-        "title": "Trump’s latest tariff proposal has a new rationale, but the same outcome - The Hill",
-        "desc": "Trump’s latest tariff proposal has a new rationale, but the same outcome&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xTVJtOUh1MTVFMnpXcFluMjdxUXo4MkZhYi1DWVJJLWI0UlctSG9pd2tnR1RvRE1WOG03YWhzVGNnN3VYOUhobG5qbXJfTWNDMHAxcmI2UFR0RDZHVGhESEUtcktEb1VLZmQyUDJpTy1Ka3ZrLVBqUFFtZXRBcFnSAYQBQVVfeXFMT1JkdDh5dzUwakF4LU5UaDNaRGpPMmRHT2Nnb3g0NlJBQWdBTjNPZjVJRXgwVllFc0NRcXNibi0tNllpNDEwVUN0cXkxRHlvanVCLXYtMFphbGFzSk95YjFLVnhXNHZUM0trRXplTkZxX1BFZGZxYlZXTDREMEpLbGFjY0Y2?oc=5",
-        "pubTime": "2026-07-09 23:00",
-        "source": "news.google.com",
-        "titleZh": "川普最新的關稅提案雖有新的理由，但結果依舊如故——《The Hill》",
-        "descZh": "川普最新的關稅提案雖有新的理由，但結果依然如故&nbsp;&nbsp;《The Hill》"
-      },
-      {
-        "title": "Travellers react as Florida airport renamed after Trump",
-        "desc": "Palm Beach International Airport was officially renamed as President Donald J. Trump International Airport on 9 July.",
-        "url": "https://www.bbc.co.uk/news/videos/cly9r0zwkzko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-09 21:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "佛羅里達州機場更名為「川普機場」後，旅客們紛紛表達反應",
-        "descZh": "棕櫚灘國際機場已於7月9日正式更名為「唐納德·J·川普總統國際機場」。"
-      },
-      {
-        "title": "The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet - 24/7 Wall St.",
-        "desc": "The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjlkeDA4T243Y3lxbURYeVU2VjVQZmtBV2thLWE2VUVMRG5SbzFycEs1VHFzbGdfaHhBbkxPLWhlbmJvWDR6Y3NDV210Y1pRY3ZpZDlOZFlIMjc1YWwzZTM3YS1RcjFBNE9ISElSc0Jidi0xNmhvTDBaZ3o1azhpSWNMem8wVnFrT3FsZ3RXb3Fja0hjQ1pIZEkxcC0yMjNGd2tUSkNscnJiT3MyeUJVN2MzcUNwU0hXZy1KOHM2SlBvNDNIeTF4VXl3?oc=5",
-        "pubTime": "2026-07-09 20:49",
-        "source": "news.google.com",
-        "titleZh": "聯準會表示，川普關稅的隱性成本即將衝擊您的荷包 — 24/7 Wall St.",
-        "descZh": "聯準會表示，川普關稅的隱性成本即將衝擊您的荷包&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft - Yahoo Finance",
-        "desc": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjVKWVRHVGRyX2hjQ2RFWVVtcUQ4ZGY0LXByN3VvSE5ncV9XQ0MwR2V3akRIMUZsS0R5ajctU193eVhNSGpWaUZjR2NwOTJzV2E1M29DYTBsQ2o5QTdnenBmREVxZXFpMjNVLTFBNDFudVRfYnVaSl9Na1Z0ckw5bGNZd3FIYzQwNHJxWjdHNElCdGYzOUNtdTRB?oc=5",
-        "pubTime": "2026-07-09 08:01",
-        "source": "news.google.com",
-        "titleZh": "川普宣布人工智慧行動計畫，宣稱「美國必勝」——就在同一天，他買進了數百萬美元的 NVIDIA、蘋果和微軟股票 - 雅虎財經",
-        "descZh": "川普宣布其人工智慧行動計畫，宣稱「美國必將勝出」——就在同一天，他買進了價值數百萬的 Nvidia、蘋果和微軟股票&nbsp;&nbsp;雅虎財經"
-      },
-      {
-        "title": "Trump 'immediately' asking US Supreme Court to reconsider birthright citizenship case",
-        "desc": "The long-shot bid by Trump comes a week after the high court ruled that those born in the US have a constitutional right to citizenship.",
-        "url": "https://www.bbc.co.uk/news/articles/cx23zk1jp1go?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-09 07:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普「立即」要求美國最高法院重新審理「出生地公民權」案件",
-        "descZh": "在最高法院裁定出生於美國者享有憲法賦予的公民權一週後，川普提出了這項勝算渺茫的提議。"
-      },
-      {
-        "title": "Asian nations are building new trading zones to deflect the Trump tariff impact - American Journal of Transportation",
-        "desc": "Asian nations are building new trading zones to deflect the Trump tariff impact&nbsp;&nbsp;American Journal of Transportation",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmpiQ3ZOSi1UQV80akFxY2JUTVRWSi1EVENKQ2QxSy16ZDU5bzNqZWJ5VWNXa3pYV0V6Q0RfRGRGZTI3RE5yRE9udjh3cjAtLU1EdENEOGwwNGRHQmFpZWVDa0VGbnpBX1ozbWt1WmpOUTFEVnF5elRqRHQ0bHYtTnFoTy1iLUR5ZXN4dVdSenItQ2xlOTc4WEd5WUo0aE5OamVsdWJIcWZSOW5UamRvODlUSElNZjNj?oc=5",
-        "pubTime": "2026-07-09 01:04",
-        "source": "news.google.com",
-        "titleZh": "亞洲各國正建立新的貿易區，以抵禦川普關稅的影響——《美國運輸期刊》",
-        "descZh": "亞洲各國正建立新的貿易區，以抵禦川普關稅的影響&nbsp;&nbsp;《美國運輸期刊》"
-      },
-      {
-        "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-        "desc": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-        "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-08 23:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "鮑恩：儘管特朗普口出狂言，但他除了與伊朗談判外別無選擇",
-        "descZh": "BBC國際新聞主編傑瑞米·鮑恩撰文指出，談判進程岌岌可危，而美國近期發動的空襲更顯示，要達成協議將是何等艱難。"
       }
     ]
   }
