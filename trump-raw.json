@@ -1,5 +1,48 @@
 [
   {
+    "date": "20260810",
+    "fetchTime": "2026-08-10 04:58",
+    "count": 4,
+    "articles": [
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-09 22:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "以色列拒絕川普針對加薩的15點計畫，內塔尼亞胡表示",
+        "descZh": "以色列總理表示，在哈馬斯「真正」解除武裝之前，以軍不會從加薩撤軍。"
+      },
+      {
+        "title": "The Big Picture: Canada’s Greater Objectives in Trump’s Tariff War - Policy Magazine",
+        "desc": "The Big Picture: Canada’s Greater Objectives in Trump’s Tariff War&nbsp;&nbsp;Policy Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWJLNmlFdnVLN2NCYVhTZGFkRTl2MzlxOUdzZ0xoN2hZcXl5VC1uVFRIV29nNHl0bzE4Mnk2ODVidDdOMzUtRVplNTZNV2hvbjAzS1RoTUx1YW04ejR5eUNwSTFwaHZ1R25zcENaMk56NkgxX2oyanVxMmwzaXpKajZhaGwtM1RVbUxIZmV4U0xwZ1AtVktORmF3?oc=5",
+        "pubTime": "2026-08-09 04:51",
+        "source": "news.google.com",
+        "titleZh": "大局觀：在川普的關稅戰中，加拿大的宏大目標——《政策雜誌》",
+        "descZh": "大局觀：加拿大在川普關稅戰中的宏大目標&nbsp;&nbsp;《政策》雜誌"
+      },
+      {
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 23:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的前律師托德·布蘭奇以微弱優勢獲確認為美國司法部長",
+        "descZh": "儘管部分共和黨人罕見地提出反對，這項表決仍使川普的前刑事辯護律師正式成為該國最高執法官員。"
+      },
+      {
+        "title": "What is birthright citizenship and how common is birth tourism in the US?",
+        "desc": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-08 05:09",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "何謂「出生公民權」？在美國，「生育旅遊」有多普遍？",
+        "descZh": "川普政府正試圖透過終結「生育旅遊」及收緊其他資格標準，來限制部分人士取得美國公民身分。"
+      }
+    ]
+  },
+  {
     "date": "20260809",
     "fetchTime": "2026-08-09 04:54",
     "count": 11,
@@ -3943,67 +3986,6 @@
         "source": "news.google.com",
         "titleZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易——《環球郵報》",
         "descZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易&nbsp;&nbsp;《環球郵報》"
-      }
-    ]
-  },
-  {
-    "date": "20260711",
-    "fetchTime": "2026-07-11 05:30",
-    "count": 6,
-    "articles": [
-      {
-        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-        "desc": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-10 23:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "易捷航空同意接受這項出人意料的收購要約，因競爭對手——一家美國公司——突然出手",
-        "descZh": "該航空公司表示，美國公司阿波羅（Apollo）提出的收購要約，已勝過卡斯爾萊克（Castlelake）近期提出的收購要約。"
-      },
-      {
-        "title": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - The Globe and Mail",
-        "desc": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause&nbsp;&nbsp;The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYUpMVVhKbDN5TFkzdjQyZ2pVZmQ1U3FqdWV5YW92T01CZ3ZjdVhoemtoVkVPRDBoRlJwRG16cUQwMndQejlLY3JlWGt0WG8yTzMwSnRTZUtpYW9hZ0N6bmR1N2N6TmFiWGtORjBJeUdkczJIbk5iT3BqNm9tTWdTY3F4MW1lME5MSXZhQmlnUVBicmZKVDhseVNnRnNPcVNyR2pGLXVjeWMtZDZvMDNmUWQ3ckFxbnZ3YW44YkZsNkxaa1I1Zm9lVWhvTGw1eXlra0MtUkUwNmYzU0JMRXFIUzUybFJWM3F0VnREYWRXd2lkVTRRUGN1N3RHZmwzUlNsVGZ6Zg?oc=5",
-        "pubTime": "2026-07-10 19:09",
-        "source": "news.google.com",
-        "titleZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易——《環球郵報》",
-        "descZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易&nbsp;&nbsp;《環球郵報》"
-      },
-      {
-        "title": "Trump’s latest tariff proposal has a new rationale, but the same outcome - The Hill",
-        "desc": "Trump’s latest tariff proposal has a new rationale, but the same outcome&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xTVJtOUh1MTVFMnpXcFluMjdxUXo4MkZhYi1DWVJJLWI0UlctSG9pd2tnR1RvRE1WOG03YWhzVGNnN3VYOUhobG5qbXJfTWNDMHAxcmI2UFR0RDZHVGhESEUtcktEb1VLZmQyUDJpTy1Ka3ZrLVBqUFFtZXRBcFnSAYQBQVVfeXFMT1JkdDh5dzUwakF4LU5UaDNaRGpPMmRHT2Nnb3g0NlJBQWdBTjNPZjVJRXgwVllFc0NRcXNibi0tNllpNDEwVUN0cXkxRHlvanVCLXYtMFphbGFzSk95YjFLVnhXNHZUM0trRXplTkZxX1BFZGZxYlZXTDREMEpLbGFjY0Y2?oc=5",
-        "pubTime": "2026-07-09 23:00",
-        "source": "news.google.com",
-        "titleZh": "川普最新的關稅提案雖有新的理由，但結果依然如故——《The Hill》",
-        "descZh": "川普最新的關稅提案雖有新的理由，但結果卻如出一轍&nbsp;&nbsp;《The Hill》"
-      },
-      {
-        "title": "Travellers react as Florida airport renamed after Trump",
-        "desc": "Palm Beach International Airport was officially renamed as President Donald J. Trump International Airport on 9 July.",
-        "url": "https://www.bbc.co.uk/news/videos/cly9r0zwkzko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-09 21:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "佛羅里達州機場更名為「川普機場」後，旅客們紛紛表達反應",
-        "descZh": "棕櫚灘國際機場已於7月9日正式更名為「唐納德·J·川普總統國際機場」。"
-      },
-      {
-        "title": "The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet - 24/7 Wall St.",
-        "desc": "The Federal Reserve Says the Hidden Cost of Trump’s Tariffs Is About to Hit Your Wallet&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjlkeDA4T243Y3lxbURYeVU2VjVQZmtBV2thLWE2VUVMRG5SbzFycEs1VHFzbGdfaHhBbkxPLWhlbmJvWDR6Y3NDV210Y1pRY3ZpZDlOZFlIMjc1YWwzZTM3YS1RcjFBNE9ISElSc0Jidi0xNmhvTDBaZ3o1azhpSWNMem8wVnFrT3FsZ3RXb3Fja0hjQ1pIZEkxcC0yMjNGd2tUSkNscnJiT3MyeUJVN2MzcUNwU0hXZy1KOHM2SlBvNDNIeTF4VXl3?oc=5",
-        "pubTime": "2026-07-09 20:49",
-        "source": "news.google.com",
-        "titleZh": "聯準會表示，川普關稅的隱性成本即將衝擊您的荷包 — 24/7 Wall St.",
-        "descZh": "聯準會表示，川普關稅的隱性成本即將衝擊您的荷包&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft - Yahoo Finance",
-        "desc": "Trump Announced His AI Action Plan Declaring ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjVKWVRHVGRyX2hjQ2RFWVVtcUQ4ZGY0LXByN3VvSE5ncV9XQ0MwR2V3akRIMUZsS0R5ajctU193eVhNSGpWaUZjR2NwOTJzV2E1M29DYTBsQ2o5QTdnenBmREVxZXFpMjNVLTFBNDFudVRfYnVaSl9Na1Z0ckw5bGNZd3FIYzQwNHJxWjdHNElCdGYzOUNtdTRB?oc=5",
-        "pubTime": "2026-07-09 08:01",
-        "source": "news.google.com",
-        "titleZh": "川普宣布人工智慧行動計畫，宣稱「美國必勝」——就在同一天，他買進了數百萬美元的 Nvidia、蘋果和微軟股票 - 雅虎財經",
-        "descZh": "川普宣布其人工智慧行動計畫，宣稱「美國必將勝出」——就在同一天，他買進了價值數百萬的 NVIDIA、蘋果和微軟股票&nbsp;&nbsp;雅虎財經"
       }
     ]
   }
