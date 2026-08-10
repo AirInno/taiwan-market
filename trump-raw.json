@@ -1,5 +1,30 @@
 [
   {
+    "date": "20260811",
+    "fetchTime": "2026-08-11 05:07",
+    "count": 2,
+    "articles": [
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "desc": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-11 04:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普簽署行政命令，限制兒童疫苗接種並將麻腮風疫苗分開接種",
+        "descZh": "川普政府建議將麻疹、腮腺炎和德國麻疹疫苗分開，分別在三次不同的就診中接種。"
+      },
+      {
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "desc": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-10 22:43",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "內塔尼亞胡對川普「加薩15點計畫」的拒絕，恐怕不會是最終定論",
+        "descZh": "據稱，川普政府對以色列總理拒絕這項協議一事並不介意，認為這只是大選前的競選言論。"
+      }
+    ]
+  },
+  {
     "date": "20260810",
     "fetchTime": "2026-08-10 04:58",
     "count": 4,
@@ -3898,94 +3923,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "儘管川普提出抗議，這項具有里程碑意義的美國住房法案仍正式成為法律",
         "descZh": "總統原本希望在《住房法》通過之前，先通過選民身分證明法案，該法案旨在降低成本並增加供應量。"
-      }
-    ]
-  },
-  {
-    "date": "20260712",
-    "fetchTime": "2026-07-12 05:10",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Trump Pushes Apple, NVIDIA and SpaceX to Back Intel’s US Chip Revival - Analytics Insight",
-        "desc": "Trump Pushes Apple, NVIDIA and SpaceX to Back Intel’s US Chip Revival&nbsp;&nbsp;Analytics Insight",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmRpc0taSWNzc2EzS3UtX1ZoU1NDQ3YyOUJaZnBJS3FHQzZpcXRZYmNyXzFZT3BtSXo2ZU51dWlMZUdfdmlFNmxHbWJUQVlIX2p0a1dfMFpPVzR2TXJIZ2d1a2phYTVRTTBBUzh3Y0tqOHk1M3k1cmxnWVhaMEVXeWt6cGFqRVE2eEpWZktxR05icENheGF1ajhRTDJ1akkwS1M5NV8xVzbSAbYBQVVfeXFMTmEtOWdlWjJSMEl4bXlQazFYMTBsbmNiMWJzLVhLc1lTblFyWFRTVXNqN3p0UWdNWDhYc0MtamVUek9CSEhSVEl0eGc1OE1JR0xNRlhRQmtWeFYwdnpYRlNfN3ctNjRYeFE3Q0w3OVpJU1ltelZNUnFKc2g2RVQ1RFJjaGhaUXkwdEtYVmh1WGswcXd3cWw1bHoxQXo2bGx0Q0p5Q1N5N2VTWkhZaThha3ZCaXIzRFE?oc=5",
-        "pubTime": "2026-07-12 03:00",
-        "source": "news.google.com",
-        "titleZh": "川普敦促蘋果、NVIDIA 和 SpaceX 支持英特爾在美國重振晶片產業 — Analytics Insight",
-        "descZh": "川普敦促蘋果、NVIDIA 和 SpaceX 支持英特爾在美國重振晶片產業&nbsp;&nbsp;分析洞見"
-      },
-      {
-        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-        "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-12 00:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普政府就「空軍一號」相關報導向《紐約時報》記者發出傳票",
-        "descZh": "這些記者在報導了總統新專機（該專機由卡達贈送）涉嫌存在的安全問題後，收到了法律傳票。"
-      },
-      {
-        "title": "Landmark US housing bill becomes law despite Trump protest",
-        "desc": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-11 21:35",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "儘管川普提出抗議，這項具有里程碑意義的美國住房法案仍正式成為法律",
-        "descZh": "總統原本希望在《住房法》通過之前，先通過選民身分證明法案，該法案旨在降低成本並增加供應量。"
-      },
-      {
-        "title": "The White House Made Fixing Intel Its Pet Project. It’s Working. - WSJ",
-        "desc": "The White House Made Fixing Intel Its Pet Project. It’s Working.&nbsp;&nbsp;WSJ",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51MVJOcmhOX2lRTVFBSmozTDNjYUxwR1JmNFB3bnJsZUpMSHd0UUJHa3ExaEhXNVNuV0pMdUpQNWtiUk00SDNfTEdtRU53NlhtUHljbTRUYzJESmtCVFNyZXFJVHNvYU5RTU1Oa2Q3NXV2S0RZMVE?oc=5",
-        "pubTime": "2026-07-11 09:00",
-        "source": "news.google.com",
-        "titleZh": "白宮將整頓情報系統列為重點專案。成效顯著。——《華爾街日報》",
-        "descZh": "白宮將整頓情報系統列為重點專案。成效顯著。&nbsp;&nbsp;《華爾街日報》"
-      },
-      {
-        "title": "Asia’s big trade pacts soften damage from Trump tariffs - KrASIA",
-        "desc": "Asia’s big trade pacts soften damage from Trump tariffs&nbsp;&nbsp;KrASIA",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PY3ZnVTJjNFFBQmQxMlNsNklXcEVoNm12dldfUWp1VEc2MWtKMGZvUk82YWtCcVlQX0ZWdFRhQWFLWVN5UTlLNWxmVHhZWDduZDhadFJTeV9OV1ZHVzZTV1VqMXBaYl9KdHN3NWo2bDJlaHhYeUw0WnN6bHAyQjg?oc=5",
-        "pubTime": "2026-07-11 08:32",
-        "source": "news.google.com",
-        "titleZh": "亞洲大型貿易協定緩解了川普關稅造成的衝擊——KrASIA",
-        "descZh": "亞洲大型貿易協定緩解了川普關稅造成的衝擊&nbsp;&nbsp;KrASIA"
-      },
-      {
-        "title": "Did Trump’s tariffs paint the US into an economic corner? - South China Morning Post",
-        "desc": "Did Trump’s tariffs paint the US into an economic corner?&nbsp;&nbsp;South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmNlNjVLOEpNb0ZwLXhCQTFtTkFOeGx2bU5vUFJ2T296MkxlR2VweHdrWmNQTHFfSlU2WWtUVDhhSFlVV1ZNYk5PajBMcURKVVp3cDNtYzdDR253cGR1Sk1mMnFGTEk3OTRKZXNCOEtlcUFwZFR0dzM1X2xiNFQ4VDRjWUhmejZZa1VmRHNXZVZBZkIwcm1RdVN6NTgwMEc5cHhORWo2VFlKMmJGaEg5aGQtMnpaT0xGUy1ob0EyNNIBvwFBVV95cUxQcHFvN04zWWUySmowbnlDcUM2WFZvZDZ6dkZ0c3VxOEJqVHA0Tjg2TENOVDA0dkFLeE5vSG5vTlFYNlQzMTZEM09GNzQ0YlZ2VVBPZ2pwT3RjS0pnNmxrOU1LdDFQNEpnMlREaF84dGloaEVobW42dWtfcG1MMDI4RHpsc2tCTGpNMGg4NURBSXNZU3kycHA5ZVVGblVOZHZqdENhdFMxSGRkRXdyUUNOYjVVQ0VfX2xtWDdyZVJzUQ?oc=5",
-        "pubTime": "2026-07-11 06:00",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅政策是否將美國逼入經濟死胡同？——《南華早報》",
-        "descZh": "川普的關稅政策是否將美國逼入經濟死胡同？&nbsp;&nbsp;《南華早報》"
-      },
-      {
-        "title": "Eight charged over alleged conspiracy to attack White House UFC event",
-        "desc": "Thousands of people attended the event last month, including President Trump and Vice-President JD Vance.",
-        "url": "https://www.bbc.co.uk/news/articles/cwy091zzgpdo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-11 03:27",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "八人因涉嫌密謀襲擊白宮UFC賽事而被起訴",
-        "descZh": "上個月有數千人出席了這場活動，其中包括川普總統和副總統 J.D. 凡斯。"
-      },
-      {
-        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-        "desc": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-10 23:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "易捷航空同意接受這項出人意料的收購要約，因競爭對手——一家美國公司——突然出手",
-        "descZh": "該航空公司表示，美國公司阿波羅（Apollo）提出的收購要約，已勝過卡斯爾萊克（Castlelake）近期提出的收購要約。"
-      },
-      {
-        "title": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause - The Globe and Mail",
-        "desc": "Trump Made 327 Stock Trades in Apple, Nvidia, and Other Tech Giants Before His Tariff Pause&nbsp;&nbsp;The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYUpMVVhKbDN5TFkzdjQyZ2pVZmQ1U3FqdWV5YW92T01CZ3ZjdVhoemtoVkVPRDBoRlJwRG16cUQwMndQejlLY3JlWGt0WG8yTzMwSnRTZUtpYW9hZ0N6bmR1N2N6TmFiWGtORjBJeUdkczJIbk5iT3BqNm9tTWdTY3F4MW1lME5MSXZhQmlnUVBicmZKVDhseVNnRnNPcVNyR2pGLXVjeWMtZDZvMDNmUWQ3ckFxbnZ3YW44YkZsNkxaa1I1Zm9lVWhvTGw1eXlra0MtUkUwNmYzU0JMRXFIUzUybFJWM3F0VnREYWRXd2lkVTRRUGN1N3RHZmwzUlNsVGZ6Zg?oc=5",
-        "pubTime": "2026-07-10 19:09",
-        "source": "news.google.com",
-        "titleZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易——《環球郵報》",
-        "descZh": "川普在暫停加徵關稅前，曾對蘋果、英偉達及其他科技巨頭進行了 327 筆股票交易&nbsp;&nbsp;《環球郵報》"
       }
     ]
   }
