@@ -1,5 +1,102 @@
 [
   {
+    "date": "20260812",
+    "fetchTime": "2026-08-12 05:10",
+    "count": 10,
+    "articles": [
+      {
+        "title": "Canada, U.S. trade officials mapping out potential deal to pitch to Trump next week: sources - CBC",
+        "desc": "Canada, U.S. trade officials mapping out potential deal to pitch to Trump next week: sources&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVE9qS3RIeHZjZ2xSZUdRV0lPc0F6MDZadHlyRjYzeWxFN0YxbFVlX2g4aUZwVGNReVVBdFdzS0NpZ1dSLXVIeFdIWTJLNHNKWHg5Z1dVd2Y3d25fcFZHRnNPektJY0dKS1NJZlpXMEhUTjJja0NHY0U0bXVnUnZkOGozakYxNE5iQnhEZy1tR0t3RDQ?oc=5",
+        "pubTime": "2026-08-12 03:24",
+        "source": "news.google.com",
+        "titleZh": "消息人士指出，加拿大與美國貿易官員正擬定一項潛在協議，準備下週向川普提出：CBC",
+        "descZh": "消息人士指出，加拿大與美國貿易官員正擬定一項潛在協議，預計下週向川普提出：CBC"
+      },
+      {
+        "title": "Russia releases former US Marine reported in poor health",
+        "desc": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 01:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "俄羅斯釋放一名據報健康狀況不佳的前美國海軍陸戰隊員",
+        "descZh": "川普表示，2022年遭逮捕的羅伯特·吉爾曼，據報曾處於類似木僵的狀態，其後基於人道考量獲釋。"
+      },
+      {
+        "title": "Trump tariffs fallout: US state’s seafood industry hit hard by duties - Undercurrent News",
+        "desc": "Trump tariffs fallout: US state’s seafood industry hit hard by duties&nbsp;&nbsp;Undercurrent News",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbDBwSXYtSDBMaGNCMXNiVm1QU0htVGlHU1FDVi1NVE5zai11TmpKc2hydkt1elpKVjZTOVhLNW56clZEZmNmRWtCb1hFYzdIWWdkOFFfeEZVUml0Vm1EaFllV1ZubjJrcUVuLVE5dkVVSEdG?oc=5",
+        "pubTime": "2026-08-11 23:11",
+        "source": "news.google.com",
+        "titleZh": "川普關稅的餘波：美國某州的海鮮產業因關稅而遭受重創 —— 《Undercurrent News》",
+        "descZh": "川普關稅的連鎖反應：美國某州的海鮮產業因關稅而遭受重創&nbsp;&nbsp;《Undercurrent News》"
+      },
+      {
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "desc": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-11 22:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "據報導，因伊朗威脅，川普在秘密換機行動中藏身於餐飲卡車內",
+        "descZh": "據報導，美國總統曾被捲入一場騙局，當時記者們被謊稱他正與他們一同搭乘「空軍一號」，離開在土耳其舉行的北約峰會。"
+      },
+      {
+        "title": "What to know about Trump's Patriot Games for high school athletes",
+        "desc": "Two teenagers from each state are competing as part of the celebration of America's 250th anniversary.",
+        "url": "https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-11 21:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "高中運動員需了解的關於川普「愛國者運動會」的相關資訊",
+        "descZh": "作為美國建國250週年慶祝活動的一部分，每個州各有兩名青少年參與競賽。"
+      },
+      {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "desc": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-11 18:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普簽署行政命令，限制兒童疫苗接種並將麻腮風疫苗分開接種",
+        "descZh": "美國兒科學會稱有關麻疹、腮腺炎和德國麻疹疫苗接種的建議「危險」。"
+      },
+      {
+        "title": "Opinion | Trump Is Trapped in a Maelstrom of His Own Making - nytimes.com",
+        "desc": "Opinion | Trump Is Trapped in a Maelstrom of His Own Making&nbsp;&nbsp;nytimes.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmx4SU5zamFOR2FQYWN1dktMUzFTaER6STNSUTRVWUtFNGdBcTR0Ui1odHNKR0taR1pYZTdwd1FQbEdubHFuZDE4aGFXY2dHMU1UODFyTjNFZy01T2FPVWlPcFpQQ0ttd25lQVJoYWU0SmgyT2t1TFFfRjZoSXJZcVlCZw?oc=5",
+        "pubTime": "2026-08-11 17:04",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 川普深陷自食其果的漩渦之中 - nytimes.com",
+        "descZh": "觀點 | 川普深陷自食其果的漩渦之中&nbsp;&nbsp;nytimes.com"
+      },
+      {
+        "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
+        "desc": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-11 16:08",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "超過 10 家企業每月支付高達 10 萬美元，以換取優先瀏覽 Truth Social 貼文的權限",
+        "descZh": "在面臨季度虧損之際，川普媒體（Trump Media）預期這項本月推出的具爭議性服務將帶來新的營收來源。"
+      },
+      {
+        "title": "Trump Wanted to Punish Canada. American Workers Paid the Price - The Walrus",
+        "desc": "Trump Wanted to Punish Canada. American Workers Paid the Price&nbsp;&nbsp;The Walrus",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4weUw2b0Vzd1N5N05SU2FVS1FvSThrSFJmYXdFSmNCVk9hanFzekY1QzIwV183dDZlTTU5RWNWdmZjenFMUzVJcEh6eTFhSUFJTi01MUwwbXA5QQ?oc=5",
+        "pubTime": "2026-08-10 23:06",
+        "source": "news.google.com",
+        "titleZh": "川普想懲罰加拿大，美國勞工卻為此付出了代價——《海象》雜誌",
+        "descZh": "川普想懲罰加拿大，美國勞工卻為此付出了代價&nbsp;&nbsp;《海象》雜誌"
+      },
+      {
+        "title": "How Trump's next tariffs could drive companies back to China - Peterson Institute for International Economics",
+        "desc": "How Trump's next tariffs could drive companies back to China&nbsp;&nbsp;Peterson Institute for International Economics",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZm53N1FUVi11M0NWMHZWcVRBb3RoNGJMTnlpbTJIUHFPY1FBNFJMMV9MZWQwUjJONzZfTzY0UGs3bGVxWGZLWmZQbUJBMi03NVhBenRaTGdLdDlOR3lmSnVBb1EycnJnU1Y0WFU5b0RLcHZLMjJmVUl2Y3pPNXVCVVVjT3IwVlZkM0RoY1pCV1VxZGZrVmVCc0Zoc2g2RVlXazgtTmxINUhJWmc?oc=5",
+        "pubTime": "2026-08-10 22:00",
+        "source": "news.google.com",
+        "titleZh": "川普的下一輪關稅可能如何促使企業重返中國——彼得森國際經濟研究所",
+        "descZh": "川普的下一波關稅可能如何促使企業重返中國&nbsp;&nbsp;彼得森國際經濟研究所"
+      }
+    ]
+  },
+  {
     "date": "20260811",
     "fetchTime": "2026-08-11 05:07",
     "count": 2,
@@ -3880,49 +3977,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "從川普的批評者到盟友，林賽·葛拉漢是「讓美國再次偉大」時代的一位政治倖存者",
         "descZh": "BBC北美特派員撰文指出，這位參議員的從政生涯，其特點在於願意適應美國劇烈變化的政治環境。"
-      }
-    ]
-  },
-  {
-    "date": "20260713",
-    "fetchTime": "2026-07-13 05:10",
-    "count": 4,
-    "articles": [
-      {
-        "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-        "desc": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-13 03:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "安東尼·祖切爾：從川普的批評者到盟友，林賽·葛拉漢是「讓美國再次偉大」時代的政治倖存者",
-        "descZh": "BBC北美特派員撰文指出，這位參議員的從政生涯，其特點在於願意適應美國劇烈變化的政治環境。"
-      },
-      {
-        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "desc": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-13 01:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國參議員、川普的親密盟友林賽·葛拉漢因「短暫且突發的病症」去世",
-        "descZh": "唐納德·川普向這位71歲的南卡羅來納州參議員致敬，稱他為「真正的美國愛國者」，並表示大家將「非常想念他」。"
-      },
-      {
-        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-        "desc": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-12 00:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普政府就「空軍一號」相關報導向《紐約時報》記者發出傳票",
-        "descZh": "這些記者在報導了總統新專機（該專機由卡達贈送）涉嫌存在的安全問題後，收到了法律傳票。"
-      },
-      {
-        "title": "Landmark US housing bill becomes law despite Trump protest",
-        "desc": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-11 21:35",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "儘管川普提出抗議，這項具有里程碑意義的美國住房法案仍正式成為法律",
-        "descZh": "總統原本希望在《住房法》通過之前，先通過選民身分證明法案，該法案旨在降低成本並增加供應量。"
       }
     ]
   }
