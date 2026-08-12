@@ -1,5 +1,138 @@
 [
   {
+    "date": "20260813",
+    "fetchTime": "2026-08-13 05:09",
+    "count": 14,
+    "articles": [
+      {
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-13 04:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在總統悄然離場後，川普內閣成員仍留在那架偽裝飛機上",
+        "descZh": "在北約峰會期間，川普因涉及伊朗的安全考量，於土耳其轉乘了另一架飛機。"
+      },
+      {
+        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+        "desc": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+        "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-13 04:57",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，白宮發言人卡洛琳·利維特將離職",
+        "descZh": "校長表示，利維特將卸任現職，以便花更多時間陪伴年幼的孩子和家人。"
+      },
+      {
+        "title": "Trump sued over Truth Social's $100,000 early access service",
+        "desc": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-13 01:48",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普因「Truth Social」的 10 萬美元優先使用服務遭起訴",
+        "descZh": "這起訴訟質疑 Truth Social 計畫販售可優先瀏覽川普那些影響市場的貼文的權限。"
+      },
+      {
+        "title": "Trump administration trade policies have changed minds - Progressive Policy Institute",
+        "desc": "Trump administration trade policies have changed minds&nbsp;&nbsp;Progressive Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMVdEdWdfZWpjdGt5ZkJ4VjVHekRtb1dfMm9ZZV9ic3NjOHVIeEZoY2NUNXhiWUNCcVlzbzhGWHNpcEtKZngtUUVnblBUMjRWTnRaMzk0V0VpNk90OTBRdVkwQXpLZU5YSzBCbU5FeG9vb2NJWVRYWXVvT1NEcXpia3kyS2Ftc1RLRm9HaVFRLUtuRzA?oc=5",
+        "pubTime": "2026-08-13 01:02",
+        "source": "news.google.com",
+        "titleZh": "川普政府的貿易政策已使人們改變想法——進步政策研究所",
+        "descZh": "川普政府的貿易政策已改變了人們的看法&nbsp;&nbsp;進步政策研究所"
+      },
+      {
+        "title": "Watch: Trump tells reporters why he switched planes",
+        "desc": "The President confirmed that he secretly swapped planes as he left a Nato summit in Turkey last month due to a possible threat.",
+        "url": "https://www.bbc.co.uk/news/videos/cp30p4ze3gxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 21:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普向記者說明為何更換班機",
+        "descZh": "總統證實，上個月他因面臨潛在威脅，在離開土耳其的北約峰會時曾秘密更換飛機。"
+      },
+      {
+        "title": "What it's like flying with Trump on Air Force One",
+        "desc": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President.",
+        "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 18:43",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "搭乘「空軍一號」與川普同機飛行是種什麼樣的體驗",
+        "descZh": "BBC 記者湯姆·貝特曼說明，隨同美國總統搭乘「空軍一號」的媒體人員，其體驗是怎樣的。"
+      },
+      {
+        "title": "Trump tariffs fallout: China moves to join Brazil’s WTO challenge of US forced labor duties - Undercurrent News",
+        "desc": "Trump tariffs fallout: China moves to join Brazil’s WTO challenge of US forced labor duties&nbsp;&nbsp;Undercurrent News",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbDBwSXYtSDBMaGNCMXNiVm1QU0htVGlHU1FDVi1NVE5zai11TmpKc2hydkt1elpKVjZTOVhLNW56clZEZmNmRWtCb1hFYzdIWWdkOFFfeEZVUml0Vm1EaFllV1ZubjJrcUVuLVE5dkVVSEdG?oc=5",
+        "pubTime": "2026-08-12 11:10",
+        "source": "news.google.com",
+        "titleZh": "川普關稅風波：中國擬加入巴西對美國強迫勞動關稅的世貿組織申訴 - 《暗流新聞》",
+        "descZh": "川普關稅的後效應：中國正著手加入巴西對美國強迫勞動關稅向世貿組織提起的申訴&nbsp;&nbsp;《暗流新聞》"
+      },
+      {
+        "title": "What to know about Trump's Patriot Games for high school athletes",
+        "desc": "Two teenagers from each state are competing as part of the celebration of America's 250th anniversary.",
+        "url": "https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 09:17",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "高中運動員需了解的關於川普「愛國者運動會」的相關資訊",
+        "descZh": "作為美國建國250週年慶祝活動的一部分，每個州各有兩名青少年參與競賽。"
+      },
+      {
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 08:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普戲劇性的換機之舉，暗示了伊朗戰爭對他個人而言的利害關係",
+        "descZh": "BBC記者安東尼·祖切爾（Anthony Zurcher）寫道，這標誌著他與伊朗關係這段動盪歷史中的又一則引人注目的篇章。"
+      },
+      {
+        "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
+        "desc": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 07:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普撤回部分推薦疫苗之際，對其說法進行事實查核",
+        "descZh": "美國總統一再對兒童疫苗的安全性提出質疑，並提出多項誤導性說法。"
+      },
+      {
+        "title": "Decoys to hide presidents are common - but elaborate Trump ruse was different level",
+        "desc": "Deceptions of varying complexity are often used to thwart potential threats, former Secret Service agents say.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-12 04:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "用假人掩護總統的情況很常見——但川普這場精心策劃的騙局卻是另一層次",
+        "descZh": "前特勤局探員表示，人們常會運用複雜程度各異的欺騙手段來化解潛在威脅。"
+      },
+      {
+        "title": "Canada, U.S. trade officials mapping out potential deal to pitch to Trump next week: sources - CBC",
+        "desc": "Canada, U.S. trade officials mapping out potential deal to pitch to Trump next week: sources&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVE9qS3RIeHZjZ2xSZUdRV0lPc0F6MDZadHlyRjYzeWxFN0YxbFVlX2g4aUZwVGNReVVBdFdzS0NpZ1dSLXVIeFdIWTJLNHNKWHg5Z1dVd2Y3d25fcFZHRnNPektJY0dKS1NJZlpXMEhUTjJja0NHY0U0bXVnUnZkOGozakYxNE5iQnhEZy1tR0t3RDQ?oc=5",
+        "pubTime": "2026-08-11 20:26",
+        "source": "news.google.com",
+        "titleZh": "消息人士指出，加拿大與美國貿易官員正擬定一項潛在協議，準備下週向川普提出：CBC",
+        "descZh": "消息人士指出，加拿大與美國貿易官員正擬定一項潛在協議，預計下週向川普提出：CBC"
+      },
+      {
+        "title": "US Moves Past Tariffs to Focus on Supply Chain Revamps in China Trade Policy - Bloomberg.com",
+        "desc": "US Moves Past Tariffs to Focus on Supply Chain Revamps in China Trade Policy&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX1h4N2FJZHhFYlFVYjYwTVVZMUNoYmZsMnlTYmRYcjNnTWQ3c1ZhRVFyZnM4TkUtYzlUenIwR1dKcGJvMERJMEVOSnZQZkFhZ25TMmdYdFhBcnRfMTM1SkQ3bERBNGtrQVM2dHNETHlvZDFxMjJTUC1HdjZKeGlIbjRUczhwYWVVUkRrT1EwOEpHSkxMTnUzQUFMM1hLRnhtU3VnNWRKZVI0VWRnX01LN0M4QWZVVEh4RjNpVzZ1SnVaNzVFWkhIeG53?oc=5",
+        "pubTime": "2026-08-11 19:00",
+        "source": "news.google.com",
+        "titleZh": "美國在對中貿易政策上，已超越關稅層面，轉而聚焦於供應鏈重整 - Bloomberg.com",
+        "descZh": "美國在對華貿易政策上，已從關稅轉向聚焦供應鏈重整&nbsp;&nbsp;Bloomberg.com"
+      },
+      {
+        "title": "Opinion | Trump Is Trapped in a Maelstrom of His Own Making - The New York Times",
+        "desc": "Opinion | Trump Is Trapped in a Maelstrom of His Own Making&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmx4SU5zamFOR2FQYWN1dktMUzFTaER6STNSUTRVWUtFNGdBcTR0Ui1odHNKR0taR1pYZTdwd1FQbEdubHFuZDE4aGFXY2dHMU1UODFyTjNFZy01T2FPVWlPcFpQQ0ttd25lQVJoYWU0SmgyT2t1TFFfRjZoSXJZcVlCZw?oc=5",
+        "pubTime": "2026-08-11 17:04",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 川普深陷自食其果的漩渦之中 —— 《紐約時報》",
+        "descZh": "觀點 | 川普深陷自食其果的漩渦&nbsp;&nbsp;《紐約時報》"
+      }
+    ]
+  },
+  {
     "date": "20260812",
     "fetchTime": "2026-08-12 05:10",
     "count": 10,
@@ -3925,58 +4058,6 @@
         "source": "news.google.com",
         "titleZh": "關稅作為槓桿，白宮扮演股東角色：川普如何運用「國家級推銷術」強迫蘋果與英偉達向英特爾下單 - finance.biggo.com",
         "descZh": "關稅作為槓桿，白宮作為股東：川普如何運用「國家級推銷術」強迫蘋果與英偉達向英特爾下單&nbsp;&nbsp;finance.biggo.com"
-      }
-    ]
-  },
-  {
-    "date": "20260714",
-    "fetchTime": "2026-07-14 05:25",
-    "count": 5,
-    "articles": [
-      {
-        "title": "Trump watches IndyCar pit stop outside White House",
-        "desc": "The event was a preview of the actual race that President Trump commissioned by signing an executive order in January.",
-        "url": "https://www.bbc.co.uk/news/videos/cgjx33y16ljo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-14 03:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在白宮外觀看印地賽車的進站維修",
-        "descZh": "這項活動是對實際比賽的預演，該比賽是由川普總統於一月簽署行政命令後所委託舉辦的。"
-      },
-      {
-        "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-        "desc": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-        "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-14 02:52",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國法官撤銷唐納德·川普與國稅局達成的18億美元和解協議，該協議原本賦予他免於稅務稽查的豁免權",
-        "descZh": "法官表示，這起訴訟是基於「不當目的」提起的，並將一名川普的律師移交相關單位，以考慮是否採取紀律處分。"
-      },
-      {
-        "title": "Tariffs as Leverage, White House as Shareholder: How Trump Used 'National-Level Salesmanship' to Strong-Arm Apple and Nvidia Orders for Intel - finance.biggo.com",
-        "desc": "Tariffs as Leverage, White House as Shareholder: How Trump Used 'National-Level Salesmanship' to Strong-Arm Apple and Nvidia Orders for Intel&nbsp;&nbsp;finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HUVprTjdQT2EzTGl5OVc1UzFYQ0o5YmJqRE1VRER6UEI0WEQ2am1JR3IwRldrRlRBQ3lOVm50d2VhTEZXNUdNZ3pLUTZFQWFfOWIycDFBczU5TGxZZUw0dXp4SWRVYUxITE5pZHBXalkza1NhQ3c?oc=5",
-        "pubTime": "2026-07-13 15:19",
-        "source": "news.google.com",
-        "titleZh": "關稅作為槓桿，白宮扮演股東角色：川普如何運用「國家級推銷術」迫使蘋果與英偉達向英特爾下單 - finance.biggo.com",
-        "descZh": "關稅作為槓桿，白宮作為股東：川普如何運用「國家級推銷術」強迫蘋果與英偉達向英特爾下單&nbsp;&nbsp;finance.biggo.com"
-      },
-      {
-        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "desc": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-13 06:08",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國參議員、川普的親密盟友林賽·葛拉漢因「短暫且突發的病症」去世",
-        "descZh": "這位71歲的南卡羅來納州參議員的發言人表示，初步調查結果顯示，格雷厄姆的死因與心臟有關。"
-      },
-      {
-        "title": "From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-        "desc": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-13 03:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "從川普的批評者到盟友，林賽·葛拉漢是「讓美國再次偉大」時代的一位政治倖存者",
-        "descZh": "BBC北美特派員撰文指出，這位參議員的從政生涯，其特點在於願意適應美國劇烈變化的政治環境。"
       }
     ]
   }
