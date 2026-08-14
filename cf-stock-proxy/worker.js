@@ -155,7 +155,11 @@ async function fetchHistoryFromYahoo(sym) {
   return { sym, points, source: "yahoo-intraday" };
 }
 
+// v1.2：驗證 Cloudflare Workers Builds 的 GitHub 自動部署（2026-08-14 接上）
+const PROXY_VERSION = "1.2";
+
 function jsonResponse(obj, status) {
+  obj.proxyVersion = PROXY_VERSION;
   return new Response(JSON.stringify(obj), {
     status,
     headers: {
