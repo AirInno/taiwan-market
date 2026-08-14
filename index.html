@@ -214,6 +214,7 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div class="nt" onclick="sw('stocks')">法人動向</div>
   <div class="nt" onclick="sw('twbrf')">📋 台股簡報</div>
   <div class="nt" onclick="sw('trump')">🇺🇸 川普動態</div>
+  <div class="nt" onclick="sw('rt')">⚡ 即時測試</div><!-- RT-TEST: 要刪就連這行一起刪 -->
 </div>
 <div id="dbar">
   <label>📅 查看日期：</label>
@@ -399,6 +400,20 @@ tfoot td{color:#718096;font-size:.7rem;font-weight:600}
   <div id="trump-body" class="md-body" style="display:none"></div>
 </div>
 
+<!-- RT-TEST BEGIN：即時股價可行性測試分頁，整段刪除即可移除，不影響其他分頁/資料管線 -->
+<div id="tab-rt" class="tc-wrap">
+  <div class="mthc">
+    <div class="mt">⚡ 即時股價 — 技術可行性測試（非正式功能）</div>
+    <div style="font-size:.78rem;color:#a0aec0;line-height:1.6">
+      這個分頁在測試「瀏覽器直接呼叫證交所/Yahoo API」在真實網站環境下會不會被 CORS 擋掉，純技術驗證，不是正式功能。<br>
+      不需要的話搜尋整份檔案裡的 <code>RT-TEST</code> 就能找到所有相關程式碼（nav 按鈕、這個分頁、下方 JS），整段刪掉即可，不影響其他任何分頁或資料管線。
+    </div>
+  </div>
+  <button onclick="rRealtime()" style="margin-bottom:12px;background:#1a1f2e;border:1px solid #2d3748;color:#e2e8f0;padding:6px 14px;border-radius:6px;cursor:pointer;font-size:.78rem">🔄 重新測試</button>
+  <div id="rt-results"></div>
+</div>
+<!-- RT-TEST END（分頁本體）-->
+
 <div class="ft">
   官方資料：
   <a href="https://www.twse.com.tw/zh/trading/foreign/twt38u.html" target="_blank">外資買賣超</a> ·
@@ -425,13 +440,14 @@ let D=[],idx=0,L,L5;
 // === TAB ===
 let trumpLoaded=false,twbrfLoaded=false;
 function sw(n){
-  ['today','history','stocks','twbrf','trump'].forEach((t,i)=>{
+  ['today','history','stocks','twbrf','trump','rt'].forEach((t,i)=>{ // RT-TEST: 加了 'rt'，刪除時記得把它拿掉
     document.querySelectorAll('.nt')[i].classList.toggle('active',t===n);
     $('tab-'+t).classList.toggle('active',t===n);
   });
   if(n==='history')rHist();
   if(n==='twbrf'&&!twbrfLoaded)rTwBriefing();
   if(n==='trump'&&!trumpLoaded)rTrump();
+  if(n==='rt'&&!rtLoaded)rRealtime(); // RT-TEST
 }
 
 // === TW BRIEFING ===
@@ -1168,6 +1184,52 @@ function renderHolders(h){
     $('at').textContent='資料載入失敗';
   }
 })();
+
+// RT-TEST BEGIN：即時股價可行性測試，整段（含這行以下到 END）可安全刪除
+// PROXY_URL：Cloudflare Worker，繞過瀏覽器直打證交所/Yahoo 的 CORS 限制
+const RT_PROXY_URL='https://cool-night-235a.airinno.workers.dev/';
+let rtLoaded=false;
+async function rRealtime(){
+  rtLoaded=true;
+  const box=$('rt-results');
+  box.innerHTML='<div style="color:#718096;font-size:.8rem">測試中...</div>';
+  const targets=[
+    {sym:'2330.TW',label:'台積電',mis:'tse_2330.tw'},
+    {sym:'0050.TW',label:'元大台灣50',mis:'tse_0050.tw'},
+    {sym:'^TWII',label:'加權指數',mis:'tse_t00.tw'}
+  ];
+  let html='';
+  for(const t of targets){
+    html+=`<div class="card" style="margin-bottom:10px">`;
+    html+=`<div class="cl">${t.label}（${t.sym}）</div>`;
+
+    // ① 瀏覽器直打證交所 MIS（預期失敗，示範 CORS 問題本身）
+    try{
+      const r=await fetch(`https://mis.twse.com.tw/stock/api/getStockInfo.jsp?ex_ch=${t.mis}&json=1&delay=0`);
+      const j=await r.json();
+      const m=(j.msgArray||[])[0];
+      html+=`<div class="cs" style="color:#34d399">✅ 直打 MIS 成功：${m&&(m.z||m.y)}</div>`;
+    }catch(e){
+      html+=`<div class="cs" style="color:#f87171">❌ 直打 MIS 失敗（CORS 擋掉，符合預期）</div>`;
+    }
+
+    // ② 透過 Cloudflare Worker proxy（預期成功）
+    try{
+      const r2=await fetch(RT_PROXY_URL+'?sym='+encodeURIComponent(t.sym));
+      const j2=await r2.json();
+      if(j2.error) throw new Error(j2.error);
+      const arrow=j2.pct>=0?'▲':'▼';
+      const color=j2.pct>=0?'#f87171':'#34d399';
+      html+=`<div class="mv" style="font-size:1.2rem;color:${color}">✅ 透過 proxy 成功：${j2.price} ${arrow}${Math.abs(j2.pct).toFixed(2)}%</div>`;
+      html+=`<div style="font-size:.7rem;color:#4a5568">來源：${j2.source} · 時間戳 ${new Date(j2.ts*1000).toLocaleTimeString('zh-TW')}</div>`;
+    }catch(e){
+      html+=`<div class="mv" style="font-size:.85rem;color:#f87171">❌ proxy 失敗：${e.message}</div>`;
+    }
+    html+='</div>';
+  }
+  box.innerHTML=html;
+}
+// RT-TEST END
 </script>
 </body>
 </html>
