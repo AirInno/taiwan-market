@@ -1189,8 +1189,11 @@ function renderHolders(h){
 // PROXY_URL：Cloudflare Worker，繞過瀏覽器直打證交所/Yahoo 的 CORS 限制
 const RT_PROXY_URL='https://cool-night-235a.airinno.workers.dev/';
 let rtLoaded=false;
+let rtCharts=[]; // 記錄 Chart.js 實例，重新測試時要先銷毀，不然同一個 canvas 會報錯
 async function rRealtime(){
   rtLoaded=true;
+  rtCharts.forEach(c=>c.destroy());
+  rtCharts=[];
   const box=$('rt-results');
   box.innerHTML='<div style="color:#718096;font-size:.8rem">測試中...</div>';
   const targets=[
@@ -1199,7 +1202,8 @@ async function rRealtime(){
     {sym:'^TWII',label:'加權指數',mis:'tse_t00.tw'}
   ];
   let html='';
-  for(const t of targets){
+  for(let idx=0;idx<targets.length;idx++){
+    const t=targets[idx];
     html+=`<div class="card" style="margin-bottom:10px">`;
     html+=`<div class="cl">${t.label}（${t.sym}）</div>`;
 
@@ -1225,9 +1229,40 @@ async function rRealtime(){
     }catch(e){
       html+=`<div class="mv" style="font-size:.85rem;color:#f87171">❌ proxy 失敗：${e.message}</div>`;
     }
+
+    // ③ 當日走勢圖（Yahoo 分鐘級資料，本身有15-20分鐘延遲，看趨勢用）
+    html+=`<div style="height:120px;margin-top:8px"><canvas id="rt-chart-${idx}"></canvas></div>`;
+    html+=`<div id="rt-chart-status-${idx}" style="font-size:.68rem;color:#4a5568;margin-top:2px">走勢圖載入中...</div>`;
     html+='</div>';
   }
   box.innerHTML=html;
+
+  // 圖表要等 canvas 真的在 DOM 上才能畫，所以放在 innerHTML 賦值之後
+  for(let idx=0;idx<targets.length;idx++){
+    const t=targets[idx];
+    const statusEl=$('rt-chart-status-'+idx);
+    try{
+      const rh=await fetch(RT_PROXY_URL+'?sym='+encodeURIComponent(t.sym)+'&mode=history');
+      const jh=await rh.json();
+      if(jh.error) throw new Error(jh.error);
+      const labels=jh.points.map(p=>new Date(p.ts*1000).toLocaleTimeString('zh-TW',{hour:'2-digit',minute:'2-digit'}));
+      const prices=jh.points.map(p=>p.price);
+      const up=prices[prices.length-1]>=prices[0];
+      const chart=new Chart($('rt-chart-'+idx),{
+        type:'line',
+        data:{labels,datasets:[{data:prices,borderColor:up?'#f87171':'#34d399',borderWidth:1.5,pointRadius:0,tension:.15,fill:false}]},
+        options:{responsive:true,maintainAspectRatio:false,animation:false,
+          plugins:{legend:{display:false}},
+          scales:{x:{ticks:{maxTicksLimit:6,color:'#4a5568',font:{size:9}},grid:{display:false}},
+                   y:{ticks:{color:'#4a5568',font:{size:9}},grid:{color:'#1e2533'}}}}
+      });
+      rtCharts.push(chart);
+      statusEl.textContent=`當日走勢（Yahoo，約15-20分鐘延遲）· ${jh.points.length} 個資料點`;
+    }catch(e){
+      statusEl.textContent='走勢圖載入失敗：'+e.message;
+      statusEl.style.color='#f87171';
+    }
+  }
 }
 // RT-TEST END
 </script>
