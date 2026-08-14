@@ -20,13 +20,20 @@ export default {
       return jsonResponse({ error: "missing ?sym= parameter" }, 400);
     }
 
+    const fetcher = /\.TW$|\.TWO$|^\^TWII$|^\^TWOII$/i.test(sym) ? fetchFromMIS : fetchFromYahoo;
+
+    // 上游（MIS/Yahoo）偶爾會回傳暫時性錯誤（例如 Cloudflare 520），
+    // 實測證實是暫時性、不是永久性擋 IP，重試一次即可解決，不用整支失敗。
     try {
-      const data = /\.TW$|\.TWO$|^\^TWII$|^\^TWOII$/i.test(sym)
-        ? await fetchFromMIS(sym)
-        : await fetchFromYahoo(sym);
+      const data = await fetcher(sym);
       return jsonResponse(data, 200);
-    } catch (err) {
-      return jsonResponse({ error: String(err.message || err) }, 502);
+    } catch (firstErr) {
+      try {
+        const data = await fetcher(sym);
+        return jsonResponse(data, 200);
+      } catch (secondErr) {
+        return jsonResponse({ error: String(secondErr.message || secondErr) }, 502);
+      }
     }
   },
 };
@@ -54,9 +61,14 @@ async function fetchFromMIS(sym) {
       },
     }
   );
-  const j = await r.json();
+  let j;
+  try {
+    j = await r.json();
+  } catch {
+    throw new Error("MIS 暫時回應異常（非 JSON，可能上游短暫過載）");
+  }
   const m = (j.msgArray || [])[0];
-  if (!m) throw new Error("MIS 沒有回傳這個代號的資料");
+  if (!m) throw new Error("MIS 沒有回傳這個代號的資料，代號可能不存在");
 
   const prev = num(m.y);
   let price = num(m.z) || num(m.pz);
@@ -85,9 +97,14 @@ async function fetchFromYahoo(sym) {
     `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=1d&range=1d`,
     { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } }
   );
-  const j = await r.json();
+  let j;
+  try {
+    j = await r.json();
+  } catch {
+    throw new Error("Yahoo 暫時回應異常（非 JSON，可能上游短暫過載）");
+  }
   const meta = j?.chart?.result?.[0]?.meta;
-  if (!meta) throw new Error("Yahoo 沒有回傳這個代號的資料");
+  if (!meta) throw new Error("Yahoo 沒有回傳這個代號的資料，代號可能不存在");
 
   const price = meta.regularMarketPrice;
   const prev = meta.chartPreviousClose ?? meta.previousClose;
