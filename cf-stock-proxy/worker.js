@@ -20,7 +20,13 @@ export default {
       return jsonResponse({ error: "missing ?sym= parameter" }, 400);
     }
 
-    const fetcher = /\.TW$|\.TWO$|^\^TWII$|^\^TWOII$/i.test(sym) ? fetchFromMIS : fetchFromYahoo;
+    // mode=history：當日走勢圖用的分鐘級資料（一律走 Yahoo，MIS 沒有這種歷史序列可查）
+    const fetcher =
+      url.searchParams.get("mode") === "history"
+        ? fetchHistoryFromYahoo
+        : /\.TW$|\.TWO$|^\^TWII$|^\^TWOII$/i.test(sym)
+        ? fetchFromMIS
+        : fetchFromYahoo;
 
     // 上游（MIS/Yahoo）偶爾會回傳暫時性錯誤（例如 Cloudflare 520），
     // 實測證實是暫時性、不是永久性擋 IP，重試一次即可解決，不用整支失敗。
@@ -118,6 +124,35 @@ async function fetchFromYahoo(sym) {
     ts: meta.regularMarketTime || Math.floor(Date.now() / 1000),
     source: "yahoo",
   };
+}
+
+// 當日走勢（分鐘級），給前端畫線圖用。一律走 Yahoo：
+// MIS 只有「現在這一筆」的快照，沒有像 Yahoo 這樣的當天歷史序列可查。
+// 注意：Yahoo 的台股資料本身有 15-20 分鐘延遲，走勢圖看的是趨勢形狀，
+// 不是精確到分鐘的即時位置——跟上面即時報價（MIS，近乎零延遲）是不同用途。
+async function fetchHistoryFromYahoo(sym) {
+  const r = await fetch(
+    `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=5m&range=1d`,
+    { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" } }
+  );
+  let j;
+  try {
+    j = await r.json();
+  } catch {
+    throw new Error("Yahoo 暫時回應異常（非 JSON，可能上游短暫過載）");
+  }
+  const result = j?.chart?.result?.[0];
+  if (!result) throw new Error("Yahoo 沒有回傳這個代號的歷史資料，代號可能不存在");
+
+  const timestamps = result.timestamp || [];
+  const closes = result.indicators?.quote?.[0]?.close || [];
+  const points = [];
+  for (let i = 0; i < timestamps.length; i++) {
+    if (closes[i] != null) points.push({ ts: timestamps[i], price: closes[i] });
+  }
+  if (!points.length) throw new Error("今天目前沒有可畫的走勢資料（可能尚未開盤）");
+
+  return { sym, points, source: "yahoo-intraday" };
 }
 
 function jsonResponse(obj, status) {
