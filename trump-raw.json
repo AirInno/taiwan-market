@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260818",
+    "fetchTime": "2026-08-18 04:48",
+    "count": 12,
+    "articles": [
+      {
+        "title": "'He's a real hero' - Trump meets teen lifeguard after dramatic rescue",
+        "desc": "The US president hosted Ryder Williams at the White House after the 16-year-old rescued a 10-year-old boy from a beach in California on 25 July.",
+        "url": "https://www.bbc.co.uk/news/videos/c4g35e9jgzko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-18 04:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「他真是個英雄」——川普在驚險救援後會見青少年救生員",
+        "descZh": "7月25日，16歲的萊德·威廉斯在加州某海灘救起一名10歲男童後，美國總統在白宮接見了他。"
+      },
+      {
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "desc": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-18 03:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普威脅稱，若美國盟友阿曼在伊朗協議問題上「橫加干涉」，將對其發動空襲",
+        "descZh": "在為期60天的和平談判期限即將屆滿之際，川普對阿曼發出了威脅——該國此前一直與伊朗進行獨立談判，以期重新開放霍爾木茲海峽。"
+      },
+      {
+        "title": "UK PM Burnham exchanged messages with White House imposter",
+        "desc": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+        "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-18 02:51",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "英國首相伯納姆與白宮冒名者互傳訊息",
+        "descZh": "唐寧街拒絕就這起安全漏洞發表評論，該事件最初由《Politico》報導。"
+      },
+      {
+        "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+        "desc": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+        "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-18 02:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院再次駁回川普推翻伊·珍·卡羅爾性侵案的申請",
+        "descZh": "在這起人身攻擊及誹謗案中，美國總統已向該作家支付了超過500萬美元的損害賠償金。"
+      },
+      {
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+        "desc": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-18 02:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，由於南韓未介入伊朗戰爭，美國將減少與南韓的聯合軍演",
+        "descZh": "川普表示，決定縮減演習規模是基於他與北韓領導人之間的「非常良好的關係」。"
+      },
+      {
+        "title": "Trump’s New 50% Canada Tariffs Face Serious Legal Challenge, Trade Law Expert Says - Energi Media",
+        "desc": "Trump’s New 50% Canada Tariffs Face Serious Legal Challenge, Trade Law Expert Says&nbsp;&nbsp;Energi Media",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96N3YybE1xQTRFel96bjJ3V0JyZnotZ2NBQzc1WElLRno0cFQ2NWotMWhZT1czazliUTM5N0plUXpLUTRkQlVuMm5MdllBM19mY0xCY2JtejJ5WHJsbGlvUjVlemVqOVNYdnFkdDBmM0doYThjSE5vVU0xUy1XUkk?oc=5",
+        "pubTime": "2026-08-18 02:31",
+        "source": "news.google.com",
+        "titleZh": "貿易法專家指出，川普對加拿大實施的50%新關稅將面臨嚴峻的法律挑戰 - Energi Media",
+        "descZh": "貿易法專家指出，川普對加拿大實施的50%新關稅將面臨嚴峻的法律挑戰&nbsp;&nbsp;Energi Media"
+      },
+      {
+        "title": "Trump envoy hails 'very good' meeting with Netanyahu after Hamas talks on peace plan",
+        "desc": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-18 00:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在就和平計畫與哈馬斯進行會談後，川普特使稱讚與內塔尼亞胡的會晤「非常順利」",
+        "descZh": "美國總統川普的女婿賈里德·庫什納正尋求以色列對這項由美國支持的加薩和平計畫給予支持。"
+      },
+      {
+        "title": "USTR Greer defends tariffs, pushes for more ag trade opportunities - Brownfield Ag News",
+        "desc": "USTR Greer defends tariffs, pushes for more ag trade opportunities&nbsp;&nbsp;Brownfield Ag News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2Q0eGQxaWhhQ1RGY1lIb2pJV0JxdEdpRnY1Vy14S2c3N1BmcHVWczA3UV96dmxqM3ZLTUExZENNOXpNak9uMWdLWEViZG5yNXhQUm96TU45RXMwR2tPY19MQS1PdGxSSmZkRk44eGlmQzRaZ0FVcTVVaklCcHVhVmI5LVpJUXpMc2ZlSW5PX1Z4SVJsY0xQQTVvd3lSMFpfYmE1ME1RSQ?oc=5",
+        "pubTime": "2026-08-17 23:47",
+        "source": "news.google.com",
+        "titleZh": "美國貿易代表格里爾為關稅辯護，並推動開拓更多農業貿易機會 —— 布朗菲爾德農業新聞",
+        "descZh": "美國貿易代表格里爾為關稅辯護，並推動更多農業貿易機會&nbsp;&nbsp;布朗菲爾德農業新聞"
+      },
+      {
+        "title": "Trump ‘Won’ on Tariffs? Lol. - The Bulwark",
+        "desc": "Trump ‘Won’ on Tariffs? Lol.&nbsp;&nbsp;The Bulwark",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVjAxUVk0VmxWVzNDWnljMjBpd1ZDNW9sV3d3UnU1TExFdFNlVnV5Zk9MNlY0XzFJQmxBRV9tS2NFUV95RWIyekFnSnpETTd2aGt2WWdDV05BbVNMVWpCMnZZRXdDTGdhVlZPWF9EbG1IekpYdVRpek1HanBLbWVpU2ZXS3dGa2FpN0tnS1R3c2E1Zw?oc=5",
+        "pubTime": "2026-08-17 21:27",
+        "source": "news.google.com",
+        "titleZh": "川普在關稅問題上「獲勝」？哈哈。——《The Bulwark》",
+        "descZh": "川普在關稅問題上「勝出」？哈哈。&nbsp;&nbsp;《The Bulwark》"
+      },
+      {
+        "title": "Trump promised to cut off China. His latest tariff tweak just rescued it - Washington Examiner",
+        "desc": "Trump promised to cut off China. His latest tariff tweak just rescued it&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEhxeUZ4Wk8yVGI0aWUwdEgwbXF4cFd3ck5mNFd5M3JRcVoyZWJoSXo3QzIyOUE2MnBRTHhISzlNNUU4NGJiME9lTWw0QkNhWF91QXFaeEUxMWVDb3hFTThNblhXTi1Fd3Q0SFFKWEZKQ0g0ZzczXzVqVkZrbUtNMVdyTlFsZFFkUV90NTMwMjU0VmR4a0poUDN3?oc=5",
+        "pubTime": "2026-08-17 20:00",
+        "source": "news.google.com",
+        "titleZh": "川普曾承諾要切斷與中國的往來。但他最近的關稅調整卻反倒拯救了中國——《華盛頓觀察家報》",
+        "descZh": "川普曾承諾要切斷與中國的聯繫。但他最近的關稅調整卻反而拯救了中國&nbsp;&nbsp;《華盛頓觀察家報》"
+      },
+      {
+        "title": "How Iowans feel about Trump's tariffs, Canada's treatment as Republicans vie for support - CBC",
+        "desc": "How Iowans feel about Trump's tariffs, Canada's treatment as Republicans vie for support&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEhldGJVQUFYMHktSTB4QlA0WnIwRlRLVVR0eGhGemJfdk9wLTBsWDZZQmZBbmx2U2s0YzgwUHFzeUVTeWlVN2ZsV0ZmUFAzMk9DdjYwYS1HN2dMdl9CUmE5cmtXd05JcjBWdHVSUXFvb2FQQjEwUU9jNmVQNkdhbm5MdkNLRWU5Q0FKV2xqRXYtVTNSZHpXR2x2alozVDlBa3AtNVdmdw?oc=5",
+        "pubTime": "2026-08-16 16:00",
+        "source": "news.google.com",
+        "titleZh": "共和黨人爭取選民支持之際，愛荷華州民眾如何看待川普的關稅政策及加拿大所受的待遇——CBC",
+        "descZh": "共和黨人爭取支持之際，愛荷華州民眾對川普關稅及加拿大待遇的看法&nbsp;&nbsp;CBC"
+      },
+      {
+        "title": "US women in politics spark conversation on motherhood",
+        "desc": "The White House press secretary quit this week to be with her children, while Democrat Alexandra Ocasio-Cortez said she was freezing her eggs.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-16 07:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國政壇女性引發關於母職的討論",
+        "descZh": "白宮發言人本週辭職，以便陪伴子女；而民主黨人亞歷山德拉·奧卡西奧-科爾特茲則表示，她正在進行冷凍卵子。"
+      }
+    ]
+  },
+  {
     "date": "20260817",
     "fetchTime": "2026-08-17 04:43",
     "count": 6,
@@ -3943,112 +4058,6 @@
         "source": "news.google.com",
         "titleZh": "川普政府急於重建遭最高法院推翻的關稅壁壘 - PBS",
         "descZh": "川普政府急於重建被最高法院推翻的關稅壁壘&nbsp;&nbsp;PBS"
-      }
-    ]
-  },
-  {
-    "date": "20260719",
-    "fetchTime": "2026-07-19 05:10",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "desc": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-19 01:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普威脅對加拿大加徵新關稅，指責野火將「骯髒」的空氣飄入美國各城市",
-        "descZh": "加拿大領導人馬克·卡尼表示，美國和加拿大在應對氣候變遷方面負有同等責任；專家指出，氣候變遷正導致野火情勢日益惡化。"
-      },
-      {
-        "title": "Trump tests China relations with election meddling claims - The Washington Post",
-        "desc": "Trump tests China relations with election meddling claims&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1Q1bUxpdG1LMG1EaDI5SDZTRk01RDJhcVRheXBMdXVXUWR0M3ZySnpwcklrUDZpOUZCTHBWekVJaTJXMjNJMkhIUkxOQ1ZQbGo3UHIzWUFsSVZGWUdnUW9adlRUSW9LdHBzQlVHSm9aYVk3NlpQZk5rLTdfY09EeEQ3TVROMFVCbE9TbjhseVBHV2ZocVdfU3Z6TmgtT0NPR3YtdHkwMVhQSUluQUVyb2gwOHN1YjNmMGc?oc=5",
-        "pubTime": "2026-07-18 08:17",
-        "source": "news.google.com",
-        "titleZh": "川普以「干預選舉」指控試探中美關係——《華盛頓郵報》",
-        "descZh": "川普以「干預選舉」指控試探中美關係&nbsp;&nbsp;《華盛頓郵報》"
-      },
-      {
-        "title": "Trump administration races to rebuild tariff wall knocked down by Supreme Court - PBS",
-        "desc": "Trump administration races to rebuild tariff wall knocked down by Supreme Court&nbsp;&nbsp;PBS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckc2VmUtQXc4QzRfcHQ4TkE3R2FzSEtHeVMyQ09qTjBjby1TMXlaWEJiTXFIbk9TNk9IejJUeWNiT1JaTmJ4NHlXUjhpSGFZTlBNNFdrMXJubnpQcTRiWjFvb2dZaFBjVkRvT0FBcWRELVltLVNKbFhjSC16R2JYdGphM1hIWmZhN3BvWUdFYTJmT2xsT21Lb0J2aE4xODRsTVBXLWN1NEUwQWx1a0xKR0p2VzQzWG800gG-AUFVX3lxTE1vSklEVXVGUVMxajl6WXgzNE9qNmJvWGREdUJqSDRYV1RxWWZ6NnloWlNSdVFsVzcyOVkwZmNJNHl0ZjJWR1g4VXhvTHA4VlBEdGNfLXN5LUhNM0NNb3lobkR4SXNReFU4TzJkM0V3RU1vdHBkNHdTY0pORmJrTG51WWFSYXg3M29peDAxdjl1MVFnSmVOWkJ1MFc4eFM0VTlvYzh4X1hDNEFMYTZKdmZCV2daeWdGODdIemNLdEE?oc=5",
-        "pubTime": "2026-07-18 05:23",
-        "source": "news.google.com",
-        "titleZh": "川普政府急於重建遭最高法院推翻的關稅壁壘 - PBS",
-        "descZh": "川普政府急於重建遭最高法院推翻的關稅壁壘&nbsp;&nbsp;PBS"
-      },
-      {
-        "title": "Trump’s New Tariffs: What to Know - Council on Foreign Relations",
-        "desc": "Trump’s New Tariffs: What to Know&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95MzM5ams5dVdVUVhQZUcxMUx4VC1wR1l3eEY0VmY4RWdzbkFMQXBjMHlvdnpDd1hsMXd5YXBHbE1nVURMQ2lnSWVRZUVqelJHU0xLUG5NWnJQMFdWRWlGMHN1OVBLaU1XclhQRg?oc=5",
-        "pubTime": "2026-07-18 02:38",
-        "source": "news.google.com",
-        "titleZh": "川普的新關稅：您需要了解的事項 —— 外交關係協會",
-        "descZh": "川普的新關稅：您需要了解的事項&nbsp;&nbsp;外交關係協會"
-      },
-      {
-        "title": "Senate Advances Trump Trade Court Nominee - Legis1",
-        "desc": "Senate Advances Trump Trade Court Nominee&nbsp;&nbsp;Legis1",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ROEhvNUxxQjVLYkFZeElxOEs1TUZ6LTl1RWY4cnQwT1RGNWFkOEhIbEVBM09HVmx3Sjc1NTA0QmRUR2xLVkxJNV9IaTFraWFMSVpZaTNIcGJaTEl6dTQtTEY1Q1hMaV9KSnp3bDZzdkpoLXc?oc=5",
-        "pubTime": "2026-07-18 02:13",
-        "source": "news.google.com",
-        "titleZh": "參議院推進川普貿易法庭提名人選 - Legis1",
-        "descZh": "參議院推進川普提名的貿易法庭人選&nbsp;&nbsp;Legis1"
-      },
-      {
-        "title": "Trump's new tariffs on Brazil reflect the weakness of US trade strategy - Peterson Institute for International Economics",
-        "desc": "Trump's new tariffs on Brazil reflect the weakness of US trade strategy&nbsp;&nbsp;Peterson Institute for International Economics",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3BBSWptQUt5N2VVNzlfTWFxUjdDT3ZfN3lBY29MdEc1UTg0bHZSX2ZMc01CZWJybWNnMV81WkpsdlZIVG5VdmJjTkxaTm5NdElqdUlocXBIdnJxVWs4S1ZiT1o5ZHBTcXluN0U5VHR5Z2NMbF9PamN0NUhEbW1oOURHem9lTGszbkR4U05YUEdxc2lEVzRJd2dCMnNfT3BIV3Z4Sm5iRmpTaGp0SUxnbA?oc=5",
-        "pubTime": "2026-07-18 01:23",
-        "source": "news.google.com",
-        "titleZh": "川普對巴西實施的新關稅，反映出美國貿易策略的薄弱之處——彼得森國際經濟研究所",
-        "descZh": "川普對巴西實施的新關稅反映出美國貿易策略的薄弱之處&nbsp;&nbsp;彼得森國際經濟研究所"
-      },
-      {
-        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-        "desc": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-17 19:37",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普指控中國干預2020年大選，並在中期選舉前質疑投票安全",
-        "descZh": "中國表示，川普的說法是捏造的；美國民主黨則指稱，他此舉是在為破壞十一月的選舉鋪路。"
-      },
-      {
-        "title": "Trump Media to sell instant access to 'market-moving' social posts",
-        "desc": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-17 15:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普媒體將出售「能影響市場」的社群貼文即時瀏覽權限",
-        "descZh": "「川普媒體」即將為華爾街交易員推出一項快速、付費的資訊流服務，專門彙整其最具影響力的貼文。"
-      },
-      {
-        "title": "Trump’s top tariff negotiator gives Utah leaders exclusive look at plans to remake global economy - Deseret News",
-        "desc": "Trump’s top tariff negotiator gives Utah leaders exclusive look at plans to remake global economy&nbsp;&nbsp;Deseret News",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcDBlbkM3STVJdmYwQm8yemlRcEt3RTZ0OE43T0NRNVRWNW5GcXowemdadWduVzZUekwyX1pxT05sODUzb0k4OUpMVG5kNldEb0g3em1CRUJpOV9RZk04cGJXMG1OcEE1RmFPNUtjU0NYQnhnSHZHUXR6QXBWLURqMEN6OXBNODREc0lFS05qXzFiOFBsNVM1d3ZPbFdwT3VodVVCR2NJZUhTS05uM21lVzM5Q0dmemhKdnYzNHZYT09WUWhXZlVRVXU2RWF3Wlk0amViZXEyUEpKdjAx?oc=5",
-        "pubTime": "2026-07-17 13:00",
-        "source": "news.google.com",
-        "titleZh": "川普的首席關稅談判代表向猶他州領袖們獨家揭示重塑全球經濟的計畫 — 《德塞雷特新聞》",
-        "descZh": "川普的首席關稅談判代表向猶他州領袖們獨家揭示重塑全球經濟的計畫&nbsp;&nbsp;《德塞雷特新聞》"
-      },
-      {
-        "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products - The Guardian",
-        "desc": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWZktWWkE0YXhESVpvRU1jUHpsRWY1QjJDeGJNaE1kc0lNeS1GcFJRUHFrY1ZyYlk1dUVRNHZScGZpN0pCNV9JTmVXNTVBenozWEZvcURjc01Wd3hlLXJNUTBjY0o1Z2ROeEhrLXdaUkM1Z3M?oc=5",
-        "pubTime": "2026-07-17 11:30",
-        "source": "news.google.com",
-        "titleZh": "巴西誓言，若美國對其部分產品徵收 25% 關稅，將採取報復措施——《衛報》",
-        "descZh": "巴西誓言，若美國對其部分產品徵收 25% 關稅，將採取報復措施&nbsp;&nbsp;《衛報》"
-      },
-      {
-        "title": "Trump administration tightens visa rules for foreign students",
-        "desc": "Students will need federal permission to stay longer than four years in the US and universities will lose the power to extend visas.",
-        "url": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-17 05:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普政府收緊針對外國留學生的簽證規定",
-        "descZh": "學生若要在美國停留超過四年，將需要取得聯邦政府的許可，而大學將喪失延長簽證的權力。"
       }
     ]
   }
