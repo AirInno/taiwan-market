@@ -1,5 +1,174 @@
 [
   {
+    "date": "20260823",
+    "fetchTime": "2026-08-23 04:44",
+    "count": 18,
+    "articles": [
+      {
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "desc": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-23 04:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "貿易談判破局後，卡尼稱川普的新一輪關稅是「誤判」",
+        "descZh": "加拿大總理表示，他「不情願地」宣布實施報復性關稅，並指責美國挑起貿易戰。"
+      },
+      {
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "desc": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-23 04:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "卡尼在退出川普的協議後面臨關鍵考驗",
+        "descZh": "加拿大總理必須說服大眾，相信他這場賭注——即退出與白宮的談判——所帶來的後果是值得的。"
+      },
+      {
+        "title": "Carney: Canada will enact retaliatory US tariffs starting September 8 - Al Jazeera",
+        "desc": "Carney: Canada will enact retaliatory US tariffs starting September 8&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ004Z0ZVNGFMajBqS1FVZVFzQmFXY1VubkJfU2w0WGEyd0diNkxGSGJVTjFPanU2RXBRdHB2NG1iYjlkcXFqamxhTHVNcVpaQnI2bDdqaFlJaE1hbjVtWkRmTkwwV1l1ZlIteW9rS0xMVlBvRGJLdmV5YVR3THM1TzNURmw1all5WTgyMHlFS3poMVduUnlHMVJOTjZZc0JFeEV4UHNoZVUwRmRxWFHSAbMBQVVfeXFMUGM1NTJEcnM2SVE4b3plQzJ4VVE5V0VMSTVnbWV0dEE0eU4xUmgzSWtfVDgxZllMU0p1b0N6UVRCOER5NGtFNUhYU0xHM0NraVJUSUd2Ujc1bG1JTUxHazNDVXUtZDZTWnVMaWZTVnNmWHVmSnZxNGR0djMxeXdUVmZtYmMycTdBSHotV3VNT0ZZZWlucDhNQTdjUDhLOHp2SGdzQlhKdUpnZTM0MjYtdTgxV00?oc=5",
+        "pubTime": "2026-08-23 03:03",
+        "source": "news.google.com",
+        "titleZh": "卡尼：加拿大將自 9 月 8 日起實施針對美國關稅的報復措施——半島電視台",
+        "descZh": "卡尼：加拿大將自 9 月 8 日起對美國實施報復性關稅　半島電視台"
+      },
+      {
+        "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8 - CNBC",
+        "desc": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmI2WjhqdHFkMnFON0xaNV9FWW13YUxwZ2h3YXlmdEpBUDItcEhydkVhYWhIOE4yeEdDQ2VQLWQyT0ZzUEdfV05Walh1OFAtU1V0aDFWUjNfSlYzUTdfSHZ6RmdXV0RxYkhCV04xOVBtX1EzTWdXZFF0VVNpaXVZdXR1Ql81Z2tSQXRDNFpnaVVfY2pmRF9BaTlldFYtT2di0gGmAUFVX3lxTE0zYXVjeXpjdXJMZDl3Rl9lUDVNSmU1Z0ZNcmtlSEZxVzRaQzNpdWdIZ0dCT05fTElGMUdtVUdWc2V0YzJGbFNWMk01ZHV4MUtfSmtRZF9HM0JkNFZWa3JUS1pNY3FFb21YZjZCblhGSWxMa1JZY0hRSjJ2b2ZrRXBqY1Y2Ukt3RUFlcnZPRGVlYjc5eGtXai1CMVlEN0RZS2ZKNWF2eHc?oc=5",
+        "pubTime": "2026-08-22 21:57",
+        "source": "news.google.com",
+        "titleZh": "隨著美加貿易談判破局，卡尼表示報復性關稅將於9月8日生效——CNBC",
+        "descZh": "隨著美加貿易談判破局，卡尼表示報復性關稅將於9月8日生效&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+        "desc": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-22 20:20",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著貿易談判破局，加拿大表示將對美國的關稅採取「一比一」的反制措施",
+        "descZh": "由於貿易談判在最後關頭破局，針對價值200億美元的加拿大進口商品徵收50%新關稅的措施正式生效。"
+      },
+      {
+        "title": "Canada rejects US terms for trade deal as 50 percent tariffs take effect - The Hill",
+        "desc": "Canada rejects US terms for trade deal as 50 percent tariffs take effect&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0wtaHhXM3F3ODBaa1pJVTVuTXM2Vm5ka0lQaEJZbFk4cWtUUU5CWU5hOEV6QmszZlpCMTdiTWZYQWZzT1ZtZXlPRDF6U0gyeHVTbnJsQVI5VWFmZ0xtaHFZZWk2YnNXM1hsOXhMVVpya0J0Sld5U3RQbGhQTERtdmdVTlhDQWlCUlV1SHVMUkRDQdIBlwFBVV95cUxNdWhpeDgzSnlCYm16YlIxRlBES2FxMFplYkcwb21JNWR3Sks2WExPOUFoVDE2WUJBcGJnTWMtMmxWd3k2SzRIemhFR3BlRW40dEVuLVFraFZEOFNtRkdtTHRhcURTeGx5Y3IzaThCQ04zMF83QnhBMTVESVBkUExvVzhUUXFNMENpUXpFQm41Uk16MHFVdVVN?oc=5",
+        "pubTime": "2026-08-22 20:09",
+        "source": "news.google.com",
+        "titleZh": "加拿大拒絕美國提出的貿易協議條件，50%關稅正式生效——《The Hill》",
+        "descZh": "加拿大拒絕美國提出的貿易協議條件，50%關稅正式生效&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "U.S.-Canada trade negotiations collapse as Trump's new tariffs take effect - LIGA.net",
+        "desc": "U.S.-Canada trade negotiations collapse as Trump's new tariffs take effect&nbsp;&nbsp;LIGA.net",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2JhNHIxaEtIVUdPV2tnbkttU29BQ0VjZzBZbjlLTzRaRlZUZDN1NWItaU1QcFdlTnBaTVdrdkh5UVZodDEtdXotQWkxYV9yVWxOaXNQWXRYbV9ITWFMUnplVDBpaGZqeU05bm94UFgybUNPQlB3bXZZVjNOLXVoRXVXeUE4WGd4RXJWSHZ1TG90UUFYcGNac3hBWS1TTVVXOXBJc0hwUXhsQVlpNFM3WGtQelhqUkXSAbwBQVVfeXFMTlJOa0txNnlMQmZfOEpEVURDY3ZJYTdPSmlFR1VGWnhNbzNYMXp6aVdWeUxDN2Vrc1NySnVsNUUzZFM1TlZaWmQ5WGtYM0ZBRVpGVXQ1MnhmeDdNRVcyVVpSWk9qRWk3ZFBIWllwOFlOTWhKMXpqLW9XZjhXWVUzcXZITDBHazhkbkFGWEdsYnVDbk9kTGh3cWZCMVlxanlGdkRaTnQ1QWpGUlBmcHpfUmlXVGMwejZ1RDV4Mmk?oc=5",
+        "pubTime": "2026-08-22 14:34",
+        "source": "news.google.com",
+        "titleZh": "隨著川普的新關稅措施生效，美加貿易談判破局 — LIGA.net",
+        "descZh": "隨著川普的新關稅措施生效，美加貿易談判破局&nbsp;&nbsp;LIGA.net"
+      },
+      {
+        "title": "American tariffs on Canadian goods take effect after trade talks fall apart - CBC",
+        "desc": "American tariffs on Canadian goods take effect after trade talks fall apart&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjF3cEV1NHZ2cktyX1R1MHdVRWl1VlQ0NVd5TE5SZEdGSXVaMEwyaUYwZzdobzk2M2pPRVRvX1ZuSHNsYl9iRU9hVWluYTdUNy1TM2IyRmVYZ2YwWkV3dC0zenp6Tm91UVQ3VzJSWG9KZnljRmNHTWZVbjh5aHhRNWJCTWx2Y0hZbWp2N2NuUTBXNzhhbHFaNDBsTHRYbm9SWmtIVEZQLThPNi14dThQMTQ4cmZXaHFBY0o4Y1pn?oc=5",
+        "pubTime": "2026-08-22 12:03",
+        "source": "news.google.com",
+        "titleZh": "貿易談判破局後，美國對加拿大商品加徵的關稅正式生效 —— CBC",
+        "descZh": "貿易談判破局後，美國對加拿大商品徵收的關稅正式生效&nbsp;&nbsp;CBC"
+      },
+      {
+        "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+        "desc": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+        "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-22 10:39",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「安靜、安靜、安靜！」——是什麼促使川普叫記者閉嘴？",
+        "descZh": "就在美國總統再次侮辱一名記者之際，BBC 探討了他不願回答的那些問題。"
+      },
+      {
+        "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+        "desc": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case.",
+        "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-22 06:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院暫時解除了對川普宴會廳工程的凍結令",
+        "descZh": "這項臨時命令將允許這項價值 4 億美元（2.97 億英鎊）的項目繼續進行，同時高等法院就本案審議最終裁決。"
+      },
+      {
+        "title": "One of Trump's top deputies has been unsatisfied with trade deal on the table for Canada, sources say - CBC",
+        "desc": "One of Trump's top deputies has been unsatisfied with trade deal on the table for Canada, sources say&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVN0TW9EeU9xYmdoc2x0dDhEUEFRUDZHdkZiQW5jSmhCWU1mc3pURzd2Sk5qX2lrNlFkR0Z3S1RERkQ2LXVpWkNCbnNJREhYdlV1ekM3a1Q4ZWlYZEZBMUtiMnR4MDV3dEZzRVdFc1U3Mkg4YVNsVzc4TFlOeVpVM0llbG9KOW0tY1Q5eHI3aDVSX1Q3cGVDZWRpRVI1bUlyaWpCMUFEX0tzSkd5?oc=5",
+        "pubTime": "2026-08-22 05:30",
+        "source": "news.google.com",
+        "titleZh": "消息人士指出，川普的一位高級副手對目前針對加拿大提出的貿易協議感到不滿 —— CBC",
+        "descZh": "消息人士指出，川普的一位高級副手對目前針對加拿大的貿易協議感到不滿&nbsp;&nbsp;CBC"
+      },
+      {
+        "title": "U.S. Trade Policy Update: What Current Tariff Actions Mean for U.S. Wheat Customers - Oklahoma Farm Report",
+        "desc": "U.S. Trade Policy Update: What Current Tariff Actions Mean for U.S. Wheat Customers&nbsp;&nbsp;Oklahoma Farm Report",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkNaMnc0SHF0Mng2bHdJYVFDb0hLVmhabHdFZ3Z4S3lmdUpwX3NoSExtUHYta2ZKY0VpcXN5RFZSVmNwZGVOdlN1bjFaeU9BNEk0bU1Veml4aW43dTd0TlJqNVNKb0s1a21ESk1Xdy1XRjVxR3NIRFhLLThPQ29pT2ZvcGhneGFRcFZqQkF6Y2pEd3Qyck1oRUtwMkRINGxndG1mT1VVRTBJWXZYQ3VraGJ0YW8zMHRtYjJyNDZGeXZ4STZPTmc?oc=5",
+        "pubTime": "2026-08-22 01:27",
+        "source": "news.google.com",
+        "titleZh": "美國貿易政策最新動態：當前關稅措施對美國小麥客戶的影響 —— 《奧克拉荷馬農業報告》",
+        "descZh": "美國貿易政策最新動態：當前關稅措施對美國小麥買家有何影響？&nbsp;&nbsp;《奧克拉荷馬農業報告》"
+      },
+      {
+        "title": "Trump’s 90-Day Inflation Band-Aid: Why His Beef Tariff Pause Won’t Help Consumers - 24/7 Wall St.",
+        "desc": "Trump’s 90-Day Inflation Band-Aid: Why His Beef Tariff Pause Won’t Help Consumers&nbsp;&nbsp;24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcDJ3TTdVS1hCQWU5Y0QzT1I3N0dicVB6bWtBajlIeDJSdWhwYThaVXlGYjJraC05dzV5YlpIOXBKX0Z6VkFVUFJZSm1MTGxLWXJvRl8zbjhyd3RXX09jNWtrV21RQl9vSC0xU3VRbm85Mm9VbWplOTJtRlN2bHpwY0dwd2FqS21pZG1IcUZiYWY3d3c4TE9HM0czSlM5aUlHN3NUdDczSGdYbGpVU0lLVGpQRHdhMmZ2bnV4eEJjdw?oc=5",
+        "pubTime": "2026-08-21 23:02",
+        "source": "news.google.com",
+        "titleZh": "川普的「90天通膨臨時補救措施」：為何暫停對牛肉徵稅對消費者無濟於事 — 24/7 Wall St.",
+        "descZh": "川普的「90天通膨臨時補救措施」：為何暫停對牛肉加徵關稅無助於消費者&nbsp;&nbsp;24/7 Wall St."
+      },
+      {
+        "title": "Trump Tariff Talks Leave Key Canadian Official Hopeful - The New York Times",
+        "desc": "Trump Tariff Talks Leave Key Canadian Official Hopeful&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEhoMDItQ25jRDlpSlRnT0w4eEZHTnE1M1d2TE9rR0tGOWpYY1ZCWHdxRkhtcGh3azJrSU9id3FYdkxiTmJaQ2Z0b1A1YkstUDl3LTJEdVdlcTFScVBzU2JlbUlIeG9mQUlSbTJqek1TbnFlRGl3X2xld1FBM05uQXItelJJcFdCZklUZg?oc=5",
+        "pubTime": "2026-08-21 22:30",
+        "source": "news.google.com",
+        "titleZh": "川普關稅談判讓加拿大關鍵官員抱持希望——《紐約時報》",
+        "descZh": "川普關稅談判讓加拿大關鍵官員抱持希望&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms - CNBC",
+        "desc": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT1ZYMDNmNW1FcnpRMFVDVi14aUk4bVdjUDFQanlQTUZXOFY2cU5CaC12aHgyVTV6ODl3Y3JuRmVvR1FVQWNHZkFFLXU1aW9ONVRXVTZkNThYTnk2ZGdORXgwQWVIOVVyd2dCc3RsRkRhUXZWY3JxeFB5V3ZENk90MkJUb9IBiAFBVV95cUxPSEFmZFdKeGJwbXFJbTVPRzdrVko0RG1nMmxKMHRjUW1zMVdZMnpvUEVFYnNLeUdpWmt6MHFQb0kydlpKWTI2Z3h2RXJuSWpBcERMNFpmX3JsV2tlRUpqeGVmZUhPalRra29NTmNIcmhZSTVocEk1UnVueTJfWm1sblE2M0hxX3d6?oc=5",
+        "pubTime": "2026-08-21 20:17",
+        "source": "news.google.com",
+        "titleZh": "特朗普表示，隨著關稅截止期限逼近，美國與加拿大「應該能夠」達成貿易協議——CNBC",
+        "descZh": "川普表示，隨著關稅截止期限逼近，美國與加拿大「應該能夠」達成貿易協議&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trump’s Asia pullback is a gift to China and North Korea - Salon.com",
+        "desc": "Trump’s Asia pullback is a gift to China and North Korea&nbsp;&nbsp;Salon.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVhVcDdreWhZeFRIR1RJZnY4RUpLTDhjZV9WMV9CSEpVTGd3bHd4dVdVczlZbDhmTDJ1RkpBODF6Vnh4eThrbnEwNGJFTkFVb2h3aE5PT2g1YXVBZlpWUThRQWI5TlBxWWhFTVVqNldxaEJVcmZOajFNS3A5M1RWSFI0MGJDS2pYMFI5WjAxOU13c2M?oc=5",
+        "pubTime": "2026-08-21 18:30",
+        "source": "news.google.com",
+        "titleZh": "川普從亞洲撤軍，對中國和北韓而言無異於一份大禮——Salon.com",
+        "descZh": "川普從亞洲撤軍是送給中國和北韓的一份大禮&nbsp;&nbsp;Salon.com"
+      },
+      {
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "desc": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-21 07:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的「經濟諾曼第日」會對伊朗造成多大衝擊？",
+        "descZh": "迄今為止，伊朗已證明自己擅長尋找方法，以規避多年來對其經濟施加的、本已極具打擊性的制裁。"
+      },
+      {
+        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+        "desc": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-21 06:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普想與金正恩交好——但南韓可能得為此付出代價",
+        "descZh": "美韓聯合軍演於週五提前結束，此時北韓正處於佔上風的地位。"
+      }
+    ]
+  },
+  {
     "date": "20260822",
     "fetchTime": "2026-08-22 04:44",
     "count": 14,
@@ -3763,58 +3932,6 @@
         "source": "news.google.com",
         "titleZh": "美國正發放數十億的關稅退款。這並不能彌補全球貿易體系所遭受的損害——《The Conversation》",
         "descZh": "美國正發放數十億的關稅退款。這並不能彌補全球貿易體系所遭受的損害&nbsp;&nbsp;The Conversation"
-      },
-      {
-        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-        "desc": "Canada's industry is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-23 08:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "加拿大「實力雄厚」的乳製品產業已成為川普貿易政策瞄準的目標",
-        "descZh": "在美國總統將加拿大產業單獨列為用以為新關稅辯護的三大「刺激因素」之一後，該國產業成為眾人矚目的焦點。"
-      }
-    ]
-  },
-  {
-    "date": "20260724",
-    "fetchTime": "2026-07-24 05:31",
-    "count": 5,
-    "articles": [
-      {
-        "title": "US announces fresh raft of tariffs on overseas goods",
-        "desc": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-24 05:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國宣布對海外商品實施新一輪關稅",
-        "descZh": "這些關稅針對約60個貿易夥伴，理由是這些國家未能妥善遏止強迫勞動。"
-      },
-      {
-        "title": "'Everything on the table' as Canada plans response to US tariffs",
-        "desc": "Prime Minister Mark Carney says trade talks with Washington are intensifying ahead of the new US tariffs coming into effect.",
-        "url": "https://www.bbc.co.uk/news/articles/cgmkye80xg1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-24 03:59",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "加拿大擬定因應美國關稅的對策，表示「所有選項都在考慮之中」",
-        "descZh": "總理馬克·卡尼表示，在美國新關稅生效之際，與華盛頓的貿易談判正日趨白熱化。"
-      },
-      {
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "desc": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-24 01:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，沙烏地阿拉伯必須承認以色列，才能達成核協議",
-        "descZh": "美國總統表示，這項旨在協助沙烏地阿拉伯發展核能的里程碑式協議，取決於該國是否加入《亞伯拉罕協定》。"
-      },
-      {
-        "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-        "desc": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
-        "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-23 20:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普與沙烏地阿拉伯達成的核協議，拋棄了美國長期以來的要求",
-        "descZh": "在中東簽署核協議是一項大膽之舉，已在美國和以色列引發批評。"
       },
       {
         "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
