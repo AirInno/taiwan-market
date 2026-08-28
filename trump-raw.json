@@ -1,5 +1,165 @@
 [
   {
+    "date": "20260828",
+    "fetchTime": "2026-08-28 12:23",
+    "count": 17,
+    "articles": [
+      {
+        "title": "Trump signs order to rename Lake Ontario as Lake America",
+        "desc": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-28 07:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普簽署行政命令，將安大略湖更名為美國湖",
+        "descZh": "在美國與加拿大之間的貿易談判於上週末破局後，川普簽署了這項行政命令。"
+      },
+      {
+        "title": "US-Canada trade war deepens as Trump revives Depression-era trade tool – what’s at stake for consumers and the midterms - The Conversation",
+        "desc": "US-Canada trade war deepens as Trump revives Depression-era trade tool – what’s at stake for consumers and the midterms&nbsp;&nbsp;The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHNTUDRJb2Q0UWJlM3o4S0RTTWo1ZHpMYmVQZXU4NDNDZEFfYVBzX19rUVdTNFN3azkwREhwRlgxcndZYXp5RGQ4RVp3eXkxb043VEt0R0wzbzBrX1YtQkx1VzkxVVQ2NzQtS2xHRnpnV1pfbU04VDVrenFuUXpuZWlIdHExUktBS1pBYnpCNElpdXJZanc3ZUNmX3JaNFdPU2JxRTBLZllQVjJ1ZGlBTUZRVGdBak41OVFISVU1SHEzRVZFRFFROERteFk5cE5vcG5UVU9pa1NWdGYwZF9McWg3Y2lKUQ?oc=5",
+        "pubTime": "2026-08-28 01:50",
+        "source": "news.google.com",
+        "titleZh": "隨著川普重啟大蕭條時期的貿易工具，美加貿易戰愈演愈烈——消費者與期中選舉面臨何種風險？——《The Conversation》",
+        "descZh": "川普重啟大蕭條時期的貿易工具，美加貿易戰愈演愈烈——消費者與中期選舉將面臨何種影響？&nbsp;&nbsp;The Conversation"
+      },
+      {
+        "title": "India, China, Canada and more: 10 countries still under Trump’s tariff squeeze and why - The Times of India",
+        "desc": "India, China, Canada and more: 10 countries still under Trump’s tariff squeeze and why&nbsp;&nbsp;The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYVFrU3J0R2dDV2laRTlZcGYxakVLcGlfTDZWZno2UVpTaW5yalF5QTc5eWNxZGhNMld1Q00xSEdoeTlCYy16RUJIYWZHbjA5QTVYRHM5SG9fSlk5aFJwWklJQXF3MmNlN0JFT3dvLUhXTFhrM1JEVjhuM05jQ3N0ekFWaE9qWndFOFczdWo3V2d2Y3l5bWhTR3FOSTJZV0l3OWVfcTNQYUJ3TElGNzBXOThER3cyTTVHYzBOWHhCVzNTMDBBNEhWTWVBbXlGWXVYc0o2U05UN0t4WGZFYVhPaDY4R2pZZUdYbTNlWHBkMF9kTHpoY2U5Slpic2nSAYICQVVfeXFMTWwxQ1psdDlWOVVLdXA2U0htdUN2TnlLVlBmWm1wbUJOVDdWNTFsMWd2My1sekx4UktFZkRFNy1CajN3cTdpbGwzc0REZGszZlN2RXdSSjhFeVlUUGdIa0dMaW1XQmVFaDJKLUV1aHA2NVFwRFg0cjRQUnNDZDMyWko1ZUF1bk45dWNVVEFnZ1pIdEdxeVhHT1FBdUlzQU9XWEhoUGR2MFVhMkpra3hnalNId2tNeUw0VnU0ZkRiUGVuVGd1cEx0VEFzWmpmSHNPVWc3RG9kemVTcTJoa2Fsa1hkUDFUZjhWSUFJbHYxU2tCU19uSjFaTmIwUGVQWi1MYlhB?oc=5",
+        "pubTime": "2026-08-27 18:04",
+        "source": "news.google.com",
+        "titleZh": "印度、中國、加拿大等：仍受川普關稅壓力的10個國家及其原因——《印度時報》",
+        "descZh": "印度、中國、加拿大等：仍受川普關稅壓力的10個國家及其原因&nbsp;&nbsp;《印度時報》"
+      },
+      {
+        "title": "Ontario threatens electricity amid Trump-Canada trade war. What would that mean for US? - The Hill",
+        "desc": "Ontario threatens electricity amid Trump-Canada trade war. What would that mean for US?&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0thSE5XZlIzNGk4YXNRUDNhLW5zLUVFNFBwczVZdEl2ODZNRkE1d1ZTcEE3MlRSZDdwM1gwVDBWQTRXaUt4RTBRd3NaUkV0amNUZXNiQURROXo1LThUcEVaU1FRTFAyOGgzRGg1dVFCYndBX0VQYkgwSmxaZ1psUGR2NHZBMzdhWGtoRk1XOGVvV0UzRUxnTk5jak1EM1Rz?oc=5",
+        "pubTime": "2026-08-27 18:00",
+        "source": "news.google.com",
+        "titleZh": "安大略省在川普與加拿大之間的貿易戰中威脅斷電。這對美國意味著什麼？——《The Hill》",
+        "descZh": "安大略省在川普與加拿大之間的貿易戰中威脅斷電。這對美國意味著什麼？&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Another potential headache for US data centers — Trump tariffs - Politico",
+        "desc": "Another potential headache for US data centers — Trump tariffs&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRMNlNMVUdZcnBvbXI3cURKYmxzLXpUaGx2MFZHVGUzOHpIWXhVSkJ6RXE0VVJpeGJUakFUVUtyUDBKV0Zrd2VjUUZiN0pUd050Rk1QNVF0LWVSTVIzOEpGa2xPUWNtT29nUWU3eWlHeWY3Mzh0b19BdjdhcldDYzZHS25UMTBzOWJB?oc=5",
+        "pubTime": "2026-08-27 17:00",
+        "source": "news.google.com",
+        "titleZh": "美國資料中心面臨的另一項潛在難題——川普的關稅 - Politico",
+        "descZh": "美國資料中心面臨的另一項潛在難題——川普的關稅&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "Would U.S. tariffs actually change after Trump, or is this the new normal? - Global News",
+        "desc": "Would U.S. tariffs actually change after Trump, or is this the new normal?&nbsp;&nbsp;Global News",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxeWtsQ3dabmZZc2JwUFhDUlBuSllKYnQyVTQ4LWdHTDVqV3JUWTQtdXp2NWxvUnhQeGo0WEI4bEM1Nm91VlZUeVdvZ21VTi1FWDRJWHEybG1XVzF5VFBaRndJZlM1NE9KSWNtXzEwWlhTWkw3R0tJ?oc=5",
+        "pubTime": "2026-08-27 04:07",
+        "source": "news.google.com",
+        "titleZh": "川普下台後，美國的關稅政策真的會改變嗎？還是這已經成為「新常態」？——Global News",
+        "descZh": "川普下台後，美國的關稅政策真的會改變嗎？還是這已成為新常態？&nbsp;&nbsp;Global News"
+      },
+      {
+        "title": "Why Americans May Never Feel the Trade War - The Walrus",
+        "desc": "Why Americans May Never Feel the Trade War&nbsp;&nbsp;The Walrus",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CV2Utb3hRSkIxaDlBZ1ppSUR1UWpGNjBodHhZa1JsdXRJODVsSTBiSXRhb2szQnJCQTB2Ml9zb0V6ZEVEcFJtNWo4U3VyNG1LX0dFZ1ZHem5kWEwtQ2RNRU9XRVVTcjc1NFlPWGRkek1nUQ?oc=5",
+        "pubTime": "2026-08-27 03:40",
+        "source": "news.google.com",
+        "titleZh": "為何美國人可能永遠感受不到貿易戰的影響——《海象》雜誌",
+        "descZh": "為什麼美國人可能永遠感受不到貿易戰的影響&nbsp;&nbsp;《海象》雜誌"
+      },
+      {
+        "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks - The Guardian",
+        "desc": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UMS0xZS1nb0lSVm16Y1JWeWlaTlBQRE04Y1IxNDNYVF9GTHV0THBvQ3B4OWhfRjkteFVRbU5GQ2RJemRWZnVjZHYzUjlDUmZUb0NqVG50TmRzVGRZWk43aFpFZUs4dE1wUnI4V2ppOGF5cGNrWmxXSUVB?oc=5",
+        "pubTime": "2026-08-27 02:15",
+        "source": "news.google.com",
+        "titleZh": "如何在川普的貿易戰中落敗：以曲棍球棍為威脅來考驗加拿大的決心——《衛報》",
+        "descZh": "如何在川普的貿易戰中落敗：以「曲棍球棍」的威脅來考驗加拿大的決心&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump says 'something may come out of' CIA head's unannounced visit to Moscow",
+        "desc": "John Ratcliffe travelled to the Russian capital on Tuesday in a rare and unannounced visit.",
+        "url": "https://www.bbc.co.uk/news/articles/c0klj7ykp81o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-27 00:31",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，中情局局長此次未經預告的莫斯科之行「可能會有所成果」",
+        "descZh": "約翰·拉特克利夫於週二前往俄羅斯首都，進行了一次罕見且未經預先宣布的訪問。"
+      },
+      {
+        "title": "The right ‘throat’ to ‘choke’: Prominent GOP senator singles out Commerce Secretary Howard Lutnick for tariff chaos - moneywise.com",
+        "desc": "The right ‘throat’ to ‘choke’: Prominent GOP senator singles out Commerce Secretary Howard Lutnick for tariff chaos&nbsp;&nbsp;moneywise.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkVCbk15cWkzdHFjWW1MeHZyR1R0Q1hJempNOVlDbC1oMWdqTHh3VlVWS1JQYlVMc3RuaGhpNmw2bDF5a1ExNGwzaWUtRk1KdGNzOHY5RllZeUljcnRBWlV0czlfTXhmazhxOVIwNHo3NzJiZk9aM21uUm9OZVNoY1U2eTJhWmxPZy11OTQ2R0Vxdw?oc=5",
+        "pubTime": "2026-08-26 22:46",
+        "source": "news.google.com",
+        "titleZh": "該「掐」哪個「喉嚨」：共和黨知名參議員指責商務部長霍華德·盧特尼克造成關稅混亂 - moneywise.com",
+        "descZh": "該「掐」哪個「喉嚨」：知名共和黨參議員點名商務部長霍華德·盧特尼克，指責他造成關稅混亂&nbsp;&nbsp;moneywise.com"
+      },
+      {
+        "title": "The US-Canada trade war could push up these prices, analysts say - ABC News - Breaking News, Latest News and Videos",
+        "desc": "The US-Canada trade war could push up these prices, analysts say&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUM5UXZNTDBybWRMVHM4SFNIbThnaVRqWDRpU0xiOUlxeHktWFAyOE5nZGRHcVNtR1VDWjktTHNoUWxlY3RWQVVGSzdySGFBU2paYkxiUkg1RlFFdzlIeW91ZGZqVFdGZGxLZVJHTmJORWZrVm5sZjZHd1BJa2tvSlJxV1FiaUZRcUR4aTZIU1BWUdIBlwFBVV95cUxOYi03NFZ0SnFmTHA4aC0wclcyY3lnck9CMVg1NEpjRVJ2b1hBWHlsVTY0ZVk5cHFQaGNMYWxtZHlMdFpCVWFkdTFXQ05YTlR1Y3dJNnBkYzZhRzNTeUg0ZlA4ZXRwYllYbW5PT2JiWmhCTWprSzJoalVnbVFXeXM2S0Zkc3hEdXpsTnBXSGxnSDBtRlgyQzk4?oc=5",
+        "pubTime": "2026-08-26 18:54",
+        "source": "news.google.com",
+        "titleZh": "分析師表示，美加貿易戰可能推高這些價格——ABC新聞——突發新聞、最新新聞與影片",
+        "descZh": "分析師表示，美加貿易戰可能推高這些價格&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "The bizarre roots of Trump’s trade war on Canada - vox.com",
+        "desc": "The bizarre roots of Trump’s trade war on Canada&nbsp;&nbsp;vox.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXFJaW9pZEUyWGFJeE5xcFM0SlAwVUlUZUtSMjZtcDFidG01OHk4eElUMHZ2VHhVMFREeFNxMkVITTdFYVB6YjItWUx4RTItSVM1Q3EtdzlSUXpqVG5TOWlWS0V0WG1GNUE2dWdLc2I0bmUweTdvNVFXTjNHdUNBLQ?oc=5",
+        "pubTime": "2026-08-26 18:00",
+        "source": "news.google.com",
+        "titleZh": "川普對加拿大發動貿易戰的離奇根源 - vox.com",
+        "descZh": "川普對加拿大發動貿易戰的離奇根源&nbsp;&nbsp;vox.com"
+      },
+      {
+        "title": "Republicans were already nervous about November. Then Trump restarted his trade war. - Politico",
+        "desc": "Republicans were already nervous about November. Then Trump restarted his trade war.&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3J1TjRlMmpudnU4ZVQxSzQtdlAwaVdPQzlJNjhMck52eURnbjdLS2stb3dqYmNQVVZ1ajNxQTFkRDQ2UmFnZ1hRODJiVU1WNVVMUDJvS19SamEtM0Y5XzlMUldkeXhXUURNWUt1dm1lbHByUmpRNGtsa3FfMWs5ZVY4eXF4bnpoRmpHUzF3akN3UVNNblhPN0c2YUhySFE?oc=5",
+        "pubTime": "2026-08-26 17:00",
+        "source": "news.google.com",
+        "titleZh": "共和黨人原本就對十一月大選感到憂心忡忡。這時，川普又重啟了貿易戰。——《Politico》",
+        "descZh": "共和黨人原本就對十一月大選感到憂心忡忡。接著，川普又重啟了貿易戰。&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "Canada's retaliation tests the limit of American power under Trump",
+        "desc": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-26 16:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "加拿大的報復措施考驗著川普執政下美國實力的極限",
+        "descZh": "總統正利用美國的霸權地位，同時向盟友和敵對國家發起挑戰——但加拿大和伊朗都已找到反擊之道。"
+      },
+      {
+        "title": "Canada announces retaliatory tariffs on wide range of US goods - The Guardian",
+        "desc": "Canada announces retaliatory tariffs on wide range of US goods&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1lsMGdPekl6bmx5djBqb3R6ZFVCVC1HTzZxQzN0aEw1NWxIbWZzQUZ5NWFJVVl5Y245cF91UkxCU0RDZ1BYaUxtZWtMYm9SZjNiM2lmR3lyOHU0QjU1Nnc2WmZGTHVTeVVxXy1wclYzdTN2MHhXLU9Qdi1wZVZRVEhpa0pMcWRYWk1EMEJ0eXloTlQ5RGNkOQ?oc=5",
+        "pubTime": "2026-08-26 15:40",
+        "source": "news.google.com",
+        "titleZh": "加拿大宣布對多種美國商品徵收報復性關稅——《衛報》",
+        "descZh": "加拿大宣布對多種美國商品徵收報復性關稅&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Canada announces retaliatory tariffs on U.S. products as trade war deepens - The Washington Post",
+        "desc": "Canada announces retaliatory tariffs on U.S. products as trade war deepens&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN29kZkg1Q05EQ09rTHRnWHI1R3h0RlJXWW91ZjVRZTYwdzB2dEJkQlNuZmswRzFXNVFuNTJNZkNSZ3BkdVl3eGRxRkdGeXN1MEF2SE5NcTF6UnRsS1FaeTk1aVJmZndvQkxRZElXejNPLWZvQ1BTVWNzRC1Kc1MyVThqYWJXeFFNSmJTekEyUXNDbGJ5X21seGxxQlplcXBqVVFXR29ZSm55d1RhMUZj?oc=5",
+        "pubTime": "2026-08-26 13:50",
+        "source": "news.google.com",
+        "titleZh": "隨著貿易戰加劇，加拿大宣布對美國產品徵收報復性關稅——《華盛頓郵報》",
+        "descZh": "隨著貿易戰加劇，加拿大宣布對美國產品徵收報復性關稅&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "China pushes back on Trump’s ‘economic D-Day’ Iran sanctions - The Washington Post",
+        "desc": "China pushes back on Trump’s ‘economic D-Day’ Iran sanctions&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclAxV0lzY3BoWHhndE1FZnNlMVJhbVNuVVJpZU5LRTNGM1B2MVBVTFNzbnBhOG03NVBaQUNDOGMtd1lrbkxEcGpjbEFMaXJZQ2lTdC1qVjFRZV80YktzNk9tbVVNSXIzRjBZNWxmckc4azVaaUpTM0RRdzJyUTdPbkNzdnN6eVRFajVaaXAxenFTZlZjeUdIV3o2bmtmRFdQZWEzeDRhSTJ3MVo4Y01LYnJqSk8tMkp6VFJGRGtmZzVCZkgxZTBwVA?oc=5",
+        "pubTime": "2026-08-26 12:37",
+        "source": "news.google.com",
+        "titleZh": "中國反擊川普針對伊朗的「經濟D日」制裁措施——《華盛頓郵報》",
+        "descZh": "中國反擊川普針對伊朗的「經濟D日」制裁&nbsp;&nbsp;《華盛頓郵報》"
+      }
+    ]
+  },
+  {
     "date": "20260827",
     "fetchTime": "2026-08-27 07:48",
     "count": 26,
@@ -3628,157 +3788,6 @@
         "source": "news.google.com",
         "titleZh": "加拿大關稅之爭為民主黨在密西根州中期選戰中提供了一項利器——《The Hill》",
         "descZh": "加拿大關稅之爭為民主黨在密西根州中期選戰中提供攻勢武器&nbsp;&nbsp;《The Hill》"
-      }
-    ]
-  },
-  {
-    "date": "20260729",
-    "fetchTime": "2026-07-29 05:35",
-    "count": 16,
-    "articles": [
-      {
-        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-        "desc": "The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-29 04:57",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "烏克蘭戰爭與伊朗戰爭持續延燒之際，澤連斯基與內塔尼亞胡會晤川普",
-        "descZh": "這兩位領導人當時正在華盛頓，出席參議員林賽·葛拉漢的葬禮；葛拉漢是以色列的堅定支持者，也是美國對烏克蘭提供援助的倡導者。"
-      },
-      {
-        "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
-        "desc": "The US president was among several dignitaries who attended the service for the late lawmaker, who died earlier this month.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyj6xqn40lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-29 04:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在林賽·葛拉漢的葬禮上稱其為「美國參議院的巨人」",
-        "descZh": "美國總統是出席這位本月稍早過世的已故議員追悼儀式的多位政要之一。"
-      },
-      {
-        "title": "Do Trump’s Latest Comments Prove Plaintiffs’ Case Against Tariffs? - Yahoo",
-        "desc": "Do Trump’s Latest Comments Prove Plaintiffs’ Case Against Tariffs?&nbsp;&nbsp;Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXg4eVJFb21QQmZ4UGwtRnZValZJNDFfcWY4WmxVLTJvblF5OVdGYVZ2Mmh5QkQxc09jVjNlckxXNng4RTQ2Zk9TVDRoYWtzeEtpU0J6SXN6c3cwX19FTTNsRTl2Vi1TVmNpT3BlM2QzcU9Rd01DSzlTaTIyUlVGOG00OWVrbkIyNVpjUllieFFjbUkyODRDekFaSTU2V0k?oc=5",
-        "pubTime": "2026-07-29 04:18",
-        "source": "news.google.com",
-        "titleZh": "川普的最新言論是否證明了原告針對關稅的訴求？ - Yahoo",
-        "descZh": "川普的最新言論是否證明了原告針對關稅的訴訟主張？&nbsp;&nbsp;Yahoo"
-      },
-      {
-        "title": "New Republican ads slam Democrats opposed to Trump's tariffs - CNBC",
-        "desc": "New Republican ads slam Democrats opposed to Trump's tariffs&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZURPc2NOZmh4eTZQdENCc3Q3MVRnYl9CWVBkUnRISVQzdjFrYTd1aEFoMVo4ckd1YllxanFFWTVpMjBPMlhiZnRpRHlYRTRNdXJ2XzdpUmNVTzdsY0dDZjJLd3VHRDFFN18xYUZEQk1pSjJoQmhPRzFvRHRqeXdOM2dwWdIBiAFBVV95cUxOOElvRmUzcjRjM2RrS0pnaUhNYkZmZzhfMG43RTVKdy1vdVZVanotdmlWVVZKVFF1dmc5ZE9uVWZWZTRkejJtRWdoVVphbVVocUcxZHFLNjVpQjU4dFVaVTZGSTFwYkxlSjVYR2QxTEFWRFJTcnNUWEVORUhNQjgtUnh6aXh2OTNP?oc=5",
-        "pubTime": "2026-07-28 19:00",
-        "source": "news.google.com",
-        "titleZh": "共和黨新廣告抨擊反對川普關稅政策的民主黨人 - CNBC",
-        "descZh": "共和黨新廣告抨擊反對川普關稅的民主黨人&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Trump tariffs - ABC News - Breaking News, Latest News and Videos",
-        "desc": "Trump tariffs&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fVVNiM3dhclowSHVRazBsSzZWNEJTUlgtRkM2THpGRFJab2o3RWdDNkQ2VzAySlg5X1FHeUtMelZRd3FxZ0VuMFVKd05SS1Ra?oc=5",
-        "pubTime": "2026-07-28 11:55",
-        "source": "news.google.com",
-        "titleZh": "川普關稅 - ABC新聞 - 突發新聞、最新新聞與影片",
-        "descZh": "川普關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新新聞與影片"
-      },
-      {
-        "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-        "desc": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-        "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-28 08:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "對澤連斯基與內塔尼亞胡訪問華盛頓有何期待",
-        "descZh": "共和黨參議員林賽·葛拉漢的葬禮將吸引這兩位世界領袖造訪該市，屆時他們將分別前往白宮，商討該地區的戰爭問題。"
-      },
-      {
-        "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-        "desc": "The president says his economic policies are reinvigorating the auto industry and forcing overseas companies to relocate to the US.",
-        "url": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-28 07:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在加拿大即將調高關稅之際，川普於受重創的密西根州為關稅政策辯護",
-        "descZh": "總統表示，他的經濟政策正在為汽車產業注入新活力，並迫使海外企業遷回美國。"
-      },
-      {
-        "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-        "desc": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-28 05:06",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在美國暫停與伊朗的戰爭之際，川普真的已經彈盡糧絕了嗎？",
-        "descZh": "美國在與伊朗的戰爭中已發射了數千枚難以補充的飛彈。我們將深入探討其「自由武庫」的儲備量是否已降至危險低點。"
-      },
-      {
-        "title": "Donald Trump rebuilds his tariff wall - Financial Times",
-        "desc": "Donald Trump rebuilds his tariff wall&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTlELUp1OGd2NXNFZXpUUHdtTGdBckZONWVLOHJnNzVHaUhLNmtiVHk1ZHY0YW9vQklWdEdqSlhad0xtbUd6R1RJb2hlTDlFV2ZUc3B6aFZrN29KOFVFZnlWUDlQNGJObFJ1UlhiLWNXUVdWcXZBbDZ5TFRZQ1JzOEhRNWM?oc=5",
-        "pubTime": "2026-07-28 00:57",
-        "source": "news.google.com",
-        "titleZh": "唐納德·川普重築關稅高牆——《金融時報》",
-        "descZh": "唐納德·川普重築關稅高牆&nbsp;&nbsp;《金融時報》"
-      },
-      {
-        "title": "What Trump's sweeping new tariffs mean for your wallet - ABC News - Breaking News, Latest News and Videos",
-        "desc": "What Trump's sweeping new tariffs mean for your wallet&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3hiakNYWU1RVWhTc0ctU1p3RFItS0p5OUNfaE9meG93dGJpOHdNM05lLS01a084WnQ0blVRdlFZd1FfMEgxc0lsWW5uN2xGenNjbDVWTUQxRm9lV0xqcEZ4dnR1dUg5eGJSRU1TZkEyejV5MXpiRVk2LVpYQkRrLVVQTVNnMFcxZ2fSAY8BQVVfeXFMTTBMTjZlaFd2VUFyaWNWYXRMeklaRS0yODdJdUxvTnRvb04yMVYyWkRnXzZ3MVdiYU1MODJTMFhNeEpHN2F1M3M3V2VKTE9ld1haUXB2NkZQUHNFaHUtWGZMUkQzWGdsQzVXZ2VRckZHV000T1Jibk5tTzM0OWs2SFhVUDExVy0wc0NoN29SRGs?oc=5",
-        "pubTime": "2026-07-28 00:34",
-        "source": "news.google.com",
-        "titleZh": "川普這波全面性新關稅將對您的荷包造成什麼影響——ABC新聞——突發新聞、最新消息與影片",
-        "descZh": "川普這波全面性新關稅將對您的荷包造成什麼影響？&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
-      },
-      {
-        "title": "Getting Real About Trump’s Trade War - Policy Magazine",
-        "desc": "Getting Real About Trump’s Trade War&nbsp;&nbsp;Policy Magazine",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wcHNyMzJRaTRSQU51aVFydGp0QVBuMVNOS0VNa01KYWFlWlhSZGdqdFl0cHhsbGRhOXhSLU1ZeEVNaEs3a1ppRnhmTDFNVU0yV0szV25BVkFRRWNkODIyTXNjcURxN3pnMk52LU5aaUVmVFp6?oc=5",
-        "pubTime": "2026-07-27 21:12",
-        "source": "news.google.com",
-        "titleZh": "客觀看待川普的貿易戰——《政策雜誌》",
-        "descZh": "客觀看待川普的貿易戰&nbsp;&nbsp;《Policy》雜誌"
-      },
-      {
-        "title": "Trump admin's Section 301 tariff policy may face legal challenge, says GTRI - Business Standard",
-        "desc": "Trump admin's Section 301 tariff policy may face legal challenge, says GTRI&nbsp;&nbsp;Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnE5Tm9tWWdzNG1ySmJNbk9WYkxmX1pCU2Rlc0VwQUdqUmJWWXpjeWU5bWJUWU94djJoMkFGbWRWVXhJU250dWYzX3BxUGx3aFpod0VDOGJyYWtFeTV4MDdYRDJ4WkxGeDNuOGpteGhWM05HTlFZWEJkZXBjTlVqTHgyTndQbFZkc01TSnJsdkdJZkRYa3Rna1BZcVJBb0xObEYwRE5wQU1nNkY3V2s5VlI4WkZVWE5oSFMxMGZTWXfSAcYBQVVfeXFMUHRjVXA5Y1FPWVdTaFFjWXVaVE5Nd3d6d1hNZGg5dE90MWRqdksyc0pPRldYeDVoS2lFczhoUXdPTUJ6ZklaT05QS0tnZXBqTUwwLWpWQnlZTmJuclg1MGxjZV9LQTNlZF9xSi1OXzNjVEtmby1CU1dVNl9CekhxN1g5WGtHZ29SRWc1THZJd2RYQzdhV1BSaU1NX0dwUGx2bEQyREhNS3ROYzRHbXA2amVsSDlnZ2pGSWt2YzZYNGJWWHMtS0hn?oc=5",
-        "pubTime": "2026-07-27 18:46",
-        "source": "news.google.com",
-        "titleZh": "GTRI 表示，川普政府的第 301 條關稅政策可能面臨法律挑戰——《商業標準報》",
-        "descZh": "GTRI 表示，川普政府的第 301 條關稅政策可能面臨法律挑戰——《商業標準報》"
-      },
-      {
-        "title": "Trump's Tariff Strategy: Effectiveness and Global Impact - ummid.com",
-        "desc": "Trump's Tariff Strategy: Effectiveness and Global Impact&nbsp;&nbsp;ummid.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWtTOU54ejFMVmNwdjJ1UXRCc0d3OGRFSnZMNk9YejlOVTRrNkhscmFNU0VpS2JKQVo3MDlpZDRkdlRsanJya283a29sN25NZzE0N2R6cEtVNjA3LThDaUlhU3VYTEZDWV9uLWkwNHpDV0ZLLWpLdWZndWVLVWZSakRacWxIYzNPaFZUWTVpTXV1QlcyT3h3?oc=5",
-        "pubTime": "2026-07-27 15:00",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅策略：成效與全球影響 - ummid.com",
-        "descZh": "川普的關稅策略：成效與全球影響&nbsp;&nbsp;ummid.com"
-      },
-      {
-        "title": "As Trump’s tariffs hit, the message is clear: SA must find new markets - Business Day",
-        "desc": "As Trump’s tariffs hit, the message is clear: SA must find new markets&nbsp;&nbsp;Business Day",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeU5ySEFGdXRseExwVjBNbEgtWUNrRThnM3JYMGRSVDJvQjFfVjVYQW9kdjZOZk4zcXlmLVByUE81a0lzS0FYelhScVdWZV9vUjZ1SlNDOEhhNGhIM0RkcFZJRUpEX0NuRUxfQWMxeGREdGVwaE1EWXZsUWxCQzNCZ3BaM01pc2JTSFNjYzJDbHkzVDV0Q204dnpZSGw2UTc2QnJpNV9WbmlnQVFNalhXQ08xdGg?oc=5",
-        "pubTime": "2026-07-27 11:00",
-        "source": "news.google.com",
-        "titleZh": "隨著川普的關稅措施生效，訊息已十分明確：南非必須開拓新市場——《商業日報》",
-        "descZh": "隨著川普的關稅措施生效，訊息很明確：南非必須開拓新市場&nbsp;&nbsp;《商業日報》"
-      },
-      {
-        "title": "Shein warns of Trump tariff impact after posting quarterly loss - USA Today",
-        "desc": "Shein warns of Trump tariff impact after posting quarterly loss&nbsp;&nbsp;USA Today",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkw2YXZHODhiYklscXBJZUcxWnRSTGVDYjE2QlFLN0dmdkZJZ2NmdDZQWHVoeHNKdEFIelNlZDZ2Ri1SUTNZZTBMUTBiUU43bU5Fa1JnUVNrbldyVnNzZkZyWDVlUTZWS0Fyc3pLcllYclRjVnBHbDJwMWhodzgwcEEwYnJuREtjbkZmUg?oc=5",
-        "pubTime": "2026-07-27 09:07",
-        "source": "news.google.com",
-        "titleZh": "Shein 公布季度虧損後，警告川普關稅將造成影響——《今日美國》",
-        "descZh": "Shein 公布季度虧損後，警告川普關稅將造成影響&nbsp;&nbsp;《今日美國》"
-      },
-      {
-        "title": "Trump’s latest global tariffs are being challenged in a US court. Here’s how - The Business Times",
-        "desc": "Trump’s latest global tariffs are being challenged in a US court. Here’s how&nbsp;&nbsp;The Business Times",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVRlaEdRbi1GUUNJR2txMEI0bEhMQ2NxaWFwMEdOUm14VGtTMnoxT3RhckZ4MDB5Qk92d0lUbHpWeUNLbWlXWmZXQk9rWjdXN01fTU1MUUh2aEp5ajlXYkphaTlvYlN1Tk94eVU0RXlHb01nUW1sMm4wdUdaWEp6WXlWTm0wSGVxVGhDRHpfeVc3RFo0dG1zU0FTUGR3VkJ2RkpKTGRWYmV0RmVFemZmN2JiSUJyNkJUdVRjVElLMA?oc=5",
-        "pubTime": "2026-07-27 08:31",
-        "source": "news.google.com",
-        "titleZh": "川普最新實施的全球關稅措施正遭到美國法院的挑戰。詳情如下——《商業時報》",
-        "descZh": "川普最新實施的全球關稅措施正遭到美國法院的挑戰。詳情請見《商業時報》"
       }
     ]
   }
