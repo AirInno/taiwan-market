@@ -1,5 +1,39 @@
 [
   {
+    "date": "20260831",
+    "fetchTime": "2026-08-31 06:49",
+    "count": 3,
+    "articles": [
+      {
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-30 12:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普盛讚這項「歷史性」協議，讓美國得以掌控委內瑞拉650億桶石油",
+        "descZh": "委內瑞拉代理總統表示，這項不同尋常的協議將有助於振興該國經濟。"
+      },
+      {
+        "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+        "desc": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-29 15:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "前白宮提詞器操作員因賭注涉及川普演說，被判支付172,000美元",
+        "descZh": "調查發現，該名幕僚利用其事先掌握的總統演說內容，進行了獲利豐厚的投注。"
+      },
+      {
+        "title": "What tariffs will really cost Canadians and Americans",
+        "desc": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-08-29 08:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "關稅將給加拿大人和美國人帶來多少實際成本",
+        "descZh": "家庭和企業已經習慣了關稅對生活成本的影響，這種情況已持續一年多，那麼現在會有什麼變化呢？"
+      }
+    ]
+  },
+  {
     "date": "20260830",
     "fetchTime": "2026-08-30 06:41",
     "count": 14,
@@ -3736,121 +3770,6 @@
         "source": "news.google.com",
         "titleZh": "川普的關稅措施在華盛頓引發了一場遊說熱潮，且這股熱潮正愈演愈烈——《環球郵報》",
         "descZh": "川普的關稅措施在華盛頓引發了一場遊說熱潮，且這股熱潮正愈演愈烈&nbsp;&nbsp;《環球郵報》"
-      }
-    ]
-  },
-  {
-    "date": "20260801",
-    "fetchTime": "2026-08-01 05:33",
-    "count": 12,
-    "articles": [
-      {
-        "title": "Minnesota not Iran to blame for state's water issues, says Trump",
-        "desc": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be behind it.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-01 03:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，該州的水資源問題應歸咎於明尼蘇達州，而非伊朗",
-        "descZh": "美國總統發表這番言論之際，正值本週稍早明尼蘇達州供水系統遭受網路攻擊，美國媒體指出伊朗可能是幕後黑手。"
-      },
-      {
-        "title": "Canada’s Response to Trump: Time for Resolve, Self-Respect and Spine - Policy Magazine",
-        "desc": "Canada’s Response to Trump: Time for Resolve, Self-Respect and Spine&nbsp;&nbsp;Policy Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUVUV2o0TGh1bERjMTRNMjFpdUR4U0tFYllFSUpla1Z6UlM4X0JyWV93R1FEaVNxSFRtbnpOZHBPcjhmbVR2Mm5CMm1yNy1LS1BiOHYtVmV6RGhrcGVTOWRtQXlLeU9iZkN1VFh4WGJTYkhPTTNGYk9QYzRHVUlYaVJpVHVEWWV5a1dUVWZCLVhnV2dFWkhPVUg4QXY?oc=5",
-        "pubTime": "2026-07-31 22:30",
-        "source": "news.google.com",
-        "titleZh": "加拿大對特朗普的回應：展現決心、自尊與骨氣之時 - 《政策》雜誌",
-        "descZh": "加拿大對川普的回應：展現決心、自尊與骨氣的時刻&nbsp;&nbsp;《Policy》雜誌"
-      },
-      {
-        "title": "Trump's Tariffs Will Cost Each American Household $900 in 2026 - Reason Magazine",
-        "desc": "Trump's Tariffs Will Cost Each American Household $900 in 2026&nbsp;&nbsp;Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ25nM2R6YnBNWkpDOGx5aThQR1QxLVkxWWh6bTBEZzlONHhoaFNwTFhHRnVIbGlZaHdudVBPd3phNGhBRFpnelkwekhMbThSdGZlQ1pCOU9SYnBZZ1dQWC1MZ1Q0WFZBVkFMdXJMRWp0eE5QZU5aU25QTm9EeWNQQzExNjg5b3poQnZ2dE5QX3ZmaE5aSkE?oc=5",
-        "pubTime": "2026-07-31 19:00",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅將使每個美國家庭在2026年損失900美元——《Reason》雜誌",
-        "descZh": "川普的關稅將使每個美國家庭在2026年損失900美元&nbsp;&nbsp;《Reason》雜誌"
-      },
-      {
-        "title": "Will Trump’s Tariff Powers Derail the New Russia Sanctions Bill? - Modern Diplomacy",
-        "desc": "Will Trump’s Tariff Powers Derail the New Russia Sanctions Bill?&nbsp;&nbsp;Modern Diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHR6aFZUeldtRzdybUV1RU15Q19kNS1fV1hPUDFZelVpejVOdXNaQXA0TkpCY3VmcnJlbTZVSzYyMFVTaEVnbnhwTXk0SC1FbFV3NWFDaGpvUUkxRjE3UFBqY2NjaGRIdXNETFhOaDJsTnNsdjZCalVZY3NLRzAxajB0OUtYLXpua3RpWmZKc2ZObXpVaEthcUNGQjJpdDZKQXZZ?oc=5",
-        "pubTime": "2026-07-31 18:27",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅權力會否使新的對俄制裁法案受阻？——《現代外交》",
-        "descZh": "川普的關稅權力會否使新的對俄制裁法案受阻？&nbsp;&nbsp;《現代外交》"
-      },
-      {
-        "title": "Opinion: Trump’s trade policies may lack logic, but they also reflect a serious paradigm shift - The Globe and Mail",
-        "desc": "Opinion: Trump’s trade policies may lack logic, but they also reflect a serious paradigm shift&nbsp;&nbsp;The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWVSWnRXTzJpMlFhVkJXYk1wS0ltaUFRbVdPM29ZYWJaUmxGUTVvLWZHRHFNTGZGVVYtOG1xN3V5SHN4RHFLRTV1a1hfLVNMeDBFdXBwVE5kRDZ5ZEd6Q3FzVWFEZ3VUS0FJSXNoQ1J5czlycVFwVHBNZ2pBY3JYV1RfaWV6anVqYk9saWdhUDJBbWppZzUw?oc=5",
-        "pubTime": "2026-07-31 18:00",
-        "source": "news.google.com",
-        "titleZh": "評論：川普的貿易政策或許缺乏邏輯，但同時也反映出一場重大的思維轉變——《環球郵報》",
-        "descZh": "評論：川普的貿易政策或許缺乏邏輯，但同時也反映出一場重大的思維轉變&nbsp;&nbsp;《環球郵報》"
-      },
-      {
-        "title": "Trump’s tariffs have sparked a lobbying frenzy in Washington that’s only growing stronger - The Globe and Mail",
-        "desc": "Trump’s tariffs have sparked a lobbying frenzy in Washington that’s only growing stronger&nbsp;&nbsp;The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDJEdG5hQlRUV1R6ZU5Ka19kMmxUajVRYzlvT0xnVVRjLUx3XzJwWjdpUHdZYkpoYWsxZlpmLUp3NWxOLW00VFdmX2VVRXNxRVh6M2ZDaWVpSDhUX21fS2ZXZnpHeEZkQVlVZU1BS1ZCVnlJVUdYbUthYVpyeXpCQzV0eEozOXpXNE9XN3RGWk1aMkJY?oc=5",
-        "pubTime": "2026-07-31 07:25",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅措施在華盛頓引發了一場遊說熱潮，且這股熱潮正愈演愈烈——《環球郵報》",
-        "descZh": "川普的關稅措施在華盛頓引發了一場遊說熱潮，且這股熱潮正愈演愈烈&nbsp;&nbsp;《環球郵報》"
-      },
-      {
-        "title": "Trump’s Import Tariff Follies - American Enterprise Institute - AEI",
-        "desc": "Trump’s Import Tariff Follies&nbsp;&nbsp;American Enterprise Institute - AEI",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zNTNCMTV5dGxWcVFqT2M3b2VYS2N5TGpkVGpLeXFMWi1ERGlUdkRESHRnRGZJSHFmelhRckMzdFFfMjdDc0pLX1Y3NTk4aG9QWDlUZjhjZUNlSHpJWF9FYklhWEc4cXFJemxoTQ?oc=5",
-        "pubTime": "2026-07-31 05:11",
-        "source": "news.google.com",
-        "titleZh": "川普的進口關稅鬧劇 —— 美國企業研究所（AEI）",
-        "descZh": "川普的進口關稅鬧劇&nbsp;&nbsp;美國企業研究所（AEI）"
-      },
-      {
-        "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting - CNBC",
-        "desc": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XelpwU0VPTHpVOHd2RlBjMzY1ZmJCby1RSV9YYjJWSjgyZVZMWmx0dEctRFgwSDgxbldqczF0ZEJicjRfS3dxNWppWEpSR3R0UlVrUXp2RDBUandMN05MZC1JcTJ2M1Q2Qjk0eXlqLXlUdUJrNlHSAXtBVV95cUxPLUdNdFJ6X09vTmU4SldKQ185SnNhVXh0Tl9uQmswSXQyaUlBNFdMRkR3eEZ4VzVsTnc4OUEwT1F3R3RmVGh2dzlFRERadU9FaUtNeGg3bjUtRDJhY0IyeXRJR3R0OE56d1lRSHhHampfbFBCQkY0SHBpUzA?oc=5",
-        "pubTime": "2026-07-30 18:45",
-        "source": "news.google.com",
-        "titleZh": "川普曾承諾農業將迎來「黃金時代」。愛荷華州的農民表示，他們仍在等待——CNBC",
-        "descZh": "川普曾承諾農業將迎來「黃金時代」。愛荷華州的農民表示，他們仍在等待……CNBC"
-      },
-      {
-        "title": "Commentary: O, Canada! Caught in crossfire, California wineries despair over Trump tariffs - Los Angeles Times",
-        "desc": "Commentary: O, Canada! Caught in crossfire, California wineries despair over Trump tariffs&nbsp;&nbsp;Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQjBBbHVxSUs2b3I4cUw3b3BIR2NYN0JrbWxTckdxSEFJUHhhM1pyUUsxSE5xUXBfdG1GVWZ4M3JhTXkyRWlQX002R1hXNlZnM04tTmJPeU4teXBxdE5VRjdLNVFTc0hiZWs0MDN1cWRKMFk0S3U2MVB1cnhfYjNGdHpoOXFYRlFpQ1VvNnFrRUtSaFZjb0lzd0cwblI4UTVQamZWU3NhaEFnNHpTZ0wzQUtoVG1VenBoS2dLMmFKZw?oc=5",
-        "pubTime": "2026-07-30 18:00",
-        "source": "news.google.com",
-        "titleZh": "評論：噢，加拿大！身陷交火之中，加州酒莊因川普關稅而陷入絕望——《洛杉磯時報》",
-        "descZh": "評論：噢，加拿大！身陷交火之中，加州酒莊因川普關稅而陷入絕望&nbsp;&nbsp;《洛杉磯時報》"
-      },
-      {
-        "title": "Trump considering AI controls after OpenAI hacking incidents",
-        "desc": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-        "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-30 15:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在 OpenAI 發生駭客攻擊事件後，川普正考慮對人工智慧實施管制",
-        "descZh": "這標誌著其政府態度的轉變，該政府此前對這項技術採取了較為放任的態度。"
-      },
-      {
-        "title": "Doug Ford is wrong: Why doing nothing at all is Canada’s best response to Trump’s tariffs - The Hub | More Signal. Less Noise.",
-        "desc": "Doug Ford is wrong: Why doing nothing at all is Canada’s best response to Trump’s tariffs&nbsp;&nbsp;The Hub | More Signal. Less Noise.",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlczdG96cnkwZzJxUW8wTDg0TlEwdTlGWFlraGhuRFZ5T01meF93QjNaMGNIZDJ6TjZpV0NpbkFjV25NT0U3X2Q2OTBYU044Z1FXeGpmSVhlRlNNVlJ1RUNOMlNuWFVMRFZRUHdvOUNCZFplVmNma2NpTkt0bDVCQ3pvajR3akRIYUxTSnNYNzJ3TldhZXZlSnRFemM3VGhlX2R3eGJXNXc3OFJlVTZ1TjltNA?oc=5",
-        "pubTime": "2026-07-30 15:00",
-        "source": "news.google.com",
-        "titleZh": "道格·福特錯了：為何「完全不採取行動」才是加拿大對應川普關稅的最佳策略 — The Hub | 更多訊號，更少雜音。",
-        "descZh": "道格·福特錯了：為何「完全不採取行動」才是加拿大對抗川普關稅的最佳回應&nbsp;&nbsp;The Hub | 更多訊號，更少雜音。"
-      },
-      {
-        "title": "Worth $5m? Visitors react to renovated Washington horse statues",
-        "desc": "The Trump Administration has regilded the Arts of War statues near the Lincoln Memorial with 23.75-karat gold.",
-        "url": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-07-30 06:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "價值 500 萬美元？遊客對華盛頓翻新後的馬雕像反應不一",
-        "descZh": "川普政府已使用23.75克拉的黃金，為林肯紀念堂附近的《孫子兵法》雕像重新鍍金。"
       }
     ]
   }
