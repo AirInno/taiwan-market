@@ -1,5 +1,75 @@
 [
   {
+    "date": "20260903",
+    "fetchTime": "2026-09-03 06:42",
+    "count": 7,
+    "articles": [
+      {
+        "title": "Watch: Trump 'happy' that Prince Harry and Meghan left the US",
+        "desc": "President Donald Trump said he was not a fan of the couple and added that they treated the Royal Family with \"great disrespect\".",
+        "url": "https://www.bbc.co.uk/news/videos/c33k72m7x11o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-03 04:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普對哈利王子與梅根離開美國感到「高興」",
+        "descZh": "總統唐納德·川普表示，他並不欣賞這對夫婦，並補充說他們對王室表現出「極大的不尊重」。"
+      },
+      {
+        "title": "Gov. Beshear sends letter to Trump asking him to rescind ‘harmful’ tariff and trade policies - WKYT",
+        "desc": "Gov. Beshear sends letter to Trump asking him to rescind ‘harmful’ tariff and trade policies&nbsp;&nbsp;WKYT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2tvbEd5WXgtR3N3NFB2RVA3TFJmb1lqWHVOVGIxYmdpTnU5cFJCZVpDNG1XUTE5OXNMOVZrZjdEeUVSaGZxa28wRnJCMEZ0ckFGYl9OWXJsUDFSSWx5NDZOS2xDaWFoLWFhUExicjIxckphYlRUOHMyZzNDeEgtODFyd2hPck0xRW9vckptQVVaX05DM0ZWWnd4b0JUUQ?oc=5",
+        "pubTime": "2026-09-03 02:04",
+        "source": "news.google.com",
+        "titleZh": "貝希爾州長致函川普，要求其撤銷「有害」的關稅與貿易政策 - WKYT",
+        "descZh": "貝希爾州長致函川普，要求其撤銷「有害」的關稅與貿易政策&nbsp;&nbsp;WKYT"
+      },
+      {
+        "title": "How Trump kneecapped his own China policy with a 50% tariff on Canada - Washington Examiner",
+        "desc": "How Trump kneecapped his own China policy with a 50% tariff on Canada&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajlwU3QwbGtDaVhBVUNlTTRsaTBZdWFOVDRGQVljNDdMQ3FtS2dURC10aGFTSkhUTllrQ0c3RnNtNmdWX0JYMUZURFFKYlJyZklRaE9WaGQzM0RVWC1SdFdza0FpV1ozd1A3UjhNYkNIdl9QZW1sUEFWSkRTWW1HTzcxbmlfdGZQb0xuX3M5Zkx3WE9jMUlvRkw0NA?oc=5",
+        "pubTime": "2026-09-02 19:00",
+        "source": "news.google.com",
+        "titleZh": "川普如何透過對加拿大徵收 50% 關稅，親手摧毀了自己的對中政策——《華盛頓觀察家報》",
+        "descZh": "川普如何透過對加拿大徵收 50% 關稅，親手扼殺了自己的對中政策&nbsp;&nbsp;《華盛頓觀察家報》"
+      },
+      {
+        "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+        "desc": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+        "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-02 09:32",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普下令後，Apple Maps 將安大略湖更名為「美洲湖」",
+        "descZh": "這家 iPhone 製造商效法競爭對手、科技巨頭 Google，對這座五大湖進行了重新命名。"
+      },
+      {
+        "title": "U.S. senator says Democrats will have a tough time curtailing Trump’s tariff policy - Yahoo News Canada",
+        "desc": "U.S. senator says Democrats will have a tough time curtailing Trump’s tariff policy&nbsp;&nbsp;Yahoo News Canada",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VVUZLekpGM0taN29WV2VxRTZuSU1XYTlRMV9SeVd6cC0wWUpzNjF4VF9Md1kwNVpmRVg3a0dyak95OVp1dGhOaXhNdjhFaUdQcWNLMEhIaVUxMlhMcUxqZ1pjc0xzb3RualRsR3U1MEtmdTlPSG4tZ2Zacw?oc=5",
+        "pubTime": "2026-09-02 05:18",
+        "source": "news.google.com",
+        "titleZh": "美國參議員表示，民主黨要遏制川普的關稅政策將面臨艱鉅挑戰——雅虎新聞加拿大版",
+        "descZh": "美國參議員表示，民主黨要遏制川普的關稅政策將面臨艱鉅挑戰&nbsp;&nbsp;Yahoo News Canada"
+      },
+      {
+        "title": "Opinion | The multifaceted stupidity of Trump’s Canadian trade war - The Washington Post",
+        "desc": "Opinion | The multifaceted stupidity of Trump’s Canadian trade war&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3J4VXQ5S055cWFtY2VsUkM0M0xabFhsV055UV9LcFVPVC1UNnBWUWFYcFFuY0N2QU1DbVNQeEFJQy1SMDZ2MlJJRWZ3amxlQTRnYTVPMEtTWEpnNG1SQkZiaThVZlJVbFdqRXVLY3VJbl8tMFVKcFJFY3JPSTl6WUpKWGRfb2FQM3luWmJBUGZrZ19LVjlN?oc=5",
+        "pubTime": "2026-09-01 08:14",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 川普對加拿大發動貿易戰的多重愚蠢之處 —— 《華盛頓郵報》",
+        "descZh": "觀點 | 川普對加拿大發動貿易戰的多重愚蠢之處&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "After latest trade war, tariffs reemerge as major campaign issue in Minnesota's key races - kare11.com",
+        "desc": "After latest trade war, tariffs reemerge as major campaign issue in Minnesota's key races&nbsp;&nbsp;kare11.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeXBTdXFNWFBHSEZWRGRJQ2ljX3JwLTR1a2dXeWdBM01oTHlXM2llSDA1NGhiRG1qR2t4SHZqbktaU0N4aVI5eG9wbDJrWVM4ajY5cy1TVHdmVVV6VFo3Ukh3MWdvdkhiRWVyRnpsWGQyVjQtQlAzMV91QkVCNmdVcldiS1p6TjUwTjNET2xwLUFOYlB3NmFxbHZzYzhmTWREOHE2cENQR0hRSUlQbjFWRlE3M0dHTnBzQXk2cTRySERCNTctd1c1d3pMWWpNdEpuV0swWkVZSkRJdmpuNUMtOGh3VGtyUWozSnE1Q05STWVkbDQzdHI4T25nRHhYQzJhb0E?oc=5",
+        "pubTime": "2026-09-01 07:25",
+        "source": "news.google.com",
+        "titleZh": "在最新一輪貿易戰之後，關稅再度成為明尼蘇達州關鍵選戰中的主要議題 - kare11.com",
+        "descZh": "在最新一輪貿易戰之後，關稅再度成為明尼蘇達州關鍵選戰中的主要議題&nbsp;&nbsp;kare11.com"
+      }
+    ]
+  },
+  {
     "date": "20260902",
     "fetchTime": "2026-09-02 06:39",
     "count": 15,
@@ -3790,58 +3860,6 @@
         "source": "news.google.com",
         "titleZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他——《衛報》",
         "descZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他&nbsp;&nbsp;《衛報》"
-      }
-    ]
-  },
-  {
-    "date": "20260804",
-    "fetchTime": "2026-08-04 05:35",
-    "count": 5,
-    "articles": [
-      {
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "desc": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-04 03:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "伊朗表示，在川普表示將重啟談判後，該國正與阿曼進行磋商，但未與美國進行磋商",
-        "descZh": "伊朗表示未曾與美國進行任何談判，此舉促使唐納德·川普對伊朗領導層發出強烈譴責。"
-      },
-      {
-        "title": "Holdout senators back Blanche for AG after he formally withdraws Trump fund plan",
-        "desc": "Trump's controversial $1.8bn \"anti-weaponisation\" fund  could have been used to compensate people prosecuted over the US Capitol riot.",
-        "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-04 01:18",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在布蘭奇正式撤回「川普基金」計畫後，持觀望態度的參議員們轉而支持他出任司法部長",
-        "descZh": "川普那筆備受爭議的18億美元「反武器化」基金，原本可用於賠償因美國國會山莊暴動事件而遭起訴的人士。"
-      },
-      {
-        "title": "Trump keeps escalating his trade threats. This time, Europe isn’t biting. - Politico",
-        "desc": "Trump keeps escalating his trade threats. This time, Europe isn’t biting.&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWVdwOFV5N1BiMVh3Rnd4Q25Fcm4zVGZ3QzR0TFBGZi1TN3RnQlJtc0xZaEZ0UThON19fdnZtRi1zWkdYX1FZM3JsQjQ0VzdXZUNiTkRvSWlxUmJwbm5uM0JvUlhmLV9kQjk4UUk4X19nSVA2VHZaVlhiVTVReDBEcDVR?oc=5",
-        "pubTime": "2026-08-03 04:00",
-        "source": "news.google.com",
-        "titleZh": "川普不斷升級其貿易威脅。這次，歐洲並未上當。——《Politico》",
-        "descZh": "川普不斷升級其貿易威脅。這次，歐洲並未上當。&nbsp;&nbsp;《Politico》"
-      },
-      {
-        "title": "Trump is determined to pursue his trade war – and he may be difficult to stop - theguardian.com",
-        "desc": "Trump is determined to pursue his trade war – and he may be difficult to stop&nbsp;&nbsp;theguardian.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90QmZ6b1ZSUmRVQ3IzWE40ZFRGZ09XMFNLUS1rV2dlN1VWbGozWGViUEdwaHFrNk15RHFHNGFsRmVSdVZpNG4zRUV1bVhUMHF2SUxWdTlrZ1pSSFcxZ1RzWEJ0eUIzZUxfd1l4aVAxZmlMT3hGMWQw?oc=5",
-        "pubTime": "2026-08-02 20:00",
-        "source": "news.google.com",
-        "titleZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他 - theguardian.com",
-        "descZh": "川普決心繼續打這場貿易戰——而且恐怕很難阻止他&nbsp;&nbsp;theguardian.com"
-      },
-      {
-        "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum? - Al Jazeera",
-        "desc": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?&nbsp;&nbsp;Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3ZVRUhGVjR6cmh4bXg1enR2RGJSTlpvX0dqQThmMndTZkdrRzlvdnZILTBHZlRKeHB2WTl1LXdGbzZGTHZnMFd6ZHNPX1JrLTF2ZnNpTVlSOHVqdGpTS1pVWThfM2hYUDlSVnl4T0gxek9yb0VnR2t2OHEyYWwzZk9pVjZSVzZ4MDAyTXNSZXE3SlVmNXU3WHBEWVdSQ2VjdE1ySjA0Tk5PaWN2Z0HSAbMBQVVfeXFMTUtrUDhMdDI4cWsybEVEdG5QVTJVMTZNRmFDVFpicUhGYlcxTmo4amFIX01GNWVuZGgzdkNpNVFYNlVaSWc0ZkhyalFCd3FHUHJNUWRjcWRIM3NsSDlvNVFzT3YtcU9VLWlNeWVMTHJxN0Q3YW83LWM0ZmRkb0dOMW1WU2NhUGJIY1FQdlFXWWZ5N1FUSVdDZ2J0YTFzaDRPLUI0bDZCdXpHZ1FvdFI1eGp4QlE?oc=5",
-        "pubTime": "2026-08-02 07:24",
-        "source": "news.google.com",
-        "titleZh": "「如火如荼」地成長：台灣能否維持經濟動能？——半島電視台",
-        "descZh": "「如火如荼」地成長：台灣能否維持經濟動能？&nbsp;&nbsp;半島電視台"
       }
     ]
   }
