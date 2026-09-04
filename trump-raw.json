@@ -1,5 +1,39 @@
 [
   {
+    "date": "20260905",
+    "fetchTime": "2026-09-05 06:25",
+    "count": 3,
+    "articles": [
+      {
+        "title": "Trump's response is key as Argentina's Falklands demands get louder",
+        "desc": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-05 04:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著阿根廷對福克蘭群島的主權主張聲浪日益高漲，川普的回應至關重要",
+        "descZh": "隨著阿根廷總統米萊就福克蘭群島問題承諾將帶來「變革之風」，唐納德·川普是否會改變他對英國統治的立場？"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "desc": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-05 04:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的和平特使將於本週末訪問莫斯科和基輔",
+        "descZh": "史蒂夫·維特科夫（Steve Witkoff）和賈里德·庫什納（Jared Kushner）一直主導著唐納德·川普總統為結束俄烏戰爭所做的努力——但談判已陷入僵局。"
+      },
+      {
+        "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+        "desc": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-05 01:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "就業數據推高升息預期後，川普呼籲降息",
+        "descZh": "總統發表這番言論之際，強於預期的就業數據進一步加深了市場對升息的預期。"
+      }
+    ]
+  },
+  {
     "date": "20260904",
     "fetchTime": "2026-09-04 06:39",
     "count": 15,
@@ -3745,130 +3779,6 @@
         "source": "news.google.com",
         "titleZh": "川普關稅退款潮加速：美國海關已退還 1,000 億美元，新關稅糾紛再度爆發 - finance.biggo.com",
         "descZh": "川普關稅退款潮加速：美國海關已退還 1,000 億美元，新關稅爭端再度升溫&nbsp;&nbsp;finance.biggo.com"
-      }
-    ]
-  },
-  {
-    "date": "20260806",
-    "fetchTime": "2026-08-06 05:39",
-    "count": 13,
-    "articles": [
-      {
-        "title": "Did Iran hack water systems in at least seven US states?",
-        "desc": "President Donald Trump has said Iran is not to blame, but cyber experts tell the BBC it is likely the attack was directed by Tehran.",
-        "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-05 23:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "伊朗是否駭入了美國至少七個州的供水系統？",
-        "descZh": "美國總統唐納德·川普表示伊朗不應為此負責，但網路安全專家向英國廣播公司（BBC）指出，此次攻擊很可能是由德黑蘭策動的。"
-      },
-      {
-        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-        "desc": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-        "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-05 21:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "總統到訪前夕，一名持械男子在川普高爾夫球場附近被捕",
-        "descZh": "這起逮捕事件發生在川普總統原定於加州某沿海高爾夫球場主持一場募款晚宴的前夕。"
-      },
-      {
-        "title": "Trump’s tariff ‘Plan B’ has arrived - Washington Examiner",
-        "desc": "Trump’s tariff ‘Plan B’ has arrived&nbsp;&nbsp;Washington Examiner",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3FLQW9WRUdSek9xLTVMdklvU1FJRm5QTVdyRWx0cHExTEVQWllaTkhRRWFNUkV3R2tQRlRIOXlKRENnRTQ4VlBIRGhPSW8zRG1YeG5WVU9wS2wxVU1JYThYRW5zSWdQNTdEVmZtbVI0REJ0cmIySk1UMlltN2VnZG9sZFEzWjBtWVJHXw?oc=5",
-        "pubTime": "2026-08-05 18:00",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅「B計畫」已出爐——《華盛頓觀察家報》",
-        "descZh": "川普的關稅「B計畫」已出爐&nbsp;&nbsp;《華盛頓觀察家報》"
-      },
-      {
-        "title": "Trump Tariff Refund Wave Accelerates: US Customs Has Returned $100 Billion, New Tariff Disputes Flare Up - finance.biggo.com",
-        "desc": "Trump Tariff Refund Wave Accelerates: US Customs Has Returned $100 Billion, New Tariff Disputes Flare Up&nbsp;&nbsp;finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Yd1lONDdnRTlzZUFHTkdfWmFEVXd4MllUbmFJLVRpLVgzT2llbllCM09NSW5OTkJyaThfYl9udjNsSS1UY3pwN0hmd3NGeDdibG9QMWx5bXZMNTJTNl9CcDFKbFVfVHJaNGF2WjR2cGZwRWdPSkE?oc=5",
-        "pubTime": "2026-08-05 14:26",
-        "source": "news.google.com",
-        "titleZh": "川普關稅退款潮加速：美國海關已退還 1,000 億美元，新關稅爭端再度升溫 - finance.biggo.com",
-        "descZh": "川普關稅退款潮加速：美國海關已退還 1,000 億美元，新關稅爭端再度升溫&nbsp;&nbsp;finance.biggo.com"
-      },
-      {
-        "title": "US States Initiate Legal Action Against Trump's Tariffs - India News Network",
-        "desc": "US States Initiate Legal Action Against Trump's Tariffs&nbsp;&nbsp;India News Network",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUXB3dXFTdlFLU0dyU0hIcEh3ZHVMNEdfUzRLOHFfWVdFNFV5d0R2SGdLY0Znb2FmUm5MTVE3YmRnM2FsRzV4XzF5cGdjdHhyUXhTc2hxVmJrRkpObWVmaDRlUUtwWnRDR3AwUl83cDhVZmliVE8yclYwSVNzV1hpbmdkSFhYX0NnQWxZZ0VVeVF4NUlMb1A4SERXWnhva2c?oc=5",
-        "pubTime": "2026-08-05 03:10",
-        "source": "news.google.com",
-        "titleZh": "美國各州針對川普的關稅措施提起法律訴訟 - 印度新聞網",
-        "descZh": "美國各州針對川普的關稅措施提起法律訴訟&nbsp;&nbsp;印度新聞網"
-      },
-      {
-        "title": "25 Democratic-Led States Sue Trump Administration Over New Tariffs, Arguing White House Exceeded Legal Authority - Tekedia",
-        "desc": "25 Democratic-Led States Sue Trump Administration Over New Tariffs, Arguing White House Exceeded Legal Authority&nbsp;&nbsp;Tekedia",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONnBoMWlJRTVKalBZZlRNekRnV2hheFJXc0RZTlZ5dFNXdWJlOFRCRkRZR1hrNHRJSnBpS25JWTdXNmJ0QWJOeXpSTkxvTllGYnpkcGM3V0ZjZTRGNG9lcGpNb0VaR3RNbmpKejdKOWhyaEdyYUJYaFlJd1dqdk9wSVNBNlBQaDFGZVhTQmxCcjhNcUZhaVMzNGk0NlFRMUFNN0pqM0dWODNuRUFqcW1ydFlwLWJzX0xjN1I3bEVMUEVDYjBSb3F4SzhYVmhMOE5aVXc?oc=5",
-        "pubTime": "2026-08-04 22:16",
-        "source": "news.google.com",
-        "titleZh": "25個由民主黨主導的州就新關稅措施起訴川普政府，指稱白宮超越法定權限 - Tekedia",
-        "descZh": "25個由民主黨主導的州就新關稅措施起訴川普政府，指稱白宮超越了法定權限&nbsp;&nbsp;Tekedia"
-      },
-      {
-        "title": "Trump’s tariffs are his biggest policy failure - The Hill",
-        "desc": "Trump’s tariffs are his biggest policy failure&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GWFNSMGc2ZTNzNUlkVG5BSVplMElUeDNkNXR6MmU1OWdpbEtOSDhDY1ZIdzVwaVlKc2dyTzBWTmk0N0RtWXptWEF4TDFUajBxV2YwbnJWbVpXT29MY1VLYWJGcmFERW1UVWdKV0pYTi1QLU9UQVpmc9IBfkFVX3lxTE4wNUJ2NnJwLTFLaGFlalM1RDBEVDVQNHRjdHpsUExOLVZQczRGMmNmYXlaVXR5VjMxX0hJcjJBb2p1ODVkdGxRS0ktSGpvbXVWMXVveWd3Y0FvdkVsRlNBZUdYWWhmZlhxN3ZJV3A2bkdnWDFQUU9FVlVXYlBGUQ?oc=5",
-        "pubTime": "2026-08-04 20:00",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅政策是他最大的政策失敗——《The Hill》",
-        "descZh": "川普的關稅政策是他最大的政策失敗&nbsp;&nbsp;《The Hill》"
-      },
-      {
-        "title": "Analysis: Trump challenged by cold reality from top allies",
-        "desc": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-        "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-04 17:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "分析：川普面臨來自主要盟友的冷酷現實考驗",
-        "descZh": "BBC記者安東尼·祖切爾（Anthony Zurcher）撰文指出，這位習慣於將美國政治操弄於股掌之間的總統，在短短數日內接連遭遇兩次慘痛挫敗。"
-      },
-      {
-        "title": "US states sue to block Trump tariffs impacting dozens of countries - BBC",
-        "desc": "US states sue to block Trump tariffs impacting dozens of countries&nbsp;&nbsp;BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aZU93ZHV6aENRTjI3emJubkRhT2txWFJ3dGdma3N4WVlPNlZTekdRT0lxd21Iby15Rzl6UEVPNDVwU2NJTktmNExnd18tNkhVS3VZRG0tTkZhdw?oc=5",
-        "pubTime": "2026-08-04 17:08",
-        "source": "news.google.com",
-        "titleZh": "美國各州提起訴訟，試圖阻止特朗普對數十個國家實施的關稅措施 —— BBC",
-        "descZh": "美國各州提起訴訟，試圖阻止特朗普對數十個國家實施的關稅&nbsp;&nbsp;BBC"
-      },
-      {
-        "title": "UFC loses $30m on Freedom 250 event at White House",
-        "desc": "UFC owners lose $30m (£22m) staging the Freedom 250 event, which was attended by US President Donald Trump, at the White House in June.",
-        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgdky8d94eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-04 16:59",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "UFC 在白宮舉辦的「Freedom 250」賽事虧損 3,000 萬美元",
-        "descZh": "UFC 所有者因在六月於白宮舉辦「Freedom 250」賽事而虧損 3,000 萬美元（2,200 萬英鎊），該賽事當時有美國總統唐納德·川普出席。"
-      },
-      {
-        "title": "Trump’s New Tariffs Face Lawsuit From Democratic States - jdjournal.com",
-        "desc": "Trump’s New Tariffs Face Lawsuit From Democratic States&nbsp;&nbsp;jdjournal.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblUtRTRsZjlkbFFDdm45TTBoNHVUWFVtamhrTVZ6U0VRR1ZhdS1CbTVvTEd5cGs3VExDNzZ1enlRZ1EySkd5N0VnRlNMMmE2a2lHcnVCTm4tTng4bFlTaFJ4aHlfbzgwd3pCc3dwbDcyTm4zN3VwY1plZkhxalRCazNkbw?oc=5",
-        "pubTime": "2026-08-04 13:23",
-        "source": "news.google.com",
-        "titleZh": "川普的新關稅措施面臨民主黨州提起的訴訟 - jdjournal.com",
-        "descZh": "川普的新關稅措施面臨民主黨州提起的訴訟&nbsp;&nbsp;jdjournal.com"
-      },
-      {
-        "title": "Donald Trump’s Tariff Re-Do in Southeast Asia - The Diplomat – Asia-Pacific",
-        "desc": "Donald Trump’s Tariff Re-Do in Southeast Asia&nbsp;&nbsp;The Diplomat – Asia-Pacific",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWZ3YlVQT3VxSVpGaVRiaTBJMWdDRGJyRENCMVBtSjQyT0tsUU1sQW45c3c2Y2lMS2RQWGFvdmJ2RWppak1Wd2lMWXljRVN1V3hlQ3FFWEkwSDNkTmpHTFYwXzMyOWwwMG5hdkJiaXp2cTY0UEVlQmMwY0pHSWt6andMOA?oc=5",
-        "pubTime": "2026-08-04 12:00",
-        "source": "news.google.com",
-        "titleZh": "唐納德·川普在東南亞的關稅政策重整 - 《外交家》——亞太版",
-        "descZh": "唐納德·川普在東南亞的關稅政策重整&nbsp;&nbsp;《外交家》——亞太版"
-      },
-      {
-        "title": "25 states sue Trump administration over latest round of tariffs - cbsnews.com",
-        "desc": "25 states sue Trump administration over latest round of tariffs&nbsp;&nbsp;cbsnews.com",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tMmkwd21hb1gxbDFtOHBsV015SHdjNUJzZU5lQ29KN1hEYWNwSGJBVGx0MkVjbWp3cFM3bTFsSTE5ZERWcUFNQmIyTVBDb0VOd3NjR3pSYzByME9FVmJKMktPQlBGUlFHVVdndUxXNnVJdEgzMnRLalNZaGQ?oc=5",
-        "pubTime": "2026-08-04 05:45",
-        "source": "news.google.com",
-        "titleZh": "25個州就最新一輪關稅措施起訴川普政府 - cbsnews.com",
-        "descZh": "25個州就最新一輪關稅措施起訴川普政府&nbsp;&nbsp;cbsnews.com"
       }
     ]
   }
