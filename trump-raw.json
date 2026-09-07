@@ -1,5 +1,39 @@
 [
   {
+    "date": "20260908",
+    "fetchTime": "2026-09-08 06:53",
+    "count": 3,
+    "articles": [
+      {
+        "title": "Donald Trump calls for US boycott of Canada’s Bombardier jets - Financial Times",
+        "desc": "Donald Trump calls for US boycott of Canada’s Bombardier jets&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVlDckdjTkw3aGs2djE5VXpaNnY1WG9vTHJXcTVzSjE1SDhzS3IyZ1JUMlJhTWVfVXlPNk9NVkFiNGV4bjJNNUF2emhxcDVyNEJUd2doZVd1dDlwdHA4TE9nV1I2VEVScXpEMmxDRllRYms2UWI3VmlFelZ4NWVJVDJUMk0?oc=5",
+        "pubTime": "2026-09-08 03:09",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普呼籲美國抵制加拿大龐巴迪飛機——《金融時報》",
+        "descZh": "唐納德·川普呼籲美國抵制加拿大龐巴迪的噴射機&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump's Canada tariffs punch swing states just before the midterms - Fortune",
+        "desc": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump's Canada tariffs punch swing states just before the midterms&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTlacUJud2VuREZud1g3OXlCUVpjZm9uYzRxTnZOVnV6djVHbUVDeHE4RzlITHJTQXFHOGd5dlhELXE2ZWtXVFJKRFFPb2I2ZGU4Y181R2lQYmtsSEdVT2tzUmNXRDN1bjlXclhGdUo3bTRiN2ZJUFRnUmV3a0xPbDg4aHBzVzg?oc=5",
+        "pubTime": "2026-09-08 02:30",
+        "source": "news.google.com",
+        "titleZh": "威斯康辛州的起司、緬因州的海鮮、肯塔基州的家電：川普對加拿大徵收關稅，在中期選舉前夕重創搖擺州——《財富》雜誌",
+        "descZh": "威斯康辛州的起司、緬因州的海鮮、肯塔基州的家電：川普對加拿大徵收關稅，在中期選舉前夕重創搖擺州&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "Trump’s tariffs caused Puerto Rico to pay close to $1 billion in 2025 - San Juan Daily Star",
+        "desc": "Trump’s tariffs caused Puerto Rico to pay close to $1 billion in 2025&nbsp;&nbsp;San Juan Daily Star",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHlDUDRQc1gwa3FldkM2UTdjU2REN0pCcC1TeVlRd1JLTVZ4RmFxZVk2RmRvQ2dVX0FzNlY0a1lWRVFNTHdTS1hRa0syWTNvc1Fmd2VIMmN2eW90c3lINGZYRlpVZnVHY2dLYnF5anQ4cmhNc3lKc0xiSUlUd0hxaFhRLU9rRV9TWjJfR3dVWlZRWE9VaVVwVkptXzB6UmRfV0xHTWMtUU5WQQ?oc=5",
+        "pubTime": "2026-09-07 11:47",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅導致波多黎各在2025年支付了近10億美元——《聖胡安每日星報》",
+        "descZh": "川普的關稅措施導致波多黎各在 2025 年支付了近 10 億美元　《聖胡安每日星報》"
+      }
+    ]
+  },
+  {
     "date": "20260907",
     "fetchTime": "2026-09-07 06:10",
     "count": 5,
@@ -3538,112 +3572,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "何謂「出生公民權」？在美國，「生育旅遊」有多普遍？",
         "descZh": "川普政府正試圖透過終結「生育旅遊」及收緊其他資格標準，來限制部分人士取得美國公民身分。"
-      }
-    ]
-  },
-  {
-    "date": "20260809",
-    "fetchTime": "2026-08-09 04:54",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-        "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-08 23:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的前律師托德·布蘭奇以微弱優勢獲確認為美國司法部長",
-        "descZh": "儘管部分共和黨人罕見地提出反對，這項表決仍使川普的前刑事辯護律師正式成為該國最高執法官員。"
-      },
-      {
-        "title": "What is birthright citizenship and how common is birth tourism in the US?",
-        "desc": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-        "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-08 05:09",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "何謂「出生公民權」？在美國，「生育旅遊」有多普遍？",
-        "descZh": "川普政府正試圖透過終結「生育旅遊」及收緊其他資格標準，來限制部分人士取得美國公民身分。"
-      },
-      {
-        "title": "China Says Trump Tariffs Continue to Weigh on the Global Soybean Trade - Agrolatam",
-        "desc": "China Says Trump Tariffs Continue to Weigh on the Global Soybean Trade&nbsp;&nbsp;Agrolatam",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNURoVU5Ha1ExMUZtbUVpV050THB2c0xUOWx1ODVsWkFoRGtzcmVaNHVXY05mSEszVjZtTzBEbG40RHZaczZaOEZFQXkyUVN2Q081YUlGbEs5a2tDVjJtanpNdExZV3VmRHBrSDEzY0dpVjhMTXh0OUFnVnJKWFBuSg?oc=5",
-        "pubTime": "2026-08-08 03:36",
-        "source": "news.google.com",
-        "titleZh": "中國表示，川普的關稅措施持續對全球大豆貿易造成壓力 - Agrolatam",
-        "descZh": "中國表示，川普的關稅措施持續拖累全球大豆貿易&nbsp;&nbsp;Agrolatam"
-      },
-      {
-        "title": "New Sweeping U.S. Tariffs Use Forced-Labor Justification - The Organization for World Peace",
-        "desc": "New Sweeping U.S. Tariffs Use Forced-Labor Justification&nbsp;&nbsp;The Organization for World Peace",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN01UdTM4TVhFU3lGaXJCUWgxZ19aWWdVRkZ1dmdSRFREQWs2THNJWnhZM3FnbWdpUF83VnJId1pFamgzUzllVWIzTThGb2xlVlpjOXR4NkR4cFBacEl3WHRxMi1oWGgyU1EwU0JSVzRJMi1sTGpxNkJrU0ZpNjctdw?oc=5",
-        "pubTime": "2026-08-08 01:59",
-        "source": "news.google.com",
-        "titleZh": "美國新實施的大規模關稅以「強迫勞動」為藉口——世界和平組織",
-        "descZh": "美國新實施的大規模關稅以「強迫勞動」為藉口&nbsp;&nbsp;世界和平組織"
-      },
-      {
-        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-        "desc": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-08 01:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國上訴法院叫停川普宴會廳計畫，為最高法院的對決鋪路",
-        "descZh": "「是否應興建一座大型舞廳，應由國會決定，」上訴小組的多數意見指出。"
-      },
-      {
-        "title": "US Senator Cassidy will vote to confirm Blanche for AG, likely saving teetering nomination",
-        "desc": "Earlier, Republican Senator Lisa Murkowski said she opposed Trump's pick to lead the justice department",
-        "url": "https://www.bbc.co.uk/news/articles/c0kme3114xko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-08 00:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國參議員卡西迪將投票支持布蘭奇出任司法部長，此舉有望挽救這項岌岌可危的提名",
-        "descZh": "稍早前，共和黨參議員莉莎·穆爾科斯基表示，她反對川普提名的人選出任司法部長一職"
-      },
-      {
-        "title": "Trump’s summer of tariffs means trade uncertainty is here to stay - Chatham House",
-        "desc": "Trump’s summer of tariffs means trade uncertainty is here to stay&nbsp;&nbsp;Chatham House",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUFuLVMtZ2dBeHJRMlhZMDAycmdBTlZMZE4zdXpQVUFXV0dTNDBCb2pRZWhaTEZJM0dBLVBSWXFLaUZ4cWVrUzdUczlzTnhEUmcxTHRKS1ZjeHpHa1VMNF9BaVdGaDUxd2hYOVlTdnZOeEVtNlpHVkRHZUd0aHVzeDJwd3VuRUE1bm9WR1ZQblkxVlRuQllz?oc=5",
-        "pubTime": "2026-08-07 23:59",
-        "source": "news.google.com",
-        "titleZh": "川普的「關稅之夏」意味著貿易不確定性將持續存在——查塔姆研究所",
-        "descZh": "川普的「關稅之夏」意味著貿易不確定性將持續存在&nbsp;&nbsp;查塔姆研究所"
-      },
-      {
-        "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-        "desc": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-07 21:32",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普政府將向一家德國公司支付12億美元，以叫停美國的風電項目",
-        "descZh": "RWE 此次的賠償案，是近期一連串取消風力發電專案交易中的最新一例，而風力發電這項能源，長期以來一直遭到川普的嘲諷。"
-      },
-      {
-        "title": "Trump-backed Republican congressman loses primary in Tennessee",
-        "desc": "Andy Ogles is the second person backed by the US president to lose this week but there were also some wins in Trump's corner.",
-        "url": "https://www.bbc.co.uk/news/articles/c79grd2prnro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-07 17:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "獲川普支持的共和黨國會議員在田納西州初選中落敗",
-        "descZh": "安迪·奧格爾斯是本週第二位遭美國總統支持卻仍落敗的人，但川普陣營也取得了一些勝利。"
-      },
-      {
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "desc": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
-        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-07 08:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普再度透過新的行政命令，試圖限制美國的出生公民權",
-        "descZh": "這些行政命令禁止「生育旅遊」，並擴大現有定義，將那些子女不符合美國出生公民權資格的人士納入其中。"
-      },
-      {
-        "title": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war - The Globe and Mail",
-        "desc": "Opinion: U.S. consumers keep getting hosed by Trump’s topsy-turvy trade war&nbsp;&nbsp;The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2o3WWFVa1RJam9wVjhGN2VfY1hxZHdMZ0pTWkFTMXdqelgzY3RWV28zZG9raG00Z1lvQkNheVFpOGxqR0tTQ29wTWtWbEhkano5d2ZkdWc4c0FjbWF1cXFhRmRXMjdXRVFEaG10SXRCT3dLYkJOMk80S2FsQkd4amg1OC1QNklJeEdGX1NnaVotMHhHN3VONHdoY2RPek42OFFweG13?oc=5",
-        "pubTime": "2026-08-07 07:25",
-        "source": "news.google.com",
-        "titleZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害——《環球郵報》",
-        "descZh": "社論：美國消費者持續受特朗普這場亂七八糟的貿易戰所害&nbsp;&nbsp;《環球郵報》"
       }
     ]
   }
