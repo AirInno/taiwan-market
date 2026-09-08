@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260909",
+    "fetchTime": "2026-09-09 06:47",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Sapporo to move some beer production from Canada to US after tariffs",
+        "desc": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+        "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 01:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "受關稅影響，札幌將把部分啤酒生產從加拿大轉移至美國",
+        "descZh": "隨著關稅衝擊加劇，這家日本啤酒製造商計畫將無酒精啤酒的生產基地從加拿大遷往美國"
+      },
+      {
+        "title": "Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial",
+        "desc": "During an appearance on Good Morning America, Kevin Reddington also asked Trump to pardon Clancy.",
+        "url": "https://www.bbc.co.uk/news/articles/czrz6gxp033o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 01:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "林賽·克蘭西的律師希望在審判因程序瑕疵而宣告無效後，能與檢方達成協議",
+        "descZh": "在《早安美國》節目中，凱文·雷丁頓也要求川普赦免克蘭西。"
+      },
+      {
+        "title": "Trump shares misleading video of King and fainting worker",
+        "desc": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 00:31",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普分享了一段關於金恩與一名暈倒工人的誤導性影片",
+        "descZh": "總統分享了一段具誤導性的影片，影片中似乎顯示查爾斯在某次王室訪問期間，面對一名暈倒的男子時聳了聳肩並轉身離去。"
+      },
+      {
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+        "desc": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-08 22:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "卡尼表示，美國的貿易戰「將付出代價」，而加拿大則針對關稅措施展開反制",
+        "descZh": "加拿大將對價值近 200 億美元的美國產品——從鋼鐵到 T 恤——徵收最高達 50% 的關稅。"
+      },
+      {
+        "title": "James Moore: Time is on Canada’s side in this lose-lose tariff war with Trump - BNN Bloomberg",
+        "desc": "James Moore: Time is on Canada’s side in this lose-lose tariff war with Trump&nbsp;&nbsp;BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklFSGZENURxNW9nS2NORVVUclBFa1d2Q0N2LTg4bzJEcUxzVmlPeFlic1BPWDB1S2VJLVVyblltZjV3Z0NGUzlLWExPUnBmaVU0X25seTY3czBSX3gyUk1uclRpeDhCNFFsaTFMek5RSl81Ykh2NTlGbGNXNGhSMm8xamxldzBTWkw3aHdZdkdyRnJubGl3ZnJFQzhnZl9JOEE5bHpTWUlmTlV4cEhya2g1d01CWVF3QmpEUkVPTkMxV3c?oc=5",
+        "pubTime": "2026-09-08 22:37",
+        "source": "news.google.com",
+        "titleZh": "詹姆斯·摩爾：在這場與川普的「兩敗俱傷」關稅戰中，時間站在加拿大這邊 — BNN彭博社",
+        "descZh": "詹姆斯·摩爾：在這場與川普的「雙輸」關稅戰中，時間站在加拿大這邊&nbsp;&nbsp;BNN 彭博社"
+      },
+      {
+        "title": "Donald Trump calls for Bombardier boycott as Canada hits US with tariffs - Financial Times",
+        "desc": "Donald Trump calls for Bombardier boycott as Canada hits US with tariffs&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVlDckdjTkw3aGs2djE5VXpaNnY1WG9vTHJXcTVzSjE1SDhzS3IyZ1JUMlJhTWVfVXlPNk9NVkFiNGV4bjJNNUF2emhxcDVyNEJUd2doZVd1dDlwdHA4TE9nV1I2VEVScXpEMmxDRllRYms2UWI3VmlFelZ4NWVJVDJUMk0?oc=5",
+        "pubTime": "2026-09-08 21:38",
+        "source": "news.google.com",
+        "titleZh": "加拿大對美國徵收關稅之際，唐納德·川普呼籲抵制龐巴迪 - 《金融時報》",
+        "descZh": "加拿大對美國徵收關稅之際，唐納德·川普呼籲抵制龐巴迪公司&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs - Japan Wire by Kyodo News",
+        "desc": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs&nbsp;&nbsp;Japan Wire by Kyodo News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cV92T0RXUHcwVy14eVo3WXNNb0dyNFd3clFIWmpNQXpmSjkweTNramhyTXd2dlB6d2dkdDdMVDhZcDM2QmpqS1lmQlRGTWFMRllKcTFsOUR5QQ?oc=5",
+        "pubTime": "2026-09-08 19:02",
+        "source": "news.google.com",
+        "titleZh": "觀點：2028年後的美國貿易政策可能維持川普時代的關稅政策——日本新聞網（Japan Wire）／共同社",
+        "descZh": "觀點：2028年後的美國貿易政策可能維持川普時代的關稅&nbsp;&nbsp;日本新聞社（Japan Wire）由共同社報導"
+      },
+      {
+        "title": "Canada set to hit back at Trump tariffs, risking wider trade war - Times West Virginian",
+        "desc": "Canada set to hit back at Trump tariffs, risking wider trade war&nbsp;&nbsp;Times West Virginian",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQazA1aG1wZ1NUTVRXNEhJRnlzV09DMmxSa0lCWkhhaVhMTmxGdGxkMmFVTmtXM1hfQ0ZwUEFEc0x4aVhFVVpQWGExM3VCcVRDVHJ3aXYxMlF6bVRKZXA2Q3VhMERwazZ2d1JwTVhzVHJTREV6VTN4NE5TVkwwRGxEWDI2UTVicTFNOVRfWFZVV05nakNhMTR3bzlFWmJnSFBZWVlMWEZJSlhsVzlPeDFDeUJZYVJkSkY4WUt3WF9VcDhrUXVRRTVFc2JxTGp3cXNCTzR1X0hweE1nS0lkZ1lJZmFWeHdfZw?oc=5",
+        "pubTime": "2026-09-08 18:00",
+        "source": "news.google.com",
+        "titleZh": "加拿大準備對特朗普的關稅措施採取反制措施，恐將引發更廣泛的貿易戰——《西維吉尼亞時報》",
+        "descZh": "加拿大準備對特朗普的關稅措施進行反制，恐將引發更廣泛的貿易戰&nbsp;&nbsp;《西維吉尼亞時報》"
+      },
+      {
+        "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
+        "desc": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator&nbsp;&nbsp;NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdvNUZJWEc5LWNIVjRqNzVSSS1oY2lmNkR5RS1hNTZPQUkxak5RRWZsY050VGNWc2dCbXBJZDZXalZfOGc4RHVYTHJhN2JjV0ZhTmcwOGJvdmxyLWdjTlhOaldQcjhQWDhHYjFrWjNRcHp4UExsQ2UwOW1sdlI5YnJtTHY4S2hQZ0tQOVNuQXdvRi1BR2NFRHQ1dDVFWWJfbWhpYmFxZ1JxNjFoNy1pSGtsR24zaU5LalZrVEp0LUluLVlQ?oc=5",
+        "pubTime": "2026-09-08 15:37",
+        "source": "news.google.com",
+        "titleZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對——NBC新聞",
+        "descZh": "川普呼籲禁用龐巴迪飛機，引發一名共和黨參議員的反對&nbsp;&nbsp;NBC新聞"
+      },
+      {
+        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+        "desc": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-08 08:48",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普威脅要阻止加拿大龐巴迪噴射機在美國的銷售",
+        "descZh": "在兩國鄰國之間的貿易戰日益升級之際，加拿大一家最大企業之一面臨威脅。"
+      },
+      {
+        "title": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump's Canada tariffs punch swing states just before the midterms - Fortune",
+        "desc": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump's Canada tariffs punch swing states just before the midterms&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTlacUJud2VuREZud1g3OXlCUVpjZm9uYzRxTnZOVnV6djVHbUVDeHE4RzlITHJTQXFHOGd5dlhELXE2ZWtXVFJKRFFPb2I2ZGU4Y181R2lQYmtsSEdVT2tzUmNXRDN1bjlXclhGdUo3bTRiN2ZJUFRnUmV3a0xPbDg4aHBzVzg?oc=5",
+        "pubTime": "2026-09-08 02:30",
+        "source": "news.google.com",
+        "titleZh": "威斯康辛州的起司、緬因州的海鮮、肯塔基州的家電：川普對加拿大課徵關稅，在中期選舉前夕重創搖擺州 ——《財富》雜誌",
+        "descZh": "威斯康辛州的起司、緬因州的海鮮、肯塔基州的家電：川普對加拿大加徵關稅，在中期選舉前夕重創搖擺州&nbsp;&nbsp;《財星》"
+      }
+    ]
+  },
+  {
     "date": "20260908",
     "fetchTime": "2026-09-08 06:53",
     "count": 3,
@@ -3529,49 +3635,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "內塔尼亞胡對川普「加薩15點計畫」的拒絕，恐怕不會是最終定論",
         "descZh": "據稱，川普政府對以色列總理拒絕這項協議一事並不介意，認為這只是大選前的競選言論。"
-      }
-    ]
-  },
-  {
-    "date": "20260810",
-    "fetchTime": "2026-08-10 04:58",
-    "count": 4,
-    "articles": [
-      {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "desc": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-09 22:18",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "以色列拒絕川普針對加薩的15點計畫，內塔尼亞胡表示",
-        "descZh": "以色列總理表示，在哈馬斯「真正」解除武裝之前，以軍不會從加薩撤軍。"
-      },
-      {
-        "title": "The Big Picture: Canada’s Greater Objectives in Trump’s Tariff War - Policy Magazine",
-        "desc": "The Big Picture: Canada’s Greater Objectives in Trump’s Tariff War&nbsp;&nbsp;Policy Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWJLNmlFdnVLN2NCYVhTZGFkRTl2MzlxOUdzZ0xoN2hZcXl5VC1uVFRIV29nNHl0bzE4Mnk2ODVidDdOMzUtRVplNTZNV2hvbjAzS1RoTUx1YW04ejR5eUNwSTFwaHZ1R25zcENaMk56NkgxX2oyanVxMmwzaXpKajZhaGwtM1RVbUxIZmV4U0xwZ1AtVktORmF3?oc=5",
-        "pubTime": "2026-08-09 04:51",
-        "source": "news.google.com",
-        "titleZh": "大局觀：在川普的關稅戰中，加拿大的宏大目標——《政策雜誌》",
-        "descZh": "大局觀：加拿大在川普關稅戰中的宏大目標&nbsp;&nbsp;《政策》雜誌"
-      },
-      {
-        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-        "desc": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-08 23:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的前律師托德·布蘭奇以微弱優勢獲確認為美國司法部長",
-        "descZh": "儘管部分共和黨人罕見地提出反對，這項表決仍使川普的前刑事辯護律師正式成為該國最高執法官員。"
-      },
-      {
-        "title": "What is birthright citizenship and how common is birth tourism in the US?",
-        "desc": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-        "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-08 05:09",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "何謂「出生公民權」？在美國，「生育旅遊」有多普遍？",
-        "descZh": "川普政府正試圖透過終結「生育旅遊」及收緊其他資格標準，來限制部分人士取得美國公民身分。"
       }
     ]
   }
