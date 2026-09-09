@@ -1,5 +1,111 @@
 [
   {
+    "date": "20260910",
+    "fetchTime": "2026-09-10 06:38",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Gov. Evers, MMAC president decry Trump trade policy as Harley-Davidson faces 50% tariff - The Business Journals",
+        "desc": "Gov. Evers, MMAC president decry Trump trade policy as Harley-Davidson faces 50% tariff&nbsp;&nbsp;The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTZmU2QzQ094TmZhcnBBSDdjaF9IQmQ2Yk03d1hhejhockhqZE1iWmV5T1JSaktWZ3pLcHdzM3FaS1lITUpReFdfcUdIdzBfZllCQnJkUjk2YVdIc3NwNnBQQnlyOTMweXBqbGxYZDdGdS1ZWjBPTGEtWWN6QTk1d25tQmRxbW5PRTEtRTJjTGphSWlk?oc=5",
+        "pubTime": "2026-09-10 03:34",
+        "source": "news.google.com",
+        "titleZh": "哈雷-戴維森面臨 50% 關稅之際，埃弗斯州長與 MMAC 主席譴責川普的貿易政策 —《商業期刊》",
+        "descZh": "埃弗斯州長與 MMAC 主席譴責川普的貿易政策，哈雷-戴維森面臨 50% 關稅&nbsp;&nbsp;《商業期刊》"
+      },
+      {
+        "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+        "desc": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+        "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-10 02:27",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "公共紀錄顯示，川普曾向娜塔莉·哈普及另外兩名幕僚贈送了45,000美元的現金禮物",
+        "descZh": "白宮表示，贈予哈普及其他三人的現金禮物屬私人性質——且合法。"
+      },
+      {
+        "title": "What tariffs will really cost Canadians and Americans",
+        "desc": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 21:06",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "關稅將給加拿大人和美國人帶來多少實際代價",
+        "descZh": "家庭和企業已經習慣了關稅對生活成本的影響，這種情況已持續一年多，那麼現在會有什麼變化呢？"
+      },
+      {
+        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+        "desc": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 18:20",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國將禁止進口部分加拿大產的酒類、乳製品及機車",
+        "descZh": "這是這場旷日持久的貿易戰中的最新一波反制措施，發生在加拿大針對美國商品的反制關稅生效之後。"
+      },
+      {
+        "title": "Trump’s Canadian trade war stirs up trouble for Republican candidates - Stateline",
+        "desc": "Trump’s Canadian trade war stirs up trouble for Republican candidates&nbsp;&nbsp;Stateline",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE1FN2FkcmFNN3l1MTg4YnQ0VUtDY003TzlPQy1BdjVYb1UwTHZDWnBaUUN3cTl3cUdJdHcwYWZwck9BWGlNRWFlWldvQnhMOXZ2VGdXNks3cDlyekx4OHJxcHVoel9nNlUxQ1ZweVlOUEU2NFFscTE5X3RqZFlNM1BOclpwUF9BMnczdHhmZWU5UVN4NDN5OWt2ekNsTlFBZVRscg?oc=5",
+        "pubTime": "2026-09-09 17:05",
+        "source": "news.google.com",
+        "titleZh": "川普對加拿大的貿易戰為共和黨候選人帶來麻煩 — Stateline",
+        "descZh": "川普對加拿大的貿易戰為共和黨候選人帶來麻煩&nbsp;&nbsp;Stateline"
+      },
+      {
+        "title": "Susan Collins says the White House has ‘underestimated’ impact of Canada tariffs - Politico",
+        "desc": "Susan Collins says the White House has ‘underestimated’ impact of Canada tariffs&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmhSeEs1SDZUbzlwX3VlMmJHNnU3V1lPZE55ZUI2X1hyNUV6enRWZnE0VWJLeEgtTDFZd2tFa3hZZGlSQ2RzUVd4dWcwTDlDdDAySktDcFNQZHpoUjVEdmZXbzhkRkc0S21rRUlmTDNUcHltMVZfS2UtckdJT0VENlNvZmxjUy05cHJTbnFUXzlVZw?oc=5",
+        "pubTime": "2026-09-09 07:19",
+        "source": "news.google.com",
+        "titleZh": "蘇珊·柯林斯表示，白宮「低估」了對加拿大加徵關稅的影響——《Politico》",
+        "descZh": "蘇珊·柯林斯表示，白宮「低估」了對加拿大加徵關稅的影響&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+        "desc": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+        "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 07:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在美國發動戰爭之際，赫格塞特正對五角大廈進行大刀闊斧的改革——但代價究竟是什麼？",
+        "descZh": "BBC記者湯姆·貝特曼撰文指出，軍方內的動盪可能將塑造川普第二任期的歷史遺產。"
+      },
+      {
+        "title": "Canada's retaliatory tariffs may hurt its economy, but most still approve because they hate Trump - Fortune",
+        "desc": "Canada's retaliatory tariffs may hurt its economy, but most still approve because they hate Trump&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWZCVTQ4MXQwZEpWV2kzQV9Zb0IwdTJzVUh3aEltT2pydEtzc1JoTG8xNVUyOTdxaEQwVUU0QkFNMnlQb256YmV0ZE5OZWdWaW1mVl9aTjdEelQ4ckN0UTZZVlNjZWhwU3VhczQxbWl4dkRIM0QwS2czVDdCWmpmYWF6bjRoaG1Rcl96SHAzaS1hckhnR0hZN04xeHdTeFJaclE?oc=5",
+        "pubTime": "2026-09-09 04:36",
+        "source": "news.google.com",
+        "titleZh": "加拿大的報復性關稅可能會損害其經濟，但多數人仍表示支持，因為他們討厭川普——《財星》",
+        "descZh": "加拿大的報復性關稅可能會損害其經濟，但多數人仍表示支持，因為他們討厭川普&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "Trump shares misleading video of King and fainting worker",
+        "desc": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-09 00:31",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普分享了一段關於金恩與一名暈倒工人的誤導性影片",
+        "descZh": "總統分享了一段具誤導性的影片，影片中似乎顯示查爾斯在一次王室訪問期間，面對一名暈倒的男子時聳了聳肩並轉身離去。"
+      },
+      {
+        "title": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs - Japan Wire by Kyodo News",
+        "desc": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs&nbsp;&nbsp;Japan Wire by Kyodo News",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cV92T0RXUHcwVy14eVo3WXNNb0dyNFd3clFIWmpNQXpmSjkweTNramhyTXd2dlB6d2dkdDdMVDhZcDM2QmpqS1lmQlRGTWFMRllKcTFsOUR5QQ?oc=5",
+        "pubTime": "2026-09-08 19:02",
+        "source": "news.google.com",
+        "titleZh": "觀點：2028年後的美國貿易政策可能維持川普時期的關稅——日本新聞網（Japan Wire）／共同社報導",
+        "descZh": "觀點：2028年後的美國貿易政策可能維持川普時期的關稅&nbsp;&nbsp;日本線（Japan Wire），共同社報導"
+      },
+      {
+        "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
+        "desc": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator&nbsp;&nbsp;NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdvNUZJWEc5LWNIVjRqNzVSSS1oY2lmNkR5RS1hNTZPQUkxak5RRWZsY050VGNWc2dCbXBJZDZXalZfOGc4RHVYTHJhN2JjV0ZhTmcwOGJvdmxyLWdjTlhOaldQcjhQWDhHYjFrWjNRcHp4UExsQ2UwOW1sdlI5YnJtTHY4S2hQZ0tQOVNuQXdvRi1BR2NFRHQ1dDVFWWJfbWhpYmFxZ1JxNjFoNy1pSGtsR24zaU5LalZrVEp0LUluLVlQ?oc=5",
+        "pubTime": "2026-09-08 15:37",
+        "source": "news.google.com",
+        "titleZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對 - NBC新聞",
+        "descZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對&nbsp;&nbsp;NBC新聞"
+      }
+    ]
+  },
+  {
     "date": "20260909",
     "fetchTime": "2026-09-09 06:47",
     "count": 11,
@@ -3610,31 +3716,6 @@
         "source": "news.google.com",
         "titleZh": "川普的下一輪關稅可能如何促使企業重返中國——彼得森國際經濟研究所",
         "descZh": "川普的下一波關稅可能如何促使企業重返中國&nbsp;&nbsp;彼得森國際經濟研究所"
-      }
-    ]
-  },
-  {
-    "date": "20260811",
-    "fetchTime": "2026-08-11 05:07",
-    "count": 2,
-    "articles": [
-      {
-        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-        "desc": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-11 04:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署行政命令，限制兒童疫苗接種並將麻腮風疫苗分開接種",
-        "descZh": "川普政府建議將麻疹、腮腺炎和德國麻疹疫苗分開，分別在三次不同的就診中接種。"
-      },
-      {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "desc": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-10 22:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "內塔尼亞胡對川普「加薩15點計畫」的拒絕，恐怕不會是最終定論",
-        "descZh": "據稱，川普政府對以色列總理拒絕這項協議一事並不介意，認為這只是大選前的競選言論。"
       }
     ]
   }
