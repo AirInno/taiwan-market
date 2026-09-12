@@ -1,5 +1,93 @@
 [
   {
+    "date": "20260913",
+    "fetchTime": "2026-09-13 06:24",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "desc": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-13 05:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普關於愛爾蘭統一的言論，其目標受眾可能在大西洋彼岸",
+        "descZh": "誰也無法預料，今天全球的主要新聞頭條竟會是川普希望愛爾蘭實現統一。"
+      },
+      {
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "desc": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-12 21:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在愛爾蘭訪問期間表示，統一的愛爾蘭將是「太棒了」",
+        "descZh": "川普是在與愛爾蘭領導人米歇爾·馬丁會晤時發表上述言論的，但唐寧街表示將「恪守《耶穌受難日協議》」。"
+      },
+      {
+        "title": "What the cement tariff reversal could teach Canada about dealing with Trump - Financial Post",
+        "desc": "What the cement tariff reversal could teach Canada about dealing with Trump&nbsp;&nbsp;Financial Post",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalJUbE84c1gtQ19DTTFFMGk5UW42cEQ4bjliYktrUXVWN2Y5V2FZbFQ0MElPTGhBQ0pkTFJuQU0wemdhSHY2bWVZSXNmc1pQY2FhRXhZSWUtajBuU0kyYko0RXVUNlpvX3RLSndqQS16RnIzVVVqZU02SE1PMWhlaFRILVZfQlRCNE4waWVoOWl6aTlmdXkwb0V3dGk?oc=5",
+        "pubTime": "2026-09-12 03:58",
+        "source": "news.google.com",
+        "titleZh": "水泥關稅政策逆轉能給加拿大什麼教訓，以應對川普？——《金融郵報》",
+        "descZh": "水泥關稅政策逆轉能給加拿大帶來哪些關於應對川普的啟示？——《金融郵報》"
+      },
+      {
+        "title": "IMF Abandons LSE Economist for Top Post After His Trump Tariff Criticism - finance.biggo.com",
+        "desc": "IMF Abandons LSE Economist for Top Post After His Trump Tariff Criticism&nbsp;&nbsp;finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EWXQ0ZUhON1JxMWNaa3V6SDctbDhyeXlBTFhmMmNLS25tV2p3ekJaYlRlWDZVRWt1ZWdYcG1NM0xxZ0xRZ0Q5dlFvODhPdEoyYWQ0cWRLZ195cnFpdU9janR3VHl1RGZ4Zm1pZC1nM2puNGhQUGc?oc=5",
+        "pubTime": "2026-09-12 02:28",
+        "source": "news.google.com",
+        "titleZh": "IMF 因倫敦大學商學院經濟學家批評川普關稅政策，放棄任命其擔任要職 - finance.biggo.com",
+        "descZh": "IMF 因倫敦大學商學院經濟學家批評川普關稅政策，放棄任命其擔任要職&nbsp;&nbsp;finance.biggo.com"
+      },
+      {
+        "title": "In 9/11 remarks, Trump links war with Iran",
+        "desc": "At the Pentagon 9/11 commemorations, President Trump praised the military and highlighted how their work is continuing with the war in Iran.",
+        "url": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-11 23:19",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在9·11紀念演說中，川普將戰爭與伊朗扯上關係",
+        "descZh": "在五角大廈舉行的「9·11」紀念活動上，川普總統讚揚了軍方，並強調軍方在伊朗戰爭中的行動仍在持續。"
+      },
+      {
+        "title": "Democrats flirt with becoming the anti-tariff party amid Trump's trade war - National Post",
+        "desc": "Democrats flirt with becoming the anti-tariff party amid Trump's trade war&nbsp;&nbsp;National Post",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxrLVoySWJjUEdTNmhfT05teUpEOXZCbXoteEVGbGFKZkxyZFR3bXRRSmlCY0pQdklwMTVqc09pX2ZnSHE5V1NYbGg5S1loSkFVUC1fV0MzOEc0ZW1yRFBCSWhJNFVBX0YxWDdXS2pRNm5aZHg4em1QdnFlRmxhdVlLcHdhaVFSNGw4VGVVTU4wTmJaQ3ladHpyeVZIeDFMQnMxeXB3?oc=5",
+        "pubTime": "2026-09-11 22:04",
+        "source": "news.google.com",
+        "titleZh": "在川普發動貿易戰之際，民主黨正試圖轉型為反關稅政黨——《國家郵報》",
+        "descZh": "在川普發動貿易戰之際，民主黨正試圖轉型為反關稅政黨&nbsp;&nbsp;《國家郵報》"
+      },
+      {
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "desc": "JD Vance delivered the keynote speech to end the party's convention - but the president still took centre stage, the BBC's Daniel Bush writes.",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-11 22:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普主導黨代會之際，部分共和黨人悄悄詢問：接下來會輪到誰？",
+        "descZh": "BBC記者丹尼爾·布什（Daniel Bush）撰文指出，傑德·范斯（JD Vance）在該黨全國代表大會閉幕時發表了主題演說——但總統依然是全場焦點。"
+      },
+      {
+        "title": "Has Trump won over voters with his midterm convention?",
+        "desc": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+        "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-11 14:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普透過這場中期選舉大會，是否已成功贏得選民支持？",
+        "descZh": "BBC 北美編輯莎拉·史密斯（Sarah Smith）深入剖析了這場史上首度在美國總統任期中途舉行的共和黨全國代表大會的主要要點。"
+      },
+      {
+        "title": "Is Trump's $5,000 pledge a sign of panic?",
+        "desc": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
+        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-11 09:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普承諾的 5,000 美元是否顯示出恐慌跡象？",
+        "descZh": "北美編輯莎拉·史密斯寫道，即使以川普自己那套不按常理出牌的標準來看，他對選民的承諾也顯得相當離奇。"
+      }
+    ]
+  },
+  {
     "date": "20260912",
     "fetchTime": "2026-09-12 06:40",
     "count": 10,
@@ -3565,175 +3653,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "影片：卡洛琳·利維特在白宮任職期間的關鍵時刻",
         "descZh": "利維特於2025年1月以27歲之齡就任該職位，成為該國史上最年輕的新聞秘書。"
-      }
-    ]
-  },
-  {
-    "date": "20260814",
-    "fetchTime": "2026-08-14 05:09",
-    "count": 18,
-    "articles": [
-      {
-        "title": "Imports less than $800 can face Trump's tariffs, court rules - usatoday.com",
-        "desc": "Imports less than $800 can face Trump's tariffs, court rules&nbsp;&nbsp;usatoday.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXE0R05kMjNQa1VITkFzam1iWmJObFg4LTRUaWV5R1dsWXJZSlVDVFZXVlRXRVlOOV9DVjBvRURVdkhMOVRnYjR5Y0ZaaTVVVmRiYkJQYU84ZGZkazJXRkY1UDBBUHA0U3JVamtNYUpJdUVMSEktNmpFbXJ3cVZPTHRILTVKRXlnSFlESHhWc2NJTUs5UnUzc0UwaDFhRU5hV1dQSkFOZ0lISjRCVWc?oc=5",
-        "pubTime": "2026-08-14 04:30",
-        "source": "news.google.com",
-        "titleZh": "法院裁定：價值低於800美元的進口商品可能面臨川普的關稅 - usatoday.com",
-        "descZh": "法院裁定：價值低於 800 美元的進口商品仍可能面臨川普的關稅&nbsp;&nbsp;usatoday.com"
-      },
-      {
-        "title": "U.S. court rules Trump can end tariff exemption for small parcels - BNN Bloomberg",
-        "desc": "U.S. court rules Trump can end tariff exemption for small parcels&nbsp;&nbsp;BNN Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSk1zdnhCeWNqem0zOXdNUnRlOE10LXlOQ0owQ0lMQk1OZDRuNno1dTBOYmhVQ2JiQ3ZvQ3VzTGF6Q0dLQWdRM2VITHNER0J6VVRES3I3OXVKc053SWFfeHFhZWJSLUlSam1TQ01QY05RajEzUDNDOEhiZ1dDcVlScGJkWDdJOTN2dU9qMGVjbzVGbWw3RWNvSnNlMWV0cDFPU0lUTG56UFl3dzU2bkdVYg?oc=5",
-        "pubTime": "2026-08-14 04:27",
-        "source": "news.google.com",
-        "titleZh": "美國法院裁定川普可終止小包裹關稅豁免 - BNN Bloomberg",
-        "descZh": "美國法院裁定川普可終止小包裹關稅豁免&nbsp;&nbsp;BNN 彭博社"
-      },
-      {
-        "title": "Trade court upholds Trump's closure of 'de minimis' loophole - CNBC",
-        "desc": "Trade court upholds Trump's closure of 'de minimis' loophole&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEVpNllCTWp2NnE2QmN3SWV6TDdKeFl1U2h5c2x5UGJqb0lvSmU1ckk4X2QtNGkzaFZmMTc2anFINDNFSFZLckNRNWZjWFF5eDhPekVSRE45VE9INVJtNUZVYUx3anpYNi1NUlpZQlp2RGt2TnJWVW9vTkFIMnA1RVB6Z0phQdIBiwFBVV95cUxNM1NPRms0RUlNa0ttb2xhVmFVendIZmdVajJuU1ZEMFNZbFlnS3RKOFVrRmc0bUticlpOU2pJNC1jZUZKUGpfbWk4eTV0Wk9wcnd3QTQ4X0hOY0lpWDYtVkZpcmNwYjRpb1RUV1diS3ZUbTZWTFd3SEJmaDZ3bkVYT2JqRUNiOGxnZUxj?oc=5",
-        "pubTime": "2026-08-14 03:12",
-        "source": "news.google.com",
-        "titleZh": "貿易法院維持川普封堵「微量」漏洞的決定 - CNBC",
-        "descZh": "貿易法院維持川普關閉「微量」漏洞的決定&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline - CBC",
-        "desc": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEdMbXFFdVM4MEZ1MDZqMTk1bVIxMjJQZmV1VlNVWm01UXNEWlZpQ1htRVhudHJEc3VfdDhldW5Gc0VUVTBJVENmUjdlY1pBRnNhQW1ha0c1ZUJSUWhLa3dHUm9UUFhudlppV3JSWDR6OHE4OG9NZ1lLSnE5M0thVUZyX3dpMlpJVjBYcHZRREZBM0hRdDBFLUJIcW44ODBQd2pSQTU2ZjdZYVZoZVE?oc=5",
-        "pubTime": "2026-08-14 00:15",
-        "source": "news.google.com",
-        "titleZh": "加拿大與美國貿易官員在即將到來的關稅截止期限前再度會晤進行磋商 - CBC",
-        "descZh": "加拿大與美國貿易官員在即將到來的關稅截止期限前再度會晤&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "Who could replace White House Press Secretary Karoline Leavitt?",
-        "desc": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-        "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 22:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "誰能接替白宮新聞秘書卡洛琳·利維特？",
-        "descZh": "這份工作不僅需要處理與媒體之間錯綜複雜的關係，還必須滿足川普的高標準期望。"
-      },
-      {
-        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-        "desc": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 17:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在總統悄然離場後，川普內閣成員仍留在那架偽裝飛機上",
-        "descZh": "在北約峰會期間，川普因涉及伊朗的安全考量，於土耳其轉乘了另一架飛機。"
-      },
-      {
-        "title": "Iran has shaken Trump's support - is his loyal base sticking with him?",
-        "desc": "Munitions for the war are made in Kingsport, Tennessee, where some of the president's most loyal supporters are wrestling with higher prices.",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 07:26",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "伊朗動搖了川普的支持基礎——他的忠實支持者們還會繼續支持他嗎？",
-        "descZh": "戰爭所需的軍火是在田納西州金斯波特生產的，該地有部分總統最忠實的支持者正因物價上漲而苦惱不已。"
-      },
-      {
-        "title": "Watch: Key moments from Karoline Leavitt's White House tenure",
-        "desc": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.",
-        "url": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 06:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：卡洛琳·利維特在白宮任職期間的關鍵時刻",
-        "descZh": "利維特於2025年1月以27歲之齡就任該職位，成為該國史上最年輕的新聞秘書。"
-      },
-      {
-        "title": "Quebec premier convening emergency meetings to brace for new Trump tariffs - ctvnews.ca",
-        "desc": "Quebec premier convening emergency meetings to brace for new Trump tariffs&nbsp;&nbsp;ctvnews.ca",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEw5Ui1fTmVjcjNFQ254Sms3S0FsZmtmdWd5Z0w1Z2RTUjVxRmNVaWJybkUxUm1HS2duOG9ya3ZBWkFKRGZPMjBXUFpJNlBLUVozbjNDbnkxTVBTX2lwZjlhQ19PWVkzYldYMUhYTC10cW45WEsxd1Vuc1dBczMzSHhHRDJqdVltODNzdEt5bjMzRTIyQkJ1OGZXbmNaSlA3YV9iLUdoM29yUTNTYXNwd3VMMS1EZw?oc=5",
-        "pubTime": "2026-08-13 04:52",
-        "source": "news.google.com",
-        "titleZh": "魁北克省長召開緊急會議，為應對川普的新關稅措施做準備 - ctvnews.ca",
-        "descZh": "魁北克省長召開緊急會議，為應對川普的新一輪關稅做準備&nbsp;&nbsp;ctvnews.ca"
-      },
-      {
-        "title": "Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer: sources - CBC",
-        "desc": "Canada, U.S. not yet ready to make tariff deal, Canada unsatisfied with latest U.S. offer: sources&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUnpUVUt2ZXBxQ0lueTVTN095Z3B5QWJYbTYtVnJGdTRHM1NMOTlUWV9UVnBsSURSUlVOcjNydlB3MFNLb3BqdHg5U1hBQlk5TTIxTFdrdFYwdHVycDY4TVpjNU1OTGpmbmRYbkprWHFpaEVxTTVOMzFZRWJTVm9QUg?oc=5",
-        "pubTime": "2026-08-13 03:00",
-        "source": "news.google.com",
-        "titleZh": "消息人士指出，加拿大與美國尚未準備好達成關稅協議，加拿大對美國的最新提議感到不滿——CBC",
-        "descZh": "消息人士指出，加拿大與美國尚未準備好就關稅問題達成協議，且加拿大對美國的最新提議感到不滿：CBC"
-      },
-      {
-        "title": "Trump sued over Truth Social's $100,000 early access service",
-        "desc": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-        "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 01:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普因「Truth Social」的 10 萬美元優先使用服務遭起訴",
-        "descZh": "這起訴訟質疑 Truth Social 計畫販售可優先瀏覽川普那些影響市場的貼文的權限。"
-      },
-      {
-        "title": "Trump administration trade policies have changed minds - Progressive Policy Institute",
-        "desc": "Trump administration trade policies have changed minds&nbsp;&nbsp;Progressive Policy Institute",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMVdEdWdfZWpjdGt5ZkJ4VjVHekRtb1dfMm9ZZV9ic3NjOHVIeEZoY2NUNXhiWUNCcVlzbzhGWHNpcEtKZngtUUVnblBUMjRWTnRaMzk0V0VpNk90OTBRdVkwQXpLZU5YSzBCbU5FeG9vb2NJWVRYWXVvT1NEcXpia3kyS2Ftc1RLRm9HaVFRLUtuRzA?oc=5",
-        "pubTime": "2026-08-13 01:14",
-        "source": "news.google.com",
-        "titleZh": "川普政府的貿易政策已使人們改變了想法——進步政策研究所",
-        "descZh": "川普政府的貿易政策已改變了人們的看法&nbsp;&nbsp;進步政策研究所"
-      },
-      {
-        "title": "Watch: Trump tells reporters why he switched planes",
-        "desc": "The President confirmed that he secretly swapped planes as he left a Nato summit in Turkey last month due to a possible threat.",
-        "url": "https://www.bbc.co.uk/news/videos/cp30p4ze3gxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-12 21:13",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普向記者說明為何更換班機",
-        "descZh": "總統證實，上個月他因面臨潛在威脅，在離開土耳其的北約峰會時曾秘密更換了座機。"
-      },
-      {
-        "title": "What it's like flying with Trump on Air Force One",
-        "desc": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President.",
-        "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-12 18:43",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "搭乘「空軍一號」與川普同機飛行是種什麼樣的體驗",
-        "descZh": "BBC 記者湯姆·貝特曼說明，隨同美國總統搭乘「空軍一號」的媒體人員，其體驗是怎樣的。"
-      },
-      {
-        "title": "Southeast Asia remains 'a clear priority' despite concerns over Trump tariffs: US envoy to ASEAN - CNA",
-        "desc": "Southeast Asia remains 'a clear priority' despite concerns over Trump tariffs: US envoy to ASEAN&nbsp;&nbsp;CNA",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVo5aG9NRV9XVHItYmhFNnNmLXpfNC1OeFJ1Yl9SLTlrRUo4WERWelBHcTZmUXBySlBBcVhfSVdFMUJvRjFRNUN3d0dRUUdEM0xFMFlQazZROUR6Z21SdU5wMmZUTjZpN1IwR0FpS1VQdThfLTFUUmhVUzNWZ1l6cnJPNnY3czhlVG4zcEdpSjBJQ1YxcFZYUURZczVERVVGRXBJWjF5ZjBtd2R0NzkwS0h3?oc=5",
-        "pubTime": "2026-08-12 10:35",
-        "source": "news.google.com",
-        "titleZh": "儘管對川普關稅政策存有擔憂，東南亞仍為「明確的優先事項」：美國駐東協大使——CNA",
-        "descZh": "儘管外界對川普的關稅政策存有擔憂，東南亞仍為「明確的優先事項」：美國駐東盟大使&nbsp;&nbsp;CNA"
-      },
-      {
-        "title": "What to know about Trump's Patriot Games for high school athletes",
-        "desc": "Two teenagers from each state are competing as part of the celebration of America's 250th anniversary.",
-        "url": "https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-12 09:17",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "高中運動員需了解的關於川普「愛國者賽事」的相關資訊",
-        "descZh": "作為美國建國250週年慶祝活動的一部分，每個州各有兩名青少年參與競賽。"
-      },
-      {
-        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-        "desc": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-12 08:14",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普戲劇性的換機之舉，暗示了伊朗戰爭對他個人而言的利害關係",
-        "descZh": "BBC記者安東尼·祖切爾（Anthony Zurcher）寫道，這標誌著他與伊朗關係這段動盪歷史中的又一則引人注目的篇章。"
-      },
-      {
-        "title": "Fact-checking Trump's claims as he rolls back some recommended vaccines",
-        "desc": "The US president has repeatedly cast doubt on the safety of childhood vaccines, making several misleading claims.",
-        "url": "https://www.bbc.co.uk/news/articles/c9q9dzp97l4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-12 07:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在川普撤回部分建議接種的疫苗之際，對其說法進行事實查核",
-        "descZh": "美國總統一再對兒童疫苗的安全性提出質疑，並提出多項誤導性說法。"
       }
     ]
   }
