@@ -1,5 +1,57 @@
 [
   {
+    "date": "20260914",
+    "fetchTime": "2026-09-14 06:29",
+    "count": 5,
+    "articles": [
+      {
+        "title": "Trump scraps tariffs on Irish whiskey during visit to country - Financial Times",
+        "desc": "Trump scraps tariffs on Irish whiskey during visit to country&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEw2elVrNURhTXpmRWc3dFJrX3B5SVJYN2JTZ3kwbUdpeVh0NnNEQnlsdHFYMy1EQ1VyYnFGVGZ3cjZoRUVNWGtsdkdUVHB1d2tVV1pFcjlKaVRZM0ptRFNOSnpJZHkwRmJZcnVrODAxbllrVkNhd2ROU3J3VGxQZGlNbFY?oc=5",
+        "pubTime": "2026-09-14 04:47",
+        "source": "news.google.com",
+        "titleZh": "川普訪愛爾蘭期間取消對愛爾蘭威士忌的關稅——《金融時報》",
+        "descZh": "川普訪愛期間取消對愛爾蘭威士忌的關稅&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "desc": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-14 02:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普以與中國的競爭為由，淡化了關於人工智慧風險的警告",
+        "descZh": "美國總統表示，「負面勢力」正在對「根本不會發生的事情」表達擔憂。"
+      },
+      {
+        "title": "Trump’s Quiet Foreign Policy Success? Relations with China - The American Conservative",
+        "desc": "Trump’s Quiet Foreign Policy Success? Relations with China&nbsp;&nbsp;The American Conservative",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGhBdm15MkZfalRfTjZUNFU0emNhZGVTYmZHWEI4bDQxc21zSXF4eUx2QXpZY0pNUW9YOGRPaHlKdWxkdkNCUEFqYlAzY2hDNjFUQlJxMTluNGJCRzFRZTNwVm8wdXFXYXVQVGpma2F5dkpUWDBBMzg1YXhkSkdEOTB1a0U1SUIxZ3hJWjR6N1hoQ2s2N3hicG1WaEhYQQ?oc=5",
+        "pubTime": "2026-09-13 12:05",
+        "source": "news.google.com",
+        "titleZh": "川普外交政策的「低調成功」？與中國的關係——《美國保守派》",
+        "descZh": "川普的「低調」外交政策成功？中美關係&nbsp;&nbsp;《美國保守派》"
+      },
+      {
+        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+        "desc": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-13 05:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普關於「統一的愛爾蘭」的言論，其目標受眾可能是在大西洋彼岸的群體",
+        "descZh": "誰也料不到，今天全球的主要頭條新聞竟是川普希望愛爾蘭實現統一。"
+      },
+      {
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "desc": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-12 21:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在愛爾蘭訪問期間表示，愛爾蘭統一將是「非常棒」的事",
+        "descZh": "川普是在與愛爾蘭領導人米歇爾·馬丁會晤時發表上述言論的，但唐寧街表示將「恪守《耶穌受難日協議》」。"
+      }
+    ]
+  },
+  {
     "date": "20260913",
     "fetchTime": "2026-09-13 06:24",
     "count": 9,
@@ -3484,175 +3536,6 @@
         "source": "news.google.com",
         "titleZh": "法院裁定：價值低於800美元的進口商品可能面臨川普的關稅 - usatoday.com",
         "descZh": "法院裁定：價值低於 800 美元的進口商品可能面臨川普的關稅&nbsp;&nbsp;usatoday.com"
-      }
-    ]
-  },
-  {
-    "date": "20260815",
-    "fetchTime": "2026-08-15 04:51",
-    "count": 18,
-    "articles": [
-      {
-        "title": "Trump trade rep says Washington 'not going to tolerate' retaliation as tariff deadline looms - CBC",
-        "desc": "Trump trade rep says Washington 'not going to tolerate' retaliation as tariff deadline looms&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnJmVk16YVFWUXBLSlJwWUE3eVRRQmluWWdXXzJkOGJvWWhQSlBfZVNjRG53a3FHM0QzdkpTX0dfWTh0M1hEMW81WXlXNG1rWVpwWGc4bEZ5RWFvSnEtY2FJbWVQOTU3QTJ2QWhkZ1A3OTBrS09KdlFXTnBDamkxcjNzX2hvQQ?oc=5",
-        "pubTime": "2026-08-15 03:11",
-        "source": "news.google.com",
-        "titleZh": "特朗普貿易代表表示，隨著關稅截止期限逼近，華府「絕不會容忍」報復措施——CBC",
-        "descZh": "特朗普貿易代表表示，隨著關稅截止期限逼近，華府「絕不會容忍」報復措施&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "Trump asks Supreme Court to allow ballroom work to continue",
-        "desc": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-15 03:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普要求最高法院允許舞廳繼續營業",
-        "descZh": "美國政府表示，迫使美國總統「低頭向國會求情」以獲准，將是「危險」之舉。"
-      },
-      {
-        "title": "Trump's tariffs unevenly reshape American manufacturing - Nikkei Asia",
-        "desc": "Trump's tariffs unevenly reshape American manufacturing&nbsp;&nbsp;Nikkei Asia",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVNUN0tLQUM2eGtfTFdNdlFpRE1XWHFMYmpmaEphQ2x2R3dvbGVLVFdCU0tibXE3MEhCSnpQNzVUb1pCY0VlZGpoOGgyRHJJZGJHTkdJak9QdWhsQ2ZKRXUzNEFVUFpQcVNEU3FGa0RPWFFJU2lzRm05WTY4anlPdFVqRUtpQUs1NmxEd05HeU80N1h2OWZhS2h0VTFrU29iV1EwMExvN0xwOTlTR0thMw?oc=5",
-        "pubTime": "2026-08-14 20:36",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅政策正以不均衡的方式重塑美國製造業——《日經亞洲》",
-        "descZh": "川普的關稅政策正以不均衡的方式重塑美國製造業&nbsp;&nbsp;《日經亞洲》"
-      },
-      {
-        "title": "Trump White House Says China Avoids Billions in Tariffs by Rerouting Goods - WSJ",
-        "desc": "Trump White House Says China Avoids Billions in Tariffs by Rerouting Goods&nbsp;&nbsp;WSJ",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTl9rN1VFalExV3BseFRBRGFjZjJBVzJOejAxSURNakZNankwNF9QcTVVbmhDbFp2Q0xaQW4xdFR6Y21hVnZzUUZjZGN0djMzU0QtQlNScmZTVnNIRFZIWHM3aXhTaEwwa1QwMlBHR1VfM0FJamU2QlUxYlo1RXlYU1R2c3JpT3FvOEZkZ1VPekZjOHdDcFhCcWt2d0FlT0VrSTBqeVhqY1hadjUwT01TeA?oc=5",
-        "pubTime": "2026-08-14 17:41",
-        "source": "news.google.com",
-        "titleZh": "川普白宮稱中國透過改道運輸貨物，避開數十億關稅 — 《華爾街日報》",
-        "descZh": "川普白宮稱中國透過改道運輸貨物，避開數十億關稅&nbsp;&nbsp;《華爾街日報》"
-      },
-      {
-        "title": "US accuses dozens of countries of helping China avoid Trump’s tariffs - Al Jazeera",
-        "desc": "US accuses dozens of countries of helping China avoid Trump’s tariffs&nbsp;&nbsp;Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEMwejVqZjZkUFFubWNDWUs2bHVQRjdHcW0xWnNFeVZrUG1iNVBYN2JLSGZFRmdvUl9tMlZoeWVSa0lHZVFUVnU3MnduUlUzRXdBTm1PNEhJMGVSY181WTV1dkE5R1NsRUptcWtRYm1LTGlYdWh6ODVZM3cyaGV6eDNzMlE2d0JkOTZTWWsyci1LOC1IaG5rNEliZTlxZTRHTzRfbHFKQlJ5SVgwdlFPNjhn0gG3AUFVX3lxTE5Ba1hZZHBpNHgzRnVBZWVFdzJpUklCb2NKSnhNQjRUU2JqSTJvUlJVUm1jMFhQd2pZdUlmRnZ4UklWSGFacnpldlJWRkloOWhtdkx6YkhHWWRkZVcwTkQyZkFyRGRHNUV3VVJLdjBZaDhxWUdCZnY5dlF5c0RQMFI2bWsxWmg1R0ozLXhxaFlfblFONFBDVEZaTkwxN2puZ3J4Y21penZCYjdFOTdFV2gtcDQ0bjZNMA?oc=5",
-        "pubTime": "2026-08-14 16:49",
-        "source": "news.google.com",
-        "titleZh": "美國指控數十個國家協助中國規避川普的關稅 —— 半島電視台",
-        "descZh": "美國指控數十個國家協助中國規避川普的關稅&nbsp;&nbsp;半島電視台"
-      },
-      {
-        "title": "White House says more than 40 nations help China dodge tariffs - The Washington Post",
-        "desc": "White House says more than 40 nations help China dodge tariffs&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREFqd1dJbUx4Y1BwU2ZuRG9RVWZWN2MtTV9EUlRhNmpfd1pyOG4yblhDWjlIdTlMZW1IR0pMYUZ1UHRsQklOR3M5WEZsMV9fRzVHRUlWY2k2YTBHem1kQ18xekFocFh6Y1Ztc0lDNGtORFhhUFF2eGstTmlTR01RRURmeUJSN08wWDVyS1NraFJZTkN2b004T255LU95YkJHVlB1X2xlZkUzSVFHVlJ2Qmh0N2c?oc=5",
-        "pubTime": "2026-08-14 09:45",
-        "source": "news.google.com",
-        "titleZh": "白宮表示，有超過40個國家協助中國規避關稅——《華盛頓郵報》",
-        "descZh": "白宮表示，有超過40個國家協助中國規避關稅&nbsp;&nbsp;《華盛頓郵報》"
-      },
-      {
-        "title": "Kennedy Center board votes to put Trump's name back on building",
-        "desc": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge.",
-        "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-14 06:21",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "甘迺迪中心董事會投票決定將川普的名字重新放回大樓上",
-        "descZh": "董事會週四還投票決定，將按計畫進行為期兩年的關閉以進行擬議的翻新工程，此舉先前曾遭聯邦法官阻止。"
-      },
-      {
-        "title": "US court rules Trump can end tariff exemption for small parcels - Le Monde.fr",
-        "desc": "US court rules Trump can end tariff exemption for small parcels&nbsp;&nbsp;Le Monde.fr",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdDJlYUxrQk1uMm43WEtFQ3dwdnpqRnpvblFXdHlZbTU2YVYxZmpxUkNIc0pFb1lvaGZCZjdtS2tWTHVrX2dPcmNibV9IOTdDekkxdGxieDFVa2YxbjJ2VXZDN1BjVEFtVE1lcmRxM0YxZC1BRU5sR0Ftcjd6c29BZDd4cm9CempBaGtIVVpSNlZYUjE3dDdGeDVWVGFSUUZ3SjgwRm0yanYzSjNWVzM3QUp6d1B5SFFKNUZZcTRjSEw1cDhDTlpIZk82aDQ?oc=5",
-        "pubTime": "2026-08-14 05:03",
-        "source": "news.google.com",
-        "titleZh": "美國法院裁定川普可終止小包裹關稅豁免 - Le Monde.fr",
-        "descZh": "美國法院裁定川普可終止小包裹關稅豁免&nbsp;&nbsp;Le Monde.fr"
-      },
-      {
-        "title": "Imports less than $800 can face Trump's tariffs, court rules - USA Today",
-        "desc": "Imports less than $800 can face Trump's tariffs, court rules&nbsp;&nbsp;USA Today",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXE0R05kMjNQa1VITkFzam1iWmJObFg4LTRUaWV5R1dsWXJZSlVDVFZXVlRXRVlOOV9DVjBvRURVdkhMOVRnYjR5Y0ZaaTVVVmRiYkJQYU84ZGZkazJXRkY1UDBBUHA0U3JVamtNYUpJdUVMSEktNmpFbXJ3cVZPTHRILTVKRXlnSFlESHhWc2NJTUs5UnUzc0UwaDFhRU5hV1dQSkFOZ0lISjRCVWc?oc=5",
-        "pubTime": "2026-08-14 04:46",
-        "source": "news.google.com",
-        "titleZh": "法院裁定：價值低於800美元的進口商品可能面臨川普的關稅 —— 《今日美國》",
-        "descZh": "法院裁定：價值低於 800 美元的進口商品仍可能面臨川普的關稅&nbsp;&nbsp;《今日美國》"
-      },
-      {
-        "title": "Trade court upholds Trump's closure of 'de minimis' loophole - CNBC",
-        "desc": "Trade court upholds Trump's closure of 'de minimis' loophole&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEVpNllCTWp2NnE2QmN3SWV6TDdKeFl1U2h5c2x5UGJqb0lvSmU1ckk4X2QtNGkzaFZmMTc2anFINDNFSFZLckNRNWZjWFF5eDhPekVSRE45VE9INVJtNUZVYUx3anpYNi1NUlpZQlp2RGt2TnJWVW9vTkFIMnA1RVB6Z0phQdIBiwFBVV95cUxNM1NPRms0RUlNa0ttb2xhVmFVendIZmdVajJuU1ZEMFNZbFlnS3RKOFVrRmc0bUticlpOU2pJNC1jZUZKUGpfbWk4eTV0Wk9wcnd3QTQ4X0hOY0lpWDYtVkZpcmNwYjRpb1RUV1diS3ZUbTZWTFd3SEJmaDZ3bkVYT2JqRUNiOGxnZUxj?oc=5",
-        "pubTime": "2026-08-14 03:12",
-        "source": "news.google.com",
-        "titleZh": "貿易法院維持川普封堵「微量」漏洞的決定 - CNBC",
-        "descZh": "貿易法院維持川普關閉「微量」漏洞的決定&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "‘It looks like it’s going to end in tears,’ former diplomat warns ahead of Canada-U.S. tariff deadline - bnnbloomberg.ca",
-        "desc": "‘It looks like it’s going to end in tears,’ former diplomat warns ahead of Canada-U.S. tariff deadline&nbsp;&nbsp;bnnbloomberg.ca",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUJ5UWF1eWxIdnRzMG5hOXdKOWlRc2V2V21lVlBzLXE3UWFEd3R6bjhPTW5zUFBLUDBYYlRkb0hWNjdGcUVIZ014VGM0eVJMN2pSal9FdEZCWHA4U0Z3bm5OTV9UMXhDQkUtOFQtZ2xVTmpCVkRKRHRhMklmcS1MMUMzYjU0U2tUWGVnaXFHRjFySHpqSUNKRlo4VlNsbFQyWENQS0VfVkZ5OXh1RGpYMEJWcWhvdXVJdXgyNnZCOFc3SE8zRkd1eFdXTWhNQmJTMmpERU1HSlpoUQ?oc=5",
-        "pubTime": "2026-08-14 00:36",
-        "source": "news.google.com",
-        "titleZh": "「看來這件事恐怕會以悲劇收場，」前外交官在加美關稅截止期限前發出警告 - bnnbloomberg.ca",
-        "descZh": "「看來這件事將以悲劇收場，」前外交官在加美關稅截止期限前發出警告&nbsp;&nbsp;bnnbloomberg.ca"
-      },
-      {
-        "title": "TAC Right Now: Have Trump’s Tariffs Succeeded? - The American Conservative",
-        "desc": "TAC Right Now: Have Trump’s Tariffs Succeeded?&nbsp;&nbsp;The American Conservative",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHFZZEpsRlJQUUI1djVGR2QxemE1TDduX2ZFV0pfYVFOalpwbzAweHFLekNtZEtBUUN0N2ZDSTRYNXJhS2t2MXRGRHJEckc1VE5EbmpQZXRFc0FyN1ZsVklpNmJETDNBS0t6amVjeXpTUW1NVGZpTEJkOGNiaElrMVV6Zlk2X3FWLUNmWg?oc=5",
-        "pubTime": "2026-08-13 23:29",
-        "source": "news.google.com",
-        "titleZh": "《TAC 即時焦點》：川普的關稅政策是否成功？——《美國保守派》",
-        "descZh": "《TAC 即時動態》：川普的關稅政策是否奏效？&nbsp;&nbsp;《美國保守派》"
-      },
-      {
-        "title": "Trump trade enforcers deploy AI in tariff evasion crackdown - Fortune",
-        "desc": "Trump trade enforcers deploy AI in tariff evasion crackdown&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREVmbGNSdnpMWEFidzN3X3FOM0lKUXU1alNNNzNNYlktTml5ZGpTVmZ6QW9hbllzdWJIUTZhVTRKUndWcmFYU3pHYkR2UmJkMUtUZ2Q4M0k5eEloQjFmNjhzeFZyTEhUZ09iR1NYVVZSYUdkSTNFWWxRZ1hSUVRxRjJ1YkN6N3R1XzlaUlczVl9qN2Z3ZVE?oc=5",
-        "pubTime": "2026-08-13 23:01",
-        "source": "news.google.com",
-        "titleZh": "川普政府貿易執法部門運用人工智慧打擊關稅規避行為 —— 《財星》",
-        "descZh": "川普政府貿易執法部門運用人工智慧打擊關稅規避行為&nbsp;&nbsp;《財星》"
-      },
-      {
-        "title": "Who could replace White House Press Secretary Karoline Leavitt?",
-        "desc": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
-        "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 22:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "誰能接替白宮新聞秘書卡洛琳·利維特？",
-        "descZh": "這份工作不僅需要處理與媒體之間錯綜複雜的關係，還得滿足川普的高標準期望。"
-      },
-      {
-        "title": "Carney, Trump to be given 'options' following latest trade talks, says U.S. rep - CBC",
-        "desc": "Carney, Trump to be given 'options' following latest trade talks, says U.S. rep&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEdMbXFFdVM4MEZ1MDZqMTk1bVIxMjJQZmV1VlNVWm01UXNEWlZpQ1htRVhudHJEc3VfdDhldW5Gc0VUVTBJVENmUjdlY1pBRnNhQW1ha0c1ZUJSUWhLa3dHUm9UUFhudlppV3JSWDR6OHE4OG9NZ1lLSnE5M0thVUZyX3dpMlpJVjBYcHZRREZBM0hRdDBFLUJIcW44ODBQd2pSQTU2ZjdZYVZoZVE?oc=5",
-        "pubTime": "2026-08-13 22:22",
-        "source": "news.google.com",
-        "titleZh": "美國代表表示，在最新一輪貿易談判後，卡尼與川普將獲得「選項」——CBC",
-        "descZh": "美國代表表示，在最新一輪貿易談判後，卡尼與川普將獲得「選項」&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "New Trump tariffs ‘like deja vu’ according to food industry panel - FoodNavigator.com",
-        "desc": "New Trump tariffs ‘like deja vu’ according to food industry panel&nbsp;&nbsp;FoodNavigator.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzVUYjZiLVRFSUk1YUF2SHdrMUFid2psX0dHUXNLLWduRnJzZjdJWnV5UFRaekIwaHRaS3NrQmVSUmJSSnlOS2hPWC0zSnhJX0l5UzdSVzB5cldHWWJWV19ydzdZdzJaYkZudW9iazBnM3cyR3dUZXBTbXg2VnFsT3doX2lsUjV0MnhaakJTQTNuYzBfdnc1emVOX2x6Q3h4ZXl5MUppMA?oc=5",
-        "pubTime": "2026-08-13 22:20",
-        "source": "news.google.com",
-        "titleZh": "食品產業專家小組表示，川普的新關稅「宛如似曾相識」 - FoodNavigator.com",
-        "descZh": "食品產業專家小組表示，川普的新關稅「宛如似曾相識」&nbsp;&nbsp;FoodNavigator.com"
-      },
-      {
-        "title": "As tariff deadline nears, what does Trump want from Canada? And will he get it? - National Post",
-        "desc": "As tariff deadline nears, what does Trump want from Canada? And will he get it?&nbsp;&nbsp;National Post",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVRWejBYWFRkQmNqa1h6eW1ndnk3c0NTbmtueUNETnBqSlVFUXd3SE9wY3dERzBKTTYxMlJzem9nNFhmOGc3NzZWQ3hObTRhSzZYRWVmOTNncTl2clh1M2RvUFJCanBiSXVLTzNLV2sweEtkeXZuVC12V2E0NUg5MFh4Z2FWRmlhZE03OEd2QV9kTXVsVG5fM2k2QVVKTmZ0SVZqS3NfV2Q4dw?oc=5",
-        "pubTime": "2026-08-13 16:02",
-        "source": "news.google.com",
-        "titleZh": "隨著關稅截止日期臨近，川普究竟想從加拿大得到什麼？他能如願以償嗎？——《國家郵報》",
-        "descZh": "隨著關稅截止日期臨近，川普究竟想從加拿大得到什麼？他能如願以償嗎？&nbsp;&nbsp;《國家郵報》"
-      },
-      {
-        "title": "Watch: Key moments from Karoline Leavitt's White House tenure",
-        "desc": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.",
-        "url": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-13 06:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：卡洛琳·利維特在白宮任職期間的關鍵時刻",
-        "descZh": "利維特於2025年1月以27歲之齡就任該職位，成為該國史上最年輕的新聞秘書。"
       }
     ]
   }
