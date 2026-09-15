@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260916",
+    "fetchTime": "2026-09-16 06:58",
+    "count": 12,
+    "articles": [
+      {
+        "title": "Data centres and pipelines up for grabs as Carney pitches Canada to investment giants",
+        "desc": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-16 06:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "卡尼向投資巨頭推介加拿大，數據中心與管線項目成為爭奪焦點",
+        "descZh": "一兆美元的投資推廣、逾160個待投資項目，以及在與美國的激烈貿易戰中轉向歐盟——首屆加拿大投資峰會的重點摘要。"
+      },
+      {
+        "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
+        "desc": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-16 05:55",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，由於法院裁定其姓名不得出現在該建築物上，肯尼迪中心將關閉",
+        "descZh": "據報導，就在該中心由川普任命的董事會原定就關閉該中心兩年一事進行表決之際，這項裁決隨之出爐。"
+      },
+      {
+        "title": "Why is Donald Trump so opposed to regulating AI?",
+        "desc": "The BBC's North America editor Sarah Smith looks at why the US president is contradicting AI leaders, who are calling for the technology's development to be slowed down.",
+        "url": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-16 04:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為什麼唐納德·川普如此反對對人工智慧進行監管？",
+        "descZh": "BBC 北美編輯莎拉·史密斯探討了為何美國總統會與呼籲放緩這項技術發展的 AI 業界領袖們持相反立場。"
+      },
+      {
+        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+        "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-16 04:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "五角大廈稽核官證實，伊朗戰爭導致美國彈藥短缺",
+        "descZh": "儘管唐納德·川普總統聲稱美國的補給「幾乎無窮無盡」，但檢查員仍發現補給方面存在瓶頸。"
+      },
+      {
+        "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+        "desc": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-16 00:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "最高法院大法官駁回對郵寄選票的限制後，川普批評最高法院",
+        "descZh": "總統抨擊大法官們阻撓了他這項僅允許向公民名單上的選民寄送選票的計畫。"
+      },
+      {
+        "title": "'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key",
+        "desc": "The Canadian prime minister said the exchange “sums up” the Canada-US relationship.",
+        "url": "https://www.bbc.co.uk/news/videos/cwkgvkr1rz66o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-15 23:08",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「說不定他們會開槍打你」——卡尼回憶川普贈送的白宮鑰匙",
+        "descZh": "加拿大總理表示，這段對話「概括了」加美關係。"
+      },
+      {
+        "title": "Trump’s tariffs on Canada could cost him several red states - The Hill",
+        "desc": "Trump’s tariffs on Canada could cost him several red states&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTNhQk90R3FuWW5BNUxIQWdtbTlzMzNEWUlsTHNINnBrSVIxV0JmLTNFaTZ3dnlpekxMMV9hTDNheGFRVy01XzdoWDRyT0tTdlJXOGdCd0xYcEFBY0ZCUGlPM0l5aU5UQjZKRVAzMDZmN2JDNTV3bHYybXNKMWVQWlRrT1lDSnB00gGOAUFVX3lxTE9UYUhMX2Jacm5IS0RWemhVUGlXUmJ0V29sblp4Mi1RcVpzYmw5MUEyaFBYSm9zTzBnNlgtMUxNUnpQU2NoQ0JVUXFaUzNNb0pMUGkyQllJLWxRc2dqbTNURm95NkRNVnFQdkRSV1ZvQ1laYjJJbWs2LXFqU0drcW1YX0F6cnoxMWRpZVRibUE?oc=5",
+        "pubTime": "2026-09-15 19:30",
+        "source": "news.google.com",
+        "titleZh": "川普對加拿大徵收關稅可能使他失去幾個紅州 ——《The Hill》",
+        "descZh": "川普對加拿大徵收關稅，可能使他失去幾個紅州&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "desc": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-15 16:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普稱人工智慧安全疑慮是「騙局」，並拒絕呼籲加強安全保障的訴求",
+        "descZh": "美國總統發表這番言論之前，Anthropic 共同創辦人傑克·克拉克曾向英國廣播公司（BBC）表示，可能需要強制實施人工智慧「殺手開關」。"
+      },
+      {
+        "title": "AI regulation faces political deadlock as calls grow for US Congress to act",
+        "desc": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-15 10:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著要求美國國會採取行動的呼聲日益高漲，人工智慧監管面臨政治僵局",
+        "descZh": "在川普反對且國會意見分歧的情況下，儘管壓力與日俱增，關於人工智慧的新安全法案短期內恐怕難以通過。"
+      },
+      {
+        "title": "SA weighs trade risks as US tariff policy shifts - Bizcommunity",
+        "desc": "SA weighs trade risks as US tariff policy shifts&nbsp;&nbsp;Bizcommunity",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFJ0OFg5dXA2TUtCcWRjZ1pqSzZ4WWdFeU4yUHpxM3VheUQ0MkR0dG50ekdoZUZQbzhxOElSdTV0eHNnSThwNzVsLWdkZFdYcFpoQTdOalVMU095QWhsdWhRUmxORGVualRsdkhCdmxabnBJRnZueXNzUVZNOE1lVFRnUUhUUFdlS3A3b1g4V3FGMDl2cy1BTw?oc=5",
+        "pubTime": "2026-09-14 15:15",
+        "source": "news.google.com",
+        "titleZh": "美國關稅政策轉向，南非權衡貿易風險 - Bizcommunity",
+        "descZh": "南非權衡貿易風險，因應美國關稅政策轉變&nbsp;&nbsp;Bizcommunity"
+      },
+      {
+        "title": "EU welcomes Trump tariff announcement but seeks more cuts - RTE.ie",
+        "desc": "EU welcomes Trump tariff announcement but seeks more cuts&nbsp;&nbsp;RTE.ie",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWUtR3hMdXY1UExhOVFFbkdBNlZDOEhmSHpDNEM5bFBLdmxrcWJGNnlXcjBoT3huTWlYLXh4Z1JObWdpMnJpaTh4elQ2OTROZnpET1AzcjVxQUtsTV9xcjVxdEJBYTVyczJrUTF4RjlOZndXeE1jNVd1VFB0RXMtM2luOHJKbWdJTk5pcTJRU0FVVzZrTTgxNWhjUQ?oc=5",
+        "pubTime": "2026-09-14 15:09",
+        "source": "news.google.com",
+        "titleZh": "歐盟歡迎川普宣布關稅措施，但希望進一步減稅 - RTE.ie",
+        "descZh": "歐盟歡迎川普宣布加徵關稅，但希望進一步減稅&nbsp;&nbsp;RTE.ie"
+      },
+      {
+        "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals - The New York Times",
+        "desc": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXdlbjAwWm1fc042YjZIdjBsZEtCdHJWNENZLVJsSkFoUFRfVjhkZEE2dHlJMmZKMDEwd3J3NmZtM0I2ZENWN2RIM3JlYmFESUd6aUFLV2FHQnN3Rmg0c3NXSFZSWTgtRlEtOEZvcHlhR3dPN25waUlxcWl4NV9ERks5c2Z3alU?oc=5",
+        "pubTime": "2026-09-14 07:02",
+        "source": "news.google.com",
+        "titleZh": "川普承諾在上訴後撤銷對愛爾蘭威士忌的關稅——《紐約時報》",
+        "descZh": "川普承諾在收到訴求後取消對愛爾蘭威士忌的關稅&nbsp;&nbsp;《紐約時報》"
+      }
+    ]
+  },
+  {
     "date": "20260915",
     "fetchTime": "2026-09-15 07:13",
     "count": 9,
@@ -3439,67 +3554,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "美國政壇女性引發關於母職的討論",
         "descZh": "白宮發言人本週辭職，以便陪伴子女；而民主黨人亞歷山德拉·奧卡西奧-科爾特茲則表示，她正在進行冷凍卵子。"
-      }
-    ]
-  },
-  {
-    "date": "20260817",
-    "fetchTime": "2026-08-17 04:43",
-    "count": 6,
-    "articles": [
-      {
-        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-        "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-17 03:58",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普特使庫什納會晤哈馬斯領導人，推動加薩和平計畫",
-        "descZh": "這場罕見的會晤，發生在以色列拒絕唐納德·川普針對加薩的和平計畫一週之後。"
-      },
-      {
-        "title": "How Iowans feel about Trump's tariffs, Canada's treatment as Republicans vie for support - CBC",
-        "desc": "How Iowans feel about Trump's tariffs, Canada's treatment as Republicans vie for support&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEhldGJVQUFYMHktSTB4QlA0WnIwRlRLVVR0eGhGemJfdk9wLTBsWDZZQmZBbmx2U2s0YzgwUHFzeUVTeWlVN2ZsV0ZmUFAzMk9DdjYwYS1HN2dMdl9CUmE5cmtXd05JcjBWdHVSUXFvb2FQQjEwUU9jNmVQNkdhbm5MdkNLRWU5Q0FKV2xqRXYtVTNSZHpXR2x2alozVDlBa3AtNVdmdw?oc=5",
-        "pubTime": "2026-08-16 16:00",
-        "source": "news.google.com",
-        "titleZh": "共和黨人爭取支持之際，愛荷華州居民對川普關稅政策及加拿大所受待遇的看法 - CBC",
-        "descZh": "共和黨人爭奪選民支持之際，愛荷華州居民對川普關稅政策及加拿大所受待遇的看法&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-        "desc": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-        "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-16 08:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "BBC 尋求在《全景》訴訟中傳喚家屬出庭",
-        "descZh": "川普法律團隊的一名發言人針對這項要求作出回應，指責該電視台「企圖騷擾」總統的家人。"
-      },
-      {
-        "title": "US women in politics spark conversation on motherhood",
-        "desc": "The White House press secretary quit this week to be with her children, while Democrat Alexandra Ocasio-Cortez said she was freezing her eggs.",
-        "url": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-16 07:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國女性政治人物引發關於母職的討論",
-        "descZh": "白宮發言人本週辭職，以便陪伴子女；而民主黨人亞歷山德拉·奧卡西奧-科爾特茲則表示，她正在進行冷凍卵子。"
-      },
-      {
-        "title": "US trade court rules Trump may eliminate tariff exemption for low-cost imports - Jurist.org",
-        "desc": "US trade court rules Trump may eliminate tariff exemption for low-cost imports&nbsp;&nbsp;Jurist.org",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajUwZ0VwQTI3d3AtNVJaankweDZFX21iYThTb2hpUjBKWTZjSFJOME50R2hKLUhvazFSWFAwOXVGMmF0WVBocG94NjFjcWtSUmZVX0dsR2FHeFJfbVlfRVdiX0g0cHNEOVBoZE9JcFdxUFpHOTkwYmM1cWNfWXg3YTQ3WHhPOTJpeFMtOFBhRHhUSzdxZkNLWHU4bVFDN19Ga0pXRFZlbDBud1E2bHhLVFMwWlJzUQ?oc=5",
-        "pubTime": "2026-08-16 04:26",
-        "source": "news.google.com",
-        "titleZh": "美國貿易法院裁定，川普可取消對低價進口商品的關稅豁免 —— Jurist.org",
-        "descZh": "美國貿易法院裁定川普可取消對低價進口商品的關稅豁免&nbsp;&nbsp;Jurist.org"
-      },
-      {
-        "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More - Benzinga",
-        "desc": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More&nbsp;&nbsp;Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSVZ5d2xoMmZXUVdPVW5PejZLUElWNjlTYk5DRy1uaWROQlp2ZzJXSlRrZ2pZc0k1YVZqS0JQaFFIYXNMVVVQcExpOW9hRmpsSUJhaXZrenM1SlY0c2FWYmhKUFlaQzN3UkRKU1ZOemZJSjNUV29tbF9xYjdsOWpySXpocTY0cGNaYUNrR051WDZSYVBrYXp3bkFBLVVKckV2X2FQbFBIUEQ5V1psLWduX18yeV9pclM2R1Fra3d4YzJKeEtGWEdFX1Rfcm1OT0FVZnBKbkpYaGNJbW1ia1FHYi1ybmtQZ2VY?oc=5",
-        "pubTime": "2026-08-15 21:51",
-        "source": "news.google.com",
-        "titleZh": "消費科技（8月10日至14日）：川普面臨聯邦訴訟、蘋果與阿里巴巴將為中國開發人工智慧模型等 - Benzinga",
-        "descZh": "消費科技（8月10日至14日）：川普面臨聯邦訴訟、蘋果與阿里巴巴將為中國開發人工智慧模型等&nbsp;&nbsp;Benzinga"
       }
     ]
   }
