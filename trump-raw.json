@@ -1,5 +1,120 @@
 [
   {
+    "date": "20260920",
+    "fetchTime": "2026-09-20 06:21",
+    "count": 12,
+    "articles": [
+      {
+        "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+        "desc": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-20 05:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，美國將成立「人工智慧部隊」，並任命一名人工智慧沙皇",
+        "descZh": "儘管各界對這項新興技術發出警告，總統表示，他的政府「絕不會以任何方式阻礙或扼殺其發展」。"
+      },
+      {
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "desc": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-20 03:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普禁止部分媒體進入白宮後，記者們被拒於白宮門外",
+        "descZh": "據這些媒體報導，CNN、《MS NOW》及《Politico》的記者所持有的白宮記者證已被沒收。"
+      },
+      {
+        "title": "Analysis: Trump escalates media fight after week of setbacks",
+        "desc": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-20 01:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "分析：經歷一週的挫折後，川普加劇與媒體的對峙",
+        "descZh": "BBC記者安東尼·祖切爾（Anthony Zurcher）撰文指出，身處風口浪尖的川普，已將他與新聞媒體之間的爭鬥推向了新的激烈程度。"
+      },
+      {
+        "title": "Smart tariffs fight Beijing, stupid tariffs tax Santa: How Trump can save Christmas - Washington Examiner",
+        "desc": "Smart tariffs fight Beijing, stupid tariffs tax Santa: How Trump can save Christmas&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFBIUXhaMUtHQzMtV1lRSFRmZl9HNndYMlZjVFFJTF9nR1d4ZzBJT1RMeElkV2Y0OVFnQzF5dXhXZUtBMGVwZ2tMVnUtbk5yc201VXZIYVhmVF9GQU5YNWhLNF9WRXQ5WXpoYzlSYWNIbGtrd2draWUwc3lwdHlOYVYxSWpncjZJR3Z0bnN2ZVdXcWNIY2c?oc=5",
+        "pubTime": "2026-09-19 22:00",
+        "source": "news.google.com",
+        "titleZh": "「聰明的關稅」對抗北京，「愚蠢的關稅」卻向聖誕老人課稅：川普如何拯救聖誕節——《華盛頓觀察家報》",
+        "descZh": "「聰明的關稅」對抗北京，「愚蠢的關稅」卻向聖誕老人徵稅：川普如何拯救聖誕節&nbsp;&nbsp;《華盛頓審查報》"
+      },
+      {
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "desc": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-19 19:36",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "北約對格陵蘭協議表示歡迎，特朗普則表示這將使美國獲得「永久性安全控制權」",
+        "descZh": "在唐納德·川普數月來不斷威脅要吞併該領土之後，丹麥與美國已達成協議。"
+      },
+      {
+        "title": "Trump, Denmark strike deal to expand US military presence in Greenland - SMH.com.au",
+        "desc": "Trump, Denmark strike deal to expand US military presence in Greenland&nbsp;&nbsp;SMH.com.au",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUFBQWNQYUVSUWU0eVVtMWV1NHRxYjFKVDVuV0hUVk9RMlI1M1c1eWNsRlBpcXVuLU9Gc2JtZW9tS2dqWXNtRDc2S3NneGk3elNoSld5RVJDdmpQTnJ1TVRGcmRPOGc5Y1UxZ1hlVW5Fb2VlYzBqdVNKUXktZGpfNnVOTWd3NW56RnFPTzlLOUdyZF9CeEJDLTE4d0lLU2JyWFNpYW5GRVliUFJyRDd2MWtqVEprYUI4YzMydEpvNFVTNGZEdFZ6OExtRE1BQQ?oc=5",
+        "pubTime": "2026-09-19 08:09",
+        "source": "news.google.com",
+        "titleZh": "川普與丹麥達成協議，擴大美國在格陵蘭的軍事存在 - SMH.com.au",
+        "descZh": "川普與丹麥達成協議，擴大美國在格陵蘭的軍事存在&nbsp;&nbsp;SMH.com.au"
+      },
+      {
+        "title": "Trump says son has paid back Putin ally for partly funding wedding festivities",
+        "desc": "Daughter in-law Bettina Trump confirms that Umar Kremlev partially funded two nights of their three-day festivities on a private island in the Bahamas.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl7dk3we3ko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-19 06:34",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，其子已向普京的盟友償還部分婚禮慶典的資金",
+        "descZh": "媳婦貝蒂娜·川普證實，烏馬爾·克雷姆列夫部分資助了他們在巴哈馬某座私人島嶼上為期三天的慶祝活動中的兩晚開銷。"
+      },
+      {
+        "title": "Trump signs sweeping Russia sanctions bill",
+        "desc": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-19 06:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普簽署針對俄羅斯的全面制裁法案",
+        "descZh": "該法案是以已故參議員林賽·葛拉漢（Lindsey Graham）的名字命名的，他是對烏克蘭提供援助的堅定倡導者。"
+      },
+      {
+        "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+        "desc": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
+        "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-19 04:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普表示，禁止部分新聞媒體進入是「因為它們是假新聞」",
+        "descZh": "美國總統週五宣布，他將「立即」禁止CNN、MS NOW和Politico進入白宮。"
+      },
+      {
+        "title": "Vance rallies Iowa Republicans, says Trump’s trade policies benefit farmers - Iowa Capital Dispatch",
+        "desc": "Vance rallies Iowa Republicans, says Trump’s trade policies benefit farmers&nbsp;&nbsp;Iowa Capital Dispatch",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEJkZi1MN3ZwOWtST1FFNTJlOVRHSnRrZU5sT09rYXBNTy1GdzBwR3lDZHFic2s4a1BvaWxHX2I3cHhDYjlZLXVVaTZsMkJla1hRaTBzX1NXcm9sZk9Ma3NnVUg4cmNnbHktM1Z0VlBLVzUwNVJHT0FlZTU3OGo4UVo3S0I4NEVxWWt4MUtDN0xRRUFDQ2FLVy1kY0lfVmM0VFNjdFNTUi1SQURoTDJvOVNDeTJJaFh2?oc=5",
+        "pubTime": "2026-09-19 04:29",
+        "source": "news.google.com",
+        "titleZh": "范斯鼓舞愛荷華州共和黨人，稱川普的貿易政策有利於農民 —— 《愛荷華首都快訊》",
+        "descZh": "范斯在愛荷華州鼓舞共和黨人，稱川普的貿易政策有利於農民&nbsp;&nbsp;《愛荷華州首府快訊》"
+      },
+      {
+        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+        "desc": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-19 01:57",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「我們實在無從得知」——摩根大通因川普與伊朗的戰爭而難以預測油價",
+        "descZh": "該銀行表示，它「假設」會存在某些經濟上的「紅線」，例如每桶100美元的油價，而美國不願跨越這些紅線。"
+      },
+      {
+        "title": "Why an American football game played the Canadian national anthem",
+        "desc": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-18 23:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "為何一場美式足球比賽會播放加拿大國歌",
+        "descZh": "在布法羅的賽場上，兩國國旗隨處可見，而此時雙方緊張局勢持續升溫，貿易戰亦不斷升級。"
+      }
+    ]
+  },
+  {
     "date": "20260919",
     "fetchTime": "2026-09-19 06:40",
     "count": 13,
@@ -3331,166 +3446,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "影片：關於川普的得力助手娜塔莉·哈普，你需要知道的事",
         "descZh": "BBC 的伯恩德·德布斯曼（Bernd Debusmann）闡述了她的身分，以及她如何在美國總統的親信圈中擔任如此重要的角色。"
-      }
-    ]
-  },
-  {
-    "date": "20260821",
-    "fetchTime": "2026-08-21 04:51",
-    "count": 17,
-    "articles": [
-      {
-        "title": "Carney asks Canada's provinces to end US alcohol ban as trade deal nears",
-        "desc": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.",
-        "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-21 04:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著貿易協定即將達成，卡尼呼籲加拿大各省終止對美國酒類的禁令",
-        "descZh": "一項旨在防止美國發動新一輪關稅的協議已近在咫尺，該協議可能包含加拿大結束對美國葡萄酒和烈酒的抵制。"
-      },
-      {
-        "title": "A timeline of Donald Trump’s trade war with Canada - CityNews Vancouver",
-        "desc": "A timeline of Donald Trump’s trade war with Canada&nbsp;&nbsp;CityNews Vancouver",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEIxVTZEU3h0UTByYnFHaTJvWXpQaU1JazVlNGZMTlp2b1BQY19lZXIxSnJsZFNadFo1SnZJakd1b3h3QUpyOTNZS1FoM3h2b3c0bDRGU2lOSVdpNGVvVzRsdkFOMTVNalZ3dHI2M25KVG9Hb1VCY0swWWFSbVZHT1lDbXVmc0hudllxdklxM181M2YyQ1E?oc=5",
-        "pubTime": "2026-08-21 03:15",
-        "source": "news.google.com",
-        "titleZh": "唐納德·川普與加拿大貿易戰的時間軸 - CityNews 溫哥華",
-        "descZh": "唐納德·川普與加拿大貿易戰的年表&nbsp;&nbsp;CityNews 溫哥華"
-      },
-      {
-        "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms - The New York Times",
-        "desc": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEhoMDItQ25jRDlpSlRnT0w4eEZHTnE1M1d2TE9rR0tGOWpYY1ZCWHdxRkhtcGh3azJrSU9id3FYdkxiTmJaQ2Z0b1A1YkstUDl3LTJEdVdlcTFScVBzU2JlbUlIeG9mQUlSbTJqek1TbnFlRGl3X2xld1FBM05uQXItelJJcFdCZklUZg?oc=5",
-        "pubTime": "2026-08-21 00:46",
-        "source": "news.google.com",
-        "titleZh": "隨著新期限逼近，加拿大與美國就川普關稅問題重啟談判——《紐約時報》",
-        "descZh": "隨著新期限逼近，加拿大與美國就川普關稅問題重啟談判&nbsp;&nbsp;《紐約時報》"
-      },
-      {
-        "title": "The hidden tradeoffs of using Trump’s tariffs as leverage with China - Brookings",
-        "desc": "The hidden tradeoffs of using Trump’s tariffs as leverage with China&nbsp;&nbsp;Brookings",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmVXUmJmaVdnUFl3YTRlNFFyTEM2STJDdno5TGhBUVg2eko5S1hKVzBaU1RiQlJ4eEhYNlVGMzN1VWlwYzVxWmgwbzlXaUdlb3hEOXplX2R2TkV6THRpaV9aaXpvRkJRYzZNR3BBeTdyYVZYaEpRVTFWWGNUS21zWjF0Ml9GUTVTbl81UWo2TkZ0RzIzQy1COHZiTWtQcjFHSjdNZHRR?oc=5",
-        "pubTime": "2026-08-20 23:04",
-        "source": "news.google.com",
-        "titleZh": "將川普的關稅作為對華談判籌碼背後的隱性取捨——布魯金斯學會",
-        "descZh": "將川普的關稅作為對華談判籌碼背後的隱性取捨&nbsp;&nbsp;布魯金斯學會"
-      },
-      {
-        "title": "Trump vows tougher economic measures on Iran and supporting countries",
-        "desc": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-20 17:13",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普誓言對伊朗及其支持國採取更嚴厲的經濟措施",
-        "descZh": "此舉發生在週一為期60天的停火期屆滿之後，而這場衝突目前仍未見任何透過外交或軍事途徑化解的跡象。"
-      },
-      {
-        "title": "North Country businesses breathe sigh of relief after Trump’s tariff timeout - WCAX",
-        "desc": "North Country businesses breathe sigh of relief after Trump’s tariff timeout&nbsp;&nbsp;WCAX",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGNPRlcySlE0SHY3MDNjQVZWblpOUzEwNVdZNkx4ZW5ITF9yVUJIdEVuVlRJcWFyRVlyemFHZFJ4bmVSdEtGaXdZWmpmYVJIQ2pZRmxsX0hsbVUyRHBObUtmNGZZNnZ4bW9GcW15OHY2aFg1eF9kcGpGQ1VVRUtIanJ1Ty1rVE91bDIzdzlNUXBqVXhpdlRocUVhX0tQcTJGenFHMUx0cE9BR2hlMjVRbw?oc=5",
-        "pubTime": "2026-08-20 07:24",
-        "source": "news.google.com",
-        "titleZh": "川普暫緩加徵關稅後，北方各州企業鬆了一口氣 - WCAX",
-        "descZh": "川普暫緩加徵關稅後，北國企業鬆了一口氣&nbsp;&nbsp;WCAX"
-      },
-      {
-        "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-        "desc": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
-        "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-20 07:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "特朗普的關鍵幕僚娜塔莉·哈普在幕後工作多年後，突然成為焦點",
-        "descZh": "民主黨參議員喬恩·奧索夫在一次演說中指出，有一名幕僚與總統關係密切。"
-      },
-      {
-        "title": "Watch: What to know about Trump's trusted aide Natalie Harp",
-        "desc": "The BBC's Bernd Debusmann explains who she is and how she came to hold such a prominent role in the US president's inner circle.",
-        "url": "https://www.bbc.co.uk/news/videos/cm2gdxlwmrvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-20 06:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：關於川普的親信娜塔莉·哈普，你需要知道的事",
-        "descZh": "BBC 的伯恩德·德布斯曼（Bernd Debusmann）將說明她是誰，以及她如何在美國總統的核心圈中擔任如此重要的角色。"
-      },
-      {
-        "title": "Watch: Trump leads tour of White House helipad construction site",
-        "desc": "The work is being expedited ahead of Chinese President Xi Jinping’s planned visit to the White House in late September.",
-        "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-20 02:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普帶領參觀白宮直升機停機坪施工現場",
-        "descZh": "為迎接中國國家主席習近平預定於九月底訪問白宮，相關工作正加速推進。"
-      },
-      {
-        "title": "US retail giant receives $1bn boost from tariff refunds - BBC",
-        "desc": "US retail giant receives $1bn boost from tariff refunds&nbsp;&nbsp;BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbndrUTRlUjhuSHhMZHRqR181QVc1WHFHQ1BKQWtLM3l5LXRfOGgzUWNpdmtMb3NFM3lwWlF2Ykp4VGwtU09xSnpiZUhfeVpJQ2Fqa3U3c3VxUQ?oc=5",
-        "pubTime": "2026-08-20 01:07",
-        "source": "news.google.com",
-        "titleZh": "美國零售巨頭因關稅退稅獲得10億美元資金注入——BBC",
-        "descZh": "美國零售巨頭因關稅退稅獲得 10 億美元的資金注入&nbsp;&nbsp;BBC"
-      },
-      {
-        "title": "Trump’s South Korea Move Fuels Growing Fears of U.S. Retreat From Asia - Council on Foreign Relations",
-        "desc": "Trump’s South Korea Move Fuels Growing Fears of U.S. Retreat From Asia&nbsp;&nbsp;Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXB0TE1DNkVuTUdHcDdsX0FNeVZXTVFtMWhqQUFxaWhnZWxQcWE3SHNtZm1GOXZXTjVXczFRR2pOUVFhVzBZWGl6cDR1MGJSYXZmaWp0NVNRRG5kR0xGWFBSQ0xBYWRYYTJrQTd5MVJVLTh1OThTdERIcVZReXQ2dTlnYXNMR1JJOXpiUU9sWGQ1ckxYQVRQaHQyajl4Zw?oc=5",
-        "pubTime": "2026-08-20 00:23",
-        "source": "news.google.com",
-        "titleZh": "川普在南韓的舉動加劇了外界對美國從亞洲撤出的日益增長的擔憂——美國外交關係協會",
-        "descZh": "川普在南韓的舉動加劇了外界對美國從亞洲撤出的日益增長的擔憂&nbsp;&nbsp;美國外交關係協會"
-      },
-      {
-        "title": "New US Tariffs on Solar Products Establish Price Floors, but Onshoring Will Require Capacity Build-out - Columbia University",
-        "desc": "New US Tariffs on Solar Products Establish Price Floors, but Onshoring Will Require Capacity Build-out&nbsp;&nbsp;Columbia University",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZkh0dGJCaDNYUmZsWldUQ1hJdjUybVRXMjlsRGFESlZmZmp3TzhHQzNwYzZwaFljRV85Mi1UaTZrNllQSVY3cS05cmtmVWliMjJlOFdEdjdpQnFralZ4S3l4djRrb2ozLUZfTl91U3Y1UjFkR21obVJlM1RuYm5ERlpEeXFRX3ppRDBaR2ZTU1FhaVpGSjVaLU1TR0MtWjZHN2w3R1R1a2k1YWZrZXdIWXUxTHdGdF9MRUdoOUY4ZkY1aGFXT2xkNGdaaGpxLUxmZVFUQlJnTQ?oc=5",
-        "pubTime": "2026-08-19 23:54",
-        "source": "news.google.com",
-        "titleZh": "美國對太陽能產品徵收的新關稅設定了價格下限，但生產回流將需要擴大產能——哥倫比亞大學",
-        "descZh": "美國對太陽能產品實施的新關稅設定了價格下限，但生產回流將需要擴大產能&nbsp;&nbsp;哥倫比亞大學"
-      },
-      {
-        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
-        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
-        "pubTime": "2026-08-19 12:59",
-        "source": "news.google.com",
-        "titleZh": "川普表示台灣將把亞利桑那州晶片廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
-        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
-      },
-      {
-        "title": "Trump made new trade deals with countries around the world. Here’s how they played out - The Globe and Mail",
-        "desc": "Trump made new trade deals with countries around the world. Here’s how they played out&nbsp;&nbsp;The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tV2lET29TeFdxcmI5ZkhqNDBKNWZ0aVZia184TGVrcUpTYTA4ZEIxSjBxTE1uN2ZhNWZnblhVLU5tb2hvSjRTdXltQVVfSDF0Wm1FdDVkYTJ6X09iSmQxaTNpMHdhV1EwREFoWTYtaG5ER0wwd045TFRuSkstbUk?oc=5",
-        "pubTime": "2026-08-19 11:18",
-        "source": "news.google.com",
-        "titleZh": "川普與世界各地的國家簽署了新的貿易協定。以下是這些協定的實際成效——《環球郵報》",
-        "descZh": "川普與世界各地的國家簽訂了新的貿易協定。以下是這些協定的實際成效&nbsp;&nbsp;《環球郵報》"
-      },
-      {
-        "title": "Trump pauses 50% tariffs on Canada for 3 days - NBC News",
-        "desc": "Trump pauses 50% tariffs on Canada for 3 days&nbsp;&nbsp;NBC News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0JmNE9BTlRBeUhlOURZanBDcTVvb1Z0VEc1elUtblkwMU9PS0JqREVqb2xNRnVGOThwUlZ4VGRtRV9PcURZSjZxZlJ6UU5zakJHa1A0OWU0WGVQMzQ4OW9raHBXcnlsV01ldGFRaEtJaWx4TFV0NF8xcEZHXy1fV1dEWmk5dw?oc=5",
-        "pubTime": "2026-08-19 10:22",
-        "source": "news.google.com",
-        "titleZh": "川普暫停對加拿大徵收 50% 關稅 3 天 —— NBC 新聞",
-        "descZh": "川普暫停對加拿大徵收 50% 關稅 3 天&nbsp;&nbsp;NBC 新聞"
-      },
-      {
-        "title": "Trump is weighing whether to grant Canada a tariff reprieve - Politico",
-        "desc": "Trump is weighing whether to grant Canada a tariff reprieve&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5",
-        "pubTime": "2026-08-19 06:00",
-        "source": "news.google.com",
-        "titleZh": "川普正權衡是否給予加拿大關稅寬限 —— 《Politico》",
-        "descZh": "川普正權衡是否給予加拿大關稅寬限期&nbsp;&nbsp;《Politico》"
-      },
-      {
-        "title": "The Next Round of US Tariffs on Canada Could Be the Harbinger of Even More Chaotic Trade Policy - Cato Institute",
-        "desc": "The Next Round of US Tariffs on Canada Could Be the Harbinger of Even More Chaotic Trade Policy&nbsp;&nbsp;Cato Institute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWVXMzZnVmNjdmozSENWX2ZrRGNEaU1aQWVyUXc2WWZlSWFGdWhJdEhmaklheVV2clROQWZJUk5DNC1uWnRHUGlhZlg4bUpndGhkU3hRRkZUU0lLOTNkeG55WXM1bGUxdUg1Vkxwa1oxdXd6MnpxaWloN2NmYWIzWk01QVdyMmhsVmd5Z0JtVWl6Qi1pMkJrSHlScEFFVXJLWlJzRFBWMA?oc=5",
-        "pubTime": "2026-08-19 05:45",
-        "source": "news.google.com",
-        "titleZh": "美國對加拿大實施的下一輪關稅，可能預示著貿易政策將陷入更為混亂的局面——卡托研究所",
-        "descZh": "美國對加拿大實施的下一輪關稅，可能預示著貿易政策將陷入更加混亂的局面&nbsp;&nbsp;卡托研究所"
       }
     ]
   }
