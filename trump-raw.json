@@ -1,5 +1,156 @@
 [
   {
+    "date": "20260925",
+    "fetchTime": "2026-09-25 07:15",
+    "count": 16,
+    "articles": [
+      {
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "desc": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-25 01:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮遵照法官命令，恢復了先前遭川普禁止的媒體機構的採訪權",
+        "descZh": "CNN、《Politico》和《MS NOW》在部分員工稍早被拒之門外後，獲准重新進入白宮。"
+      },
+      {
+        "title": "Judge dismisses Trump lawsuit against Iowa newspaper and pollster over 2024 race",
+        "desc": "Trump had argued the Iowa polling company sought to damage his campaign by publishing an inaccurate poll.",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g536j5zzjo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-24 23:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法官駁回川普針對愛荷華州某報社及民調機構就2024年大選提起的訴訟",
+        "descZh": "川普曾指稱，這家愛荷華州的民調公司透過發布不準確的民調結果，企圖損害他的競選活動。"
+      },
+      {
+        "title": "Here's why Trump's been so keen on Xi's visit",
+        "desc": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+        "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-24 23:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "以下是川普為何如此熱切期待習近平訪美的原因",
+        "descZh": "唐納德·川普總統數月來一直談論中國國家主席習近平的訪美行程，BBC記者莎拉·史密斯將探討箇中原因。"
+      },
+      {
+        "title": "Why Trump’s India policy is working - Washington Examiner",
+        "desc": "Why Trump’s India policy is working&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN01MNUNmcjlTNlRpcXZmb2FyZXk3N2FYa1dMaXVIYVYwRUNxMnUyUDZUU1gxc1FvUjN4X1NOMHN0Mjk1Z0pNMklCS0ZuVW15dHkyb3BUOWpGRWxCa2lMOC1ucFdxZXE1OUFRZ0UxTXhIOWM2MFo4QmtFZXpBTW9Bamw1MzdHaFd6ZGE0aEVKVWRITTU3TlBmbWdNU3pkX0lsbGVIZXNmTUZrcEdYV1JJWV9abnBHY0RwWW5CRkVlcHZ5WmJWOUM0ZzFrd2lmSGpuVXhTNUVvWmxwbE9XdHljWWNENXBSekdkMGhz?oc=5",
+        "pubTime": "2026-09-24 18:00",
+        "source": "news.google.com",
+        "titleZh": "為何川普的印度政策奏效——《華盛頓審查報》",
+        "descZh": "為何川普的印度政策行得通&nbsp;&nbsp;《華盛頓審查報》"
+      },
+      {
+        "title": "Executives from Apple, Nvidia, and OpenAI Will Attend Trump and Xi's Dinner — Reuters - UA.NEWS",
+        "desc": "Executives from Apple, Nvidia, and OpenAI Will Attend Trump and Xi's Dinner — Reuters&nbsp;&nbsp;UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGtZVzJwbUp1LS0tQ3h5UzNaZGtWNTNGV3hvbU5uVGpQa2NIQk5UaU5GSHZQVnNSa3MxQ2haRTJpV1phWkVsamdUbnY4STZZbm1QUnB4czNnek9VdktvLTk0WGNlamEwbU04QUNxSTA3cklaMThhQUJsdFJVWENlMWsxazV0ZmNZWEpzcGM0RVUxMklickFsQ05FN0Jxdw?oc=5",
+        "pubTime": "2026-09-24 17:30",
+        "source": "news.google.com",
+        "titleZh": "蘋果、英偉達及 OpenAI 高層將出席川普與習近平的晚宴 — 路透社 - UA.NEWS",
+        "descZh": "蘋果、英偉達和 OpenAI 的高管將出席川普與習近平的晚宴 — 路透社&nbsp;&nbsp;UA.NEWS"
+      },
+      {
+        "title": "China makes up a record 40% of all global container exports—a sign it's adapted to Trump's tariffs - Fortune",
+        "desc": "China makes up a record 40% of all global container exports—a sign it's adapted to Trump's tariffs&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnhJYlUtWXZLaldhdkI1am9CZ0Z6YW9DZUs0bHYyc0djUFlMQ3ZzcWRzREllcktRYXczaWtuZWNXdERsNm5QSENZYm9TU1RCRW1ELTQ0YkdTMzE2WThwU1RwTU43T2FhOHdOMG1jeGVlU0JhU0YwRVBqVHJtVERwZzBlUWVyRHRLUUxDQnlZUjJLSUV3djc2cXdn?oc=5",
+        "pubTime": "2026-09-24 15:05",
+        "source": "news.google.com",
+        "titleZh": "中國佔全球貨櫃出口總量的比例創下40%的歷史新高——這顯示中國已適應川普的關稅政策 - 《財星》",
+        "descZh": "中國佔全球貨櫃出口總量的比例創下40%的紀錄——這顯示中國已適應川普的關稅政策&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+        "desc": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-24 14:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "青少年搖滾歌手妮妮·羅亞爾（Nene Royal）成為首位贏得《美國達人秀》冠軍的泰國人",
+        "descZh": "她的重金屬表演力壓其他九位決賽選手，其中包括魔術師，甚至還有一個機器人團隊。"
+      },
+      {
+        "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+        "desc": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-24 11:52",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "中國國家主席習近平抵達美國展開訪問，川普熱情迎接",
+        "descZh": "就在習近平展開訪美之際，美國財政部長表示，中美雙方已達成協議，將延長貿易停火期。"
+      },
+      {
+        "title": "A red carpet and military flyover - How Trump welcomed Xi",
+        "desc": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+        "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-24 07:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "紅地毯與軍機飛越——川普如何迎接習近平",
+        "descZh": "那兩架從頭頂飛過的 B-1 轟炸機是美國作戰武庫中的關鍵組成部分，飛過時會發出那聲眾所周知的巨大轟鳴聲。"
+      },
+      {
+        "title": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended - theguardian.com",
+        "desc": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended&nbsp;&nbsp;theguardian.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXJiRGRJVWpENUxMLW52eTlhdm5WMTREUnhMcFY1aG5nTElLM3lxZTV4cGRpa1FaS2x1MFNuUVdDVmFIQk5uTkpIU1F5Q1hnTDVRQTRpOEV5UlkteE5NYzhLcnh1MzVjeUZjQWUtaTdHQzBXclc3c1R6Y3pCd1hIelVneHZJbmRxM0RuUnd3?oc=5",
+        "pubTime": "2026-09-24 06:12",
+        "source": "news.google.com",
+        "titleZh": "中美貿易停火期延長之際，川普罕見地在習近平抵達時出面迎接 - theguardian.com",
+        "descZh": "中美貿易停火期延長，川普罕見地在習近平抵達時出面迎接&nbsp;&nbsp;theguardian.com"
+      },
+      {
+        "title": "What to Watch When Trump and Xi Meet in Washington - Carnegie Endowment for International Peace",
+        "desc": "What to Watch When Trump and Xi Meet in Washington&nbsp;&nbsp;Carnegie Endowment for International Peace",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXpfS3dHX29pZDlTT0cxZ0tQRWltMWgzaUVIN1RwbFpXREdveUh4OFpfTW1TU1MtM2JPT3FlQkZOSVZweXduV3VmdHM1SEkySlR5TkVtblpoalkza00xME9DZTA1S2VXRTR2LUNuNFhyUTlkdGhYMVFqSmhWMWtybXZYT1RKS29feTlkRnRIU3ZfUl9UejZGVVR0UW15UQ?oc=5",
+        "pubTime": "2026-09-24 03:23",
+        "source": "news.google.com",
+        "titleZh": "當川普與習近平在華盛頓會晤時，應關注哪些重點——卡內基國際和平基金會",
+        "descZh": "當川普與習近平在華盛頓會晤時，有哪些看點？&nbsp;&nbsp;卡內基國際和平基金會"
+      },
+      {
+        "title": "Xi Jinping Visits the White House - Council on Foreign Relations",
+        "desc": "Xi Jinping Visits the White House&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SNnQ4QXVSaUk4TWFtSkY3MEI4c1hBdlhMVHBWM1M4SXBjbkNBV2drTDFYVGkxY3BfbTBtVG5kci12YVUzdUM0c01oQ3BXcG00a0dKeVdpcEs4dDRURE5LekQtMjRaaTlhbzBHdk4yUQ?oc=5",
+        "pubTime": "2026-09-24 00:30",
+        "source": "news.google.com",
+        "titleZh": "習近平訪問白宮——美國外交關係協會",
+        "descZh": "習近平訪問白宮&nbsp;&nbsp;美國外交關係協會"
+      },
+      {
+        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+        "desc": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+        "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-23 19:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普與習近平在美國境內會晤——此舉有何關鍵意義？",
+        "descZh": "BBC 的中國特派記者與美國編輯，為您詳解在華盛頓特區舉行的川普與習近平會晤前，您需要了解的一切。"
+      },
+      {
+        "title": "Poll: Canadians and Americans agree, Trump was in the wrong with trade war - Politico",
+        "desc": "Poll: Canadians and Americans agree, Trump was in the wrong with trade war&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTC1hX2tnQUdoQjNwN2tUY0QyVm93Rk41Q1JkcU12ZkQ4YllRMXl5MVBsN2gzQ3N1bUl3MlY5N0U4MHUyMnpkUEJ4VWtSZ21sZV8xc3Z2dkdmSHE5R20wdjZpczlLbTF0YXRqN0d2bFBNRllRS3ZrTzFiLVNWbm5ray1DNGpoMThrRUZ3?oc=5",
+        "pubTime": "2026-09-23 17:00",
+        "source": "news.google.com",
+        "titleZh": "民調：加拿大人與美國人意見一致，認為川普在貿易戰中做錯了 —— 《Politico》",
+        "descZh": "民調：加拿大人與美國人意見一致，認為川普在貿易戰中做錯了&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "The Legal Battle Over Trump’s Tariffs: Implications for Canada - IEDM/MEI",
+        "desc": "The Legal Battle Over Trump’s Tariffs: Implications for Canada&nbsp;&nbsp;IEDM/MEI",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkg5ZGNNUTVYU1NaOGlQby1melllS1AzZE5wV3l1cFZLOG5sN1BQUlhLVnJ3MTZ0WmQ3MEptanhLR3AxQWtzaDNXM0dCTEx2Rm9HZE9YdjFiQ1I2eWZfQWhScTFvdGp2TzFGcy1pNDNvOVZwQ3hPaFVCMTllMl92YjlRSkN0T1M1MEE?oc=5",
+        "pubTime": "2026-09-23 17:00",
+        "source": "news.google.com",
+        "titleZh": "圍繞川普關稅的法律之爭：對加拿大的影響 — IEDM/MEI",
+        "descZh": "圍繞川普關稅的法律之爭：對加拿大的影響&nbsp;&nbsp;IEDM/MEI"
+      },
+      {
+        "title": "Don’t Expect Fireworks From the Trump-Xi Summit - Foreign Policy",
+        "desc": "Don’t Expect Fireworks From the Trump-Xi Summit&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVNrQXQ2aWZRQkpmY0hLTHNXV1habkpvaktSOUQ3cEIxeVJTN1otRV9Jb3BuS2d5bFBGWXpwYVNpX2k0YUEtMlpubWFkOHJ0Vjc2d0E5MElqbWszY0Jwbm1QM2plTkJ6WV9CMzdqSC1TbC1RdzE4czc1VFJZdTlaa0tBSEk0RjhBU0V0SlROQkRVYkJwSmMzZEpvb2RvMXExYWhR?oc=5",
+        "pubTime": "2026-09-23 14:47",
+        "source": "news.google.com",
+        "titleZh": "別指望川普與習近平的峰會會有什麼驚人舉動——《外交政策》",
+        "descZh": "別指望川普與習近平的峰會會有驚人舉動&nbsp;&nbsp;《外交政策》"
+      }
+    ]
+  },
+  {
     "date": "20260924",
     "fetchTime": "2026-09-24 07:00",
     "count": 15,
@@ -3061,166 +3212,6 @@
         "source": "news.google.com",
         "titleZh": "川普的關稅策略會帶來什麼外交代價？——雅虎新聞加拿大版",
         "descZh": "川普的關稅策略會帶來什麼外交代價？&nbsp;&nbsp;Yahoo News Canada"
-      }
-    ]
-  },
-  {
-    "date": "20260826",
-    "fetchTime": "2026-08-26 04:51",
-    "count": 17,
-    "articles": [
-      {
-        "title": "Trump says all mines cleared from Strait of Hormuz",
-        "desc": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-26 04:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，霍爾木茲海峽內的所有水雷已全部清除",
-        "descZh": "自衝突爆發以來，伊朗便封鎖了這條至關重要的航道，導致全球油價劇烈波動。"
-      },
-      {
-        "title": "China rebukes Trump’s economic pressure campaign seeking to isolate Iran - The Washington Post",
-        "desc": "China rebukes Trump’s economic pressure campaign seeking to isolate Iran&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclAxV0lzY3BoWHhndE1FZnNlMVJhbVNuVVJpZU5LRTNGM1B2MVBVTFNzbnBhOG03NVBaQUNDOGMtd1lrbkxEcGpjbEFMaXJZQ2lTdC1qVjFRZV80YktzNk9tbVVNSXIzRjBZNWxmckc4azVaaUpTM0RRdzJyUTdPbkNzdnN6eVRFajVaaXAxenFTZlZjeUdIV3o2bmtmRFdQZWEzeDRhSTJ3MVo4Y01LYnJqSk8tMkp6VFJGRGtmZzVCZkgxZTBwVA?oc=5",
-        "pubTime": "2026-08-26 04:24",
-        "source": "news.google.com",
-        "titleZh": "中國譴責川普企圖孤立伊朗的經濟施壓行動——《華盛頓郵報》",
-        "descZh": "中國譴責川普旨在孤立伊朗的經濟施壓行動&nbsp;&nbsp;《華盛頓郵報》"
-      },
-      {
-        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-        "desc": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-26 03:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "加拿大宣布對美國實施最高達 50% 的「一比一」報復性關稅",
-        "descZh": "隨著美加之間持續的貿易戰再度升級，從鋼鐵到家具、鮮鮪魚及化妝品等商品都將面臨新的關稅。"
-      },
-      {
-        "title": "How Canada could hit back to hurt the US economy - and Trump",
-        "desc": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-        "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-25 10:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "加拿大將如何反擊以打擊美國經濟——以及川普",
-        "descZh": "加拿大約70%的出口商品銷往美國，在這場愈演愈烈的貿易爭端中，該國實際上擁有什麼樣的談判籌碼？"
-      },
-      {
-        "title": "What are the diplomatic costs of Trump’s tariff strategy? - Yahoo News Canada",
-        "desc": "What are the diplomatic costs of Trump’s tariff strategy?&nbsp;&nbsp;Yahoo News Canada",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczFDVng4SWhuNWgwejhtdkRQQnhSQnhndkduRzdmeGdobFFtR0xYMEM1QTh5S1YzQ1FWeXBZMlNfOHY2SGEyNi0xdW9TaWVLNmQzVERYYmlnMjdJVnJxSFE5RWsydk9ZNHVoWUtjdDY0VDFESVppc2x4MzVoRFFpd3hnTW5Pdw?oc=5",
-        "pubTime": "2026-08-25 08:45",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅策略會帶來什麼外交代價？——雅虎新聞加拿大版",
-        "descZh": "川普的關稅策略會帶來什麼樣的外交代價？&nbsp;&nbsp;Yahoo News Canada"
-      },
-      {
-        "title": "Donald Trump tells Canada to 'fall in line' after politician threatens to cut off electricity to the US over tariffs - Sky News",
-        "desc": "Donald Trump tells Canada to 'fall in line' after politician threatens to cut off electricity to the US over tariffs&nbsp;&nbsp;Sky News",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWE5NMVZWUW1HSFliWm9XUDhGa2JkV0haY3FyTUFCd2ZwVk9hR0RTakRpeDRCcDZBclRpTmtWSXBsM1lCaGx4WUVvSktTMUF3bF92SjR6X2Mta20ya3Y3UWJlOHVpMy1hZUZPVjU5cHRfeWo3NG85RXA0WW16MFNpeW1ucFlfZmVlVWV4WTlfc1BSRHdodHlrWmZVZFIxNnFycnItdGVPLWZwMXo3QXZyRjZtaWhmTmFleG50aVBWdzBRdjdWbWJlYjJ0VkFzWUhrNDBIQw?oc=5",
-        "pubTime": "2026-08-25 04:41",
-        "source": "news.google.com",
-        "titleZh": "一名加拿大政界人士威脅因關稅問題切斷對美國的供電後，唐納德·川普要求加拿大「服從」——天空新聞",
-        "descZh": "加拿大政界人士威脅因關稅問題切斷對美供電後，唐納德·川普要求加拿大「乖乖聽話」&nbsp;&nbsp;天空新聞"
-      },
-      {
-        "title": "'Absolutely ridiculous': Canadians react to new tariff tensions with the US",
-        "desc": "Many voiced frustration at the escalating trade war, warning it risks damaging the deep economic and cultural ties between the two neighbours.",
-        "url": "https://www.bbc.co.uk/news/videos/c20973ylx94o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-25 04:20",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「簡直荒謬至極」：加拿大人對與美國之間的新一輪關稅緊張局勢作出反應",
-        "descZh": "許多人對日益升級的貿易戰表達了不滿，並警告這可能損害兩國之間深厚的經濟與文化紐帶。"
-      },
-      {
-        "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel - The Guardian",
-        "desc": "Trump announces new 50% tariff on Canadian cars, trucks and steel&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDBqa1dTRkd4TFVSeWNDLXNJVk5wT3JfY09GOHVLTmttNUZmYXZtR2lhSmMwMW92OVFZUjhkQWNUOWxWRGtWVk5WOVd3dE4xZ2tILXNtUWQ4aHBSd3BNaGh0UjBBOHBCMW9aYW1tdE1aQzhTaUwxc2VjckVubFo3cEJPMkZ4enJp?oc=5",
-        "pubTime": "2026-08-25 03:53",
-        "source": "news.google.com",
-        "titleZh": "川普宣布對加拿大汽車、卡車及鋼鐵加徵 50% 關稅——《衛報》",
-        "descZh": "川普宣布對加拿大汽車、卡車及鋼鐵加徵 50% 關稅&nbsp;&nbsp;《衛報》"
-      },
-      {
-        "title": "‘Counterproductively devastating’: Auto industry reacts to Trump’s new tariff threats - CBC",
-        "desc": "‘Counterproductively devastating’: Auto industry reacts to Trump’s new tariff threats&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43SkdUb3diM3ZsREJPbDBUZmF2T2xFc2pWaF9HcDIyRlJIS2lFajdoR0hZWDNURzJFQzNjUGVtRDMwbVo2QVN5cTlFTlFOZVE0ellSM2FuMFh4ZDd0ZHBjc1JoenJvQ2xOVy1yZ2I3cw?oc=5",
-        "pubTime": "2026-08-25 02:29",
-        "source": "news.google.com",
-        "titleZh": "「適得其反且毀滅性」：汽車業對川普新一輪關稅威脅作出反應 - CBC",
-        "descZh": "「適得其反且破壞性極大」：汽車業對川普新一輪關稅威脅的反應&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "Seven Experts on How Canada Survives Trump’s Trade War - The Walrus",
-        "desc": "Seven Experts on How Canada Survives Trump’s Trade War&nbsp;&nbsp;The Walrus",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nZWNCSHRqVjVRTkRURDhyclZnTS1VbnRYSlBwQmI5bG9nMnJKSGtiMEw2RHB0X2tWQ2RnSnhiQ1V5NHVjZWZBb3hGLWZDTnAxR0VWb0pxSWlUNGtqQkE?oc=5",
-        "pubTime": "2026-08-25 00:09",
-        "source": "news.google.com",
-        "titleZh": "七位專家談加拿大如何在川普的貿易戰中生存下來——《海象》雜誌",
-        "descZh": "七位專家解析加拿大如何在川普的貿易戰中生存下來&nbsp;&nbsp;《海象》雜誌"
-      },
-      {
-        "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates - CNBC",
-        "desc": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NVnNJWGhDdTFvVFBMaGVjcldDel91bGg5eW1IdDNOOGJ0cWVnWVFTOWE0S3VHZlpjcWRIdW5lc1hCWEg5RGVMeXBBMDQ5aUpaR2xyRTZIVnAxUDJTdzJNWEkwd0drdjdiUk5TQmw5ejJFQTcyMjY0Wm9WRzjSAYIBQVVfeXFMUElPMnVlU3BVRGRvR19leEtvUzI0akZTdVRDb1VRY1NOcmQzMmVFdFNlUVZleU5LRDg0T01YRlM1djFUUmhPRTV1RjUwZlhWTV84UGFyVFl0bl9FQ1MzOHNEdUFEeHBTVzhwdEJUNTJKZlRaQzc2Q2tUSWhDR3NIVGFLdw?oc=5",
-        "pubTime": "2026-08-24 21:52",
-        "source": "news.google.com",
-        "titleZh": "川普表示，隨著貿易戰升級，美國將把對加拿大汽車的關稅調升至50% —— CNBC",
-        "descZh": "川普表示，隨著貿易戰升級，美國將把對加拿大汽車的關稅調升至50%&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Trump’s Economic Approach Draws Concern From Some Republicans - The New York Times",
-        "desc": "Trump’s Economic Approach Draws Concern From Some Republicans&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnlNWHBQanhtY1VKcTU5RlBmblA3RlZaU3lpREh4cjA5MnBZWkhHQUZJMk03MHJram9aN0VSTXcyVFZXeUFCbzJpZUl2djVaMlk0QjBQTWlJWmpCYUlsUURvZFZQTlNtaUNqSWJOTjVMSnNQd0lDQmo4R1dJZlJsQk5FZnJScmJoNEJELUxmRQ?oc=5",
-        "pubTime": "2026-08-24 21:11",
-        "source": "news.google.com",
-        "titleZh": "川普的經濟方針引發部分共和黨人擔憂 —— 《紐約時報》",
-        "descZh": "川普的經濟方針引發部分共和黨人擔憂&nbsp;&nbsp;《紐約時報》"
-      },
-      {
-        "title": "Do the Trump Tariffs Make Sense? - The Jerusalem Strategic Tribune",
-        "desc": "Do the Trump Tariffs Make Sense?&nbsp;&nbsp;The Jerusalem Strategic Tribune",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VeUpNdnlTQzBON0ZwM1lCbzJNRDJIb0RaQVotUXBZeElvV1Zqck1hR0MxX1REdDBTdG5YbURRT3lsYk92eDN1UE5jYXpTcjk1OHFGVmQxODF4UVA5LVBlbXgtckc?oc=5",
-        "pubTime": "2026-08-24 20:37",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅政策有道理嗎？——《耶路撒冷戰略論壇報》",
-        "descZh": "川普的關稅措施合理嗎？&nbsp;&nbsp;《耶路撒冷戰略論壇報》"
-      },
-      {
-        "title": "Canadian anger reaches fever pitch over Trump’s tariff war - The Hill",
-        "desc": "Canadian anger reaches fever pitch over Trump’s tariff war&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUhCSWlFR0FmVGxBSW4xX25wQ1dWSWQ2SG9VY29lTC1HblBKYW9jV0xoTVFJRVpIQS1OVGhPNGUyZFhtYmpOWmlXMVpUMUZDTlVFR3pNa0RGOGROb1pIQ3h3MXVaN1hCTTg5al9CRGhnaVJZNDE5TUt2SEpoZWdDaUVVNjFBd2IxSkpsSXNn?oc=5",
-        "pubTime": "2026-08-24 19:15",
-        "source": "news.google.com",
-        "titleZh": "加拿大民眾對川普的關稅戰憤怒情緒達到沸點——《The Hill》",
-        "descZh": "加拿大民眾對川普的關稅戰怒火高漲&nbsp;&nbsp;《The Hill》"
-      },
-      {
-        "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-        "desc": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-        "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-24 17:47",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「我的生意將減少一半」——加拿大和美國企業擔憂貿易戰",
-        "descZh": "隨著互報關稅的力度不斷升級，兩國企業主正設法應對這份不確定性與擔憂。"
-      },
-      {
-        "title": "What do locals think of IndyCar in Washington DC?",
-        "desc": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
-        "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-24 12:51",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "華盛頓特區的當地居民對印地賽車（IndyCar）有何看法？",
-        "descZh": "週日，美國總統唐納德·川普與數百名民眾一同聚集，觀看這場穿梭於華盛頓特區街頭的賽事。"
-      },
-      {
-        "title": "‘Dumbest trade war’: Here’s how major world outlets are reacting to the tariff battle - CP24",
-        "desc": "‘Dumbest trade war’: Here’s how major world outlets are reacting to the tariff battle&nbsp;&nbsp;CP24",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEZ2UDhiOXhUeTJDN3ZPbjlJbVpVWHZuZGtudGozZUQ4cElzYnJKZVZ0eFh3RXFPQ1diRklnYTFyTHpKUWFKZUJOWnJBZExfY3pMOTV4RlQyb0dpQ19lWkdzUDF6UGxrRHBXYXF6TnlkemRxVmtqLVVncjkwaUk1aFFlbFJKN1pHVGlwdU5rWDZJUGRCSWFzZS1YVTNzaE10?oc=5",
-        "pubTime": "2026-08-24 06:05",
-        "source": "news.google.com",
-        "titleZh": "「最愚蠢的貿易戰」：全球主要媒體如何看待這場關稅大戰 - CP24",
-        "descZh": "「最愚蠢的貿易戰」：全球主要媒體如何看待這場關稅大戰&nbsp;&nbsp;CP24"
       }
     ]
   }
