@@ -1,5 +1,21 @@
 [
   {
+    "date": "20260928",
+    "fetchTime": "2026-09-28 07:10",
+    "count": 1,
+    "articles": [
+      {
+        "title": "US and China make deal cutting tariffs on $30 billion worth of goods - Washington Examiner",
+        "desc": "US and China make deal cutting tariffs on $30 billion worth of goods&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWtDS3laWWZvcm92YTV4c1R6YlZTLUVfaWN0VEl3djJSSzZWR2t6NkJFRDRwS2UwU0VGcFY2UlBJWElUSEJGaXlWTldVTmlaZFRqRHhjOGhqcnNSQy1VVDVWU1FSR3pFeUhsUEU4cU1fUmlvY19rM2hXU2FyVktXRFlZeU1jVEM2bEZDNzF3Z3g2OFFJVE03d0U2NA?oc=5",
+        "pubTime": "2026-09-27 00:39",
+        "source": "news.google.com",
+        "titleZh": "美中達成協議，削減價值300億美元商品的關稅——《華盛頓觀察家報》",
+        "descZh": "美中達成協議，削減價值 300 億美元商品的關稅&nbsp;&nbsp;《華盛頓觀察家報》"
+      }
+    ]
+  },
+  {
     "date": "20260927",
     "fetchTime": "2026-09-27 06:59",
     "count": 12,
@@ -2899,157 +2915,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "法官裁定：川普政府非法對 Anthropic 進行報復",
         "descZh": "這家人工智慧新創公司一直與五角大廈就美軍使用人工智慧一事存在嚴重分歧。"
-      }
-    ]
-  },
-  {
-    "date": "20260829",
-    "fetchTime": "2026-08-29 10:51",
-    "count": 16,
-    "articles": [
-      {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-29 10:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普盛讚這項「歷史性」協議，使美國得以掌控委內瑞拉650億桶石油",
-        "descZh": "委內瑞拉臨時總統表示，這項不同尋常的協議將有助於振興該國經濟。"
-      },
-      {
-        "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-        "desc": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-        "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-29 08:46",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "右翼評論員米洛·揚諾普洛斯遭移民及海關執法局（ICE）拘留",
-        "descZh": "這位居住並工作於美國的英國公民，過去曾支持川普及移民及海關執法局（ICE）的探員。"
-      },
-      {
-        "title": "What tariffs will really cost Canadians and Americans",
-        "desc": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-29 08:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "關稅將為加拿大人和美國人帶來多少實際成本",
-        "descZh": "家庭和企業已經習慣了關稅對生活成本的影響，這情況已持續一年多，那麼現在會有什麼變化呢？"
-      },
-      {
-        "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-        "desc": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-29 03:45",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "據BBC報導，美國計劃中止對中東關鍵盟友的軍事援助",
-        "descZh": "伊拉克庫德斯坦擔心，川普政府的這項計畫將使該地區更容易遭受伊朗的進一步攻擊。"
-      },
-      {
-        "title": "A summer of foodborne illness is already testing Trump's pick for top regulator",
-        "desc": "Heidi Overton has been tapped to lead the Food and Drug Administration. But some worry she will pick loyalty to Trump over science.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyeen2g81o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-28 21:29",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "這個夏季接連發生的食源性疾病事件，已對川普提名的最高監管官員構成考驗",
-        "descZh": "海蒂·奧弗頓已被提名為美國食品藥物管理局局長。但有些人擔心，她會將對川普的忠誠置於科學之上。"
-      },
-      {
-        "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city - The Guardian",
-        "desc": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWFV3ZktKc0pmS3laeUhZbks0RXk0eThVUU1ld2JoTER2eC1NaHh4eGd3akpOWDIyRHl2bUE5OW9oekUwUG5qS1hvZ0ZPSDJkd01wWjBPNFpkMGJ6SU9WZnMtQjlFUk1GRVhRYklLeEpDVzlpZ05Sa3NlcFFFdG9nTTFGTmNQalFvMnlaaUZGLTE?oc=5",
-        "pubTime": "2026-08-28 19:00",
-        "source": "news.google.com",
-        "titleZh": "底特律陷入絕望，因川普對加拿大發動的「瘋狂」貿易戰重創該市——《衛報》",
-        "descZh": "底特律陷入絕望，因川普對加拿大發動的「瘋狂」貿易戰重創該市&nbsp;&nbsp;《衛報》"
-      },
-      {
-        "title": "News Singapore plays by the rules and won't tolerate tariff evasion, says trade minister - The Loadstar",
-        "desc": "News Singapore plays by the rules and won't tolerate tariff evasion, says trade minister&nbsp;&nbsp;The Loadstar",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlB2b28wTGs3a3Bwa1k3blNUXy0zdUJCT2x1ZkFhdWdsOWY2RmNNcXhyc2VIVmVlcDZrMkY1NVd5NDM0Y2hKS0xncDdpMU4tNjEtUU5zME5CS1BRV3BhZEJ0QWsxLXZWcXkwRXVnOVBsb3NtQkZzb2wtazJfMmlMM3BRVlVQcE5QQU9xbk5SeUVjU2tvbXBzc3lQMlJhaHFMaVl2amlQVnFGQQ?oc=5",
-        "pubTime": "2026-08-28 18:53",
-        "source": "news.google.com",
-        "titleZh": "新聞：新加坡貿易部長表示，新加坡恪守規則，絕不縱容關稅逃避行為——《The Loadstar》",
-        "descZh": "新聞 新加坡貿易部長表示，該國恪守規則，絕不縱容關稅逃漏行為&nbsp;&nbsp;《The Loadstar》"
-      },
-      {
-        "title": "Trump signs order to rename Lake Ontario as Lake America",
-        "desc": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-28 16:26",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署行政命令，將安大略湖更名為「美國湖」",
-        "descZh": "隨著雙方爭端日益加劇，加拿大已拒絕接受這座橫跨兩國的湖泊的新名稱。"
-      },
-      {
-        "title": "Six months into the Iran war: What has Trump accomplished?",
-        "desc": "The BBC's Tom Bateman explores how successful the US has been in delivering on the promises made at the start of the war.",
-        "url": "https://www.bbc.co.uk/news/videos/cr7dnemgd03o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-28 14:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "伊朗戰爭爆發六個月：川普取得了哪些成果？",
-        "descZh": "BBC記者湯姆·貝特曼探討美國在兌現戰爭初期所作承諾方面，究竟取得了多大的成功。"
-      },
-      {
-        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-        "desc": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-28 11:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "法官裁定，川普政府對 Anthropic 進行了非法報復",
-        "descZh": "這家人工智慧新創公司一直與五角大廈就美軍使用人工智慧一事處於對立狀態。"
-      },
-      {
-        "title": "US-Canada trade war deepens as Trump revives Depression-era trade tool – what’s at stake for consumers and the midterms - The Conversation",
-        "desc": "US-Canada trade war deepens as Trump revives Depression-era trade tool – what’s at stake for consumers and the midterms&nbsp;&nbsp;The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHNTUDRJb2Q0UWJlM3o4S0RTTWo1ZHpMYmVQZXU4NDNDZEFfYVBzX19rUVdTNFN3azkwREhwRlgxcndZYXp5RGQ4RVp3eXkxb043VEt0R0wzbzBrX1YtQkx1VzkxVVQ2NzQtS2xHRnpnV1pfbU04VDVrenFuUXpuZWlIdHExUktBS1pBYnpCNElpdXJZanc3ZUNmX3JaNFdPU2JxRTBLZllQVjJ1ZGlBTUZRVGdBak41OVFISVU1SHEzRVZFRFFROERteFk5cE5vcG5UVU9pa1NWdGYwZF9McWg3Y2lKUQ?oc=5",
-        "pubTime": "2026-08-28 01:50",
-        "source": "news.google.com",
-        "titleZh": "隨著川普重啟大蕭條時期的貿易工具，美加貿易戰愈演愈烈——這對消費者和期中選舉意味著什麼？——《The Conversation》",
-        "descZh": "川普重啟大蕭條時期的貿易工具，美加貿易戰愈演愈烈——消費者與期中選舉面臨何種風險？&nbsp;&nbsp;The Conversation"
-      },
-      {
-        "title": "How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs - The New York Times",
-        "desc": "How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQnBkUzI4UmRKLVd4TUxaQklaRXlqanZ6MmdWUENaODI1Mkx1cmtFeE10MWFreGVmX2o4NTFKYm9pMlJHUktkMUl3N2ljb2Z2bFRLRUJzUWdPQm9GbWs0NnNCSlZ4bEMyZ3VfY20zQWtveEFhZ0t6Qzd4NDlHOHo5aG13?oc=5",
-        "pubTime": "2026-08-27 23:59",
-        "source": "news.google.com",
-        "titleZh": "加拿大零售商 SSENSE 如何應對川普的關稅政策 —— 《紐約時報》",
-        "descZh": "加拿大零售商 SSENSE 如何應對川普的關稅&nbsp;&nbsp;《紐約時報》"
-      },
-      {
-        "title": "Evers criticizes Trump, Wisconsin Republicans over tariffs affecting Canada trade - Daily Dodge",
-        "desc": "Evers criticizes Trump, Wisconsin Republicans over tariffs affecting Canada trade&nbsp;&nbsp;Daily Dodge",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVhDRkp0UWhYbWYwUlRWQWx1XzN6bTFJcUJvT1hOZTNfdTRCbDAxdmFsVmVMMHVUNEVSWTRXSWlBSXZjSHZkbHd5R2Yzd3FmcS1JdVRjM01fdzJYSjd2NEtQNXF4QVNwemlMSHF5Qll4bVBILVUxeWg3c3FVdlNnNl9VaTd4UzBXcXJ1ZWRFTEVCUDYySU5VX0V1VGlhNTFEMUd0Wnl1Yw?oc=5",
-        "pubTime": "2026-08-27 23:22",
-        "source": "news.google.com",
-        "titleZh": "埃弗斯批評川普及威斯康辛州共和黨人，指其關稅措施影響與加拿大的貿易 —— 《每日道奇報》",
-        "descZh": "埃弗斯批評川普及威斯康辛州共和黨人，指其關稅措施影響與加拿大的貿易&nbsp;&nbsp;《每日道奇報》"
-      },
-      {
-        "title": "India, China, Canada and more: 10 countries still under Trump’s tariff squeeze and why - The Times of India",
-        "desc": "India, China, Canada and more: 10 countries still under Trump’s tariff squeeze and why&nbsp;&nbsp;The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYVFrU3J0R2dDV2laRTlZcGYxakVLcGlfTDZWZno2UVpTaW5yalF5QTc5eWNxZGhNMld1Q00xSEdoeTlCYy16RUJIYWZHbjA5QTVYRHM5SG9fSlk5aFJwWklJQXF3MmNlN0JFT3dvLUhXTFhrM1JEVjhuM05jQ3N0ekFWaE9qWndFOFczdWo3V2d2Y3l5bWhTR3FOSTJZV0l3OWVfcTNQYUJ3TElGNzBXOThER3cyTTVHYzBOWHhCVzNTMDBBNEhWTWVBbXlGWXVYc0o2U05UN0t4WGZFYVhPaDY4R2pZZUdYbTNlWHBkMF9kTHpoY2U5Slpic2nSAYICQVVfeXFMTWwxQ1psdDlWOVVLdXA2U0htdUN2TnlLVlBmWm1wbUJOVDdWNTFsMWd2My1sekx4UktFZkRFNy1CajN3cTdpbGwzc0REZGszZlN2RXdSSjhFeVlUUGdIa0dMaW1XQmVFaDJKLUV1aHA2NVFwRFg0cjRQUnNDZDMyWko1ZUF1bk45dWNVVEFnZ1pIdEdxeVhHT1FBdUlzQU9XWEhoUGR2MFVhMkpra3hnalNId2tNeUw0VnU0ZkRiUGVuVGd1cEx0VEFzWmpmSHNPVWc3RG9kemVTcTJoa2Fsa1hkUDFUZjhWSUFJbHYxU2tCU19uSjFaTmIwUGVQWi1MYlhB?oc=5",
-        "pubTime": "2026-08-27 18:04",
-        "source": "news.google.com",
-        "titleZh": "印度、中國、加拿大等：仍受川普關稅壓力的10個國家及其原因——《印度時報》",
-        "descZh": "印度、中國、加拿大等：仍受川普關稅壓力的10個國家及其原因&nbsp;&nbsp;《印度時報》"
-      },
-      {
-        "title": "Ontario threatens electricity amid Trump-Canada trade war. What would that mean for US? - The Hill",
-        "desc": "Ontario threatens electricity amid Trump-Canada trade war. What would that mean for US?&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0thSE5XZlIzNGk4YXNRUDNhLW5zLUVFNFBwczVZdEl2ODZNRkE1d1ZTcEE3MlRSZDdwM1gwVDBWQTRXaUt4RTBRd3NaUkV0amNUZXNiQURROXo1LThUcEVaU1FRTFAyOGgzRGg1dVFCYndBX0VQYkgwSmxaZ1psUGR2NHZBMzdhWGtoRk1XOGVvV0UzRUxnTk5jak1EM1Rz?oc=5",
-        "pubTime": "2026-08-27 18:00",
-        "source": "news.google.com",
-        "titleZh": "安大略省在川普與加拿大之間的貿易戰中威脅斷電。這對美國意味著什麼？——《The Hill》",
-        "descZh": "安大略省在川普與加拿大之間的貿易戰中威脅斷電。這對美國意味著什麼？&nbsp;&nbsp;《The Hill》"
-      },
-      {
-        "title": "Another potential headache for US data centers — Trump tariffs - Politico",
-        "desc": "Another potential headache for US data centers — Trump tariffs&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFRMNlNMVUdZcnBvbXI3cURKYmxzLXpUaGx2MFZHVGUzOHpIWXhVSkJ6RXE0VVJpeGJUakFUVUtyUDBKV0Zrd2VjUUZiN0pUd050Rk1QNVF0LWVSTVIzOEpGa2xPUWNtT29nUWU3eWlHeWY3Mzh0b19BdjdhcldDYzZHS25UMTBzOWJB?oc=5",
-        "pubTime": "2026-08-27 17:00",
-        "source": "news.google.com",
-        "titleZh": "美國資料中心面臨的另一項潛在難題——川普的關稅 - Politico",
-        "descZh": "美國資料中心的另一項潛在難題——川普的關稅&nbsp;&nbsp;《Politico》"
       }
     ]
   }
