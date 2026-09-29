@@ -1,5 +1,102 @@
 [
   {
+    "date": "20260930",
+    "fetchTime": "2026-09-30 07:48",
+    "count": 10,
+    "articles": [
+      {
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "desc": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-30 05:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普排除美中共同開發人工智慧的合資計畫",
+        "descZh": "美國總統持續反對為人工智慧設立監管框架的呼聲，並主張此舉將扼殺發展動能。"
+      },
+      {
+        "title": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms - CBC",
+        "desc": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHE0TzhHU0tCM1ZoWmxwQ0x0X2QxS3RLMXY0dVQzektyTWk1YXNqSnRkZHctbWllazJrUkM0NWR2aEM0Ri12NmtlMjJiT0QxUTZjcE16ZlBXY0V5a2JtMDVPaUJuTVRieDhDTlVtU3Q0eWp4THRORXNxR1FKa0VHYU1FOUNpVW96RmgtYW5Ub2d4eWFlZFVYT2dCWlI?oc=5",
+        "pubTime": "2026-09-30 05:26",
+        "source": "news.google.com",
+        "titleZh": "川普貿易顧問表示，若加拿大「干預」美國期中選舉，將「付出更沉重的代價」——CBC",
+        "descZh": "川普貿易顧問表示，若加拿大「干預」美國中期選舉，將「付出更沉重的代價」&nbsp;&nbsp;CBC"
+      },
+      {
+        "title": "Trump’s Global Tariffs Are Likely to Fail in Court (Again) - Foreign Policy",
+        "desc": "Trump’s Global Tariffs Are Likely to Fail in Court (Again)&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXNnMEY1WDdCV1VNUG9kNUh2M0JXX2xlLUEwRDdHNWJQNzlpa09TRk1YbG14UVRQV1R3VGVVd1V1c1FhLVdsRExzc2dEdWhkSi1BMWhFejV6ZUJvYmdIYjY4ZmUwcmJQdHV0YmNUbU9XeHU1YjlzWXdXaDFmZmNma0RRODlwNzJOS1ZtZ0JIWnY3WWFUelZpWA?oc=5",
+        "pubTime": "2026-09-30 01:36",
+        "source": "news.google.com",
+        "titleZh": "川普的全球關稅政策很可能（再次）在法庭上失敗——《外交政策》",
+        "descZh": "川普的全球關稅政策很可能（再次）在法庭上失敗&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+        "desc": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-29 21:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著貿易戰持續，美國對加拿大酒類及乳製品的禁令正式生效",
+        "descZh": "這是加拿大與美國貿易戰的最新升級，此前雙方於八月底的談判破局，目前尚無消息表明談判何時可能重啟。"
+      },
+      {
+        "title": "Global trade remains resilient despite Iran war, Russia's war in Ukraine, COVID and Trump's tariffs - dw.com",
+        "desc": "Global trade remains resilient despite Iran war, Russia's war in Ukraine, COVID and Trump's tariffs&nbsp;&nbsp;dw.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObU1FOEFSOUVMX3hnRUdITGtVU1FpMzB2ZmVoTVB6ekxLY0NCRGhIRVc2bjFlMllYTXpzdjdQU08tM29kSHFfbHlRd0VGay1tOEU5M2Jpemd6dXVJcjdGZFhOd2x4MmxiZkhDZ3NMazZjTmhydEphMnk2V0tDQ0k2RUhicTlHaVBrWG5JWndFONIBjwFBVV95cUxOSkpCY3ByaUl0aUxlQnhkZWd2aHVnbWVPd3pCMEhmb2dLX05nbDU0dERyZ2VIcXRiVHl1SGR3RjJuUzdSTkFQbVptVldqWmxCZzIycUJuWVV0Vi1adlFaUElDNy1Fa05zNlN0czQ5TWIyVUpEbWZUcUF1QWZCc2h6YkZ2R01NcXBJa296bnZURQ?oc=5",
+        "pubTime": "2026-09-29 19:05",
+        "source": "news.google.com",
+        "titleZh": "儘管面臨伊朗戰爭、俄羅斯對烏克蘭的戰爭、新冠肺炎疫情以及川普的關稅措施，全球貿易仍展現出韌性 - dw.com",
+        "descZh": "儘管面臨伊朗戰爭、俄羅斯入侵烏克蘭、COVID-19 疫情以及川普的關稅措施，全球貿易仍展現出強韌韌性&nbsp;&nbsp;dw.com"
+      },
+      {
+        "title": "Taiwan Shapes the Strategic Equation Between Xi and Trump - usthadian.com",
+        "desc": "Taiwan Shapes the Strategic Equation Between Xi and Trump&nbsp;&nbsp;usthadian.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUVTbDJDdGdHSzdCcGtqb0UzY0pCOTZza3VJaUpjUzRhRG5aekxKUnItRWxhT2pvZ2RzQmMzNHlsZFpISTU3OVM5RnhjcGI5LUVKZ21qSWNrT0Q1QjhGZUtraHNQRFBpaWZNMDdBbll4T3V2MjdMZUVPc25meFpIUF9XWXlYSjJtWWN2Tg?oc=5",
+        "pubTime": "2026-09-29 13:08",
+        "source": "news.google.com",
+        "titleZh": "台灣塑造了習近平與川普之間的戰略格局 - usthadian.com",
+        "descZh": "台灣形塑習近平與川普之間的戰略格局&nbsp;&nbsp;usthadian.com"
+      },
+      {
+        "title": "Are Trump's US government funded ads illegal?",
+        "desc": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
+        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-09-29 09:12",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "由美國政府資助的川普廣告是否違法？",
+        "descZh": "川普總統因出現在由美國政府出資的廣告中，而遭到批評。"
+      },
+      {
+        "title": "Trump expects Canada to cave in trade war as Stelco cites tariffs for layoffs - The Globe and Mail",
+        "desc": "Trump expects Canada to cave in trade war as Stelco cites tariffs for layoffs&nbsp;&nbsp;The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3dsd0JkdUo1cWJucDI3X3kxRnFhWWduMm9Ob2VUUU5tQW1EdkRjc2YyV2hQQ054cjJ4djkzbmFyUTBIUHNtTFBOOGI2UjZWd1BKY1ZmckpvM3lxX2daRDJOdWZJZmRnQVY0UEZzaDUybVRfV3p5c1NpM3R2VU1GVFE5bVFaYW45cFdfWkJYbVI1RmhIbWN6RF90NGNnTWw5NXctMQ?oc=5",
+        "pubTime": "2026-09-29 04:52",
+        "source": "news.google.com",
+        "titleZh": "川普預期加拿大將在貿易戰中妥協，而斯泰爾科公司則將裁員歸咎於關稅 —— 《環球郵報》",
+        "descZh": "川普預期加拿大將在貿易戰中讓步，而斯泰爾科公司則將裁員歸咎於關稅&nbsp;&nbsp;《環球郵報》"
+      },
+      {
+        "title": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn - Fortune",
+        "desc": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmZNTFlENjFBSWdKUXE3VktLMFhINWdyOEdkMjRRSUhHN2VZd3E2ZndRM3hLMEpkX054Y1drRWFJWkp5XzAyMVQyUlBzMEt0NDB3SDlPbi1OR0hjU2tiaGpfVTc1bENGakMta2ZZalZKYTd1RlNkLXNrOXZjVUhaeGJYMm8yR1hnN2dIRmdoa1Y0VF92R0VPQ2k0X09XWEMxNVYzamc0Q2UwOGNpUGRlUVJxUWN6a3o1ZXdDMmx2anQ?oc=5",
+        "pubTime": "2026-09-29 03:33",
+        "source": "news.google.com",
+        "titleZh": "「令美國夥伴感到不安」：專家警告，川普提議向中國出售武器，等同於承認他並未認真看待中國的安全威脅——《財星》",
+        "descZh": "「令美國夥伴感到不安」：專家警告，川普提議向中國出售武器，等於承認他並未認真看待中國的安全威脅&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says - The Guardian",
+        "desc": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelRqcWtQX1BYWFlaN1FtYkRTc0g0eU55WGcwcWpMdEtDdjd5NENXb2FDUjRYVklwR3gxYzRQaWZmSXJHUjlnQldYN2ExZXFPZ3ZCTzFuLXpZNGNRd0dmVGM1Y3M4dXpQeXlvVnpBeUtzaDZmdGoxREcxalZLcmhKdUVCNVZrdzA?oc=5",
+        "pubTime": "2026-09-28 08:52",
+        "source": "news.google.com",
+        "titleZh": "美國大使表示，川普曾詢問習近平中國是否有意購買美國武器——《衛報》",
+        "descZh": "美國大使表示，川普曾詢問習近平中國是否願意購買美國武器&nbsp;&nbsp;《衛報》"
+      }
+    ]
+  },
+  {
     "date": "20260929",
     "fetchTime": "2026-09-29 08:26",
     "count": 4,
@@ -2791,40 +2888,6 @@
         "source": "news.google.com",
         "titleZh": "在對加拿大徵收 50% 關稅後，美國民主黨參議員宣布提出法案，旨在廢除並退還川普總統所徵收的關稅。一項又一項的民調結果均顯示，絕大多數美國人反對川普的關稅政策。——《塞拉太陽時報》",
         "descZh": "在對加拿大徵收 50% 關稅後，美國民主黨參議員宣布提出法案，旨在廢除並退還川普總統所徵收的關稅。一項又一項的民調顯示，絕大多數美國人反對……"
-      }
-    ]
-  },
-  {
-    "date": "20260831",
-    "fetchTime": "2026-08-31 06:49",
-    "count": 3,
-    "articles": [
-      {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "desc": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-30 12:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普盛讚這項「歷史性」協議，讓美國得以掌控委內瑞拉650億桶石油",
-        "descZh": "委內瑞拉代理總統表示，這項不同尋常的協議將有助於振興該國經濟。"
-      },
-      {
-        "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-        "desc": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-29 15:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "前白宮提詞器操作員因賭注涉及川普演說，被判支付172,000美元",
-        "descZh": "調查發現，該名幕僚利用其事先掌握的總統演說內容，進行了獲利豐厚的投注。"
-      },
-      {
-        "title": "What tariffs will really cost Canadians and Americans",
-        "desc": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-08-29 08:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "關稅將給加拿大人和美國人帶來多少實際成本",
-        "descZh": "家庭和企業已經習慣了關稅對生活成本的影響，這種情況已持續一年多，那麼現在會有什麼變化呢？"
       }
     ]
   }
