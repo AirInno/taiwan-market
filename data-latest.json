@@ -1925,22 +1925,32 @@
       }
     ],
     "global": {
-      "gold": 4196.2,
-      "gold_chg": -2.37,
-      "nasdaq": 26818.56,
-      "nasdaq_chg": -1.56,
-      "usdtwd": 31.79,
-      "usdtwd_chg": 0.35,
-      "sp500": 7681.09,
-      "sp500_chg": -1.08,
-      "sox": 12685.21,
-      "sox_chg": -0.04,
       "jpytwd": 0.2,
-      "jpytwd_chg": -0.7,
+      "jpytwd_chg": -0.35,
+      "tsm_adr": 456.94,
+      "tsm_adr_chg": 1.09,
+      "qqq": 737.93,
+      "qqq_chg": -1.27,
+      "usdtwd": 31.85,
+      "usdtwd_chg": 0.19,
+      "nasdaq": 26797.54,
+      "nasdaq_chg": -1.64,
+      "vix": 16.04,
+      "vix_chg": 5.67,
+      "sp500": 7670.84,
+      "sp500_chg": -1.21,
+      "sox": 12629.16,
+      "sox_chg": -0.48,
+      "smh": 606.9,
+      "smh_chg": -0.09,
       "us10y": 5.25,
-      "us10y_chg": 2.72,
-      "vix": 15.89,
-      "vix_chg": 4.68
+      "us10y_chg": 2.76,
+      "xle": 61.54,
+      "xle_chg": -0.39,
+      "gold": 4219.5,
+      "gold_chg": -1.83,
+      "oil": 89.16,
+      "oil_chg": -5.76
     },
     "futures": {
       "自營": -488,
@@ -1965,6 +1975,7 @@
         "融資餘額": 10554,
         "融券餘額": 104
       }
-    }
+    },
+    "us_close_date": "09/30"
   }
 ]
