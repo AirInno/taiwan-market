@@ -1,5 +1,48 @@
 [
   {
+    "date": "20261005",
+    "fetchTime": "2026-10-05 07:19",
+    "count": 4,
+    "articles": [
+      {
+        "title": "UPFRONT: Trade rep defends Trump tariff policy in MKE - WISN",
+        "desc": "UPFRONT: Trade rep defends Trump tariff policy in MKE&nbsp;&nbsp;WISN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0U4S3dfU0ZmaGVpNFFFelVoVjd3cUZCMkUyRE1ZaFpWNVVIN0hLVUlHSXZiTS1fdGRfWkpaM1o3azlkVDJCQ1VtdDktUFIxcVBDdjVhdm9TNEQzQ3NTMHA4SXVVbWhmbXBpT19fUl9VSGJ2YmctOFBGTnhWdElWdzVCczdtY2NmNUpCWWE4UURwQzJG?oc=5",
+        "pubTime": "2026-10-04 22:30",
+        "source": "news.google.com",
+        "titleZh": "頭條：貿易代表在密爾瓦基為川普的關稅政策辯護 - WISN",
+        "descZh": "頭條：貿易代表在密爾瓦基（MKE）的 WISN 電視台為川普的關稅政策辯護"
+      },
+      {
+        "title": "Taiwan's Foreign Minister Visits U.S. After Trump-Xi Summit - en.sedaily.com",
+        "desc": "Taiwan's Foreign Minister Visits U.S. After Trump-Xi Summit&nbsp;&nbsp;en.sedaily.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWNzYVVLUEFYcmJEVHlNdlNBSXpVaWJVVFFRTTNvbTBqb25sOFR6TldGU3JQWG1uWGtMRkVRRHFyOXpVWlYtUFcxeThCeVpDN05oNGhNVS1raFdfaEgzdjRLLWt2TkdzbXM3Y0lWSUg2Q1EzbjNWS0gtcWo4Zi1fdk5Ra2RIZ3NjZ3ZYMmtIc21XZGQ1aExYN3VSQjE1VjFmd0dKbVdNRQ?oc=5",
+        "pubTime": "2026-10-04 14:33",
+        "source": "news.google.com",
+        "titleZh": "川普與習近平峰會後，台灣外交部長訪問美國 - en.sedaily.com",
+        "descZh": "台灣外交部長在川普與習近平峰會後訪問美國&nbsp;&nbsp;en.sedaily.com"
+      },
+      {
+        "title": "Trump tariffs a mixed bag for U.S. auto industry - The Japan Times",
+        "desc": "Trump tariffs a mixed bag for U.S. auto industry&nbsp;&nbsp;The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDU0UnFkbW9BN2ZObjFBWGp2UDZyWEFEZ0hGbDFqdVpQbF9CVEhtdmhRcGFLbjhFMXpOZVFBblh3QUdKdHRmQWhaYjVjck4zQTNxR0JBd0RCcWVRZE1PQU5NNW1TTDd2NnROUzRrSURjRHZrSlluVHNQckhNc3dNMnp2eVc0T211RVBJZG9lcXhWR09P?oc=5",
+        "pubTime": "2026-10-04 10:24",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅政策對美國汽車業而言利弊參半——《日本時報》",
+        "descZh": "川普的關稅政策對美國汽車業而言利弊參半&nbsp;&nbsp;《日本時報》"
+      },
+      {
+        "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
+        "pubTime": "2026-10-04 02:45",
+        "source": "news.google.com",
+        "titleZh": "川普即將對60個貿易夥伴國實施全面關稅 —— ABC新聞 —— 突發新聞、最新消息與影片",
+        "descZh": "川普即將對60個貿易夥伴國實施全面關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      }
+    ]
+  },
+  {
     "date": "20261004",
     "fetchTime": "2026-10-04 07:11",
     "count": 5,
@@ -2890,40 +2933,6 @@
         "source": "news.google.com",
         "titleZh": "川普政府高級貿易官員表示，英國未能善用「脫歐」帶來的契機——《金融時報》",
         "descZh": "川普政府高級貿易官員表示，英國未能善用「脫歐」帶來的機會&nbsp;&nbsp;《金融時報》"
-      }
-    ]
-  },
-  {
-    "date": "20260905",
-    "fetchTime": "2026-09-05 06:25",
-    "count": 3,
-    "articles": [
-      {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "desc": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 04:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著阿根廷對福克蘭群島的主權主張聲浪日益高漲，川普的回應至關重要",
-        "descZh": "隨著阿根廷總統米萊就福克蘭群島問題承諾將帶來「變革之風」，唐納德·川普是否會改變他對英國統治的立場？"
-      },
-      {
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "desc": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 04:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的和平特使將於本週末訪問莫斯科和基輔",
-        "descZh": "史蒂夫·維特科夫（Steve Witkoff）和賈里德·庫什納（Jared Kushner）一直主導著唐納德·川普總統為結束俄烏戰爭所做的努力——但談判已陷入僵局。"
-      },
-      {
-        "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-        "desc": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 01:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "就業數據推高升息預期後，川普呼籲降息",
-        "descZh": "總統發表這番言論之際，強於預期的就業數據進一步加深了市場對升息的預期。"
       }
     ]
   }
