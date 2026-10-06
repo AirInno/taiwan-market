@@ -1,5 +1,75 @@
 [
   {
+    "date": "20261006",
+    "fetchTime": "2026-10-06 09:20",
+    "count": 7,
+    "articles": [
+      {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "desc": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-06 05:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，是「威脅」導致美國從英國皇家空軍費爾福德基地撤走轟炸機",
+        "descZh": "五角大廈週日證實，已將駐紮在英國基地的B1轟炸機調回美國的駐地。"
+      },
+      {
+        "title": "US 'watching closely' after plague researcher dies in Russia",
+        "desc": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-06 05:33",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "俄羅斯一名鼠疫研究員去世後，美國正「密切關注」事態發展",
+        "descZh": "唐納德·川普表示，美國正在「非常嚴肅地」調查一名在西伯利亞某研究機構死亡的實驗室技術人員的案件。"
+      },
+      {
+        "title": "Trump chooses top spy boss to run new AI taskforce",
+        "desc": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-05 18:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普任命頂尖情報首長領導新成立的人工智慧工作小組",
+        "descZh": "隨著對人工智慧的擔憂日益加劇，美國總統表示，將由國家情報總監領導該小組。"
+      },
+      {
+        "title": "UPFRONT: Trade rep defends Trump tariff policy in MKE - WISN",
+        "desc": "UPFRONT: Trade rep defends Trump tariff policy in MKE&nbsp;&nbsp;WISN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0U4S3dfU0ZmaGVpNFFFelVoVjd3cUZCMkUyRE1ZaFpWNVVIN0hLVUlHSXZiTS1fdGRfWkpaM1o3azlkVDJCQ1VtdDktUFIxcVBDdjVhdm9TNEQzQ3NTMHA4SXVVbWhmbXBpT19fUl9VSGJ2YmctOFBGTnhWdElWdzVCczdtY2NmNUpCWWE4UURwQzJG?oc=5",
+        "pubTime": "2026-10-04 22:30",
+        "source": "news.google.com",
+        "titleZh": "頭條：貿易代表在密爾瓦基為川普的關稅政策辯護 - WISN",
+        "descZh": "頭條：貿易代表在密爾瓦基（MKE）的 WISN 電視台為川普的關稅政策辯護"
+      },
+      {
+        "title": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International - rti.org.tw",
+        "desc": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International&nbsp;&nbsp;rti.org.tw",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUHB5anRjVHFhMGVVc3ZDWVhjQVNZdjVFR2VFdGhYVU9JMnliUUtvM3dCVEVJRTlpamVhOU1HalBPVktMTm9TT0FNLTByeHl0SVlJRHhaM0VCdm8?oc=5",
+        "pubTime": "2026-10-04 19:45",
+        "source": "news.google.com",
+        "titleZh": "川普提及台灣在美投資5,000億美元發展半導體產業 — 美國新聞 — 台灣國際廣播電台 - rti.org.tw",
+        "descZh": "川普提及台灣在美投資5,000億美元發展半導體產業——美國新聞——國際台灣電台&nbsp;&nbsp;rti.org.tw"
+      },
+      {
+        "title": "Taiwan's Foreign Minister Visits U.S. After Trump-Xi Summit - Seoul Economic Daily",
+        "desc": "Taiwan's Foreign Minister Visits U.S. After Trump-Xi Summit&nbsp;&nbsp;Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWNzYVVLUEFYcmJEVHlNdlNBSXpVaWJVVFFRTTNvbTBqb25sOFR6TldGU3JQWG1uWGtMRkVRRHFyOXpVWlYtUFcxeThCeVpDN05oNGhNVS1raFdfaEgzdjRLLWt2TkdzbXM3Y0lWSUg2Q1EzbjNWS0gtcWo4Zi1fdk5Ra2RIZ3NjZ3ZYMmtIc21XZGQ1aExYN3VSQjE1VjFmd0dKbVdNRQ?oc=5",
+        "pubTime": "2026-10-04 14:33",
+        "source": "news.google.com",
+        "titleZh": "川普與習近平峰會後，台灣外交部長訪美——《首爾經濟日報》",
+        "descZh": "川普與習近平峰會後　台灣外交部長訪美&nbsp;&nbsp;《首爾經濟日報》"
+      },
+      {
+        "title": "Trump tariffs a mixed bag for U.S. auto industry - japantimes.co.jp",
+        "desc": "Trump tariffs a mixed bag for U.S. auto industry&nbsp;&nbsp;japantimes.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDU0UnFkbW9BN2ZObjFBWGp2UDZyWEFEZ0hGbDFqdVpQbF9CVEhtdmhRcGFLbjhFMXpOZVFBblh3QUdKdHRmQWhaYjVjck4zQTNxR0JBd0RCcWVRZE1PQU5NNW1TTDd2NnROUzRrSURjRHZrSlluVHNQckhNc3dNMnp2eVc0T211RVBJZG9lcXhWR09P?oc=5",
+        "pubTime": "2026-10-04 10:24",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅政策對美國汽車業而言利弊參半 - japantimes.co.jp",
+        "descZh": "川普的關稅政策對美國汽車業而言利弊參半&nbsp;&nbsp;japantimes.co.jp"
+      }
+    ]
+  },
+  {
     "date": "20261005",
     "fetchTime": "2026-10-05 07:19",
     "count": 4,
@@ -2845,94 +2915,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "在與美國的貿易戰中，加拿大能進行多少反制？",
         "descZh": "儘管美國可能是更大的貿易夥伴，但在這場日益升級的貿易爭端中，加拿大目前仍不應被輕易排除在外。"
-      }
-    ]
-  },
-  {
-    "date": "20260906",
-    "fetchTime": "2026-09-06 06:06",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Trump signs order to remove endangered species protection for grey wolves",
-        "desc": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-        "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 17:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署行政命令，撤銷對灰狼的瀕危物種保護",
-        "descZh": "美國總統表示，此舉將有助於牧場主，但環保人士則指出，這可能會阻礙物種族群恢復的努力。"
-      },
-      {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "desc": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 14:20",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著阿根廷對福克蘭群島的主權主張聲浪日益高漲，川普的回應至關重要",
-        "descZh": "隨著阿根廷總統米萊承諾在福克蘭群島問題上將掀起「變革之風」，唐納德·川普是否會改變他對英國統治的立場？"
-      },
-      {
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "desc": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 12:28",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普的和平特使將於本週末訪問莫斯科和基輔",
-        "descZh": "史蒂夫·維特科夫（Steve Witkoff）和賈里德·庫什納（Jared Kushner）一直主導著唐納德·川普總統為結束俄烏戰爭所做的努力——但談判已陷入僵局。"
-      },
-      {
-        "title": "'Decide something on Monday, revoke it on Wednesday...': Belgian PM takes veiled dig at Trump's tariff, tr - The Economic Times",
-        "desc": "'Decide something on Monday, revoke it on Wednesday...': Belgian PM takes veiled dig at Trump's tariff, tr&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdXNPZ1ZRdktBTVRiN183UzhRRFRIQ2JlUlhLbWpGb3JQeVZzTmlUT2NlTmtvbl9ZQUM5ck1JYmthcmd3OVRzbU90cGI5WDVHVnJmeUlvRzhwZlk5MmFHLXNBYnlFaU1zazhZc2NPT3pFTE1TcEFDRTB4SHZ1TFN5MURwVlJhWXdwN25CTnBnMDdPdGRJM1daVkNJM1pDU3hnRVNjVlZVNHZLUXlrSXlhNl9uMHItbldEMmlyS3hWX1htQ2tNQlhhRzlNNEtVOFVOQXRrSjJUSTVDb1dEa19aLVhhTlVKdjVLakdlWXFLcDhRdXZzcUt4cE54blJOWnJHZDR3MjJIMWllejZnLXZsTVpBcHRDUWFkT3gtdXpn0gGjAkFVX3lxTE1CZldzVVVIYXN2Q2RpaXhlRjFJNE56bWdiVW04WTlscnNxV011Q3NIUDZaSzRSSFkxeG5ILUtLQm9Da3FzMTJLNE1NWVR4dm44dWVvRHk3VEJmSDZsQTg5NzhUZDkyUXZnNVExVzlSUm9lRVR0Y2s0bmdjaVpuMUF0Mks0a1lOVjM1QVd6dkRZZWloc3NXNEwzV3RZN011cnpKOEtscHB0Q3EwU21ZczVHdVI1ajBPT3ZHVVAzbHdrRklzeVFYYnM1eDZYVWJkSU1JczVuOWZHeVV0dW1SUktSWUJKYlp1V1NaWkNfMmY3Vk1WTGhucEVyUm9OSXF2VUEtdDJSaHpxaklpQ0FNLVMwb291MlUtZ3o1dkFBdzEyY0hPSQ?oc=5",
-        "pubTime": "2026-09-05 10:29",
-        "source": "news.google.com",
-        "titleZh": "「週一做決定，週三就撤銷……」：比利時總理對川普的關稅政策暗諷——《經濟時報》",
-        "descZh": "「週一做決定，週三就撤銷……」：比利時總理對川普的關稅政策暗諷一番，tr&nbsp;&nbsp;《經濟時報》"
-      },
-      {
-        "title": "How much can Canada fight back in its trade war with the US?",
-        "desc": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-        "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 10:13",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在與美國的貿易戰中，加拿大能採取多少反制措施？",
-        "descZh": "儘管美國可能是更大的貿易夥伴，但在這場日益升級的貿易戰中，加拿大仍不應被輕易排除在外。"
-      },
-      {
-        "title": "A Fix For Trump’s Trade Agenda: Fair Trade for Working Families - Food & Water Watch",
-        "desc": "A Fix For Trump’s Trade Agenda: Fair Trade for Working Families&nbsp;&nbsp;Food & Water Watch",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEdraXBJUlIzWXVhNkdtdDdMMnJvUF9CUFdtQS1oTHNJZG9aYThPLXk4R0pyeTZfV2FMTHlsTFV1Qmo0NnpxSDFTMHY3dFFKMVJFdGw0d3VaUXVZYW9scENNbVJoY0tzUnhkR1V5aU1BbGtPbW5PMkxVNUdlVmhXc1JGbGMzSmI1Z0daVUVTMDg5U3RzbHV6a3pJYjhTUlFsTS1IT0xZNGZaNlU?oc=5",
-        "pubTime": "2026-09-05 02:14",
-        "source": "news.google.com",
-        "titleZh": "解決川普貿易議程的對策：為勞動家庭爭取公平貿易 —— 食品與水資源監察組織",
-        "descZh": "解決川普貿易議程的對策：為勞動家庭爭取公平貿易 &nbsp;&nbsp; 食物與水資源監察組織"
-      },
-      {
-        "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-        "desc": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 01:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "就業數據推升升息預期後，川普呼籲降息",
-        "descZh": "總統發表這番言論之際，優於預期的就業數據進一步強化了市場對升息的預期。"
-      },
-      {
-        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
-        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
-        "pubTime": "2026-09-04 19:17",
-        "source": "news.google.com",
-        "titleZh": "川普表示台灣將把亞利桑那州晶片廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
-        "descZh": "川普表示台灣將把亞利桑那州晶片廠規模擴大一倍；台灣部長則將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
-      },
-      {
-        "title": "UK is failing to capitalise on Brexit, says top Trump trade official - Financial Times",
-        "desc": "UK is failing to capitalise on Brexit, says top Trump trade official&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHMzeEFfd2tRYjJzUk9jX0E1VUUxQWN0aVpURzVHQ3Z5ZkF1YW9hcDc1cVhsZk5FZllNckxVRGh4dHRtZ0pKWkZ0UmRXREtCQWQ3ekp0Z3Z1SUZRVzVIYVJTWVZMUHpSUVNmemd1THpxQlJNT1FzSEhnNHhraUhNVEdPbVE?oc=5",
-        "pubTime": "2026-09-04 12:00",
-        "source": "news.google.com",
-        "titleZh": "川普政府高級貿易官員表示，英國未能善用「脫歐」帶來的契機——《金融時報》",
-        "descZh": "川普政府高級貿易官員表示，英國未能善用「脫歐」帶來的機會&nbsp;&nbsp;《金融時報》"
       }
     ]
   }
