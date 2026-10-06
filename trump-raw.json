@@ -1,5 +1,75 @@
 [
   {
+    "date": "20261007",
+    "fetchTime": "2026-10-07 07:54",
+    "count": 7,
+    "articles": [
+      {
+        "title": "Before the Midterms: What Americans Think About Trade and Tariffs - Council on Foreign Relations (CFR)",
+        "desc": "Before the Midterms: What Americans Think About Trade and Tariffs&nbsp;&nbsp;Council on Foreign Relations (CFR)",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlktX1ljNjdYTXJlc2JHWlEyYmM0LVZvcEdIUUpoTk40Njh6dWZTZzhHTmxabm8tSWRDRGlqbkUyeF9xUGtEZWtnOFgyOHNkZ1Vyd0lnQlBUMFVTcm5tTHdwcGRzS1RlMkZtU2ZyZWJkZ0hyQW40V2xKQVMzVmVWc3FrSDNxWTFSeGdRUEtPMGRVSFdGSWdZOQ?oc=5",
+        "pubTime": "2026-10-07 04:52",
+        "source": "news.google.com",
+        "titleZh": "中期選舉前：美國人對貿易與關稅的看法——外交關係協會（CFR）",
+        "descZh": "中期選舉前：美國人對貿易與關稅的看法&nbsp;&nbsp;外交關係協會（CFR）"
+      },
+      {
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "desc": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-07 04:15",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮為川普「讓伊朗『摧毀』洛杉磯和聖地牙哥」的言論辯護",
+        "descZh": "加文·紐森稱這些言論「瘋狂」，但白宮表示，川普是在警告伊朗擁有核武的風險。"
+      },
+      {
+        "title": "A separatist party just won power in Quebec - what does that mean?",
+        "desc": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump is out of office.",
+        "url": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-07 02:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "魁北克一個分離主義政黨剛剛贏得執政權——這意味著什麼？",
+        "descZh": "加拿大魁北克黨承諾將舉行該省第三次獨立公投，但表示在唐納德·川普卸任之前不會這麼做。"
+      },
+      {
+        "title": "What are the US midterms? A simple guide",
+        "desc": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-06 07:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "什麼是美國中期選舉？一份簡單指南",
+        "descZh": "美國選民將於11月3日前往投票站投票，此次投票結果可能對唐納德·川普的總統任期產生重大影響。"
+      },
+      {
+        "title": "Trump: US 'had a threat' that led to withdrawal of bombers at RAF Fairford",
+        "desc": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America.",
+        "url": "https://www.bbc.co.uk/news/videos/c3vgxwg081yqo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-06 04:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普：美國「曾面臨威脅」，導致駐英國皇家空軍費爾福德基地的轟炸機撤離",
+        "descZh": "五角大廈週日證實，已將其轟炸機——據信約有十餘架 B-1 轟炸機——從該基地撤回美國境內的駐地。"
+      },
+      {
+        "title": "Days after Xi-Trump summit, top Taiwan diplomat opens de facto consulate in US - South China Morning Post",
+        "desc": "Days after Xi-Trump summit, top Taiwan diplomat opens de facto consulate in US&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelJwQ00zakotM1NnLS1VYmtPWHRqT2FHenlnMjc3RWZMLUhCWW4wc1AwMEJfR0R1dXR3TkRjd0NsaDJTWklscl9EcjdSMEJ4bFNyT0VCNHdoYmQ2STBnNXc2ekZVOXlseWdXWUlnMkd1OVRIeG9hZ3d1b0FmVXBuM0NpQkNVYVRmTC1sMDBDQzlWMGFYUDIwQ2lYUzNHZ0tOUmlNMjQ2WFkwdjlhSmE3bllNX0YyWWZUTFNmeVFFcE5tX1M5OGJFRlRxMDXSAcwBQVVfeXFMT2stOGNTcTJVOUpQQ3JIdDhEYjJvVnA2Nnl2UHo2Z1lucHFqaEU1UFRfbDRwRU85UHgybDJrbXJYWDhlR281RlFDcmhONEpnaG1fa3NiR19jUzBCWHA2UFIySzVPc2kwaU9JSDJjdlJnUjRFYl9ZU25HdFhvUjQ2a20yTHVMQTJFbU1JX2FDTm8xcVlqUkU3NW1JT1BFLTREeHpFajJHU2h0emh5OUVmdFpTdF8yTmpKR2FBc1d3UWhPbzVRaUFBTnBYUGZi?oc=5",
+        "pubTime": "2026-10-05 15:13",
+        "source": "news.google.com",
+        "titleZh": "習近平與川普峰會數日後，台灣外交高層在美國開設實質上的領事館——《南華早報》",
+        "descZh": "習近平與川普峰會數日後，台灣外交高層在美國開設實質上的領事館&nbsp;&nbsp;《南華早報》"
+      },
+      {
+        "title": "How Trump’s new Greenland deal locks China out - ThinkChina",
+        "desc": "How Trump’s new Greenland deal locks China out&nbsp;&nbsp;ThinkChina",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWZ0TlltcUNwbndJeXVnMW1XY3dlRkVpY2JGVlA2V0doYVVTcG1hUV9YTTN6UDcwTG1KNEExN0hzSnRIYWxhb1dJalJCRktrUUV1M1A4ZWhQVGJjdVhxdlJENDk0a3R4RzJ0MTBxZGdTY0UyNUZLTlJFSXVZVG5HM04xbTV1bE0?oc=5",
+        "pubTime": "2026-10-05 14:59",
+        "source": "news.google.com",
+        "titleZh": "川普的格陵蘭新協議如何將中國排除在外 — ThinkChina",
+        "descZh": "川普的新格陵蘭協議如何將中國排除在外&nbsp;&nbsp;ThinkChina"
+      }
+    ]
+  },
+  {
     "date": "20261006",
     "fetchTime": "2026-10-06 09:20",
     "count": 7,
@@ -2863,58 +2933,6 @@
         "source": "news.google.com",
         "titleZh": "川普的關稅導致波多黎各在2025年支付了近10億美元——《聖胡安每日星報》",
         "descZh": "川普的關稅措施導致波多黎各在 2025 年支付了近 10 億美元　《聖胡安每日星報》"
-      }
-    ]
-  },
-  {
-    "date": "20260907",
-    "fetchTime": "2026-09-07 06:10",
-    "count": 5,
-    "articles": [
-      {
-        "title": "Donald Trump's Tariff Policy Has Repeatedly Triggered Multi-Trillion-Dollar Stock Swings Since Early 2025. Here's Why Markets Still Struggle to Price In His Next Move. - Yahoo Finance",
-        "desc": "Donald Trump's Tariff Policy Has Repeatedly Triggered Multi-Trillion-Dollar Stock Swings Since Early 2025. Here's Why Markets Still Struggle to Price In His Next Move.&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTV9Wc29IQWxBaFdtY0tIRUVYWUNELWROSU85TUVkQmVZX2pvQ0VBdWpNU1IyM2hfak1FM29QWWF6d3NBUVJnM1JTRl9vX2N4dm4ySFhjT3JyaUJMZy1MNV9wLXNOMER2UVBWaWZnaV84Q3psYkFhZUxLR01XMDktN0FQSGZPZ2NCTVliSW4zQUJIblFMQjF3Ml93VnZEVzBUaXBUVFJB?oc=5",
-        "pubTime": "2026-09-06 06:20",
-        "source": "news.google.com",
-        "titleZh": "自2025年初以來，唐納德·川普的關稅政策已多次引發數兆美元的股市波動。以下是市場為何仍難以預判他下一步行動的原因。——雅虎財經",
-        "descZh": "自 2025 年初以來，唐納德·川普的關稅政策已多次引發數兆美元的股市波動。以下是市場為何仍難以預測他下一步行動的原因。&nbsp;&nbsp;Yahoo Finance"
-      },
-      {
-        "title": "Trump signs order to remove endangered species protection for grey wolves",
-        "desc": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-        "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 17:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署命令，撤銷對灰狼的瀕危物種保護",
-        "descZh": "美國總統表示，此舉將有助於牧場主，但環保人士則認為，這可能會阻礙物種族群恢復的努力。"
-      },
-      {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "desc": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 14:20",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著阿根廷對福克蘭群島的主權主張聲浪日益高漲，川普的回應至關重要",
-        "descZh": "隨著阿根廷總統米萊承諾在福克蘭群島問題上將掀起「變革之風」，唐納德·川普會否改變他對英國統治的立場？"
-      },
-      {
-        "title": "'Decide something on Monday, revoke it on Wednesday...': Belgian PM takes veiled dig at Trump's tariff, tr - The Economic Times",
-        "desc": "'Decide something on Monday, revoke it on Wednesday...': Belgian PM takes veiled dig at Trump's tariff, tr&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdXNPZ1ZRdktBTVRiN183UzhRRFRIQ2JlUlhLbWpGb3JQeVZzTmlUT2NlTmtvbl9ZQUM5ck1JYmthcmd3OVRzbU90cGI5WDVHVnJmeUlvRzhwZlk5MmFHLXNBYnlFaU1zazhZc2NPT3pFTE1TcEFDRTB4SHZ1TFN5MURwVlJhWXdwN25CTnBnMDdPdGRJM1daVkNJM1pDU3hnRVNjVlZVNHZLUXlrSXlhNl9uMHItbldEMmlyS3hWX1htQ2tNQlhhRzlNNEtVOFVOQXRrSjJUSTVDb1dEa19aLVhhTlVKdjVLakdlWXFLcDhRdXZzcUt4cE54blJOWnJHZDR3MjJIMWllejZnLXZsTVpBcHRDUWFkT3gtdXpn0gGjAkFVX3lxTE1CZldzVVVIYXN2Q2RpaXhlRjFJNE56bWdiVW04WTlscnNxV011Q3NIUDZaSzRSSFkxeG5ILUtLQm9Da3FzMTJLNE1NWVR4dm44dWVvRHk3VEJmSDZsQTg5NzhUZDkyUXZnNVExVzlSUm9lRVR0Y2s0bmdjaVpuMUF0Mks0a1lOVjM1QVd6dkRZZWloc3NXNEwzV3RZN011cnpKOEtscHB0Q3EwU21ZczVHdVI1ajBPT3ZHVVAzbHdrRklzeVFYYnM1eDZYVWJkSU1JczVuOWZHeVV0dW1SUktSWUJKYlp1V1NaWkNfMmY3Vk1WTGhucEVyUm9OSXF2VUEtdDJSaHpxaklpQ0FNLVMwb291MlUtZ3o1dkFBdzEyY0hPSQ?oc=5",
-        "pubTime": "2026-09-05 10:29",
-        "source": "news.google.com",
-        "titleZh": "「週一做決定，週三就推翻……」：比利時總理對川普的關稅政策暗諷——《經濟時報》",
-        "descZh": "「週一做決定，週三就推翻⋯⋯」：比利時總理對川普的關稅政策暗諷，tr&nbsp;&nbsp;《經濟時報》"
-      },
-      {
-        "title": "How much can Canada fight back in its trade war with the US?",
-        "desc": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
-        "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-05 10:13",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在與美國的貿易戰中，加拿大能進行多少反制？",
-        "descZh": "儘管美國可能是更大的貿易夥伴，但在這場日益升級的貿易爭端中，加拿大目前仍不應被輕易排除在外。"
       }
     ]
   }
