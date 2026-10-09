@@ -1,5 +1,102 @@
 [
   {
+    "date": "20261009",
+    "fetchTime": "2026-10-09 08:29",
+    "count": 10,
+    "articles": [
+      {
+        "title": "White House blocks Microsoft from foreign worker hiring program",
+        "desc": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-09 05:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮阻止微軟參與外籍勞工僱用計畫",
+        "descZh": "多年來，一項國際簽證計畫一直允許美國科技公司從海外聘請高技能人才。"
+      },
+      {
+        "title": "’Canada is not our enemy’: Michigan Republican Senate candidate breaks with Trump on trade war - Radio-Canada",
+        "desc": "’Canada is not our enemy’: Michigan Republican Senate candidate breaks with Trump on trade war&nbsp;&nbsp;Radio-Canada",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMW9JTDBqS3FIVmhPU0pYWUd6WWYwWkZvYl9PT0V6VDVoNHpjSUxnUmMwVkoya3prSnNiMmJIQUNQUnB2ajhYMGpoNXVuUTlxY004RmdIV0VKeUg5WEJfelhEWDlDMkE3WTVxaThTVlktWlVCOGJQZXVJNVRNQm93VFJGcVkyVXN2b2RPUGswemJRN1ExTzhSMlprZmJxLUcxNUNSWjNhQzlWZUMwVDhFUlV5Rkx6Y3Q0eHRqd3l2OVVvbEhndjc2cDJCbnFpc1d3WVpYZmh3?oc=5",
+        "pubTime": "2026-10-09 02:25",
+        "source": "news.google.com",
+        "titleZh": "「加拿大不是我們的敵人」：密西根州共和黨參議員候選人就貿易戰立場與川普劃清界線 —— Radio-Canada",
+        "descZh": "「加拿大不是我們的敵人」：密西根州共和黨參議員候選人就貿易戰與川普立場相左&nbsp;&nbsp;Radio-Canada"
+      },
+      {
+        "title": "The AI Investment Boom Trumps Tariff Policy - Seeking Alpha",
+        "desc": "The AI Investment Boom Trumps Tariff Policy&nbsp;&nbsp;Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2NsTmhKX0NDdHk3VkJLRXVhSzhlMFp3UFN0eDBwNmVtN3ZwczN2eHlQQ3NCcG1oN0hEMEduVkpXZ2dNaFBNRHBxcXBwbG9sLWpMMHkwOUZReU1CbFJPQnV5Umx2Yy1pSDlxTGFQN2FpWFJESTlLTEs1b2Q5aVExM2NCamMzQ1U?oc=5",
+        "pubTime": "2026-10-09 02:15",
+        "source": "news.google.com",
+        "titleZh": "人工智慧投資熱潮壓過關稅政策 — Seeking Alpha",
+        "descZh": "AI 投資熱潮蓋過關稅政策&nbsp;&nbsp;Seeking Alpha"
+      },
+      {
+        "title": "Republicans Are Getting Grilled Over Trump's Tariffs - Reason Magazine",
+        "desc": "Republicans Are Getting Grilled Over Trump's Tariffs&nbsp;&nbsp;Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1EydDU2TWtPd0NoTW54aGlyanZJMUpHWTNyV2I4ajlEWUU4anBzdWVqU0lEY3lTVzV5a0VPZjItUldLNG9NRHpFdTQtNG5fNVExZG1tUnhpY0gxRnR6RDU0UjRZVmwyWHZkUjhlU3JwcU9OY191cS1ZTDZ0bXdXYzZ5VU5DRUk0NUE?oc=5",
+        "pubTime": "2026-10-09 00:30",
+        "source": "news.google.com",
+        "titleZh": "共和黨人因川普的關稅政策而備受抨擊——《Reason》雜誌",
+        "descZh": "共和黨人因川普的關稅政策而備受抨擊&nbsp;&nbsp;《Reason》雜誌"
+      },
+      {
+        "title": "Americans blame 'boring' Trump policy for rising costs - AlterNet",
+        "desc": "Americans blame 'boring' Trump policy for rising costs&nbsp;&nbsp;AlterNet",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tbWNMNVdleTdFZlc5ZENDTTVKQUdkNGF4RnpMbk04eTBPWlZLemNDVnhPTmJ4X0RaVEtjcXg2VmxoYWlMN2hNM3NKUDBGMzVNZTZ0TDUzdw?oc=5",
+        "pubTime": "2026-10-08 19:14",
+        "source": "news.google.com",
+        "titleZh": "美國人將物價上漲歸咎於「乏味」的川普政策 —— AlterNet",
+        "descZh": "美國人將物價上漲歸咎於「乏味」的川普政策&nbsp;&nbsp;AlterNet"
+      },
+      {
+        "title": "Why the greenback has defied Trump tariffs, traders and the Fed - AFR",
+        "desc": "Why the greenback has defied Trump tariffs, traders and the Fed&nbsp;&nbsp;AFR",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMHd5bmRpSktBLWpuOGRJOG9LY2dqc3R1bWhqd0o2b200dTlkX0Z5ajdtU0pkeUZjandoQ1JYYXNBYURnUFh5V0ZxWFlfS0xZdWZKbjU4VV9FWERXejBTNktlYXVBeXZjaHktUlRaV2pubWRqbVliUW5KSlQ2OWlGbWZmZkUxWDNscEtkbnU3S1pGQ003SWNKT05YaXk1ZWllWHdqZWdxOVhoRlE4c3QxcHEyVjl5djE2TUxaRFplbUxJbk5rRXc?oc=5",
+        "pubTime": "2026-10-08 09:00",
+        "source": "news.google.com",
+        "titleZh": "為何美元能逆特朗普關稅、交易員及聯準會而行——《澳洲金融評論報》",
+        "descZh": "為何美元能抵禦川普的關稅、交易員及聯準會的影響？&nbsp;&nbsp;AFR"
+      },
+      {
+        "title": "Mike Rogers changes tune on tariffs, trade war with Canada - Detroit Free Press",
+        "desc": "Mike Rogers changes tune on tariffs, trade war with Canada&nbsp;&nbsp;Detroit Free Press",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWp6bDlZclZYVm5hTFlZa2VUN180SjhDRHJWVU1NeWh6dWpUUHUzRFlLenhGT2R2eDUyYzRGR1p3ZjMwRFFWOTF1YlQ3d19odkpnaGdZbHJoVXRXOFEyRmJqeXVTSTRCZnV2RTBCb1JPcFBRSlNtdXNVbW1tVnNxYnNwdER1dUFqZTBqM0ZDenhaY1Y2YWwxbTIzWnN1ZUZGbEJRcmRUU0FOM3ZqbWl6VXJGNUhDMnBKX0UxUG82Yw?oc=5",
+        "pubTime": "2026-10-08 06:15",
+        "source": "news.google.com",
+        "titleZh": "麥克·羅傑斯對關稅及與加拿大的貿易戰改口——《底特律自由報》",
+        "descZh": "麥克·羅傑斯對關稅及與加拿大的貿易戰改口　《底特律自由報》"
+      },
+      {
+        "title": "Trump’s tariffs were meant to shrink the trade deficit—but it’s now the widest since Liberation Day - Fortune",
+        "desc": "Trump’s tariffs were meant to shrink the trade deficit—but it’s now the widest since Liberation Day&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS25JN3VGdVQ4YVJvdGtHRkJVbkJJMEFEalFIVHNRdkFxMjhXYXdhZll5NkV1LThxRzZxcXh1d291R2taMVFtRkRrOFNmQzBCOUZtZTRpTE9OQmNVX2FvTUEycF9ob0dxaldLckNJbHQ4QjB5anpNRjAzNFZMUEtGcGtnaW16YUgwMmFQVGRJMy0xSHVNZ0NyQWRxbmFvdjFleTI3RXhwQ0JsLTUxOFY4aDVLZ2dlYk5RU3pxX0lkYmlhQQ?oc=5",
+        "pubTime": "2026-10-08 02:15",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅原本旨在縮小貿易逆差——但如今逆差規模已創下「解放日」以來的最高紀錄 - 《財富》",
+        "descZh": "川普的關稅原本旨在縮小貿易逆差——但如今卻創下解放日以來最大逆差紀錄&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "US trade deficit widens, raising fresh questions about Trump’s tariff strategy - The American Bazaar",
+        "desc": "US trade deficit widens, raising fresh questions about Trump’s tariff strategy&nbsp;&nbsp;The American Bazaar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUFiU1pRUTBzNlFWUGxCaERJTzR6Nm1RYkpCZGZnUldqZ0JRcVZNRjViSERLbS1ONTRrZ2x5Uy12RGExa2N0dXhQN3BpUlAtR0c3SVcxWUNERnZKWFY4UE1wNWhJdjg4LVFydkVSQmpicHRHdGVhRHpxODVIaEFZejYxMlVJMmpRTnV0UHdBeXM0VkRlRGEzdktjVTk2VVA4X0RtZmtoYmNqSHRDQ3hfYWdvVDdUUQ?oc=5",
+        "pubTime": "2026-10-08 01:19",
+        "source": "news.google.com",
+        "titleZh": "美國貿易逆差擴大，引發外界對川普關稅策略的新質疑 —— 《美國集市》",
+        "descZh": "美國貿易逆差擴大，引發外界對川普關稅策略的新質疑&nbsp;&nbsp;《美國集市》"
+      },
+      {
+        "title": "The Republican candidates walking a Trump tightrope",
+        "desc": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-07 13:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "共和黨候選人正走在「川普」這條鋼索上",
+        "descZh": "部分參加十一月選舉的候選人正考慮是否要與這位仍主導其政黨、卻不受歡迎的總統保持距離。"
+      }
+    ]
+  },
+  {
     "date": "20261008",
     "fetchTime": "2026-10-08 08:16",
     "count": 12,
@@ -2908,112 +3005,6 @@
         "source": "news.google.com",
         "titleZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對 - NBC新聞",
         "descZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對&nbsp;&nbsp;NBC新聞"
-      }
-    ]
-  },
-  {
-    "date": "20260909",
-    "fetchTime": "2026-09-09 06:47",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Sapporo to move some beer production from Canada to US after tariffs",
-        "desc": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
-        "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 01:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "受關稅影響，札幌將把部分啤酒生產從加拿大轉移至美國",
-        "descZh": "隨著關稅衝擊加劇，這家日本啤酒製造商計畫將無酒精啤酒的生產基地從加拿大遷往美國"
-      },
-      {
-        "title": "Lindsay Clancy's lawyer hopes for deal with prosecutors after mistrial",
-        "desc": "During an appearance on Good Morning America, Kevin Reddington also asked Trump to pardon Clancy.",
-        "url": "https://www.bbc.co.uk/news/articles/czrz6gxp033o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 01:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "林賽·克蘭西的律師希望在審判因程序瑕疵而宣告無效後，能與檢方達成協議",
-        "descZh": "在《早安美國》節目中，凱文·雷丁頓也要求川普赦免克蘭西。"
-      },
-      {
-        "title": "Trump shares misleading video of King and fainting worker",
-        "desc": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 00:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普分享了一段關於金恩與一名暈倒工人的誤導性影片",
-        "descZh": "總統分享了一段具誤導性的影片，影片中似乎顯示查爾斯在某次王室訪問期間，面對一名暈倒的男子時聳了聳肩並轉身離去。"
-      },
-      {
-        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-        "desc": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-08 22:46",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "卡尼表示，美國的貿易戰「將付出代價」，而加拿大則針對關稅措施展開反制",
-        "descZh": "加拿大將對價值近 200 億美元的美國產品——從鋼鐵到 T 恤——徵收最高達 50% 的關稅。"
-      },
-      {
-        "title": "James Moore: Time is on Canada’s side in this lose-lose tariff war with Trump - BNN Bloomberg",
-        "desc": "James Moore: Time is on Canada’s side in this lose-lose tariff war with Trump&nbsp;&nbsp;BNN Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVklFSGZENURxNW9nS2NORVVUclBFa1d2Q0N2LTg4bzJEcUxzVmlPeFlic1BPWDB1S2VJLVVyblltZjV3Z0NGUzlLWExPUnBmaVU0X25seTY3czBSX3gyUk1uclRpeDhCNFFsaTFMek5RSl81Ykh2NTlGbGNXNGhSMm8xamxldzBTWkw3aHdZdkdyRnJubGl3ZnJFQzhnZl9JOEE5bHpTWUlmTlV4cEhya2g1d01CWVF3QmpEUkVPTkMxV3c?oc=5",
-        "pubTime": "2026-09-08 22:37",
-        "source": "news.google.com",
-        "titleZh": "詹姆斯·摩爾：在這場與川普的「兩敗俱傷」關稅戰中，時間站在加拿大這邊 — BNN彭博社",
-        "descZh": "詹姆斯·摩爾：在這場與川普的「雙輸」關稅戰中，時間站在加拿大這邊&nbsp;&nbsp;BNN 彭博社"
-      },
-      {
-        "title": "Donald Trump calls for Bombardier boycott as Canada hits US with tariffs - Financial Times",
-        "desc": "Donald Trump calls for Bombardier boycott as Canada hits US with tariffs&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVlDckdjTkw3aGs2djE5VXpaNnY1WG9vTHJXcTVzSjE1SDhzS3IyZ1JUMlJhTWVfVXlPNk9NVkFiNGV4bjJNNUF2emhxcDVyNEJUd2doZVd1dDlwdHA4TE9nV1I2VEVScXpEMmxDRllRYms2UWI3VmlFelZ4NWVJVDJUMk0?oc=5",
-        "pubTime": "2026-09-08 21:38",
-        "source": "news.google.com",
-        "titleZh": "加拿大對美國徵收關稅之際，唐納德·川普呼籲抵制龐巴迪 - 《金融時報》",
-        "descZh": "加拿大對美國徵收關稅之際，唐納德·川普呼籲抵制龐巴迪公司&nbsp;&nbsp;《金融時報》"
-      },
-      {
-        "title": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs - Japan Wire by Kyodo News",
-        "desc": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs&nbsp;&nbsp;Japan Wire by Kyodo News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cV92T0RXUHcwVy14eVo3WXNNb0dyNFd3clFIWmpNQXpmSjkweTNramhyTXd2dlB6d2dkdDdMVDhZcDM2QmpqS1lmQlRGTWFMRllKcTFsOUR5QQ?oc=5",
-        "pubTime": "2026-09-08 19:02",
-        "source": "news.google.com",
-        "titleZh": "觀點：2028年後的美國貿易政策可能維持川普時代的關稅政策——日本新聞網（Japan Wire）／共同社",
-        "descZh": "觀點：2028年後的美國貿易政策可能維持川普時代的關稅&nbsp;&nbsp;日本新聞社（Japan Wire）由共同社報導"
-      },
-      {
-        "title": "Canada set to hit back at Trump tariffs, risking wider trade war - Times West Virginian",
-        "desc": "Canada set to hit back at Trump tariffs, risking wider trade war&nbsp;&nbsp;Times West Virginian",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQazA1aG1wZ1NUTVRXNEhJRnlzV09DMmxSa0lCWkhhaVhMTmxGdGxkMmFVTmtXM1hfQ0ZwUEFEc0x4aVhFVVpQWGExM3VCcVRDVHJ3aXYxMlF6bVRKZXA2Q3VhMERwazZ2d1JwTVhzVHJTREV6VTN4NE5TVkwwRGxEWDI2UTVicTFNOVRfWFZVV05nakNhMTR3bzlFWmJnSFBZWVlMWEZJSlhsVzlPeDFDeUJZYVJkSkY4WUt3WF9VcDhrUXVRRTVFc2JxTGp3cXNCTzR1X0hweE1nS0lkZ1lJZmFWeHdfZw?oc=5",
-        "pubTime": "2026-09-08 18:00",
-        "source": "news.google.com",
-        "titleZh": "加拿大準備對特朗普的關稅措施採取反制措施，恐將引發更廣泛的貿易戰——《西維吉尼亞時報》",
-        "descZh": "加拿大準備對特朗普的關稅措施進行反制，恐將引發更廣泛的貿易戰&nbsp;&nbsp;《西維吉尼亞時報》"
-      },
-      {
-        "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
-        "desc": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator&nbsp;&nbsp;NBC News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdvNUZJWEc5LWNIVjRqNzVSSS1oY2lmNkR5RS1hNTZPQUkxak5RRWZsY050VGNWc2dCbXBJZDZXalZfOGc4RHVYTHJhN2JjV0ZhTmcwOGJvdmxyLWdjTlhOaldQcjhQWDhHYjFrWjNRcHp4UExsQ2UwOW1sdlI5YnJtTHY4S2hQZ0tQOVNuQXdvRi1BR2NFRHQ1dDVFWWJfbWhpYmFxZ1JxNjFoNy1pSGtsR24zaU5LalZrVEp0LUluLVlQ?oc=5",
-        "pubTime": "2026-09-08 15:37",
-        "source": "news.google.com",
-        "titleZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對——NBC新聞",
-        "descZh": "川普呼籲禁用龐巴迪飛機，引發一名共和黨參議員的反對&nbsp;&nbsp;NBC新聞"
-      },
-      {
-        "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-        "desc": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-08 08:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普威脅要阻止加拿大龐巴迪噴射機在美國的銷售",
-        "descZh": "在兩國鄰國之間的貿易戰日益升級之際，加拿大一家最大企業之一面臨威脅。"
-      },
-      {
-        "title": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump's Canada tariffs punch swing states just before the midterms - Fortune",
-        "desc": "Wisconsin cheese, Maine seafood, Kentucky appliances: Trump's Canada tariffs punch swing states just before the midterms&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYTlacUJud2VuREZud1g3OXlCUVpjZm9uYzRxTnZOVnV6djVHbUVDeHE4RzlITHJTQXFHOGd5dlhELXE2ZWtXVFJKRFFPb2I2ZGU4Y181R2lQYmtsSEdVT2tzUmNXRDN1bjlXclhGdUo3bTRiN2ZJUFRnUmV3a0xPbDg4aHBzVzg?oc=5",
-        "pubTime": "2026-09-08 02:30",
-        "source": "news.google.com",
-        "titleZh": "威斯康辛州的起司、緬因州的海鮮、肯塔基州的家電：川普對加拿大課徵關稅，在中期選舉前夕重創搖擺州 ——《財富》雜誌",
-        "descZh": "威斯康辛州的起司、緬因州的海鮮、肯塔基州的家電：川普對加拿大加徵關稅，在中期選舉前夕重創搖擺州&nbsp;&nbsp;《財星》"
       }
     ]
   }
