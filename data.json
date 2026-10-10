@@ -46974,32 +46974,32 @@
       }
     ],
     "global": {
+      "oil": 91.66,
+      "oil_chg": 2.49,
+      "vix": 14.84,
+      "vix_chg": -4.38,
+      "sp500": 7811.54,
+      "sp500_chg": 1.15,
+      "gold": 4220.3,
+      "gold_chg": 1.53,
+      "us10y": 5.24,
+      "us10y_chg": -1.26,
+      "smh": 603.33,
+      "smh_chg": -4.32,
+      "xle": 65.08,
+      "xle_chg": 3.6,
+      "nasdaq": 27366.17,
+      "nasdaq_chg": 0.64,
       "jpytwd": 0.2,
-      "jpytwd_chg": -0.94,
-      "sp500": 7765.36,
-      "sp500_chg": 1.29,
-      "gold": 4168.0,
-      "gold_chg": 0.27,
-      "tsm_adr": 457.99,
-      "tsm_adr_chg": -0.26,
-      "vix": 15.41,
-      "vix_chg": 0.65,
-      "nasdaq": 27193.34,
-      "nasdaq_chg": 1.2,
-      "sox": 12623.72,
-      "sox_chg": -1.6,
-      "usdtwd": 31.95,
-      "usdtwd_chg": 0.35,
-      "xle": 65.24,
-      "xle_chg": 4.05,
-      "smh": 607.27,
-      "smh_chg": -1.71,
-      "qqq": 747.58,
-      "qqq_chg": 0.75,
-      "oil": 91.24,
-      "oil_chg": 2.02,
-      "us10y": 5.23,
-      "us10y_chg": -0.87
+      "jpytwd_chg": -1.34,
+      "qqq": 751.27,
+      "qqq_chg": 0.23,
+      "usdtwd": 31.91,
+      "usdtwd_chg": 0.24,
+      "tsm_adr": 453.31,
+      "tsm_adr_chg": -4.12,
+      "sox": 12572.42,
+      "sox_chg": -4.3
     },
     "futures": {
       "自營": -534,
@@ -47037,6 +47037,6 @@
         "融券餘額": 108
       }
     },
-    "us_close_date": "10/09"
+    "us_close_date": "10/10"
   }
 ]
