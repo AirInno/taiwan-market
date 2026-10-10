@@ -1,5 +1,102 @@
 [
   {
+    "date": "20261010",
+    "fetchTime": "2026-10-10 08:06",
+    "count": 10,
+    "articles": [
+      {
+        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "desc": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 06:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "評論員凱蒂·扎卡里亞獲任命為新任白宮新聞秘書",
+        "descZh": "這位保守派評論員目前在川普媒體與科技集團擔任傳播顧問。"
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 06:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "分析：川普與俄羅斯的驚人協議凸顯了遏制燃料價格所面臨的壓力日益增大",
+        "descZh": "BBC北美特派員撰文指出，美國總統希望在下個月的中期選舉前，緩解其所屬政黨所承受的壓力。"
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "desc": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 05:54",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普宣布與俄羅斯達成柴油供應協議，澤連斯基則批評此舉是「送給普丁的禮物」",
+        "descZh": "烏克蘭總統表示，允許俄羅斯出售石油產品將延長這場必須結束的戰爭。"
+      },
+      {
+        "title": "Trump Administration Expands Tariffs Under Alternative Trade Laws - Legis1",
+        "desc": "Trump Administration Expands Tariffs Under Alternative Trade Laws&nbsp;&nbsp;Legis1",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVkx4dUR0Y3J6SVZyaTAtYTl6dUhZMGVqbE5aVllkbmo3OFo2Qnc4Vm1FckE5UkphMTc1MWhYdHg3TXhVVWpiVFNXakhUQXJmNmdmVHJHZkxXNmh4SDI4U2RXa2VuRmRMMnJGOGw1UUYwQkk?oc=5",
+        "pubTime": "2026-10-09 21:55",
+        "source": "news.google.com",
+        "titleZh": "川普政府依據替代性貿易法擴大徵收關稅 - Legis1",
+        "descZh": "川普政府依據替代性貿易法擴大關稅範圍&nbsp;&nbsp;Legis1"
+      },
+      {
+        "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
+        "pubTime": "2026-10-09 17:58",
+        "source": "news.google.com",
+        "titleZh": "川普即將對60個貿易夥伴國實施全面關稅 —— ABC新聞 —— 突發新聞、最新消息與影片",
+        "descZh": "川普即將對60個貿易夥伴國實施全面關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "The AI Investment Boom Trumps Tariff Policy - Seeking Alpha",
+        "desc": "The AI Investment Boom Trumps Tariff Policy&nbsp;&nbsp;Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2NsTmhKX0NDdHk3VkJLRXVhSzhlMFp3UFN0eDBwNmVtN3ZwczN2eHlQQ3NCcG1oN0hEMEduVkpXZ2dNaFBNRHBxcXBwbG9sLWpMMHkwOUZReU1CbFJPQnV5Umx2Yy1pSDlxTGFQN2FpWFJESTlLTEs1b2Q5aVExM2NCamMzQ1U?oc=5",
+        "pubTime": "2026-10-09 02:15",
+        "source": "news.google.com",
+        "titleZh": "人工智慧投資熱潮壓倒關稅政策 — Seeking Alpha",
+        "descZh": "AI 投資熱潮壓過關稅政策&nbsp;&nbsp;Seeking Alpha"
+      },
+      {
+        "title": "Republicans Are Getting Grilled Over Trump's Tariffs - Reason Magazine",
+        "desc": "Republicans Are Getting Grilled Over Trump's Tariffs&nbsp;&nbsp;Reason Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1EydDU2TWtPd0NoTW54aGlyanZJMUpHWTNyV2I4ajlEWUU4anBzdWVqU0lEY3lTVzV5a0VPZjItUldLNG9NRHpFdTQtNG5fNVExZG1tUnhpY0gxRnR6RDU0UjRZVmwyWHZkUjhlU3JwcU9OY191cS1ZTDZ0bXdXYzZ5VU5DRUk0NUE?oc=5",
+        "pubTime": "2026-10-09 00:30",
+        "source": "news.google.com",
+        "titleZh": "共和黨人因川普的關稅政策而備受抨擊——《Reason》雜誌",
+        "descZh": "共和黨人因川普的關稅政策而備受抨擊&nbsp;&nbsp;《Reason》雜誌"
+      },
+      {
+        "title": "The politics of tariffs after Trump - The Hill",
+        "desc": "The politics of tariffs after Trump&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTl4Sk1CMGJUT2lTdGRxazdqWlRSd2gxZDJQWTI4bkhmekgzRGg2MWRfbXlNMVNrMmM5OWl0Um5LNGlwdGRIdGYtTVJNODhTN2UyV3NSR21TcW9Mc1p2VXBIb29GOThoTkU0dEhGcHdTeEVtUXl0LVFEbkQ1Ui1TcC01cElBLUR0X2FTb3owU1A1UlgyYWdVUdIBngFBVV95cUxQZlZYaU9ZQmxXbzk4c1J6bm1sV0pqUVY1WHZIcjlRY0NyWDREek9sZE83WHZoTEdST2lXMGZmQ3FCSXJkWUZWRGFLQlZ0cVdLRk5CQ1ZwajI1TGdLY3JYYnhTa0lQNWdVbTU3cnU0QUZsQ1ZSMGxETEJuaU9aRkw0OE42Q0dMbmk3QXNaZWcyZnBhd3Z6bFljRC1xcFlvQQ?oc=5",
+        "pubTime": "2026-10-08 21:30",
+        "source": "news.google.com",
+        "titleZh": "川普時代後的關稅政治——《The Hill》",
+        "descZh": "川普之後的關稅政治　《The Hill》"
+      },
+      {
+        "title": "Americans blame 'boring' Trump policy for rising costs - Alternet",
+        "desc": "Americans blame 'boring' Trump policy for rising costs&nbsp;&nbsp;Alternet",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tbWNMNVdleTdFZlc5ZENDTTVKQUdkNGF4RnpMbk04eTBPWlZLemNDVnhPTmJ4X0RaVEtjcXg2VmxoYWlMN2hNM3NKUDBGMzVNZTZ0TDUzdw?oc=5",
+        "pubTime": "2026-10-08 19:14",
+        "source": "news.google.com",
+        "titleZh": "美國人將物價上漲歸咎於「乏味」的川普政策 —— Alternet",
+        "descZh": "美國人將物價上漲歸咎於「乏味」的川普政策&nbsp;&nbsp;Alternet"
+      },
+      {
+        "title": "Why the greenback has defied Trump tariffs, traders and the Fed - AFR",
+        "desc": "Why the greenback has defied Trump tariffs, traders and the Fed&nbsp;&nbsp;AFR",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMHd5bmRpSktBLWpuOGRJOG9LY2dqc3R1bWhqd0o2b200dTlkX0Z5ajdtU0pkeUZjandoQ1JYYXNBYURnUFh5V0ZxWFlfS0xZdWZKbjU4VV9FWERXejBTNktlYXVBeXZjaHktUlRaV2pubWRqbVliUW5KSlQ2OWlGbWZmZkUxWDNscEtkbnU3S1pGQ003SWNKT05YaXk1ZWllWHdqZWdxOVhoRlE4c3QxcHEyVjl5djE2TUxaRFplbUxJbk5rRXc?oc=5",
+        "pubTime": "2026-10-08 09:00",
+        "source": "news.google.com",
+        "titleZh": "為何美元能逆特朗普關稅、交易員及聯準會而行——《澳洲金融評論報》",
+        "descZh": "為何美元能抵禦川普的關稅、交易員及聯準會的影響？&nbsp;&nbsp;AFR"
+      }
+    ]
+  },
+  {
     "date": "20261009",
     "fetchTime": "2026-10-09 08:29",
     "count": 10,
@@ -2899,112 +2996,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "在美國發動戰爭之際，赫格塞特正對五角大廈進行大刀闊斧的改革——但代價是什麼？",
         "descZh": "BBC記者湯姆·貝特曼撰文指出，軍方內的動盪可能將塑造川普第二任期的歷史遺產。"
-      }
-    ]
-  },
-  {
-    "date": "20260910",
-    "fetchTime": "2026-09-10 06:38",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Gov. Evers, MMAC president decry Trump trade policy as Harley-Davidson faces 50% tariff - The Business Journals",
-        "desc": "Gov. Evers, MMAC president decry Trump trade policy as Harley-Davidson faces 50% tariff&nbsp;&nbsp;The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTZmU2QzQ094TmZhcnBBSDdjaF9IQmQ2Yk03d1hhejhockhqZE1iWmV5T1JSaktWZ3pLcHdzM3FaS1lITUpReFdfcUdIdzBfZllCQnJkUjk2YVdIc3NwNnBQQnlyOTMweXBqbGxYZDdGdS1ZWjBPTGEtWWN6QTk1d25tQmRxbW5PRTEtRTJjTGphSWlk?oc=5",
-        "pubTime": "2026-09-10 03:34",
-        "source": "news.google.com",
-        "titleZh": "哈雷-戴維森面臨 50% 關稅之際，埃弗斯州長與 MMAC 主席譴責川普的貿易政策 —《商業期刊》",
-        "descZh": "埃弗斯州長與 MMAC 主席譴責川普的貿易政策，哈雷-戴維森面臨 50% 關稅&nbsp;&nbsp;《商業期刊》"
-      },
-      {
-        "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-        "desc": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
-        "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-10 02:27",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "公共紀錄顯示，川普曾向娜塔莉·哈普及另外兩名幕僚贈送了45,000美元的現金禮物",
-        "descZh": "白宮表示，贈予哈普及其他三人的現金禮物屬私人性質——且合法。"
-      },
-      {
-        "title": "What tariffs will really cost Canadians and Americans",
-        "desc": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 21:06",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "關稅將給加拿大人和美國人帶來多少實際代價",
-        "descZh": "家庭和企業已經習慣了關稅對生活成本的影響，這種情況已持續一年多，那麼現在會有什麼變化呢？"
-      },
-      {
-        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-        "desc": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 18:20",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國將禁止進口部分加拿大產的酒類、乳製品及機車",
-        "descZh": "這是這場旷日持久的貿易戰中的最新一波反制措施，發生在加拿大針對美國商品的反制關稅生效之後。"
-      },
-      {
-        "title": "Trump’s Canadian trade war stirs up trouble for Republican candidates - Stateline",
-        "desc": "Trump’s Canadian trade war stirs up trouble for Republican candidates&nbsp;&nbsp;Stateline",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE1FN2FkcmFNN3l1MTg4YnQ0VUtDY003TzlPQy1BdjVYb1UwTHZDWnBaUUN3cTl3cUdJdHcwYWZwck9BWGlNRWFlWldvQnhMOXZ2VGdXNks3cDlyekx4OHJxcHVoel9nNlUxQ1ZweVlOUEU2NFFscTE5X3RqZFlNM1BOclpwUF9BMnczdHhmZWU5UVN4NDN5OWt2ekNsTlFBZVRscg?oc=5",
-        "pubTime": "2026-09-09 17:05",
-        "source": "news.google.com",
-        "titleZh": "川普對加拿大的貿易戰為共和黨候選人帶來麻煩 — Stateline",
-        "descZh": "川普對加拿大的貿易戰為共和黨候選人帶來麻煩&nbsp;&nbsp;Stateline"
-      },
-      {
-        "title": "Susan Collins says the White House has ‘underestimated’ impact of Canada tariffs - Politico",
-        "desc": "Susan Collins says the White House has ‘underestimated’ impact of Canada tariffs&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmhSeEs1SDZUbzlwX3VlMmJHNnU3V1lPZE55ZUI2X1hyNUV6enRWZnE0VWJLeEgtTDFZd2tFa3hZZGlSQ2RzUVd4dWcwTDlDdDAySktDcFNQZHpoUjVEdmZXbzhkRkc0S21rRUlmTDNUcHltMVZfS2UtckdJT0VENlNvZmxjUy05cHJTbnFUXzlVZw?oc=5",
-        "pubTime": "2026-09-09 07:19",
-        "source": "news.google.com",
-        "titleZh": "蘇珊·柯林斯表示，白宮「低估」了對加拿大加徵關稅的影響——《Politico》",
-        "descZh": "蘇珊·柯林斯表示，白宮「低估」了對加拿大加徵關稅的影響&nbsp;&nbsp;《Politico》"
-      },
-      {
-        "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-        "desc": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
-        "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 07:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在美國發動戰爭之際，赫格塞特正對五角大廈進行大刀闊斧的改革——但代價究竟是什麼？",
-        "descZh": "BBC記者湯姆·貝特曼撰文指出，軍方內的動盪可能將塑造川普第二任期的歷史遺產。"
-      },
-      {
-        "title": "Canada's retaliatory tariffs may hurt its economy, but most still approve because they hate Trump - Fortune",
-        "desc": "Canada's retaliatory tariffs may hurt its economy, but most still approve because they hate Trump&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWZCVTQ4MXQwZEpWV2kzQV9Zb0IwdTJzVUh3aEltT2pydEtzc1JoTG8xNVUyOTdxaEQwVUU0QkFNMnlQb256YmV0ZE5OZWdWaW1mVl9aTjdEelQ4ckN0UTZZVlNjZWhwU3VhczQxbWl4dkRIM0QwS2czVDdCWmpmYWF6bjRoaG1Rcl96SHAzaS1hckhnR0hZN04xeHdTeFJaclE?oc=5",
-        "pubTime": "2026-09-09 04:36",
-        "source": "news.google.com",
-        "titleZh": "加拿大的報復性關稅可能會損害其經濟，但多數人仍表示支持，因為他們討厭川普——《財星》",
-        "descZh": "加拿大的報復性關稅可能會損害其經濟，但多數人仍表示支持，因為他們討厭川普&nbsp;&nbsp;《財星》"
-      },
-      {
-        "title": "Trump shares misleading video of King and fainting worker",
-        "desc": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 00:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普分享了一段關於金恩與一名暈倒工人的誤導性影片",
-        "descZh": "總統分享了一段具誤導性的影片，影片中似乎顯示查爾斯在一次王室訪問期間，面對一名暈倒的男子時聳了聳肩並轉身離去。"
-      },
-      {
-        "title": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs - Japan Wire by Kyodo News",
-        "desc": "OPINION: U.S. trade policy after 2028 likely to retain Trump-era tariffs&nbsp;&nbsp;Japan Wire by Kyodo News",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cV92T0RXUHcwVy14eVo3WXNNb0dyNFd3clFIWmpNQXpmSjkweTNramhyTXd2dlB6d2dkdDdMVDhZcDM2QmpqS1lmQlRGTWFMRllKcTFsOUR5QQ?oc=5",
-        "pubTime": "2026-09-08 19:02",
-        "source": "news.google.com",
-        "titleZh": "觀點：2028年後的美國貿易政策可能維持川普時期的關稅——日本新聞網（Japan Wire）／共同社報導",
-        "descZh": "觀點：2028年後的美國貿易政策可能維持川普時期的關稅&nbsp;&nbsp;日本線（Japan Wire），共同社報導"
-      },
-      {
-        "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
-        "desc": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator&nbsp;&nbsp;NBC News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdvNUZJWEc5LWNIVjRqNzVSSS1oY2lmNkR5RS1hNTZPQUkxak5RRWZsY050VGNWc2dCbXBJZDZXalZfOGc4RHVYTHJhN2JjV0ZhTmcwOGJvdmxyLWdjTlhOaldQcjhQWDhHYjFrWjNRcHp4UExsQ2UwOW1sdlI5YnJtTHY4S2hQZ0tQOVNuQXdvRi1BR2NFRHQ1dDVFWWJfbWhpYmFxZ1JxNjFoNy1pSGtsR24zaU5LalZrVEp0LUluLVlQ?oc=5",
-        "pubTime": "2026-09-08 15:37",
-        "source": "news.google.com",
-        "titleZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對 - NBC新聞",
-        "descZh": "川普呼籲禁止龐巴迪飛機，引發一名共和黨參議員的反對&nbsp;&nbsp;NBC新聞"
       }
     ]
   }
