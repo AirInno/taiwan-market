@@ -1,5 +1,75 @@
 [
   {
+    "date": "20261011",
+    "fetchTime": "2026-10-11 07:40",
+    "count": 7,
+    "articles": [
+      {
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-11 03:28",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "澤連斯基譴責柴油交易後，川普表示：「是時候讓烏克蘭迎來新總統了」",
+        "descZh": "烏克蘭領導人曾表示，與俄羅斯達成的將柴油出口至美國的協議，將有助於莫斯科為戰爭籌措資金。"
+      },
+      {
+        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "desc": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 23:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "諾貝爾和平獎得主表示，美國對國際刑事法院的制裁「不可接受」",
+        "descZh": "納維·皮萊表示，川普政府對該國際法庭實施的全面制裁是「前所未聞的」。"
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "desc": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 22:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普宣布與俄羅斯達成柴油供應協議，澤連斯基則稱此舉是送給普丁的禮物",
+        "descZh": "烏克蘭總統嚴厲批評此舉，稱其為「對戰爭的投資，而戰爭必須結束，而非延續」。"
+      },
+      {
+        "title": "US midterms 2026: Why a Democratic House may not ease Trump's tariff pressure on India - Business Today",
+        "desc": "US midterms 2026: Why a Democratic House may not ease Trump's tariff pressure on India&nbsp;&nbsp;Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTYyQmgwU2hfQ3MwcjJ4M1JaV2pVcDBIc0Fjb09oY0huX2NQUzI2WGdDWUN0TVd3cFRwM2ZBYW9FNVlUcFZ1cGREYjYwRTJnXzVDdFVkYVdQbjVJS2dRcTVydC1ORmRWY2ExdndjbkdTeUpKWDVTY3dmVGwweG11dmNQOE11bzVjZV9neVo2N1JGczlZMk5QOUpBOE4tTzdMZjZHdWJOTVp3djRtMUVNekJmNW1fdVUza3BadmRIY0NqLVN2OVJ4N0NWRElDUUpaT3J2NHdfOHhlRTjSAeABQVVfeXFMT2thQzlGVk1teW5yRl9NSGJvdFZJQlNDaFhqN3BveVhic3ZxcjZUc1U5ZjhwUFUxbnd3NDNpTlRBRXJ6WkI5TWtsaEhnQVpmMVptUDJaOFVqMVdoWWcwTUxLMXV6WlpaRl9TV1VPNWdvTHVBbWctYmNQbjZmZTdRZ3F1MEUzamptVWZnRkM4OUpJX09rTmpwQ2RRZGMycmdONkRVcEN1X0p4YVJyNS1CNEFBNW5ZM3NnUVViUDlrVHJnVFdjME9DZEEzaG5ZTHUzRG92cVJRRTIyWDY4WUF2UzQ?oc=5",
+        "pubTime": "2026-10-10 11:18",
+        "source": "news.google.com",
+        "titleZh": "2026年美國中期選舉：為何民主黨掌控的眾議院未必能緩解川普對印度的關稅壓力——《今日商業》",
+        "descZh": "2026年美國中期選舉：為何由民主黨掌控的眾議院未必能緩解川普對印度的關稅壓力&nbsp;&nbsp;《Business Today》"
+      },
+      {
+        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "desc": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 06:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "評論員凱蒂·扎卡里亞獲任命為新任白宮新聞秘書",
+        "descZh": "這位保守派評論員目前在川普媒體與科技集團擔任傳播顧問。"
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 06:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "分析：川普與俄羅斯的驚人協議凸顯出遏制燃料價格所面臨的壓力日益增大",
+        "descZh": "BBC北美特派員撰文指出，美國總統希望在下個月的中期選舉前，緩解其所屬政黨所承受的壓力。"
+      },
+      {
+        "title": "Trump Administration Expands Tariffs Under Alternative Trade Laws - Legis1",
+        "desc": "Trump Administration Expands Tariffs Under Alternative Trade Laws&nbsp;&nbsp;Legis1",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVkx4dUR0Y3J6SVZyaTAtYTl6dUhZMGVqbE5aVllkbmo3OFo2Qnc4Vm1FckE5UkphMTc1MWhYdHg3TXhVVWpiVFNXakhUQXJmNmdmVHJHZkxXNmh4SDI4U2RXa2VuRmRMMnJGOGw1UUYwQkk?oc=5",
+        "pubTime": "2026-10-09 21:55",
+        "source": "news.google.com",
+        "titleZh": "川普政府依據替代性貿易法擴大徵收關稅 - Legis1",
+        "descZh": "川普政府依據替代性貿易法擴大加徵關稅&nbsp;&nbsp;Legis1"
+      }
+    ]
+  },
+  {
     "date": "20261010",
     "fetchTime": "2026-10-10 08:06",
     "count": 10,
@@ -2845,157 +2915,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "某加拿大小鎮素以熱情好客聞名，但在「9·11」週年紀念日當天，這份熱情卻未延伸至美國大使身上",
         "descZh": "甘德市曾在9·11事件當天收留了受困的旅客。如今，有些人不希望川普的特使出席他們的紀念活動。"
-      }
-    ]
-  },
-  {
-    "date": "20260911",
-    "fetchTime": "2026-09-11 06:40",
-    "count": 16,
-    "articles": [
-      {
-        "title": "Trump promises to send $500 to nearly 1 million Americans for Obamacare 'overcharges'",
-        "desc": "Eligible Americans in 30 states would begin receiving payments in October, funded by a surplus of fees, the White House said.",
-        "url": "https://www.bbc.co.uk/news/articles/c62jlgrj506o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 02:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普承諾向近100萬名美國人發放500美元，以彌補「歐巴馬健保」的「多收費用」",
-        "descZh": "白宮表示，30個州的符合資格美國人將於10月開始領取這筆款項，資金來源為費用結餘。"
-      },
-      {
-        "title": "Can Trump really pay $5,000 to every American adult?",
-        "desc": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 00:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普真的能向每位美國成年人發放 5,000 美元嗎？",
-        "descZh": "分析師質疑，這位美國總統在選舉年提出的這項提議是否可行、合法，以及是否在財政負擔範圍內。"
-      },
-      {
-        "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
-        "desc": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-        "pubTime": "2026-09-11 00:25",
-        "source": "news.google.com",
-        "titleZh": "川普即將對60個貿易夥伴國實施全面關稅 — ABC新聞 — 突發新聞、最新消息與影片",
-        "descZh": "川普即將對60個貿易夥伴國實施全面關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
-      },
-      {
-        "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-        "desc": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-10 21:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，若共和黨在中期選舉中勝出，每位美國成年人將獲得 5,000 美元",
-        "descZh": "美國總統在黨代會上發言時，並未說明該計畫將如何運作，也未提及資金來源。"
-      },
-      {
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "desc": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-10 15:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普承諾的 5,000 美元選舉補助金是否合法？",
-        "descZh": "美國總統表示，若共和黨在11月的中期選舉中勝出，每位美國人將獲得5,000美元（3,700英鎊）。"
-      },
-      {
-        "title": "IMF ditched top candidate for chief economist job over Trump tariff remarks - Financial Times",
-        "desc": "IMF ditched top candidate for chief economist job over Trump tariff remarks&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcC1rMGhkWWRUVnU5RkFMM1NrY0lFdTRVdXNqSGRkeHJ3RVFkQm94QWhQeE5mMUN3Y2VVZXRZbjloWDM2dGZocnVzYklVSzhKenVUSkFuRGhodTk1eVhsREVyMDBHc1poMmJTdFA1VmhvOFgzcDEyMVFuYlVGZmZKVTZ3bEo?oc=5",
-        "pubTime": "2026-09-10 12:00",
-        "source": "news.google.com",
-        "titleZh": "國際貨幣基金組織因特朗普關稅言論而淘汰首席經濟學家職位的首選人選——《金融時報》",
-        "descZh": "國際貨幣基金組織因特朗普關稅言論而放棄首席經濟學家職位的首選人選&nbsp;&nbsp;《金融時報》"
-      },
-      {
-        "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
-        "desc": "Gander hosted stranded flyers on 9/11. Now some don't want Trump's envoy at their commemoration.",
-        "url": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-10 09:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "某加拿大小鎮素以熱情好客聞名，但在「9·11」紀念日當天，這份熱情卻未延伸至美國大使身上",
-        "descZh": "甘德市曾在911事件當天收留受困的乘客。如今，有些人不希望川普的特使出席他們的紀念活動。"
-      },
-      {
-        "title": "Watch: Do Republicans blame Trump for high oil prices?",
-        "desc": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
-        "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-10 09:37",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：共和黨人是否將油價高漲歸咎於川普？",
-        "descZh": "BBC記者莎拉·史密斯正在德州報導共和黨首場中期選舉大會，該大會正值油價攀升至每桶100美元（74英鎊）之際。"
-      },
-      {
-        "title": "The countries fighting back against Trump's tariff tirade - DW.com",
-        "desc": "The countries fighting back against Trump's tariff tirade&nbsp;&nbsp;DW.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
-        "pubTime": "2026-09-10 05:19",
-        "source": "news.google.com",
-        "titleZh": "反擊川普關稅攻勢的各國 - DW.com",
-        "descZh": "反擊川普關稅攻勢的各國&nbsp;&nbsp;DW.com"
-      },
-      {
-        "title": "Gov. Evers, MMAC president decry Trump trade policy as Harley-Davidson faces 50% tariff - The Business Journals",
-        "desc": "Gov. Evers, MMAC president decry Trump trade policy as Harley-Davidson faces 50% tariff&nbsp;&nbsp;The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTZmU2QzQ094TmZhcnBBSDdjaF9IQmQ2Yk03d1hhejhockhqZE1iWmV5T1JSaktWZ3pLcHdzM3FaS1lITUpReFdfcUdIdzBfZllCQnJkUjk2YVdIc3NwNnBQQnlyOTMweXBqbGxYZDdGdS1ZWjBPTGEtWWN6QTk1d25tQmRxbW5PRTEtRTJjTGphSWlk?oc=5",
-        "pubTime": "2026-09-10 03:34",
-        "source": "news.google.com",
-        "titleZh": "哈雷-戴維森面臨 50% 關稅之際，埃弗斯州長與 MMAC 主席譴責川普的貿易政策 —— 《商業期刊》",
-        "descZh": "埃弗斯州長與 MMAC 主席譴責川普的貿易政策，哈雷-戴維森面臨 50% 關稅&nbsp;&nbsp;《商業期刊》"
-      },
-      {
-        "title": "Fmr Biden ambassador blames Trump for Canada playing 'footsie' with China - Fox News",
-        "desc": "Fmr Biden ambassador blames Trump for Canada playing 'footsie' with China&nbsp;&nbsp;Fox News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHI4VnlZNFBrMS1hZG4zREh6YzdKVnlOTUMwUS1GOEdMdUhmenRpT191emRDTGRqT0dkMXVndW1HQjVyN0tJY0ttdUhFWWI3VGx5am91TVZnMmxORUR5b1RYdFZxajdnd2N5ODByU20wYWZxdmZpazFMNE5PTTd1aUR2YUxLUS1Id0gxek4yMHFrVDV1QW9ydVdNSdIBoAFBVV95cUxNLU5jTkRkMXFtTHNPWWRIQlpIeUZxVFBaUTVlY2JIcnRtbzI3bFd0WDJZMmExVjYtZldxUWNOdzc3d29XcF9iMjE3aHFsQ0E0d2M3cS1meE1lY2N5N0ZZVTNGM0pvOVJacXE0ZzJJb0NXWWZqMmZVR1dSWnZ3WGZZTWltUFE1dzdyUVdPWl85TzUxVS0wemk5U0hXUzNvcENL?oc=5",
-        "pubTime": "2026-09-09 23:10",
-        "source": "news.google.com",
-        "titleZh": "拜登前大使指責川普導致加拿大與中國「暗中勾結」——福斯新聞",
-        "descZh": "拜登前大使指責川普導致加拿大與中國「暗中勾結」&nbsp;&nbsp;福斯新聞"
-      },
-      {
-        "title": "What tariffs will really cost Canadians and Americans",
-        "desc": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 21:06",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "關稅將對加拿大人和美國人造成什麼樣的實際負擔",
-        "descZh": "家庭和企業已經習慣了關稅對生活成本的影響，這情況已持續一年多，那麼現在會有什麼變化呢？"
-      },
-      {
-        "title": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC - rti.org.tw",
-        "desc": "Trump says Taiwan to double Arizona chip fab scale; Taiwan minister defers to TSMC&nbsp;&nbsp;rti.org.tw",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZkFUaE9LSmlMVzZjSkF1ODQ2c3BFNnYwU3M5cFJaMWxaSS10dU5FUk9mXy1yUTdsWmNyR1Z1Y3FFQkczYUhEWmZ1VnBuNmJZYkNRVmpGUnNmS0U?oc=5",
-        "pubTime": "2026-09-09 17:55",
-        "source": "news.google.com",
-        "titleZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電 - rti.org.tw",
-        "descZh": "川普表示台灣將把亞利桑那州晶圓廠規模擴大一倍；台灣部長將決定權交由台積電&nbsp;&nbsp;rti.org.tw"
-      },
-      {
-        "title": "Trump’s Canadian trade war stirs up trouble for Republican candidates - Stateline",
-        "desc": "Trump’s Canadian trade war stirs up trouble for Republican candidates&nbsp;&nbsp;Stateline",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE1FN2FkcmFNN3l1MTg4YnQ0VUtDY003TzlPQy1BdjVYb1UwTHZDWnBaUUN3cTl3cUdJdHcwYWZwck9BWGlNRWFlWldvQnhMOXZ2VGdXNks3cDlyekx4OHJxcHVoel9nNlUxQ1ZweVlOUEU2NFFscTE5X3RqZFlNM1BOclpwUF9BMnczdHhmZWU5UVN4NDN5OWt2ekNsTlFBZVRscg?oc=5",
-        "pubTime": "2026-09-09 17:05",
-        "source": "news.google.com",
-        "titleZh": "川普對加拿大的貿易戰為共和黨候選人惹上麻煩 —— Stateline",
-        "descZh": "川普對加拿大的貿易戰為共和黨候選人帶來麻煩&nbsp;&nbsp;Stateline"
-      },
-      {
-        "title": "Susan Collins says the White House has ‘underestimated’ impact of Canada tariffs - Politico",
-        "desc": "Susan Collins says the White House has ‘underestimated’ impact of Canada tariffs&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmhSeEs1SDZUbzlwX3VlMmJHNnU3V1lPZE55ZUI2X1hyNUV6enRWZnE0VWJLeEgtTDFZd2tFa3hZZGlSQ2RzUVd4dWcwTDlDdDAySktDcFNQZHpoUjVEdmZXbzhkRkc0S21rRUlmTDNUcHltMVZfS2UtckdJT0VENlNvZmxjUy05cHJTbnFUXzlVZw?oc=5",
-        "pubTime": "2026-09-09 07:19",
-        "source": "news.google.com",
-        "titleZh": "蘇珊·柯林斯表示，白宮「低估」了對加拿大加徵關稅的影響——《Politico》",
-        "descZh": "蘇珊·柯林斯表示，白宮「低估」了對加拿大加徵關稅的影響&nbsp;&nbsp;《Politico》"
-      },
-      {
-        "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-        "desc": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
-        "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-09 07:11",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在美國發動戰爭之際，赫格塞特正對五角大廈進行大刀闊斧的改革——但代價是什麼？",
-        "descZh": "BBC記者湯姆·貝特曼撰文指出，軍方內的動盪可能將塑造川普第二任期的歷史遺產。"
       }
     ]
   }
