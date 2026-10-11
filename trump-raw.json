@@ -1,5 +1,111 @@
 [
   {
+    "date": "20261012",
+    "fetchTime": "2026-10-12 07:46",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "desc": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-12 05:36",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普聲稱的「能源停火」獲得澤連斯基歡迎，但俄羅斯保持沉默",
+        "descZh": "澤連斯基表示，基輔將支持這項停火協議。莫斯科方面尚未發表評論。"
+      },
+      {
+        "title": "Watch: What's behind Trump's energy ceasefire claim?",
+        "desc": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-12 04:55",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普所謂的「能源停火」聲明背後有何玄機？",
+        "descZh": "美國總統透過社群媒體貼文宣布了這項消息，這顯然讓烏克蘭感到意外，而俄羅斯尚未發表評論。"
+      },
+      {
+        "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEhKUUFIQU5lU09wWHVKS2hoSkM5UHA2SXpydjJyZjZtUGR0S1JCc3RxTlBRaVk0UlVhTGVNLVFfT1NnMDFOUDkzOGwwYWlYakNkeVVDVU5vamRnSlhPVllleWtLVmR1TVBfTVRVcFhya2dIb3Z2cGFqRjNNczZKcU5BeXY4cFJXaTRJSjRLVWs0RzdGV3VmamUxVEZhNVh4eFRWbGQwcU1nSG9hMXNTZHFn0gG3AUFVX3lxTE1TYkhqa2dueWV3Y0ViNnVMc3l1cmRiTFRQQWFtTFVVRG5NQjFnMFE0bjBXMzZkODR0dVJySEU5SEtjbkEzMmRfTnhMQllNM0JURkxWWVo2dkhtZmYtb2pWN1FLVU9NOXRzM0hMUzg4NFJwU2JON0tDbVlJaXcyY0ZUcGttemdiczh0eUZoU3NJZWVaX1JSRDg5SWVCbURoVGozOHRfYnZHc0tFbWVUbTN5cGdNWXlkMA?oc=5",
+        "pubTime": "2026-10-11 21:24",
+        "source": "news.google.com",
+        "titleZh": "共和黨面臨來自工廠工人的中期選舉反彈，這些工人因川普的關稅政策而失去工作 —— ABC新聞 —— 突發新聞、最新新聞與影片",
+        "descZh": "共和黨面臨中期選舉的反彈，原因在於工廠工人因川普的關稅政策而失去工作&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Trump’s tariffs fuel US factory job losses, put Republican support at risk ahead of midterms - Firstpost",
+        "desc": "Trump’s tariffs fuel US factory job losses, put Republican support at risk ahead of midterms&nbsp;&nbsp;Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0s0MVVNX1BmZVdlVXVxQmpCNUxWV1hzT3o4dWJOT2pSLUxPczJQODlnSHVkWHNpQlA0UGNLLXVwb1FTNklwWnhXZzFTVTJhYm5ucWtZN2tFYWxscURQY1ZtNDNCd1dfZVplZG5aaVVvYS0yM0NYX0p3eGdnODNiWFp6TWlmS2M2QVBrQTB2MHBzTW8xbDgzWDdzTHg2TnRWY2JseGlSZjVTT2g3alJXMUM4aU9qdm5qdlNkUm91Z0VDN2JLd3E1cFhsSFRxcm11dVZ0eFNqZFR4clRfY2lzQThDenjSAeoBQVVfeXFMUDBkczB3MlZ3dnZfaXhKMU5DbmV6N2lUNElGYzhQR0h2eTQ4b2V1bVh2Tlh1NXRpWkZHdlN1R0ItQWdGWTZFRjdkU19DT0hSVzRpWlZKem5QaEs4LThNQVA4ZGFSMzN5NUEtYlBobmY1WFY2dHZsMS1PclBHY3RrMVNrM3hNQXY3ZlAtR0RVQk9QdEZlQWhXeVp3ejFkTDZBdUt5S2xHRzRFWFVsV2JmbTBqbE04Q3RJRGlpLUJfMFBYOVpjTU84SXBJYWkzVkpRV2tYcnZjU1BnaXVMSWNRcjN4YU1TYkhJc2dn?oc=5",
+        "pubTime": "2026-10-11 21:09",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅加劇美國製造業就業崗位流失，在中期選舉前危及共和黨的支持基礎——Firstpost",
+        "descZh": "川普的關稅加劇了美國製造業就業崗位流失，並在中期選舉前危及共和黨的支持率&nbsp;&nbsp;Firstpost"
+      },
+      {
+        "title": "Trump sticks with tariffs despite rising prices and voter unease before midterms - India Today",
+        "desc": "Trump sticks with tariffs despite rising prices and voter unease before midterms&nbsp;&nbsp;India Today",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1HX1RaUzlHUmQzLUptVjRiUU1ReXN1bjMySW9GM2tMSWlORHA0SzJwWVZvUE9aWV95cmEtcmZiU01WamFSd0VOTkhha1dJNS1NelJvY29ZYjZscmZURkIwdUhUMVRHMXVrTGZFMno2Y2gzT0lWbDkyeTdKbVFXZ19fTC1YTWVYU2hONjlNZks0NG1KYVpJVHlYajJUSlZTVW9iRzJNX2dCazlqNjRGdGRPdDIxbDFJVVFFTWo3c9IBxAFBVV95cUxNbGtHbmRZcnN0eEFtVExBcW1IWERkNWdaVkVTaWxTU2RHVlo2aEt4YzdUQ0ljS09RVmp3YWxHT3J1UHVEaXRqMTR3c1VSNTVDRTVBVjR0Q1dwemduT3VIZHliUlA4cERnSTctN1JfamdmejJ6UHE1YkZJM0pzV1lUN0JCbHU3alhrQ0JWd19naFN4Y1QxamJKSXJpbEJpV3FRTTJ1WUtka3JVNmVsRG5yNTNyNko2SHo1VXd3OHBKU0NsOVdY?oc=5",
+        "pubTime": "2026-10-11 20:28",
+        "source": "news.google.com",
+        "titleZh": "儘管物價上漲且選民在中期選舉前感到不安，川普仍堅持徵收關稅——《今日印度》",
+        "descZh": "儘管物價上漲且選民在中期選舉前感到不安，川普仍堅持徵收關稅&nbsp;&nbsp;《今日印度》"
+      },
+      {
+        "title": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms - CTV News",
+        "desc": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms&nbsp;&nbsp;CTV News",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVExyTlBjTV9vODUtSjB1ZkRybGcwald3eV82YW00ejZjRnFIOGlyQmxnZkJBbnA2QTZKZFQ1ZjczWEtNVXZCY0tfd1dvUjlVSE1QQ044dHdOdTdiY2NrTkNFd3A5T0VweGdvZnJDWU9LUXpOSV9OQVdYY0xxM3ItOUQxVnJqQVVsX05Eck0zanNVUmZkZmVSUzlOMjBIY2MtaHJLLWJwS0x2Q2JncHNCUVNOYVBPb1BYRVNfNDFfeHpDVDVVOGpPT0NKemd2b00?oc=5",
+        "pubTime": "2026-10-11 20:25",
+        "source": "news.google.com",
+        "titleZh": "儘管美國選民在中期選舉前已開始反對關稅，川普仍堅持實施關稅政策 —— CTV News",
+        "descZh": "儘管美國選民在中期選舉前已開始反對關稅，川普仍堅持實施關稅&nbsp;&nbsp;CTV News"
+      },
+      {
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "desc": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+        "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-11 13:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國司法部就電視台對川普記者團的報導展開調查",
+        "descZh": "白宮曾禁止美國有線電視新聞網（CNN）、MS Now 和《Politico》進入，導致這些媒體不得不限制聯合採訪的範圍。"
+      },
+      {
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-11 09:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "澤連斯基譴責柴油交易後，川普表示：「是時候讓烏克蘭迎來新總統了」",
+        "descZh": "烏克蘭領導人曾表示，與俄羅斯達成的將柴油出口至美國的協議，將有助於莫斯科為戰爭籌措資金。"
+      },
+      {
+        "title": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International - Rti 中央廣播電臺",
+        "desc": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International&nbsp;&nbsp;Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUHB5anRjVHFhMGVVc3ZDWVhjQVNZdjVFR2VFdGhYVU9JMnliUUtvM3dCVEVJRTlpamVhOU1HalBPVktMTm9TT0FNLTByeHl0SVlJRHhaM0VCdm8?oc=5",
+        "pubTime": "2026-10-11 02:43",
+        "source": "news.google.com",
+        "titleZh": "川普提及台灣在美投資5,000億美元發展半導體產業｜美國新聞｜台灣國際廣播電台 - Rti 中央廣播電台",
+        "descZh": "川普提及台灣在美投資5,000億美元發展半導體產業——美國新聞——台灣國際廣播電台（Rti）中央廣播電台"
+      },
+      {
+        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "desc": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 23:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "諾貝爾和平獎得主表示，美國對國際刑事法院的制裁「不可接受」",
+        "descZh": "納維·皮萊表示，川普政府對該國際法庭實施的全面制裁是「前所未聞」的。"
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "desc": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-10 22:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普宣布與俄羅斯達成柴油供應協議，而澤連斯基則稱此舉是送給普丁的禮物",
+        "descZh": "烏克蘭總統嚴厲批評此舉，稱其為「對戰爭的投資，而戰爭必須結束，而非延續」。"
+      }
+    ]
+  },
+  {
     "date": "20261011",
     "fetchTime": "2026-10-11 07:40",
     "count": 7,
@@ -2818,103 +2924,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普承諾的 5,000 美元是否顯示出恐慌跡象？",
         "descZh": "北美編輯莎拉·史密斯寫道，即使以川普自己那套不按常理出牌的標準來看，他對選民的承諾也顯得相當離奇。"
-      }
-    ]
-  },
-  {
-    "date": "20260912",
-    "fetchTime": "2026-09-12 06:40",
-    "count": 10,
-    "articles": [
-      {
-        "title": "In 9/11 remarks, Trump links war with Iran",
-        "desc": "At the Pentagon 9/11 commemorations, President Trump praised the military and highlighted how their work is continuing with the war in Iran.",
-        "url": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 23:19",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在「9·11」紀念演說中將戰爭與伊朗聯繫起來",
-        "descZh": "在五角大廈舉行的「9·11」紀念活動上，川普總統讚揚了軍方，並強調軍方在伊朗戰爭中的工作仍在持續進行。"
-      },
-      {
-        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
-        "desc": "JD Vance delivered the keynote speech to end the party's convention - but the president still took centre stage, the BBC's Daniel Bush writes.",
-        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 22:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在川普主導黨代會之際，部分共和黨人悄悄詢問：接下來會輪到誰？",
-        "descZh": "BBC記者丹尼爾·布什（Daniel Bush）撰文指出，JD·范斯（JD Vance）在該黨全國代表大會閉幕時發表了主題演說——但總統依然是全場焦點。"
-      },
-      {
-        "title": "Has Trump won over voters with his midterm convention?",
-        "desc": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-        "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 14:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普透過這場中期選舉大會成功贏得選民支持了嗎？",
-        "descZh": "BBC 北美編輯莎拉·史密斯深入剖析了這場史上首度在美國總統任期中途舉行的共和黨全國代表大會的主要要點。"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "desc": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 09:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普承諾的 5,000 美元是否顯示出恐慌跡象？",
-        "descZh": "北美編輯莎拉·史密斯寫道，即使以川普自己那套不按常理出牌的標準來看，他對選民的承諾也顯得相當離奇。"
-      },
-      {
-        "title": "Trump promises to send $500 to nearly 1 million Americans for Obamacare 'overcharges'",
-        "desc": "Eligible Americans in 30 states would begin receiving payments in October, funded by a surplus of fees, the White House said.",
-        "url": "https://www.bbc.co.uk/news/articles/c62jlgrj506o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 02:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普承諾向近100萬名美國人發放500美元，以彌補「歐巴馬健保」的「多收費用」",
-        "descZh": "白宮表示，30個州的符合資格的美國人將於10月開始領取這筆款項，資金來源為費用結餘。"
-      },
-      {
-        "title": "Can Trump really pay $5,000 to every American adult?",
-        "desc": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 00:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普真的能向每位美國成年人發放 5,000 美元嗎？",
-        "descZh": "分析師質疑，美國總統這項在選舉年提出的提議是否可行、合法，或是負擔得起。"
-      },
-      {
-        "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
-        "desc": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-        "pubTime": "2026-09-10 23:44",
-        "source": "news.google.com",
-        "titleZh": "川普即將對60個貿易夥伴國實施全面關稅 —— ABC新聞 —— 突發新聞、最新消息與影片",
-        "descZh": "川普即將對60個貿易夥伴國實施全面關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
-      },
-      {
-        "title": "The Fallout of the U.S.–Canada Trade War Won’t Be Limited to North America - Carnegie Endowment for International Peace",
-        "desc": "The Fallout of the U.S.–Canada Trade War Won’t Be Limited to North America&nbsp;&nbsp;Carnegie Endowment for International Peace",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUJCVm9KZkhBOGtSLU1KemJBNlJCblBHMTh3SHRLSTZ3RlNjbmJmZ3BVclRRUDU0UjMwb0ZWdTdLR2VGTTJ2dzczMXdFVzY4Wk53X2NmYkNwTjdNdFozdzJfUFNFMllGdDE4SVJFbVo0VmVKclV1dW9KRk0xdW81SldIMXVuQQ?oc=5",
-        "pubTime": "2026-09-10 21:24",
-        "source": "news.google.com",
-        "titleZh": "美加貿易戰的後果將不僅限於北美——卡內基國際和平基金會",
-        "descZh": "美加貿易戰的後果將不僅限於北美&nbsp;&nbsp;卡內基國際和平基金會"
-      },
-      {
-        "title": "IMF ditched top candidate for chief economist job over Trump tariff remarks - Financial Times",
-        "desc": "IMF ditched top candidate for chief economist job over Trump tariff remarks&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcC1rMGhkWWRUVnU5RkFMM1NrY0lFdTRVdXNqSGRkeHJ3RVFkQm94QWhQeE5mMUN3Y2VVZXRZbjloWDM2dGZocnVzYklVSzhKenVUSkFuRGhodTk1eVhsREVyMDBHc1poMmJTdFA1VmhvOFgzcDEyMVFuYlVGZmZKVTZ3bEo?oc=5",
-        "pubTime": "2026-09-10 16:14",
-        "source": "news.google.com",
-        "titleZh": "國際貨幣基金組織因特朗普關稅言論而放棄首席經濟學家職位的首選人選——《金融時報》",
-        "descZh": "國際貨幣基金組織因特朗普關稅言論而放棄首席經濟學家職位的首選人選&nbsp;&nbsp;《金融時報》"
-      },
-      {
-        "title": "A Canadian town's famous warm welcome doesn't extend to US ambassador on 9/11 anniversary",
-        "desc": "Gander hosted stranded flyers on 9/11. Now some don't want Trump's envoy at their commemoration.",
-        "url": "https://www.bbc.co.uk/news/articles/cm27vpe7z7lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-10 09:39",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "某加拿大小鎮素以熱情好客聞名，但在「9·11」週年紀念日當天，這份熱情卻未延伸至美國大使身上",
-        "descZh": "甘德市曾在9·11事件當天收留了受困的旅客。如今，有些人不希望川普的特使出席他們的紀念活動。"
       }
     ]
   }
