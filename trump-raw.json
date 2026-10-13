@@ -1,5 +1,57 @@
 [
   {
+    "date": "20261014",
+    "fetchTime": "2026-10-14 07:45",
+    "count": 5,
+    "articles": [
+      {
+        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+        "desc": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-14 03:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在貪腐指控後解除了金伯莉·吉爾福伊爾的美國駐希臘大使職務",
+        "descZh": "吉爾福伊爾表示，有關不當行為的指控是虛假的，並稱擔任大使是「一生難得的榮譽」。"
+      },
+      {
+        "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
+        "desc": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
+        "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-14 01:04",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "凱蒂·扎卡里亞在她的首次——且非常簡短的——白宮簡報會上表現如何？",
+        "descZh": "BBC記者莎拉·史密斯當時就在現場，她描述了扎卡里亞的表現，以及她獨家披露金伯利·吉爾福伊爾被要求辭職的那一刻。"
+      },
+      {
+        "title": "Democrats say Trump’s trade deals were corrupt. They’re gearing up to investigate. - Politico",
+        "desc": "Democrats say Trump’s trade deals were corrupt. They’re gearing up to investigate.&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVlYNjRqOTI0Z3hWcFJ0LW82M3lUN0N5N3IyUm9QQ3ZKdjFuVlFOSjM0YTljcV9VbW5mUG5FU2lUODYtR0FhQTFzMHhneHNiWmFjRmpSVEJJMHNzRy1TWklqU3hQN2FKam00ekxEd1djLThpc041bUN0dkxuUl9KTk90ZlYza0hRMGMtZTlrQjhKQQ?oc=5",
+        "pubTime": "2026-10-13 16:45",
+        "source": "news.google.com",
+        "titleZh": "民主黨人指稱川普的貿易協議存在貪腐問題。他們正著手展開調查。——《Politico》",
+        "descZh": "民主黨人指稱川普的貿易協議存在貪腐問題。他們正著手展開調查。&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "Where the US midterm elections will be won and lost",
+        "desc": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-13 13:02",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國中期選舉的勝負關鍵何在",
+        "descZh": "深入剖析這場將決定川普總統任內最後兩年走向的選舉前，各項關鍵民調、選戰態勢及議題。"
+      },
+      {
+        "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+        "desc": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-13 05:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "分析：關鍵選舉前幾週，川普面臨的全球難題日益加劇",
+        "descZh": "隨著選舉日日益臨近，總統將目光投向海外，尋求解決一項迫在眉睫的國內問題的協助。"
+      }
+    ]
+  },
+  {
     "date": "20261013",
     "fetchTime": "2026-10-13 10:07",
     "count": 9,
@@ -2872,58 +2924,6 @@
         "source": "news.google.com",
         "titleZh": "川普低調的外交政策成就？與中國的關係——《美國保守派》",
         "descZh": "川普的「低調」外交政策成功？中美關係&nbsp;&nbsp;《美國保守派》"
-      }
-    ]
-  },
-  {
-    "date": "20260914",
-    "fetchTime": "2026-09-14 06:29",
-    "count": 5,
-    "articles": [
-      {
-        "title": "Trump scraps tariffs on Irish whiskey during visit to country - Financial Times",
-        "desc": "Trump scraps tariffs on Irish whiskey during visit to country&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEw2elVrNURhTXpmRWc3dFJrX3B5SVJYN2JTZ3kwbUdpeVh0NnNEQnlsdHFYMy1EQ1VyYnFGVGZ3cjZoRUVNWGtsdkdUVHB1d2tVV1pFcjlKaVRZM0ptRFNOSnpJZHkwRmJZcnVrODAxbllrVkNhd2ROU3J3VGxQZGlNbFY?oc=5",
-        "pubTime": "2026-09-14 04:47",
-        "source": "news.google.com",
-        "titleZh": "川普訪愛爾蘭期間取消對愛爾蘭威士忌的關稅——《金融時報》",
-        "descZh": "川普訪愛期間取消對愛爾蘭威士忌的關稅&nbsp;&nbsp;《金融時報》"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "desc": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-14 02:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普以與中國的競爭為由，淡化了關於人工智慧風險的警告",
-        "descZh": "美國總統表示，「負面勢力」正在對「根本不會發生的事情」表達擔憂。"
-      },
-      {
-        "title": "Trump’s Quiet Foreign Policy Success? Relations with China - The American Conservative",
-        "desc": "Trump’s Quiet Foreign Policy Success? Relations with China&nbsp;&nbsp;The American Conservative",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGhBdm15MkZfalRfTjZUNFU0emNhZGVTYmZHWEI4bDQxc21zSXF4eUx2QXpZY0pNUW9YOGRPaHlKdWxkdkNCUEFqYlAzY2hDNjFUQlJxMTluNGJCRzFRZTNwVm8wdXFXYXVQVGpma2F5dkpUWDBBMzg1YXhkSkdEOTB1a0U1SUIxZ3hJWjR6N1hoQ2s2N3hicG1WaEhYQQ?oc=5",
-        "pubTime": "2026-09-13 12:05",
-        "source": "news.google.com",
-        "titleZh": "川普外交政策的「低調成功」？與中國的關係——《美國保守派》",
-        "descZh": "川普的「低調」外交政策成功？中美關係&nbsp;&nbsp;《美國保守派》"
-      },
-      {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "desc": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-13 05:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普關於「統一的愛爾蘭」的言論，其目標受眾可能是在大西洋彼岸的群體",
-        "descZh": "誰也料不到，今天全球的主要頭條新聞竟是川普希望愛爾蘭實現統一。"
-      },
-      {
-        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-        "desc": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-12 21:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在愛爾蘭訪問期間表示，愛爾蘭統一將是「非常棒」的事",
-        "descZh": "川普是在與愛爾蘭領導人米歇爾·馬丁會晤時發表上述言論的，但唐寧街表示將「恪守《耶穌受難日協議》」。"
       }
     ]
   }
