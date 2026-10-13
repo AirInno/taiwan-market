@@ -1,5 +1,93 @@
 [
   {
+    "date": "20261013",
+    "fetchTime": "2026-10-13 10:07",
+    "count": 9,
+    "articles": [
+      {
+        "title": "Trump says Kimberly Guilfoyle could be fired as Greece envoy after alleged misconduct",
+        "desc": "\"We're not happy,\" says the president about his son's ex-fiancée following reports of improper behaviour.",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgedexp6zgo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-13 08:10",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，金柏莉·吉爾福伊爾因涉嫌行為不當，可能被解僱，不再擔任希臘特使一職",
+        "descZh": "「我們很不滿意，」總統在有關其兒子前未婚妻行為不當的報導曝光後，如此表示。"
+      },
+      {
+        "title": "Immigration agents search congresswoman Ilhan Omar's home",
+        "desc": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-13 06:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "移民局探員搜查國會女議員伊爾漢·奧馬爾的住所",
+        "descZh": "奧瑪爾身為一位直言不諱的川普批評者，表示這次搜查是「針對政治敵人的企圖」，並表示她「絕不會被噤聲」。"
+      },
+      {
+        "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+        "desc": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-13 05:07",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "分析：關鍵選舉前幾週，川普面臨的全球難題日益加劇",
+        "descZh": "隨著選舉日日益臨近，總統將目光投向海外，尋求解決一項迫在眉睫的國內問題的協助。"
+      },
+      {
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "desc": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-12 07:18",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普因計劃從俄羅斯進口柴油而面臨日益強烈的反彈",
+        "descZh": "共和黨與民主黨的議員均對這項協議提出批評，該協議是在美國中期選舉前幾週宣布的。"
+      },
+      {
+        "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+        "desc": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+        "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-12 07:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國牧場主們既要應對飆升的成本，又要權衡對川普的忠誠",
+        "descZh": "在支持總統的各州，許多農民表示，他們正遭受各方夾擊，而關鍵的中期選舉僅剩數週之遙。"
+      },
+      {
+        "title": "Watch: What's behind Trump's energy ceasefire claim?",
+        "desc": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-12 04:55",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普所謂的「能源停火」聲明背後有何玄機？",
+        "descZh": "美國總統透過社群媒體貼文宣布了這項消息，這顯然讓烏克蘭感到意外，而俄羅斯尚未發表評論。"
+      },
+      {
+        "title": "Trump sticks with tariffs even as US voters turn against them before the midterms - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump sticks with tariffs even as US voters turn against them before the midterms&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbllWMDVrclViLVliSG1qNDJVUVRFVlZsNTExcnJxSDNacHJiX3c0WVpYWDJ2c2NoRGNzYUVicUJzMk04QmdmdzlaWDR6QmxVMnFEbXdqbTNVYWpiVEg4MzZnaEhlY09nMmEtOTJHYlNVV0xXX3NUbmFSUkdVZWU4LVBNTjZoTENwa2kxSXB1SDAwYlRjWEpjbNIBngFBVV95cUxOZERGcTZwVHVmZkFCdm8zdW54NF9XcTZ0OWZQLWtRYkNYSFBCNzRaMENTWGhLdWt5YVlHR0JZN3gtb0pySGE0aXR0LXRKb256NGI3dktXSmFvMmdXOFRoQ01BcGVMcm04a2xZSU5sc3VWcGVvVFR4NVE3ejNUcFpjY2xhMjdUdGhnWlhhV2wyaWhzSy14VFQtVXpJQ2gyUQ?oc=5",
+        "pubTime": "2026-10-11 21:33",
+        "source": "news.google.com",
+        "titleZh": "儘管美國選民在中期選舉前已開始反對關稅，川普仍堅持實施關稅政策 —— ABC新聞 —— 突發新聞、最新消息與影片",
+        "descZh": "儘管美國選民在中期選舉前已開始反對關稅，川普仍堅持實施關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Trump’s tariffs fuel US factory job losses, put Republican support at risk ahead of midterms - Firstpost",
+        "desc": "Trump’s tariffs fuel US factory job losses, put Republican support at risk ahead of midterms&nbsp;&nbsp;Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0s0MVVNX1BmZVdlVXVxQmpCNUxWV1hzT3o4dWJOT2pSLUxPczJQODlnSHVkWHNpQlA0UGNLLXVwb1FTNklwWnhXZzFTVTJhYm5ucWtZN2tFYWxscURQY1ZtNDNCd1dfZVplZG5aaVVvYS0yM0NYX0p3eGdnODNiWFp6TWlmS2M2QVBrQTB2MHBzTW8xbDgzWDdzTHg2TnRWY2JseGlSZjVTT2g3alJXMUM4aU9qdm5qdlNkUm91Z0VDN2JLd3E1cFhsSFRxcm11dVZ0eFNqZFR4clRfY2lzQThDenjSAeoBQVVfeXFMUDBkczB3MlZ3dnZfaXhKMU5DbmV6N2lUNElGYzhQR0h2eTQ4b2V1bVh2Tlh1NXRpWkZHdlN1R0ItQWdGWTZFRjdkU19DT0hSVzRpWlZKem5QaEs4LThNQVA4ZGFSMzN5NUEtYlBobmY1WFY2dHZsMS1PclBHY3RrMVNrM3hNQXY3ZlAtR0RVQk9QdEZlQWhXeVp3ejFkTDZBdUt5S2xHRzRFWFVsV2JmbTBqbE04Q3RJRGlpLUJfMFBYOVpjTU84SXBJYWkzVkpRV2tYcnZjU1BnaXVMSWNRcjN4YU1TYkhJc2dn?oc=5",
+        "pubTime": "2026-10-11 21:09",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅加劇美國製造業就業崗位流失，在中期選舉前危及共和黨的支持基礎——Firstpost",
+        "descZh": "川普的關稅加劇了美國製造業就業崗位流失，並在中期選舉前危及共和黨的支持率&nbsp;&nbsp;Firstpost"
+      },
+      {
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "desc": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+        "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-11 13:05",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國司法部就電視台對川普記者團的報導展開調查",
+        "descZh": "白宮曾禁止美國有線新聞網（CNN）、MS Now 和《Politico》進入，導致這些媒體不得不限制聯合採訪的範圍。"
+      }
+    ]
+  },
+  {
     "date": "20261012",
     "fetchTime": "2026-10-12 07:46",
     "count": 11,
@@ -2836,94 +2924,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普在愛爾蘭訪問期間表示，愛爾蘭統一將是「非常棒」的事",
         "descZh": "川普是在與愛爾蘭領導人米歇爾·馬丁會晤時發表上述言論的，但唐寧街表示將「恪守《耶穌受難日協議》」。"
-      }
-    ]
-  },
-  {
-    "date": "20260913",
-    "fetchTime": "2026-09-13 06:24",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-        "desc": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-13 05:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普關於愛爾蘭統一的言論，其目標受眾可能在大西洋彼岸",
-        "descZh": "誰也無法預料，今天全球的主要新聞頭條竟會是川普希望愛爾蘭實現統一。"
-      },
-      {
-        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-        "desc": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-12 21:56",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在愛爾蘭訪問期間表示，統一的愛爾蘭將是「太棒了」",
-        "descZh": "川普是在與愛爾蘭領導人米歇爾·馬丁會晤時發表上述言論的，但唐寧街表示將「恪守《耶穌受難日協議》」。"
-      },
-      {
-        "title": "What the cement tariff reversal could teach Canada about dealing with Trump - Financial Post",
-        "desc": "What the cement tariff reversal could teach Canada about dealing with Trump&nbsp;&nbsp;Financial Post",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalJUbE84c1gtQ19DTTFFMGk5UW42cEQ4bjliYktrUXVWN2Y5V2FZbFQ0MElPTGhBQ0pkTFJuQU0wemdhSHY2bWVZSXNmc1pQY2FhRXhZSWUtajBuU0kyYko0RXVUNlpvX3RLSndqQS16RnIzVVVqZU02SE1PMWhlaFRILVZfQlRCNE4waWVoOWl6aTlmdXkwb0V3dGk?oc=5",
-        "pubTime": "2026-09-12 03:58",
-        "source": "news.google.com",
-        "titleZh": "水泥關稅政策逆轉能給加拿大什麼教訓，以應對川普？——《金融郵報》",
-        "descZh": "水泥關稅政策逆轉能給加拿大帶來哪些關於應對川普的啟示？——《金融郵報》"
-      },
-      {
-        "title": "IMF Abandons LSE Economist for Top Post After His Trump Tariff Criticism - finance.biggo.com",
-        "desc": "IMF Abandons LSE Economist for Top Post After His Trump Tariff Criticism&nbsp;&nbsp;finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EWXQ0ZUhON1JxMWNaa3V6SDctbDhyeXlBTFhmMmNLS25tV2p3ekJaYlRlWDZVRWt1ZWdYcG1NM0xxZ0xRZ0Q5dlFvODhPdEoyYWQ0cWRLZ195cnFpdU9janR3VHl1RGZ4Zm1pZC1nM2puNGhQUGc?oc=5",
-        "pubTime": "2026-09-12 02:28",
-        "source": "news.google.com",
-        "titleZh": "IMF 因倫敦大學商學院經濟學家批評川普關稅政策，放棄任命其擔任要職 - finance.biggo.com",
-        "descZh": "IMF 因倫敦大學商學院經濟學家批評川普關稅政策，放棄任命其擔任要職&nbsp;&nbsp;finance.biggo.com"
-      },
-      {
-        "title": "In 9/11 remarks, Trump links war with Iran",
-        "desc": "At the Pentagon 9/11 commemorations, President Trump praised the military and highlighted how their work is continuing with the war in Iran.",
-        "url": "https://www.bbc.co.uk/news/videos/c5yjkj438eeo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 23:19",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在9·11紀念演說中，川普將戰爭與伊朗扯上關係",
-        "descZh": "在五角大廈舉行的「9·11」紀念活動上，川普總統讚揚了軍方，並強調軍方在伊朗戰爭中的行動仍在持續。"
-      },
-      {
-        "title": "Democrats flirt with becoming the anti-tariff party amid Trump's trade war - National Post",
-        "desc": "Democrats flirt with becoming the anti-tariff party amid Trump's trade war&nbsp;&nbsp;National Post",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxrLVoySWJjUEdTNmhfT05teUpEOXZCbXoteEVGbGFKZkxyZFR3bXRRSmlCY0pQdklwMTVqc09pX2ZnSHE5V1NYbGg5S1loSkFVUC1fV0MzOEc0ZW1yRFBCSWhJNFVBX0YxWDdXS2pRNm5aZHg4em1QdnFlRmxhdVlLcHdhaVFSNGw4VGVVTU4wTmJaQ3ladHpyeVZIeDFMQnMxeXB3?oc=5",
-        "pubTime": "2026-09-11 22:04",
-        "source": "news.google.com",
-        "titleZh": "在川普發動貿易戰之際，民主黨正試圖轉型為反關稅政黨——《國家郵報》",
-        "descZh": "在川普發動貿易戰之際，民主黨正試圖轉型為反關稅政黨&nbsp;&nbsp;《國家郵報》"
-      },
-      {
-        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
-        "desc": "JD Vance delivered the keynote speech to end the party's convention - but the president still took centre stage, the BBC's Daniel Bush writes.",
-        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 22:03",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "在川普主導黨代會之際，部分共和黨人悄悄詢問：接下來會輪到誰？",
-        "descZh": "BBC記者丹尼爾·布什（Daniel Bush）撰文指出，傑德·范斯（JD Vance）在該黨全國代表大會閉幕時發表了主題演說——但總統依然是全場焦點。"
-      },
-      {
-        "title": "Has Trump won over voters with his midterm convention?",
-        "desc": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-        "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 14:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普透過這場中期選舉大會，是否已成功贏得選民支持？",
-        "descZh": "BBC 北美編輯莎拉·史密斯（Sarah Smith）深入剖析了這場史上首度在美國總統任期中途舉行的共和黨全國代表大會的主要要點。"
-      },
-      {
-        "title": "Is Trump's $5,000 pledge a sign of panic?",
-        "desc": "Even by Trump's own unconventional standards, his promise to voters was bizarre, writes North America editor Sarah Smith.",
-        "url": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-11 09:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普承諾的 5,000 美元是否顯示出恐慌跡象？",
-        "descZh": "北美編輯莎拉·史密斯寫道，即使以川普自己那套不按常理出牌的標準來看，他對選民的承諾也顯得相當離奇。"
       }
     ]
   }
