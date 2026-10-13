@@ -1999,22 +1999,32 @@
       }
     ],
     "global": {
-      "sox": 12265.52,
-      "sox_chg": -6.89,
-      "nasdaq": 27256.94,
-      "nasdaq_chg": -0.8,
-      "jpytwd": 0.2,
-      "jpytwd_chg": -1.0,
+      "nasdaq": 27245.9,
+      "nasdaq_chg": -0.84,
+      "gold": 4192.8,
+      "gold_chg": 1.26,
+      "sp500": 7807.24,
+      "sp500_chg": 0.43,
+      "tsm_adr": 444.35,
+      "tsm_adr_chg": -8.53,
       "vix": 15.21,
       "vix_chg": 1.33,
-      "gold": 4185.4,
-      "gold_chg": 1.08,
-      "sp500": 7804.62,
-      "sp500_chg": 0.39,
-      "usdtwd": 31.93,
-      "usdtwd_chg": 0.56,
+      "smh": 590.99,
+      "smh_chg": -6.77,
+      "oil": 92.6,
+      "oil_chg": 4.89,
       "us10y": 5.24,
-      "us10y_chg": -0.55
+      "us10y_chg": -0.55,
+      "qqq": 746.04,
+      "qqq_chg": -1.34,
+      "usdtwd": 32.08,
+      "usdtwd_chg": 0.94,
+      "sox": 12236.79,
+      "sox_chg": -7.11,
+      "xle": 66.01,
+      "xle_chg": 4.03,
+      "jpytwd": 0.2,
+      "jpytwd_chg": -0.25
     },
     "futures": {
       "自營": 147,
@@ -2051,6 +2061,7 @@
         "融資餘額": 9788,
         "融券餘額": 86
       }
-    }
+    },
+    "us_close_date": "10/13"
   }
 ]
