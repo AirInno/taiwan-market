@@ -47843,22 +47843,32 @@
       }
     ],
     "global": {
-      "usdtwd": 32.42,
-      "usdtwd_chg": 1.56,
+      "sp500": 7744.06,
+      "sp500_chg": -0.27,
+      "usdtwd": 32.35,
+      "usdtwd_chg": 1.36,
+      "nasdaq": 26713.03,
+      "nasdaq_chg": -1.77,
+      "gold": 4183.7,
+      "gold_chg": -0.16,
+      "us10y": 5.09,
+      "us10y_chg": -2.96,
+      "vix": 16.46,
+      "vix_chg": 10.92,
+      "sox": 11581.22,
+      "sox_chg": -8.26,
+      "smh": 558.84,
+      "smh_chg": -7.98,
+      "tsm_adr": 422.25,
+      "tsm_adr_chg": -7.8,
+      "oil": 96.13,
+      "oil_chg": 2.55,
+      "qqq": 728.0,
+      "qqq_chg": -2.62,
       "jpytwd": 0.2,
-      "jpytwd_chg": 0.5,
-      "gold": 4166.6,
-      "gold_chg": -0.57,
-      "us10y": 5.1,
-      "us10y_chg": -2.75,
-      "nasdaq": 26692.87,
-      "nasdaq_chg": -3.07,
-      "sox": 11684.38,
-      "sox_chg": -10.58,
-      "vix": 17.77,
-      "vix_chg": 19.74,
-      "sp500": 7718.94,
-      "sp500_chg": -1.06
+      "jpytwd_chg": 0.35,
+      "xle": 66.56,
+      "xle_chg": 2.02
     },
     "futures": {
       "自營": 6894,
@@ -47873,6 +47883,7 @@
     "tsmc_hold": null,
     "etf0050_hold": null,
     "delta_hold": null,
-    "margin": null
+    "margin": null,
+    "us_close_date": "10/15"
   }
 ]
