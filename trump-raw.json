@@ -1,5 +1,111 @@
 [
   {
+    "date": "20261016",
+    "fetchTime": "2026-10-16 07:07",
+    "count": 11,
+    "articles": [
+      {
+        "title": "Nvidia, Apple each donated $25 million for Trump’s White House ballroom: Report - The American Bazaar",
+        "desc": "Nvidia, Apple each donated $25 million for Trump’s White House ballroom: Report&nbsp;&nbsp;The American Bazaar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3g0dzFVd1p2VGI0WE1kSVQzUzdEZzJJUE5oWVhUZlVyNnNMbFVMdmNlcUNGRWRfVmZuSllnLXlLZkxvWEUxT0ZzTVJkelNOTlRhU3RzVlJuTUt6a2Y0T2UwZjEyNTdRQVpnTC1iQkY4YVM5cUk1Ykp3ZkRlMnBDSEdUMldCT1BTdFJHTDFrMHktVXVhOVo5NVo2TGZTYV9USEZqWGxkQzh5akd1YjdFWjl6ZHBrUEVOUzFZazFkRDlNaW1wTHc?oc=5",
+        "pubTime": "2026-10-16 05:03",
+        "source": "news.google.com",
+        "titleZh": "報導指出，Nvidia 與 Apple 各捐贈 2,500 萬美元用於特朗普的白宮舞廳：—《美國集市》",
+        "descZh": "報導指出，Nvidia 與 Apple 各捐贈 2,500 萬美元用於特朗普的白宮舞廳：&nbsp;&nbsp;《美國集市》"
+      },
+      {
+        "title": "Secret documents reveal donors behind $330 million for Trump’s ballroom - The Washington Post",
+        "desc": "Secret documents reveal donors behind $330 million for Trump’s ballroom&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbF81QjJldmktUTltNm5EcHFORGM2cXJXQmUwRWJxZnQ1SWRTZ0FzV0NpMERoa05LbElyWXNWNHVHay1raVR2SmJTVy1BanBzRDQzdFhmWU1pd0Z1ZGpDTWtKdWh0ZmxvUDBySENKNHJSZ2Z4TGF2LWNqSm5EQk96Y1lvM2hvU1JRZU8wX2pmSnNrZWdGMkU2cVRNN1FYOGh0el9MTU85LUdEUVdvQ1M2Y3QxYVNxMEtqeTBCZHR2Y0w?oc=5",
+        "pubTime": "2026-10-16 04:31",
+        "source": "news.google.com",
+        "titleZh": "機密文件揭露特朗普宴會廳 3.3 億美元資金背後的捐款人——《華盛頓郵報》",
+        "descZh": "機密文件揭露特朗普宴會廳 3.3 億美元資金背後的捐款人&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
+        "desc": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
+        "pubTime": "2026-10-16 04:27",
+        "source": "news.google.com",
+        "titleZh": "《華盛頓郵報》報導，Nvidia 與 Apple 各捐贈 2,500 萬美元給川普的舞廳——路透社",
+        "descZh": "《華盛頓郵報》報導，Nvidia 與 Apple 各捐贈 2,500 萬美元給川普的宴會廳&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom - CNBC",
+        "desc": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUUM5S3dabkpGNmw0elRibGZTMVh3VExkeXlGWFU5QjFLLXBTWlhIb0JHVmMxM09UOXZNUm9HbVhSMktFMjNfZExqdWdZUk9PSEEwR3pBbVpXa2lqdTdxaUNEM0d2RzkxZDNZQ0otMWs5bE9ISklhRlpITlhKWnfSAYQBQVVfeXFMTkhDdXRCanpLQTdBclpTWE1MYVhRdXUxZVA0M0lyYnJnaXNoTG9LeHZwYUtLTVF1bXBiUk03SWVWeDU3b09jVldEenRMaEpkdGF5U0lZMDd0cDhHMUFEaHFERkQwRVRNSFBsT3UwVFZ1NHo5NzVwUDNyZ2d3NDMyemkyWEh2?oc=5",
+        "pubTime": "2026-10-16 03:42",
+        "source": "news.google.com",
+        "titleZh": "Nvidia 與思科證實向川普的白宮舞廳捐贈數百萬美元 —— CNBC",
+        "descZh": "Nvidia 與思科證實向川普的白宮舞廳捐贈數百萬美元&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Tech Companies Have 'Donated' Millions to Trump's Ballroom While the President Gave $0: Report - Gizmodo",
+        "desc": "Tech Companies Have 'Donated' Millions to Trump's Ballroom While the President Gave $0: Report&nbsp;&nbsp;Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZnVya2JjdFYzelBiUEQ5MVFhMjhJQ1FaUzg2WE5UTUdPdkxDYWtsczFnNjBnRkZlR0hvdDJCOW8yaHJzRW80S19FeGZUTnJ5R0FKWmpBQXkwWVFjelVhRnJ4ZXVrQm0xR2U5TnVtTE56U3gweGd4dGs3ZkZVVzdiS0lsR2FlWENWMHRLVW5kNXowdy1hTnc3bkpDSUE2UWZsMU9pUnVoYWxKZjdqazRrZUM1dTQ0VkFpZmkwUQ?oc=5",
+        "pubTime": "2026-10-16 02:45",
+        "source": "news.google.com",
+        "titleZh": "報導指出：科技公司向川普的舞廳「捐贈」數百萬美元，而總統本人卻只捐了 0 美元——Gizmodo",
+        "descZh": "報導指出：科技公司向川普的舞廳「捐贈」數百萬美元，而總統本人卻只捐了 0 美元&nbsp;&nbsp;Gizmodo"
+      },
+      {
+        "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+        "desc": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+        "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-16 01:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普取消了對胡德堡襲擊者遭槍決處決過程的直播",
+        "descZh": "川普表示，有些人「寧可不看」尼達爾·哈桑被處決的過程——這是60多年來首起軍方處決。"
+      },
+      {
+        "title": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International - Rti 中央廣播電臺",
+        "desc": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International&nbsp;&nbsp;Rti 中央廣播電臺",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUHB5anRjVHFhMGVVc3ZDWVhjQVNZdjVFR2VFdGhYVU9JMnliUUtvM3dCVEVJRTlpamVhOU1HalBPVktMTm9TT0FNLTByeHl0SVlJRHhaM0VCdm8?oc=5",
+        "pubTime": "2026-10-15 16:57",
+        "source": "news.google.com",
+        "titleZh": "川普提及台灣在美投資5,000億美元發展半導體產業｜美國新聞｜台灣國際廣播電台 - Rti 中央廣播電台",
+        "descZh": "川普提及台灣在美投資5,000億美元發展半導體產業——美國新聞——國際台灣廣播電台&nbsp;&nbsp;Rti 中央廣播電台"
+      },
+      {
+        "title": "White House defends new press secretary over her legal credentials",
+        "desc": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-15 16:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮為新任發言人辯護，闡明其法律資歷",
+        "descZh": "凱蒂·扎卡里亞似乎並未在曾居住過的任何州取得律師執業資格。"
+      },
+      {
+        "title": "Republican Candidates Break with Trump on Tariffs: News Article - Independent Institute",
+        "desc": "Republican Candidates Break with Trump on Tariffs: News Article&nbsp;&nbsp;Independent Institute",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQalVSYW1MX1pxMHlJRUhvOVRfVmFyaWJIeGU0eFptakNrQmlRTVZrdmh0d0d1RHY5SW9MN3ZOXzJkc3YxSThKSTZwVGNXM3dLbVl1cjlXLXRjOGlLdHNuS29wMl8zUkZXYjc5OTlrZzZZdzlPM3lRRXp0WnVGNDhyaEd0cHZrRkpsLWN3?oc=5",
+        "pubTime": "2026-10-14 18:41",
+        "source": "news.google.com",
+        "titleZh": "共和黨候選人就關稅問題與川普劃清界線：新聞報導——獨立研究所",
+        "descZh": "共和黨候選人就關稅問題與川普劃清界線：新聞報導&nbsp;&nbsp;獨立研究所"
+      },
+      {
+        "title": "American-made goods also got more expensive under Trump tariffs, new research finds - Fox News",
+        "desc": "American-made goods also got more expensive under Trump tariffs, new research finds&nbsp;&nbsp;Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0lDa2ZfdDlxajZ2QXJPV0lDaGFsRHpkTkZzc1NnLTYzM1owRUwtTU9NX1V4eW5XM09ycnRlQVlEbjhQN3h6MXBDREU2OFo3dDJZeUZtUGlNNHI5VzQ3elBnMkkzMi1JdU1kWmRlYVlHeWw1RFR0YTlZWkVGTnhXRXlJbEZIUlZ6dm51WEpUYWNPcWFFV1VnLVk4R2NQdmQyQjE40gGoAUFVX3lxTE81MlA0NFNZQWI5MVBCMVdXaFowWEdKRUdNNG9CMEdiZ3RjYkN2cWRsWGJjQnIybEhoZDRMWFBZRGc4UWFtWlNHUWRtNW5yRHNLMHIxNVpBdVN3dGIzUzM5TUZOdVYzMXJlVVV5MThuckZ0MVFDcW9jbEV6UHFUdXVBU3NnMXJOVWN6ejNrM3NNdDRGLWUwbFJPRlZpSF82QU1ObkhmZUxUSQ?oc=5",
+        "pubTime": "2026-10-14 18:00",
+        "source": "news.google.com",
+        "titleZh": "最新研究發現，在川普關稅政策下，美國製造的商品價格也隨之上漲——福斯新聞",
+        "descZh": "最新研究發現，在川普的關稅政策下，美國製造的商品價格也隨之上漲&nbsp;&nbsp;福斯新聞"
+      },
+      {
+        "title": "Trump's Iran gamble: Why Washington is downplaying Russia and China's role in the Middle East conflict - Latest news from Azerbaijan",
+        "desc": "Trump's Iran gamble: Why Washington is downplaying Russia and China's role in the Middle East conflict&nbsp;&nbsp;Latest news from Azerbaijan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMU9vVHpFMF90VGlIdk1aVllYRlZYRlhGdzBCRE5RQnNkQzVzOFA5UTFUdl9jRVFwNXVVT3lPc0RDUjlhTE9RdjQzTm5lMWJjY1otcDdjMlFxTTB5ZFZiaVpCUmxIMUlNejBiSGhEd2JhRDB5N3lJVWRnNk9CUXdoVkhwQkt5MXJGX2tnTklzYi1WM0x2RnJiMkptUTFZVDFuUk1LeUxSNEp3cU5WMHRISkNBZTdRM0tRaGUwNWlJRQ?oc=5",
+        "pubTime": "2026-10-14 14:50",
+        "source": "news.google.com",
+        "titleZh": "川普的伊朗賭注：為何華府刻意淡化俄羅斯與中國在中東衝突中的角色——來自阿塞拜疆的最新消息",
+        "descZh": "川普的伊朗賭注：為何華府淡化俄羅斯與中國在中東衝突中的角色&nbsp;&nbsp;來自阿塞拜疆的最新消息"
+      }
+    ]
+  },
+  {
     "date": "20261015",
     "fetchTime": "2026-10-15 07:19",
     "count": 9,
@@ -2809,121 +2915,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "隨著要求美國國會採取行動的呼聲日益高漲，人工智慧監管面臨政治僵局",
         "descZh": "在川普反對且國會意見分歧的情況下，儘管壓力日益增大，關於人工智慧的新安全法案短期內恐怕難以通過。"
-      }
-    ]
-  },
-  {
-    "date": "20260916",
-    "fetchTime": "2026-09-16 06:58",
-    "count": 12,
-    "articles": [
-      {
-        "title": "Data centres and pipelines up for grabs as Carney pitches Canada to investment giants",
-        "desc": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit.",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 06:46",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "卡尼向投資巨頭推介加拿大，數據中心與管線項目成為爭奪焦點",
-        "descZh": "一兆美元的投資推廣、逾160個待投資項目，以及在與美國的激烈貿易戰中轉向歐盟——首屆加拿大投資峰會的重點摘要。"
-      },
-      {
-        "title": "Trump says Kennedy Center to close as court rules his name must stay off building",
-        "desc": "The ruling came as the centre's Trump-appointed board was reportedly scheduled to vote on closing it for two years.",
-        "url": "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 05:55",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，由於法院裁定其姓名不得出現在該建築物上，肯尼迪中心將關閉",
-        "descZh": "據報導，就在該中心由川普任命的董事會原定就關閉該中心兩年一事進行表決之際，這項裁決隨之出爐。"
-      },
-      {
-        "title": "Why is Donald Trump so opposed to regulating AI?",
-        "desc": "The BBC's North America editor Sarah Smith looks at why the US president is contradicting AI leaders, who are calling for the technology's development to be slowed down.",
-        "url": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 04:35",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為什麼唐納德·川普如此反對對人工智慧進行監管？",
-        "descZh": "BBC 北美編輯莎拉·史密斯探討了為何美國總統會與呼籲放緩這項技術發展的 AI 業界領袖們持相反立場。"
-      },
-      {
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "desc": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 04:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "五角大廈稽核官證實，伊朗戰爭導致美國彈藥短缺",
-        "descZh": "儘管唐納德·川普總統聲稱美國的補給「幾乎無窮無盡」，但檢查員仍發現補給方面存在瓶頸。"
-      },
-      {
-        "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
-        "desc": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 00:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "最高法院大法官駁回對郵寄選票的限制後，川普批評最高法院",
-        "descZh": "總統抨擊大法官們阻撓了他這項僅允許向公民名單上的選民寄送選票的計畫。"
-      },
-      {
-        "title": "'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key",
-        "desc": "The Canadian prime minister said the exchange “sums up” the Canada-US relationship.",
-        "url": "https://www.bbc.co.uk/news/videos/cwkgvkr1rz66o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-15 23:08",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「說不定他們會開槍打你」——卡尼回憶川普贈送的白宮鑰匙",
-        "descZh": "加拿大總理表示，這段對話「概括了」加美關係。"
-      },
-      {
-        "title": "Trump’s tariffs on Canada could cost him several red states - The Hill",
-        "desc": "Trump’s tariffs on Canada could cost him several red states&nbsp;&nbsp;The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTNhQk90R3FuWW5BNUxIQWdtbTlzMzNEWUlsTHNINnBrSVIxV0JmLTNFaTZ3dnlpekxMMV9hTDNheGFRVy01XzdoWDRyT0tTdlJXOGdCd0xYcEFBY0ZCUGlPM0l5aU5UQjZKRVAzMDZmN2JDNTV3bHYybXNKMWVQWlRrT1lDSnB00gGOAUFVX3lxTE9UYUhMX2Jacm5IS0RWemhVUGlXUmJ0V29sblp4Mi1RcVpzYmw5MUEyaFBYSm9zTzBnNlgtMUxNUnpQU2NoQ0JVUXFaUzNNb0pMUGkyQllJLWxRc2dqbTNURm95NkRNVnFQdkRSV1ZvQ1laYjJJbWs2LXFqU0drcW1YX0F6cnoxMWRpZVRibUE?oc=5",
-        "pubTime": "2026-09-15 19:30",
-        "source": "news.google.com",
-        "titleZh": "川普對加拿大徵收關稅可能使他失去幾個紅州 ——《The Hill》",
-        "descZh": "川普對加拿大徵收關稅，可能使他失去幾個紅州&nbsp;&nbsp;《The Hill》"
-      },
-      {
-        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-        "desc": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-15 16:49",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普稱人工智慧安全疑慮是「騙局」，並拒絕呼籲加強安全保障的訴求",
-        "descZh": "美國總統發表這番言論之前，Anthropic 共同創辦人傑克·克拉克曾向英國廣播公司（BBC）表示，可能需要強制實施人工智慧「殺手開關」。"
-      },
-      {
-        "title": "AI regulation faces political deadlock as calls grow for US Congress to act",
-        "desc": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-15 10:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著要求美國國會採取行動的呼聲日益高漲，人工智慧監管面臨政治僵局",
-        "descZh": "在川普反對且國會意見分歧的情況下，儘管壓力與日俱增，關於人工智慧的新安全法案短期內恐怕難以通過。"
-      },
-      {
-        "title": "SA weighs trade risks as US tariff policy shifts - Bizcommunity",
-        "desc": "SA weighs trade risks as US tariff policy shifts&nbsp;&nbsp;Bizcommunity",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFJ0OFg5dXA2TUtCcWRjZ1pqSzZ4WWdFeU4yUHpxM3VheUQ0MkR0dG50ekdoZUZQbzhxOElSdTV0eHNnSThwNzVsLWdkZFdYcFpoQTdOalVMU095QWhsdWhRUmxORGVualRsdkhCdmxabnBJRnZueXNzUVZNOE1lVFRnUUhUUFdlS3A3b1g4V3FGMDl2cy1BTw?oc=5",
-        "pubTime": "2026-09-14 15:15",
-        "source": "news.google.com",
-        "titleZh": "美國關稅政策轉向，南非權衡貿易風險 - Bizcommunity",
-        "descZh": "南非權衡貿易風險，因應美國關稅政策轉變&nbsp;&nbsp;Bizcommunity"
-      },
-      {
-        "title": "EU welcomes Trump tariff announcement but seeks more cuts - RTE.ie",
-        "desc": "EU welcomes Trump tariff announcement but seeks more cuts&nbsp;&nbsp;RTE.ie",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWUtR3hMdXY1UExhOVFFbkdBNlZDOEhmSHpDNEM5bFBLdmxrcWJGNnlXcjBoT3huTWlYLXh4Z1JObWdpMnJpaTh4elQ2OTROZnpET1AzcjVxQUtsTV9xcjVxdEJBYTVyczJrUTF4RjlOZndXeE1jNVd1VFB0RXMtM2luOHJKbWdJTk5pcTJRU0FVVzZrTTgxNWhjUQ?oc=5",
-        "pubTime": "2026-09-14 15:09",
-        "source": "news.google.com",
-        "titleZh": "歐盟歡迎川普宣布關稅措施，但希望進一步減稅 - RTE.ie",
-        "descZh": "歐盟歡迎川普宣布加徵關稅，但希望進一步減稅&nbsp;&nbsp;RTE.ie"
-      },
-      {
-        "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals - The New York Times",
-        "desc": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals&nbsp;&nbsp;The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXdlbjAwWm1fc042YjZIdjBsZEtCdHJWNENZLVJsSkFoUFRfVjhkZEE2dHlJMmZKMDEwd3J3NmZtM0I2ZENWN2RIM3JlYmFESUd6aUFLV2FHQnN3Rmg0c3NXSFZSWTgtRlEtOEZvcHlhR3dPN25waUlxcWl4NV9ERks5c2Z3alU?oc=5",
-        "pubTime": "2026-09-14 07:02",
-        "source": "news.google.com",
-        "titleZh": "川普承諾在上訴後撤銷對愛爾蘭威士忌的關稅——《紐約時報》",
-        "descZh": "川普承諾在收到訴求後取消對愛爾蘭威士忌的關稅&nbsp;&nbsp;《紐約時報》"
       }
     ]
   }
