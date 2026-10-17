@@ -1,5 +1,165 @@
 [
   {
+    "date": "20261018",
+    "fetchTime": "2026-10-18 06:28",
+    "count": 17,
+    "articles": [
+      {
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-18 03:19",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著與澤連斯基的爭端加劇，川普豁免了多項針對俄羅斯的制裁",
+        "descZh": "美國總統暫時解除國會近期基於「國家安全」考量而針對莫斯科通過的許多限制措施。"
+      },
+      {
+        "title": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list - Yahoo Finance",
+        "desc": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOENIeGpZZzRrX05HQl9mVzlBTjhsS0tfYUplRzBUYUpUbFVEenZITmxFX2Jzd3BDM0lzYUs5emxoM3c0ZlhKRjRzN01HYmd5aVJLTUJ5blVmUXBZNU8wV1VOeElxTGZvZ1BmeGxzbmlZSlM5d2NidmlFOHp2VlVGbmhXRUo4ZXI2c2hMRXZKOGNRU3pOVUpMTA?oc=5",
+        "pubTime": "2026-10-17 23:00",
+        "source": "news.google.com",
+        "titleZh": "蘋果與英偉達各捐贈 2,500 萬美元給川普的白宮舞廳——但捐款名單上卻完全找不到總統本人的名字 - 雅虎財經",
+        "descZh": "蘋果與英偉達各捐贈 2,500 萬美元給川普的白宮舞廳——但捐款名單上卻完全找不到總統本人的名字&nbsp;&nbsp;Yahoo Finance"
+      },
+      {
+        "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
+        "pubTime": "2026-10-17 15:36",
+        "source": "news.google.com",
+        "titleZh": "川普即將對60個貿易夥伴國實施全面關稅 — ABC新聞 — 突發新聞、最新消息與影片",
+        "descZh": "川普即將對60個貿易夥伴國實施全面關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore - The Economic Times",
+        "desc": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore&nbsp;&nbsp;The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUE1WOTcydDNtY1hEVG9RNVA0cnNLZ2lJNHhlWWdSQ29XaGdqRzlCTWN4SG5VTDkzQlFET2Q2ZUcxRXRrSldGRmk3b0dYb0U2YkczcEp6MTlPZXA4N3RFaVRpbm5zOXpDTV92NDk5blk1VGhSVVZLdGhqTHlhSXNhTkFuUU5adFpyZWNFYUdhdzA1SkFQa0RCSS04R3NjdV9uczg2ODdJY0xyYnlLQXNvOGN0OEhnc1NKNDdyNjRnakVCblRaTzY1eERyWDA1X0dCemYzdHpxUDR3OHJpZWdfSnBOY2lMRExRYkp0QWtVTDJ6TzVoY2ZGbl9lLTVHZDNEcUhfS2dVc3JfTmJJdHphOTlXQ3VsQdIBmwJBVV95cUxNcm80SzlLa2Ztdk16MUhWcFVwelZZTEUzUnJwYU5QVFRrdmRhWUFEc0JXRE1OTHVZdEZXcUlMSkEyd3dyYlhabXVfNGlIN1h3S3RnMUI0YTRDRjB1M3dlTmpOREZfbl85YnRaajM2R19SVFp0ZGI2Q3hZRkd4R1UwaXpQRnFzU0NfdVVxM2c0dlhweU15ZFN1dUNBeTlZUkhQSFNEekZVdjV4UDJIYTE5VENKSnBmVnFzclVQR2FqcHlHaTFhclBxSURfT0FPcndVSVBsZWNCYXVqVFhZRTY1UDBHVldiOVhmNE1BQTZsdmJWYmE4MkRVbEU5cE84LVNHbjE0OEdxN0x5bm84SDFoRVpFdkdMMVJRSk9n?oc=5",
+        "pubTime": "2026-10-17 13:42",
+        "source": "news.google.com",
+        "titleZh": "川普對俄羅斯石油徵收 100% 關稅的政策大轉彎，背後藏著印度無法忽視的隱憂——《經濟時報》",
+        "descZh": "川普對俄羅斯石油徵收 100% 關稅的政策大轉彎，其中隱藏著印度無法忽視的陷阱&nbsp;&nbsp;《經濟時報》"
+      },
+      {
+        "title": "Trump’s Tariff Strategy Collides With $2 Trillion US Deficit - Newsweek",
+        "desc": "Trump’s Tariff Strategy Collides With $2 Trillion US Deficit&nbsp;&nbsp;Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXJTWllOamFnaXBFZ3pqWkxkeXdKbW5BSzJNUk1NVmVBTWowX1VJNEFoeEIwZ05SVkpwRENMOEF0cWZ5Vm9YZVlCemZsR28xcDNXVHBNbHpLMlRyem9BY3J5bTZoQ3U2b194SlZXMGtBaEVBTmFXdXFENDJxcWtOU3VEV0lOb2piVlFwNmRZZndScmxFY2Zv?oc=5",
+        "pubTime": "2026-10-17 10:35",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅策略與美國 2 兆美元財政赤字產生衝突 —— 《新聞週刊》",
+        "descZh": "川普的關稅策略與美國 2 兆美元財政赤字產生衝突&nbsp;&nbsp;《新聞週刊》"
+      },
+      {
+        "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Cont - Benzinga",
+        "desc": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Cont&nbsp;&nbsp;Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQm9xckYyWlBNU1RkMk8zV3BJT0t5RjVBck90Y04zRTU1aUhwZUJkMG9URTBNMF8yQ2ZUS3FtYk14SFEwN0pwakVTRGZPTFh6eUpsSlpFMFBSaEl4Z0d5ZjdsdHRvNlJhbXFWWTFBY2t1cy1GTU9sdGpvMU1rZklsNHpYTkI4Q1FzY0NqeWIyVUJvWUl6akhNLVZ6RUJwQTlhS1ZlUjN2ZjBMaVlPeXJjOW1KRHJGU2syVWstenVLaFZhbDdXNW1SNzBqSGlFT0tCS0otSF9KSkpSVHlBTjVyNGNQVHpvVExQZm1LZ3FBRnVfSzFR?oc=5",
+        "pubTime": "2026-10-17 08:40",
+        "source": "news.google.com",
+        "titleZh": "川普耗資 3.3 億美元的「白宮舞廳」捐款名單揭露，英偉達、蘋果和谷歌位列科技業主要捐款者之列 - Benzinga",
+        "descZh": "川普耗資 3.3 億美元的「白宮舞廳」捐款名單揭露，英偉達、蘋果和谷歌位列科技界主要捐款者之列 &nbsp;&nbsp;Benzinga"
+      },
+      {
+        "title": "Where the US midterm elections will be won and lost",
+        "desc": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-17 02:41",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國中期選舉的勝負關鍵何在",
+        "descZh": "深入剖析這場將決定川普總統任期最後兩年走向的選舉前，各項關鍵民調、選戰態勢及議題。"
+      },
+      {
+        "title": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom - 24/7 Wall St.",
+        "desc": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom&nbsp;&nbsp;24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWxxd1NjdXgtZExobEY3MWZ0VmVjY05fNmlWbFU2VjRFaF9kckNnMmd5dUJ2cDBMcFVWLUV6dE16c0czRlhsVnRNSDRLaHBTMV9XcE9WUEhHV1YtSGJOQWRJOTdMcnZEaVdTWnhsNFJKTDk2bkxPbU5TRXlRUFpEdU52dm5Zd2UzNkpJdnJwc0YtbkR3VXhPVXAyQlVZcGFuazBMSUFRSS1xU3JmWmdlcUVn?oc=5",
+        "pubTime": "2026-10-17 01:06",
+        "source": "news.google.com",
+        "titleZh": "Nvidia 與 Apple 各向川普的白宮宴會廳捐贈 2,500 萬美元 —— 24/7 Wall St.",
+        "descZh": "Nvidia 與 Apple 各向川普的白宮宴會廳捐贈 2,500 萬美元&nbsp;&nbsp;24/7 Wall St."
+      },
+      {
+        "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project - Mashable",
+        "desc": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project&nbsp;&nbsp;Mashable",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM?oc=5",
+        "pubTime": "2026-10-17 00:15",
+        "source": "news.google.com",
+        "titleZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單 —— Mashable",
+        "descZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單&nbsp;&nbsp;Mashable"
+      },
+      {
+        "title": "US midterms 2026: Trump faces growing backlash over tariff policies - Moneycontrol.com",
+        "desc": "US midterms 2026: Trump faces growing backlash over tariff policies&nbsp;&nbsp;Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBvZDktaTNJZlpld2llZm9MaTlIX3R4ZmVoTEFmVmlsNXNxTUlIcGU5YUtfV1NDS2h6dnRsaW1ZRjZEcUY0TUNXN0NxTEYxR2FFajVlcVRaWC1tZGF5VlphUFl5Q0htSkItOXdkdmM2T0U4T3F6aUFHVlhUSUdmMGtBMzBGYVd5cmdyLTk4VlNjdDA3TENXQTdnY2NySDJzWUhOdGYwMDVLOTJxV09TWjNZQlUyQ2F0eXRQbFRRX2TSAcYBQVVfeXFMTjNQcXFmcU9HaFczSnJTZWtwRklTR0d1NEJXZlZ5WUp3MDVlRTAtTnhSak9WLTRxT0xGdTViLXVESGdhS3pEbUVwMDdocDFnQXRGWmJxVGF3LXJReGdJcm1pUnI5Y2RReUVlUmdmTHkzZ3hqcEVFRjFjWWpua19DODZzWnNNRk82dThzRFVpaFhrbmNvbS04SXhPcjRZajlWSGpaYnZvMGJlYkx4NndxVGo0eHVYMzA4SDdVdU10YlBFczd3eElR?oc=5",
+        "pubTime": "2026-10-16 23:43",
+        "source": "news.google.com",
+        "titleZh": "2026年美國中期選舉：川普因關稅政策面臨日益強烈的反彈 - Moneycontrol.com",
+        "descZh": "2026年美國中期選舉：川普因關稅政策面臨日益強烈的反彈&nbsp;&nbsp;Moneycontrol.com"
+      },
+      {
+        "title": "Apple and Nvidia Each Gave $25 Million for Trump’s White House Ballroom - The Mac Observer",
+        "desc": "Apple and Nvidia Each Gave $25 Million for Trump’s White House Ballroom&nbsp;&nbsp;The Mac Observer",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUltaTMxUndPcFBKc2dsRmt6RkFBN2lDWjFCN2VLUWJPNkdSdzAyblA2Rmt2enRnWXppdXozdEhPVnZiSjJ2NHBuNEEwSDVpbHJtb3dLQzNFLS11OWpEd0NWc1A0OFkwOHcyYVRqeXpQYkx0VURyem1xdFdaa1pkZkhPSURPdHM3SzRzejNodWxQUTV5X1hUbTEwdnZMRG9tX1NuRXl3?oc=5",
+        "pubTime": "2026-10-16 22:40",
+        "source": "news.google.com",
+        "titleZh": "蘋果與 Nvidia 各捐贈 2,500 萬美元，用於特朗普的白宮舞廳 - The Mac Observer",
+        "descZh": "蘋果與英偉達各捐贈 2,500 萬美元，用於特朗普的白宮舞廳&nbsp;&nbsp;《Mac Observer》"
+      },
+      {
+        "title": "Republicans turn on Donald Trump’s tariffs in battle for ‘political survival’ - Financial Times",
+        "desc": "Republicans turn on Donald Trump’s tariffs in battle for ‘political survival’&nbsp;&nbsp;Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEZ5aWNuTFRWSnBoRkFoZ01RSEhkWmtIUmc0VjdUOU9RLW50RnVudUhIcGtUTG5oU3llbGt3MXBzaFRSX01MVDRtSi00aUx4a0xINktTbmpkVkZkSFFOVFZ3N1Q4MkZfYzNzYjhIR3hUYURIU243NHN3SUJmd0ZJSExBdWI?oc=5",
+        "pubTime": "2026-10-16 18:00",
+        "source": "news.google.com",
+        "titleZh": "共和黨人在「政治生存」之戰中轉而反對唐納德·川普的關稅政策——《金融時報》",
+        "descZh": "共和黨人在「政治生存」之戰中轉而反對唐納德·川普的關稅政策&nbsp;&nbsp;《金融時報》"
+      },
+      {
+        "title": "Trump's Ballroom Secret Donor List Emerges: Apple and NVIDIA Each Pledged $25M to the White House Project - inkl",
+        "desc": "Trump's Ballroom Secret Donor List Emerges: Apple and NVIDIA Each Pledged $25M to the White House Project&nbsp;&nbsp;inkl",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGhkMzB4LWdXblIzSF9uczdUZVhweDRRWFItcGNSdXJUbUk3NDlRajZvU29QS2FGYlFxeUZXX09hR0RQeUVGanVmZmw4LU1USE1OdFFvZ1ZoWWNhVXQtZXpxUGJqMVJpU0xPWG1nY3pVOTVvd3oyRHptcFBqSVdhZlJVaFRUOFhUR2tDSU56QldhcnRJRk8wbWR2Y2ZDaEdYTlJKeU81cHFKS0FWUm1LUlltRUx5MlhPUGpQMHE4LVJVMV8tSXA0?oc=5",
+        "pubTime": "2026-10-16 15:04",
+        "source": "news.google.com",
+        "titleZh": "川普舞會的秘密捐款人名單曝光：蘋果與英偉達各向「白宮計畫」承諾捐款 2,500 萬美元 - inkl",
+        "descZh": "川普舞會的秘密捐款人名單曝光：蘋果與 NVIDIA 各向「白宮計畫」承諾捐款 2,500 萬美元&nbsp;&nbsp;inkl"
+      },
+      {
+        "title": "Trump ballroom project draws $330M from tech giants, Adelson family - Yeni Şafak English",
+        "desc": "Trump ballroom project draws $330M from tech giants, Adelson family&nbsp;&nbsp;Yeni Şafak English",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWG9XczhBQi1uNTlELWpjZ1FkMFVRcTREa0tta09CMFlmdG1hTDBIbHZWWHViQ0dvTVROSXI1TWxIT181R1FnN0NWMGhhUzJ1ZXgxMEE1a1V6T3hiQkNMMnlwSTJTUkxCSHdNUHI0YnpwWjhYQmdnMUtTYUkwVFJGQW45RHZ3a0tfY25mMVo5TU5sMjJ0VHl0dWo4QmNvSHVwRDcya0xDSQ?oc=5",
+        "pubTime": "2026-10-16 14:54",
+        "source": "news.google.com",
+        "titleZh": "川普宴會廳計畫獲科技巨頭與阿德爾森家族注資 3.3 億美元 —— 《Yeni Şafak》英文版",
+        "descZh": "川普宴會廳計畫從科技巨頭及阿德爾森家族籌得3.3億美元&nbsp;&nbsp;《新曙光報》英文版"
+      },
+      {
+        "title": "NVIDIA, Apple Donate to President Trump's Project Amid Conflict Concerns - 조선일보",
+        "desc": "NVIDIA, Apple Donate to President Trump's Project Amid Conflict Concerns&nbsp;&nbsp;조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWV5eWhfSGpTZEppT3hWN2dETlhUMGNZZ29jbThUOWlEdldDRXlmcnJPaXMwcEFobGNzaTVxZ1owNFdzUnVjS0JoeFlqOU1ZRkFySXF1QkZ1TUJ1dVJISndyeVpkLUhUWmNMaVlQYXg5WnM0aXhLQzhHWWdXWGNUUTdGV3NYbGl3?oc=5",
+        "pubTime": "2026-10-16 14:16",
+        "source": "news.google.com",
+        "titleZh": "NVIDIA 與蘋果在衝突疑慮下向川普總統的計畫捐款 - 《朝鮮日報》",
+        "descZh": "NVIDIA 與 Apple 在衝突疑慮下向川普總統的計畫捐款&nbsp;&nbsp;《朝鮮日報》"
+      },
+      {
+        "title": "Trump's tariffs are changing the global trade ecosystem - Al Majalla",
+        "desc": "Trump's tariffs are changing the global trade ecosystem&nbsp;&nbsp;Al Majalla",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0ZlREFzVk9KZWFNcnpIS3ptbHZTdUtsUmFqejRMODltLUpOSkFER1UwcDJJaHBfWm9MaU5nV2ZTQUV6cnJXLTVVOXNSUVV4aVJXbmtYcXZnXzgzMVZKTmhyYzZGYWtvUXN1M1d4VXhFRk4zVGFJYzhpaFdJdkd1VVFZb3daSmFiNndaQXl0VjVwMjNlYkNBUGJVS2ZvS0gwWDBySQ?oc=5",
+        "pubTime": "2026-10-16 11:52",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅正改變全球貿易生態系統——《Al Majalla》",
+        "descZh": "川普的關稅正在改變全球貿易生態系統&nbsp;&nbsp;《Al Majalla》"
+      },
+      {
+        "title": "Big Tech firms make large donations to Trump, raising concerns over policy favors - 디지털투데이",
+        "desc": "Big Tech firms make large donations to Trump, raising concerns over policy favors&nbsp;&nbsp;디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjl2WjY1U2NKQW5uMTF1M2ZvcVlIdXBWODM1RWRuWENaaDFEV0NPQm5zdG5ZOUdYTklrVEtUcEx4SmNSUVA1WS1wYXlBUjBOb3hvanNVNHBsa2czMUN4TFFmRkdKYXVPaENKcHlacXlxbU1EMTNNY1J0NVBpMHJPWVNsMnMxenR1RFM1bmVzTU83bkVGOTM1TGFhaS1VbXp0TVdtZnl6UEI3SW5FdEhzMGM2U2ItLXdMU1NOTmdrMldya2Qt?oc=5",
+        "pubTime": "2026-10-16 07:41",
+        "source": "news.google.com",
+        "titleZh": "科技巨頭向川普捐款鉅額，引發對政策偏袒的擔憂 - 數位今日",
+        "descZh": "科技巨頭向川普捐款鉅額，引發對政策偏袒的擔憂&nbsp;&nbsp;Digital Today"
+      }
+    ]
+  },
+  {
     "date": "20261017",
     "fetchTime": "2026-10-17 06:54",
     "count": 20,
@@ -2899,121 +3059,6 @@
         "source": "news.google.com",
         "titleZh": "貿易戰升級後，川普將加拿大與歐盟可能採取的行動稱為「敵對行為」——CTV新聞",
         "descZh": "貿易戰升級後，川普將加拿大與歐盟可能採取的行動稱為「敵對行為」&nbsp;&nbsp;CTV News"
-      }
-    ]
-  },
-  {
-    "date": "20260918",
-    "fetchTime": "2026-09-18 06:55",
-    "count": 12,
-    "articles": [
-      {
-        "title": "Canada Is Moving Closer to Europe. Trump's Tariffs Help Explain Why. - Reason Magazine",
-        "desc": "Canada Is Moving Closer to Europe. Trump's Tariffs Help Explain Why.&nbsp;&nbsp;Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTE82cFI2dXN1WDFzV1BWOTlfdXVwQ0FPb0o0UlpURVlzc055VlhLV3cwNUNQRVlhS292R2Z1dDd0S1NSN1ZTdFJOdWZnOFZzNlpNODhjMFVSdi1ibHpWZVdnUjN6S3hMbTI2Qk5EWE1IWGhTbVFUMVJKNlIzY2xlaFJqSFhDNDlTYk56ak5vVGpkcFk2eHY4bnViQ3k?oc=5",
-        "pubTime": "2026-09-18 04:40",
-        "source": "news.google.com",
-        "titleZh": "加拿大正逐步向歐洲靠攏。川普的關稅政策有助於解釋箇中原因。——《理智》雜誌",
-        "descZh": "加拿大正逐漸向歐洲靠攏。川普的關稅政策有助於解釋箇中原因。&nbsp;&nbsp;《Reason》雜誌"
-      },
-      {
-        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-        "desc": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-        "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-18 01:08",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "一名在中國遭拘禁的美國學者之妻，請求川普在與習近平的會晤中提及其丈夫被捕一事",
-        "descZh": "西爾維亞·津是那些在中國遭監禁者的家屬之一，他們正尋求川普在下週接待中國領導人時能給予協助。"
-      },
-      {
-        "title": "Testing Times: India Caught In Trump's Tariff Net Over Purchase Of Russian Oil - ETV Bharat",
-        "desc": "Testing Times: India Caught In Trump's Tariff Net Over Purchase Of Russian Oil&nbsp;&nbsp;ETV Bharat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTW1YQ0xvaTFBZWFZWlhLWmUtMFphN09zck5qSjJKamJFY3g2bDk0MjJLdGRqd1JOcEVYeGFEM0JxWFNlMjNlOW1uMk9vdG5WVGpKVmJ6SkttSGtPTzRNS2J1ZElyamI3bkJkSkRyMGZSQzE0bkJuMmc4UzBJWi1HUFVMd09jTjg4RUl2bUFmdTNnazNPcHVqc0xqV091NF9icF9tUndlN01uN0dqZGxyeHZGWmNEY1JaeE5KNtIBwgFBVV95cUxQLU42ZFhNY1ZDbUlFMzBwQ0FUZXBVV3VDOGQ2dWdhWTA4YXJMVldwYWZxTjctOC0tMDZTdkVrNllDX281TURJSHotLTVjX2pTUHRTTnluSzJGVTlsaFNUanNfbWFGT2Mwa2tQVmFKUVhnQWRfUzVDUkZyaGJiU090MWR5OGJUejM0TjlJSWd3cG5wR1ZWMFZlREZqWTBxbTM0azEtZUl1ZnoybFlGWFQ4V0JUOFgwTTM4OElNUmMtQjlHQQ?oc=5",
-        "pubTime": "2026-09-17 19:04",
-        "source": "news.google.com",
-        "titleZh": "艱難時刻：印度因購入俄羅斯石油而深陷川普的關稅網 - ETV Bharat",
-        "descZh": "艱難時刻：印度因購買俄羅斯原油而陷入川普的關稅網&nbsp;&nbsp;ETV Bharat"
-      },
-      {
-        "title": "Trump gains a tariff weapon against China and India. Will he use it? - CNBC",
-        "desc": "Trump gains a tariff weapon against China and India. Will he use it?&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVJ2bjZBQTBob3Vmb1JCWDh0TERtZ21NVllFVVlLN2R6Z0JWanEyc2dTTTFHcUQzTndJWGViRlRvVWZMOUxvU19ydjkxWlZWc0hYRkh6OEF5LUdxMHlxT0RyS1Zfbk5pY29VMDliWFRNNE8ySmE0SElIMGJ5NGhkT0JTRFNjT1BJbXdr?oc=5",
-        "pubTime": "2026-09-17 16:46",
-        "source": "news.google.com",
-        "titleZh": "川普獲得了針對中國和印度的關稅武器。他會動用這項武器嗎？——CNBC",
-        "descZh": "川普獲得了一項針對中國和印度的關稅武器。他會動用它嗎？&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "Trump threatens to unleash new tariffs on EU over Canada associate membership proposal, calls move ‘hostil - The Economic Times",
-        "desc": "Trump threatens to unleash new tariffs on EU over Canada associate membership proposal, calls move ‘hostil&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbkJSMm4wbkJpejZXLVFVYjNOZUozWTc0UkZMckUyZm5jM1RZRE5RTGFBeFR4cDcxYWs0SW14ZllSTXJSMURmSlVteVZmYmo5U2RPRDNkWllrQTdZSnVKQjdIdHJzMDJMZTIzVlpjamVRVTFWajVrZlhLdHpLUVV1MlNfYm5XTFNnM08zRm1DSWhac3lrODYtQmxXRkplSk5fWnMySDNGM1NOTnZuUVVhSmprTG13WTFWMGFaQUdqSHppX04yMTNucGIzZk1FYzd4RURaT2lORFRVMEdsVWdsOGhpMGZZcll5LTNlRW5kVExhNXhMY2fSAfsBQVVfeXFMT3Jfa0xDRG9aRlVSNzUzOFJOQk9BN3NHSENLM1ZidlZ6SURhNkd2OTNYMV9RRVIwRzVyRWVfaGVRM2loc1VmTjZYa2VnUTdFMHpSejQzd1FCVFp0MG43aE9fZXRHQUlVN0d2cnN0djhZNElqY2FoSGF6ejdnSkxQWVJnb1FjWEVZclpKaWpydzl4TGlNYzFOQUxnclp1NmU5eGZCLUhJbEd3U2tJRlVEQXZYR3VoWTRmTTY0Nl93MUZIZDVYTGN0UTluTUlvSVMxSDVBZTRWRndNeFh0ZUR0Wk9IR1ZRZEFHYkktc3ZFZFlKU2w2MkdsQXUwdlk?oc=5",
-        "pubTime": "2026-09-17 09:28",
-        "source": "news.google.com",
-        "titleZh": "川普威脅因加拿大「準成員國」提案對歐盟徵收新關稅，稱此舉「具敵意」——《經濟時報》",
-        "descZh": "川普威脅因加拿大附屬會員資格提案對歐盟實施新關稅，稱此舉「敵對」——《經濟時報》"
-      },
-      {
-        "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal - CNBC",
-        "desc": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal&nbsp;&nbsp;CNBC",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWR6cGRGckVRa3AyQ2pRc1ZheW9OaVIxU3dFZGNpLUw3amI3UFY3dk10ZjZ2bVRQc0IxbnVLYjhic180b3pwMjZGbmJheTY3eFBIOGpmX2lKdFNDT3ZGU19kVUNGYXlZUk1CUWFMQlZtZ3BIUDVGZ1J5dGlGQV9kVXA2R3JnalVpY2o1UUVaMHBTTktmaHl6aWVPQnM5VkHSAaQBQVVfeXFMTUFreW5XTnRHbUJNSE1sazl2MmxDb1hfSGpzeHlvalRKLXJmcWJ3R0g5aDVBOGwwSkNqVHlZRUJlUWhEMnNYa0VEWWpDdUVHdXF6U1o0c0ZpX0prajIzMEZ5eU9lTjJld0R4S1JNM1hXWEpMZjVWQ1NNc0JSc05LcDZyTGFQOGFqemNmTW9QX0c2dFp3M29iNVVNSG8zeUFwR3lLYmQ?oc=5",
-        "pubTime": "2026-09-17 08:52",
-        "source": "news.google.com",
-        "titleZh": "「敵對行為」：川普因加拿大準會員資格提案威脅對歐盟徵收關稅 —— CNBC",
-        "descZh": "「敵對行為」：川普以關稅威脅歐盟，抗議其針對加拿大准會員資格的提案&nbsp;&nbsp;CNBC"
-      },
-      {
-        "title": "US interest rates raised for first time in three years",
-        "desc": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-17 08:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國三年來首度升息",
-        "descZh": "儘管總統唐納德·川普強烈反對——他曾呼籲降息——但聯準會仍以全票通過的決議調升利率。"
-      },
-      {
-        "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
-        "desc": "The 0.25% increase comes despite fierce opposition from the US president, who has called for rates to be cut.",
-        "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-17 08:38",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何川普親自挑選的聯準會主席竟敢違抗他而升息",
-        "descZh": "儘管美國總統強烈反對並呼籲降息，央行仍將利率調升了0.25%。"
-      },
-      {
-        "title": "Trump calls possible Canada-EU move a hostile act after escalating trade war - CTV News",
-        "desc": "Trump calls possible Canada-EU move a hostile act after escalating trade war&nbsp;&nbsp;CTV News",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYmVXcnI2TWt6VzAwbXl6R2pIcUp0WmU0Tk14WTFPSnlYXzVvbE5KUEVxbVVkNjYxYjlKZ0JiRl9nTkJGRDI1MTU4clMtbmxMWFM1ZkZxZXA4QkVYdUlPVFdCMjZVZmV3NEZEQS1mTlFxem5vOGtCdFpfdXJwWW4xX2VWUUloS2w5Z1dPX0JCMEI5N2o3SVI5LVcyR3BROEhQUkhGcUVjajJlb0VGcHVsWXplOGU0V1dp?oc=5",
-        "pubTime": "2026-09-17 08:21",
-        "source": "news.google.com",
-        "titleZh": "貿易戰升級後，川普將加拿大與歐盟可能採取的行動稱為「敵對行為」——CTV新聞",
-        "descZh": "貿易戰升級後，川普稱加拿大與歐盟可能採取的行動是敵對行為&nbsp;&nbsp;CTV News"
-      },
-      {
-        "title": "Donald Trump Approval Rating Slumps in 7 of 8 States Canada Targeted - newsweek.com",
-        "desc": "Donald Trump Approval Rating Slumps in 7 of 8 States Canada Targeted&nbsp;&nbsp;newsweek.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGxIbE5nTmN4aXZ5d2cyRHlOTXJjcmZFNzY1NkpEVUdDMjNqaEQwR2JlbGhOOTR3NXhXdE8yWkIyNnQwQVc5cTF0RU51eWhtaFhOLXdtM3ppeTBrQXY5SXVCWmUtZ0w2MHUwRVFfdEJ3cEVoc3hJTk5TbE4zSGhwcUtVN1ZtU2tOZ0U4?oc=5",
-        "pubTime": "2026-09-16 21:38",
-        "source": "news.google.com",
-        "titleZh": "唐納德·川普在8個州中的7個州支持率暴跌，加拿大成為目標 - newsweek.com",
-        "descZh": "唐納德·川普在 8 個州中的 7 個州支持率暴跌　加拿大成為目標&nbsp;&nbsp;newsweek.com"
-      },
-      {
-        "title": "Carney's new love-in with EU has everything to do with Trump",
-        "desc": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst.",
-        "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 19:08",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "卡尼近期與歐盟的這波「親密互動」，與川普息息相關",
-        "descZh": "加拿大總理本週造訪斯特拉斯堡，尋求建立一項「獨特的聯盟」——而其中有一個顯而易見的催化因素。"
-      },
-      {
-        "title": "Why Trump is all-in on AI despite the warnings",
-        "desc": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
-        "url": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-16 16:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "儘管面臨諸多警告，川普為何仍對人工智慧全力以赴？",
-        "descZh": "美國總統已將此議題推至美國政治的前沿——即使這可能導致他失去支持者。"
       }
     ]
   }
