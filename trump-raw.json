@@ -1,5 +1,48 @@
 [
   {
+    "date": "20261020",
+    "fetchTime": "2026-10-20 07:48",
+    "count": 4,
+    "articles": [
+      {
+        "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+        "desc": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+        "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-20 00:16",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "歐巴馬抨擊聯邦當局對國會女議員伊爾漢·奧馬爾的調查「實在令人髮指」",
+        "descZh": "歐巴馬表示，聯邦探員搜查這位民主黨人士住處的行為，是為了威嚇一位批評川普的人士。"
+      },
+      {
+        "title": "Opinion: Trump’s tariffs hurt Ontario but don’t explain its economic decline - Financial Post",
+        "desc": "Opinion: Trump’s tariffs hurt Ontario but don’t explain its economic decline&nbsp;&nbsp;Financial Post",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDlWeDlTbG1SV2YxOWZjTG00WGdsYWpicUFYWnZCR00tcUkwM0ZPdlZGQlBTdDMxbTZaeXFQZ1hmbEpiZUpuaFRGc3otcHI0U3YtSXZCYUhUeUJua21tMGdYS0dTa3pmWnNreGZkWTFKdkFGYzZCNk9uQ1pfUWN6NjdjX2p2LTNtTENWWDBZemFRWkRJNkR0NE9PT2w?oc=5",
+        "pubTime": "2026-10-19 22:45",
+        "source": "news.google.com",
+        "titleZh": "觀點：川普的關稅雖對安大略省造成衝擊，但無法解釋該省的經濟衰退——《金融郵報》",
+        "descZh": "觀點：川普的關稅雖對安大略省造成衝擊，但無法解釋該省的經濟衰退&nbsp;&nbsp;《金融郵報》"
+      },
+      {
+        "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED) - Yahoo Finance",
+        "desc": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFZ1U1ZhLVJwdTdUdHRCbnNkdVNvc2hDX0hTUVFLc2ZPNThNajVkWU01MkxsTHRBUEJlZ3p1d3JZWlhjcVFRbll4OTR4M0JiSzJsZF96UEZqVWpMb280NS04c3owZzdTRktxTm52MjFTUURPTkc0UUFTSHJNZUY2djRwZ2RPYWNvVUpKZ1V1OTdPLURX?oc=5",
+        "pubTime": "2026-10-19 11:30",
+        "source": "news.google.com",
+        "titleZh": "報導指出，川普耗資 3.3 億美元的「白宮舞廳」捐款名單顯示，英偉達、蘋果和谷歌位列科技業主要捐款者之列（更新） - 雅虎財經",
+        "descZh": "報導指出，川普耗資 3.3 億美元興建的白宮舞廳捐款名單顯示，英偉達、蘋果和谷歌位列科技界主要捐款者之列（更新）&nbsp;&nbsp;雅虎財經"
+      },
+      {
+        "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - The Business Standard",
+        "desc": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports&nbsp;&nbsp;The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFdjYXpxM2hOdXMzQjhaOTlnRTlpSlZNcmM4bkZ5b1loczZldkNrZDRmWXRyUEJienNOT1RjOWlsM3Y3cHlzWkpONm4tNDA3VWdyZTcyM09YUWQtaEZGOW5DNzJNSUU0Si13d2hJakk0enYwSnhYSzJUTDBvTzh5XzRDeUFmZEp2Vl9GX2duWEh6UDhaNy1pXzlnVTIxZUNyd0xNMmNYS0VqOHNZdUtV?oc=5",
+        "pubTime": "2026-10-18 21:59",
+        "source": "news.google.com",
+        "titleZh": "《華盛頓郵報》報導：Nvidia 與 Apple 各捐贈 2,500 萬美元給川普的宴會廳 —— 《商業標準報》",
+        "descZh": "《華盛頓郵報》報導，Nvidia 與 Apple 各捐贈 2,500 萬美元給川普的宴會廳&nbsp;&nbsp;《商業標準報》"
+      }
+    ]
+  },
+  {
     "date": "20261019",
     "fetchTime": "2026-10-19 06:29",
     "count": 6,
@@ -2881,121 +2924,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普表示，其子已向普京的盟友償還了部分婚禮慶典的資金",
         "descZh": "媳婦貝蒂娜·川普證實，烏馬爾·克雷姆列夫部分資助了他們在巴哈馬某座私人島嶼上為期三天的慶祝活動中，其中兩晚的開銷。"
-      }
-    ]
-  },
-  {
-    "date": "20260920",
-    "fetchTime": "2026-09-20 06:21",
-    "count": 12,
-    "articles": [
-      {
-        "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-        "desc": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-20 05:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，美國將成立「人工智慧部隊」，並任命一名人工智慧沙皇",
-        "descZh": "儘管各界對這項新興技術發出警告，總統表示，他的政府「絕不會以任何方式阻礙或扼殺其發展」。"
-      },
-      {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "desc": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-20 03:13",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普禁止部分媒體進入白宮後，記者們被拒於白宮門外",
-        "descZh": "據這些媒體報導，CNN、《MS NOW》及《Politico》的記者所持有的白宮記者證已被沒收。"
-      },
-      {
-        "title": "Analysis: Trump escalates media fight after week of setbacks",
-        "desc": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher.",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-20 01:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "分析：經歷一週的挫折後，川普加劇與媒體的對峙",
-        "descZh": "BBC記者安東尼·祖切爾（Anthony Zurcher）撰文指出，身處風口浪尖的川普，已將他與新聞媒體之間的爭鬥推向了新的激烈程度。"
-      },
-      {
-        "title": "Smart tariffs fight Beijing, stupid tariffs tax Santa: How Trump can save Christmas - Washington Examiner",
-        "desc": "Smart tariffs fight Beijing, stupid tariffs tax Santa: How Trump can save Christmas&nbsp;&nbsp;Washington Examiner",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFBIUXhaMUtHQzMtV1lRSFRmZl9HNndYMlZjVFFJTF9nR1d4ZzBJT1RMeElkV2Y0OVFnQzF5dXhXZUtBMGVwZ2tMVnUtbk5yc201VXZIYVhmVF9GQU5YNWhLNF9WRXQ5WXpoYzlSYWNIbGtrd2draWUwc3lwdHlOYVYxSWpncjZJR3Z0bnN2ZVdXcWNIY2c?oc=5",
-        "pubTime": "2026-09-19 22:00",
-        "source": "news.google.com",
-        "titleZh": "「聰明的關稅」對抗北京，「愚蠢的關稅」卻向聖誕老人課稅：川普如何拯救聖誕節——《華盛頓觀察家報》",
-        "descZh": "「聰明的關稅」對抗北京，「愚蠢的關稅」卻向聖誕老人徵稅：川普如何拯救聖誕節&nbsp;&nbsp;《華盛頓審查報》"
-      },
-      {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "desc": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-19 19:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "北約對格陵蘭協議表示歡迎，特朗普則表示這將使美國獲得「永久性安全控制權」",
-        "descZh": "在唐納德·川普數月來不斷威脅要吞併該領土之後，丹麥與美國已達成協議。"
-      },
-      {
-        "title": "Trump, Denmark strike deal to expand US military presence in Greenland - SMH.com.au",
-        "desc": "Trump, Denmark strike deal to expand US military presence in Greenland&nbsp;&nbsp;SMH.com.au",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUFBQWNQYUVSUWU0eVVtMWV1NHRxYjFKVDVuV0hUVk9RMlI1M1c1eWNsRlBpcXVuLU9Gc2JtZW9tS2dqWXNtRDc2S3NneGk3elNoSld5RVJDdmpQTnJ1TVRGcmRPOGc5Y1UxZ1hlVW5Fb2VlYzBqdVNKUXktZGpfNnVOTWd3NW56RnFPTzlLOUdyZF9CeEJDLTE4d0lLU2JyWFNpYW5GRVliUFJyRDd2MWtqVEprYUI4YzMydEpvNFVTNGZEdFZ6OExtRE1BQQ?oc=5",
-        "pubTime": "2026-09-19 08:09",
-        "source": "news.google.com",
-        "titleZh": "川普與丹麥達成協議，擴大美國在格陵蘭的軍事存在 - SMH.com.au",
-        "descZh": "川普與丹麥達成協議，擴大美國在格陵蘭的軍事存在&nbsp;&nbsp;SMH.com.au"
-      },
-      {
-        "title": "Trump says son has paid back Putin ally for partly funding wedding festivities",
-        "desc": "Daughter in-law Bettina Trump confirms that Umar Kremlev partially funded two nights of their three-day festivities on a private island in the Bahamas.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgl7dk3we3ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-19 06:34",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，其子已向普京的盟友償還部分婚禮慶典的資金",
-        "descZh": "媳婦貝蒂娜·川普證實，烏馬爾·克雷姆列夫部分資助了他們在巴哈馬某座私人島嶼上為期三天的慶祝活動中的兩晚開銷。"
-      },
-      {
-        "title": "Trump signs sweeping Russia sanctions bill",
-        "desc": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-19 06:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普簽署針對俄羅斯的全面制裁法案",
-        "descZh": "該法案是以已故參議員林賽·葛拉漢（Lindsey Graham）的名字命名的，他是對烏克蘭提供援助的堅定倡導者。"
-      },
-      {
-        "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
-        "desc": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
-        "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-19 04:35",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普表示，禁止部分新聞媒體進入是「因為它們是假新聞」",
-        "descZh": "美國總統週五宣布，他將「立即」禁止CNN、MS NOW和Politico進入白宮。"
-      },
-      {
-        "title": "Vance rallies Iowa Republicans, says Trump’s trade policies benefit farmers - Iowa Capital Dispatch",
-        "desc": "Vance rallies Iowa Republicans, says Trump’s trade policies benefit farmers&nbsp;&nbsp;Iowa Capital Dispatch",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEJkZi1MN3ZwOWtST1FFNTJlOVRHSnRrZU5sT09rYXBNTy1GdzBwR3lDZHFic2s4a1BvaWxHX2I3cHhDYjlZLXVVaTZsMkJla1hRaTBzX1NXcm9sZk9Ma3NnVUg4cmNnbHktM1Z0VlBLVzUwNVJHT0FlZTU3OGo4UVo3S0I4NEVxWWt4MUtDN0xRRUFDQ2FLVy1kY0lfVmM0VFNjdFNTUi1SQURoTDJvOVNDeTJJaFh2?oc=5",
-        "pubTime": "2026-09-19 04:29",
-        "source": "news.google.com",
-        "titleZh": "范斯鼓舞愛荷華州共和黨人，稱川普的貿易政策有利於農民 —— 《愛荷華首都快訊》",
-        "descZh": "范斯在愛荷華州鼓舞共和黨人，稱川普的貿易政策有利於農民&nbsp;&nbsp;《愛荷華州首府快訊》"
-      },
-      {
-        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-        "desc": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-19 01:57",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "「我們實在無從得知」——摩根大通因川普與伊朗的戰爭而難以預測油價",
-        "descZh": "該銀行表示，它「假設」會存在某些經濟上的「紅線」，例如每桶100美元的油價，而美國不願跨越這些紅線。"
-      },
-      {
-        "title": "Why an American football game played the Canadian national anthem",
-        "desc": "The field in Buffalo was decked out with the flags of both countries, as tensions simmer and a trade war escalates.",
-        "url": "https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-18 23:14",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "為何一場美式足球比賽會播放加拿大國歌",
-        "descZh": "在布法羅的賽場上，兩國國旗隨處可見，而此時雙方緊張局勢持續升溫，貿易戰亦不斷升級。"
       }
     ]
   }
