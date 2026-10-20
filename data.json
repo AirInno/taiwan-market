@@ -48452,6 +48452,9 @@
         "融資餘額": 24187,
         "融券餘額": 3409
       }
-    }
+    },
+    "tsmc_hold": null,
+    "etf0050_hold": null,
+    "delta_hold": null
   }
 ]
