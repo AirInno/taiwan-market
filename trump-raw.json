@@ -1,5 +1,111 @@
 [
   {
+    "date": "20261022",
+    "fetchTime": "2026-10-22 07:28",
+    "count": 11,
+    "articles": [
+      {
+        "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+        "desc": "The 74-year-old former teacher, who was captured in 2022, has been released without any \"swap\" required, Trump says.",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-22 04:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普特使與普丁會晤之際，俄羅斯釋放了美國公民史蒂芬·哈伯德",
+        "descZh": "川普表示，這名現年74歲、曾任教師的男子於2022年被捕，如今已獲釋，且無需進行任何「交換」。"
+      },
+      {
+        "title": "Trump Is Making a Mess of Diego Garcia - Foreign Policy",
+        "desc": "Trump Is Making a Mess of Diego Garcia&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzNSQ0ZjbEhnMmxMQmRxcnJDYlFnbWNzNmMxNlE4cG1BUFJJTGJ3Yk5ZejlvQ3BfY2g0MjVwdzl3TjFNdkhOTTg5TEpROVNFRWVwWGVnd0VGbk9qajhkeGplZG9vRTJkYVRuNjhWai1EYzU0WnJQZE1ONjROVHhkN0pQOGduekZUNi1pZFY4dGo2VDhUNXhYWWFDZm4yRjR0UHU2aTlBcXJLdw?oc=5",
+        "pubTime": "2026-10-21 20:30",
+        "source": "news.google.com",
+        "titleZh": "川普正把迪戈加西亞搞得一團糟——《外交政策》",
+        "descZh": "川普正把迪戈加西亞搞得一團糟&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project - Mashable",
+        "desc": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project&nbsp;&nbsp;Mashable",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM?oc=5",
+        "pubTime": "2026-10-21 17:13",
+        "source": "news.google.com",
+        "titleZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單 —— Mashable",
+        "descZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單&nbsp;&nbsp;Mashable"
+      },
+      {
+        "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+        "desc": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-21 11:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「垃圾島」還是華盛頓特區的地標？一座高爾夫球場如何讓川普捲入一場棘手的法律糾紛",
+        "descZh": "川普表示，他計畫將華盛頓特區一處擁有106年歷史的公共高爾夫球場，改造成可供職業選手舉辦比賽的高爾夫球場，但當地高爾夫球手對此並不滿意。"
+      },
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "desc": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-21 10:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "海地移民改變了這座美國小鎮——川普的遣返行動正再次重塑這座小鎮",
+        "descZh": "總統憑藉一則關於「吃寵物」的虛假指控，讓俄亥俄州斯普林菲爾德市成為眾人矚目的焦點——多年後，此事仍舊是移民辯論的核心議題。"
+      },
+      {
+        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+        "desc": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+        "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-21 06:22",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "亞伯達省決定留在加拿大，這項果斷的決定為卡尼對抗川普提供了後盾",
+        "descZh": "BBC記者萊絲·杜塞特指出，亞伯達省以壓倒性票數支持留在加拿大，這為馬克·卡尼提供了政治資本，使他能專注於重塑該國經濟。"
+      },
+      {
+        "title": "Trump’s 50% Canada tariffs challenged in court - Supply Chain Dive",
+        "desc": "Trump’s 50% Canada tariffs challenged in court&nbsp;&nbsp;Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUQ5LUl2dDRtYldkMjZyc2xJS0swUEJpS29kZ3RvUVBZQWNxWkhKeGYzYm9NemxiRzdycklfUExFelZZb1VrZnVEaXhvMGo3YWZOcThNUVcyUlpzeV9WeGREdTdRd0swNFJfcUFQTWJobmpHbm54VURSSzJpTXl1NF9nRzg3QzZwVXN1WG9kWTdWM0k?oc=5",
+        "pubTime": "2026-10-21 05:37",
+        "source": "news.google.com",
+        "titleZh": "川普對加拿大徵收的 50% 關稅遭法院挑戰 —— Supply Chain Dive",
+        "descZh": "川普對加拿大徵收的 50% 關稅遭法院挑戰&nbsp;&nbsp;Supply Chain Dive"
+      },
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "desc": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-21 03:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普因加拿大關稅遭起訴，面臨最新一場法律挑戰",
+        "descZh": "該訴訟主張，白宮對該國實施最新關稅的舉措已超越其權限，並對「美國企業造成立即性損害」。"
+      },
+      {
+        "title": "Trump sued over 50% tariffs on Canada in latest trade challenge - CNBC",
+        "desc": "Trump sued over 50% tariffs on Canada in latest trade challenge&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmwzY29wcWVxZHkzZm5ZZlJJM19SZ2xtYnNZdFFkNllrcFMzN3NVMFJ2b3JpY0s5SnVuSTYzNzE5UFVSNHlSaV9YZmt1bmNkeXlSUUJlYW1WWGZhaUx0dTF1VmVuX0ZUdGljQ2kwb1lfcnBYdXUxV1VIZWp0MGNZT1F0UdIBiAFBVV95cUxNbzc3VV9FbHllLVBpRjlzNGZzN3FUaGFOTC13a0NLblBJMDh4TmVzY3ZHVjlYQTBqNzdGZlMxb3VHTml0Tm9mSi03MHMxcjhDX0t6b3FkaTNCSWo5TW4xbHFIMHRqcW5hMWItSnJ0TWN1ektpWFNIRlpWLWZrZ0JFRVNLOGc1TlJJ?oc=5",
+        "pubTime": "2026-10-21 00:43",
+        "source": "news.google.com",
+        "titleZh": "川普因對加拿大徵收 50% 關稅而遭起訴，這是最新一樁貿易糾紛 —— CNBC",
+        "descZh": "川普因對加拿大徵收 50% 關稅而遭起訴，這是最新一樁貿易糾紛&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trade tariffs and lower international travel are hitting Las Vegas small businesses - Las Vegas Sun",
+        "desc": "Trade tariffs and lower international travel are hitting Las Vegas small businesses&nbsp;&nbsp;Las Vegas Sun",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNektzSEpxLXo5VlBFaEYwU05ta001NTdqNjBZNmdlWEdtSXR3ZkQxb0pVTmdMMzVobkpQNVFZRzB0QW02RUhBeDBJcUhfWXlzUl9ROHpmSzdCMVBzUVlFdFFqY0VsQWhyY0ZUazVvVEllMVY0ckFUVWFNNzMxckttUmdkSTh5RUtySW41ODRmZ19lR01zeHFR?oc=5",
+        "pubTime": "2026-10-20 17:00",
+        "source": "news.google.com",
+        "titleZh": "貿易關稅與國際旅遊減少正衝擊拉斯維加斯的小型企業——《拉斯維加斯太陽報》",
+        "descZh": "貿易關稅與國際旅遊減少正衝擊拉斯維加斯的小型企業&nbsp;&nbsp;《拉斯維加斯太陽報》"
+      },
+      {
+        "title": "How is the US economy really doing under President Trump?",
+        "desc": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-20 13:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普總統執政下，美國經濟的實際狀況究竟如何？",
+        "descZh": "在期中選舉前夕，川普曾大肆吹噓美國經濟的表現。BBC Verify 針對該國的通膨、就業與經濟成長進行了分析。"
+      }
+    ]
+  },
+  {
     "date": "20261021",
     "fetchTime": "2026-10-21 07:14",
     "count": 9,
@@ -2845,76 +2951,6 @@
         "source": "news.google.com",
         "titleZh": "深度解析：川普的新關稅法案如何影響印度——《富比士印度版》",
         "descZh": "深度解析：川普的新關稅法如何影響印度&nbsp;&nbsp;《富比士印度版》"
-      }
-    ]
-  },
-  {
-    "date": "20260922",
-    "fetchTime": "2026-09-22 07:23",
-    "count": 7,
-    "articles": [
-      {
-        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-        "desc": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-22 06:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "CNN、《MS NOW》和《Politico》針對川普政府頒布的白宮禁令提起訴訟",
-        "descZh": "當川普前往紐約參加聯合國峰會時，美國各大電視網隨後暫停了對白宮相關電視報導。"
-      },
-      {
-        "title": "NVIDIA CEO to Join Apple, Microsoft, and OpenAI Leaders at Trump-Xi Dinner - The Coin Republic",
-        "desc": "NVIDIA CEO to Join Apple, Microsoft, and OpenAI Leaders at Trump-Xi Dinner&nbsp;&nbsp;The Coin Republic",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXM5UC1rWlZ1NGdCVVpEY3FibXN2UFhiNzE3eW4yU2RPckU5UmlFR0ZnZkJpeVVPWV9MYTROUml4SU5DU0EySmN1di1GeFBVbW9VZmxsd1FQazNZYloybzZYejV5d1FnWGl2RDAwalpuWVZrTjdneUFLbklrRVAzVzBzSVcxOFVxblFVUDlUWWk2YXpueGZ5dU9pT0xCRGpQZzAwMy1fR05tSThibmR1djdVdkJrdEHSAbwBQVVfeXFMUHlQcW13eEhGYTBURVZNaktyTWhMa3VHM0FiNm1CM3R2QVJFMzN0dWc5YVZGdzdVdndaSnp4bV8zX2xVYnNsWHVCdEpLRjhheGhPV05NRzhIaEN2MFZJRmVfVGtQR3hHN2pqSGNLNXY4S3dnRVhnZFp5ZTZGdnVQRjM0b0RtX24wVFk3bmRVd3dnZ1ZDSnpfTXF3d013YWFyMm5HWWhsV3NQczBaQjhLWF9kdGppTGg0ZGVZTVU?oc=5",
-        "pubTime": "2026-09-22 00:00",
-        "source": "news.google.com",
-        "titleZh": "NVIDIA 執行長將與蘋果、微軟及 OpenAI 高層共同出席川普與習近平的晚宴 — The Coin Republic",
-        "descZh": "NVIDIA 執行長將與蘋果、微軟及 OpenAI 高層共同出席川普與習近平的晚宴&nbsp;&nbsp;The Coin Republic"
-      },
-      {
-        "title": "Trump’s bumbling foreign policy threatens US 'ruin': military expert - alternet.org",
-        "desc": "Trump’s bumbling foreign policy threatens US 'ruin': military expert&nbsp;&nbsp;alternet.org",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dWxhb1NCVzZOVG9SMDdQMlhSLXNMYVpvcm44a3JWSzBuTVpBZUZidU11UEFIZUYxdjZsdFl2MGdXNUdsSzdaWnFsd1FzV2ZkMnIwYg?oc=5",
-        "pubTime": "2026-09-21 23:06",
-        "source": "news.google.com",
-        "titleZh": "軍事專家指出：川普笨拙的外交政策威脅美國「滅亡」——alternet.org",
-        "descZh": "川普笨拙的外交政策威脅美國「滅亡」：軍事專家&nbsp;&nbsp;alternet.org"
-      },
-      {
-        "title": "Trump tariffs lose appeal among working-class voters as higher prices become a concern, says political analyst Ronald Brownstein - Business Today",
-        "desc": "Trump tariffs lose appeal among working-class voters as higher prices become a concern, says political analyst Ronald Brownstein&nbsp;&nbsp;Business Today",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOTJkUFJXeEVSSnJyNlZxcExyMnZDaEV6WjlDY2Iza29KdldZeWlfdjlyc2RCRFdWcW1VZ1ZDV0xqQ1NUdC13UGlybWZPUXhBUEZtdzEzaWJPajdPdWFyOWR5ZEZLeFVlck5CbjBCcTR0R2l3Si1GdkUxWmhjMUs4ZWdMQU1DTW1NR2tmU3J5SWhjcXRNTzBOaE5qMzhIcm9QM01laGg0R0c1ZjBleTNUaHp4eWhyWTJwdWFHWXgxbngxZFo0MTZ2VEwxNmlIRUNDcHdYWjN3MzlXQlJrSG5relFsYTNIZkNObGVFRENSMnpIRWVFQ3E3M3BWd19PYmdKNlhZSV91THBNUmpxZF8wa0k1Z1LSAZoCQVVfeXFMTzJLakZNNjQ2TjZsWV9FSGxCUzdTSDNjSjhDVHViaHo4WGxoaEFsNmZpbXZReUZJRGM0STBXak96MFI0R21wdEhhVmdkdVRrNHBENUQ4cTRhOXZ0VFVPVEJTRExZZlI0cl9oaVNKN20yUkFtbUV4Zi1Ea0VzT3phT1FJR0lUOWhJTTlqU2t3MlZ1RjBjUHFUWU1GLTNKNE8yZW9wS1FUYlBrMjBnWVNRVVg2d3U0bmlwOWF5SUlVbGE2akFub3kxWEJGV2VFN1BNOWxYUDc4d0k1RWI1c1Vid1I2anVjS3ZZRFVJVGNVWkNPUmI2aWhmNzQ5by1FRXppdnkzRnVFTklFZG9xZUNrQTgyU0xRSVFfeERR?oc=5",
-        "pubTime": "2026-09-21 17:55",
-        "source": "news.google.com",
-        "titleZh": "政治分析師羅納德·布朗斯坦表示，隨著物價上漲成為選民關切的議題，川普的關稅政策在勞工階級選民中的吸引力正逐漸減弱——《今日商業》",
-        "descZh": "政治分析師羅納德·布朗斯坦表示，隨著物價上漲成為選民關切的議題，川普的關稅政策在勞工階層選民中的吸引力正逐漸減弱&nbsp;&nbsp;《今日商業》"
-      },
-      {
-        "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-        "desc": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-21 13:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美中兩國在川普與習近平峰會前商討人工智慧安全計畫",
-        "descZh": "在預定於本週舉行的川普與習近平峰會之前，美中兩國高層官員週日在紐約舉行了會談。"
-      },
-      {
-        "title": "Why Does Everyone Hate Trump’s Tariffs? - Paul Krugman | Substack",
-        "desc": "Why Does Everyone Hate Trump’s Tariffs?&nbsp;&nbsp;Paul Krugman | Substack",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzMTRjdmdnbWI0cmpxMjVRNzgwMi1wMUZVTnlIcVdGTVh0Q1JoYTJHVktDaEJsbDl2eGZmeXRYdk5PeUhNalhvVUhtQ044S0pORFRMX3NVcWtJdi1uM2hvREhKSEVDcXpwb3dDbW1CSHlRbWZQUjZUcW02eFk?oc=5",
-        "pubTime": "2026-09-20 18:30",
-        "source": "news.google.com",
-        "titleZh": "為什麼大家都討厭川普的關稅？——保羅·克魯格曼 | Substack",
-        "descZh": "為什麼大家都討厭川普的關稅？&nbsp;&nbsp;保羅·克魯格曼 | Substack"
-      },
-      {
-        "title": "‘Voters are like, No thanks’: Trump’s tariffs fall flat with the working class - cnn.com",
-        "desc": "‘Voters are like, No thanks’: Trump’s tariffs fall flat with the working class&nbsp;&nbsp;cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByV2tJZDNqQ0VuT0QyTEFXV0V2SjNvWFI0Q29TdkZNcC15U1F6LW9jWGZhZ1pmd2s4NGV4TjFEWWgxNmhfRFhsMzJrTmRjZ2wtVnNHSF94ZXJ5VE9BMDlSSGZfbjFkOFNKVkc5V2NFam1WYmdFRmc?oc=5",
-        "pubTime": "2026-09-20 18:00",
-        "source": "news.google.com",
-        "titleZh": "「選民們的反應是：『不，謝謝』」：川普的關稅政策在勞工階級中反響平平 - cnn.com",
-        "descZh": "「選民們的反應是：『不，謝謝』」：川普的關稅政策在勞工階級中反響平平&nbsp;&nbsp;cnn.com"
       }
     ]
   }
