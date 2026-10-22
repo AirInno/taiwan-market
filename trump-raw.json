@@ -1,5 +1,84 @@
 [
   {
+    "date": "20261023",
+    "fetchTime": "2026-10-23 07:27",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-23 05:42",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，馬斯克已恢復烏克蘭對「星鏈」網路的連線",
+        "descZh": "烏克蘭將「星鏈」（Starlink）用於多種軍事用途——其擁有者伊隆·馬斯克曾多次否認限制其使用權。"
+      },
+      {
+        "title": "Trump says NBA star LeBron James 'disrespected' US anthem",
+        "desc": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-23 04:04",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，NBA球星勒布朗·詹姆斯「不尊重」美國國歌",
+        "descZh": "這位籃球巨星最近似乎在國歌奏響時，一邊練習高爾夫揮桿，一邊練習籃球投籃。"
+      },
+      {
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "desc": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-23 01:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普被勒令在BBC訴訟案中宣誓作證",
+        "descZh": "川普正就《全景》節目的一集內容對英國廣播公司（BBC）提起訴訟，該集節目將他於2021年發表的一場演說中兩個不同的片段剪輯在一起。"
+      },
+      {
+        "title": "How US midterms could affect Trump's tariffs, defence spending and foreign policy - Moneycontrol.com",
+        "desc": "How US midterms could affect Trump's tariffs, defence spending and foreign policy&nbsp;&nbsp;Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVdxdDgybEI1MnVvN1lDRVlfQV9NZEdmZXVtcDZhMnpKUjJLWkt6SFBZWl9LYjBKSkQtaU9Pd0ZHTkdfbFdHSzA1c3hkZ2t5MXBPOEFFR0JoWFhzRHh1Z3dQUFQ2TllYcktNekJ2UFVaNVVWWW9RakpXU0RkYU9MVEFrVF96bnRHYURmQi1mR0JmVUVhdkZSa2lWdWwzYTB5TmV1czh5eFNWV1ZSUnVsejE2c3dhdWFaM2lRaGdWZHR1SjlRM3NGSzVJc2E1Q1EtVnZZ0gHYAUFVX3lxTE9TTHR6dDdQWERwTVZlVGxEanFnQTQ1ME85Mzd6OXBZN2pRUHFyczB3akZRamJTX2h0SnFwX2ppWlRtSWFQSzJVaVdyQlB1V3NPNl9iZFdLTTAwa2RPc1FBeDY4bnJIaVNWd1F3a0NrVG92U29uQjFJR196X3hXNGlWMTJ0eW5vaWEtakMwV1NGZFRiVUNIcUF5YTFBbHNRMFRsUHFkcDA2ZVBsQXpFZHJfNlNkalZzaWx6UzBac29aUFI5dmRlZUs1bWo3aWZnejlWakFrV2NUVA?oc=5",
+        "pubTime": "2026-10-22 17:09",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉可能如何影響川普的關稅政策、國防開支及外交政策——Moneycontrol.com",
+        "descZh": "美國中期選舉可能如何影響川普的關稅政策、國防開支及外交政策&nbsp;&nbsp;Moneycontrol.com"
+      },
+      {
+        "title": "A New Jersey importer is fighting Trump's tariffs — and a Lindsay dairy’s goat cheese is why - Toronto Star",
+        "desc": "A New Jersey importer is fighting Trump's tariffs — and a Lindsay dairy’s goat cheese is why&nbsp;&nbsp;Toronto Star",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZURRYlVaSHVYT3oyWDFja09DYXJndHRQQzJDUmVTWjBFZ0hJTnVoaDJjOVF2VWpRQTJTdHRFYkZtQlIzX200RHRhU2ZkY0czVGFNcXVxaFlxcy13V3lma2pTSmw1U09qRkRyWExOZ0R2VDdXZWVlNk1UQWI0Vm1TbFJZTUh2dmR6cnNOaUdPRXh2Y0YtX3VvRFVZNDZseC15Z0N3MnNiTS1WbFZrN2FBdmQ4TVRaQUNOc0NKRThKeWRka1I0OHdIbWxDTzhSbkl0a1dONFpzS1RiSVMzb3p4bGxpQ3hrSGdtMUl6SEpBd1BYSE0?oc=5",
+        "pubTime": "2026-10-22 17:00",
+        "source": "news.google.com",
+        "titleZh": "新澤西州一名進口商正對抗川普的關稅——而這一切都源於林賽一家乳品廠的山羊奶酪 - 《多倫多星報》",
+        "descZh": "新澤西州一名進口商正對抗川普的關稅——而這一切都源於林賽一家乳品廠的山羊奶酪&nbsp;&nbsp;《多倫多星報》"
+      },
+      {
+        "title": "Trump Is Making a Mess of Diego Garcia - Foreign Policy",
+        "desc": "Trump Is Making a Mess of Diego Garcia&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzNSQ0ZjbEhnMmxMQmRxcnJDYlFnbWNzNmMxNlE4cG1BUFJJTGJ3Yk5ZejlvQ3BfY2g0MjVwdzl3TjFNdkhOTTg5TEpROVNFRWVwWGVnd0VGbk9qajhkeGplZG9vRTJkYVRuNjhWai1EYzU0WnJQZE1ONjROVHhkN0pQOGduekZUNi1pZFY4dGo2VDhUNXhYWWFDZm4yRjR0UHU2aTlBcXJLdw?oc=5",
+        "pubTime": "2026-10-21 20:31",
+        "source": "news.google.com",
+        "titleZh": "川普正把迪戈加西亞搞得一團糟——《外交政策》",
+        "descZh": "川普正把迪戈加西亞搞得一團糟&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+        "desc": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-21 11:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「垃圾島」還是華盛頓特區的地標？一座高爾夫球場如何讓川普捲入一場棘手的法律糾紛",
+        "descZh": "川普表示，他計畫將華盛頓特區一處擁有106年歷史的公共高爾夫球場，改造成可供職業選手舉辦比賽的高爾夫球場，但當地高爾夫球手對此並不滿意。"
+      },
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "desc": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-21 10:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "海地移民改變了這座美國小鎮——川普的遣返行動正再次重塑這座小鎮",
+        "descZh": "總統憑藉一則關於「吃寵物」的虛假指控，讓俄亥俄州斯普林菲爾德市成為眾人矚目的焦點——多年後，此事仍舊是移民辯論的核心議題。"
+      }
+    ]
+  },
+  {
     "date": "20261022",
     "fetchTime": "2026-10-22 07:28",
     "count": 11,
@@ -2836,121 +2915,6 @@
         "source": "news.google.com",
         "titleZh": "企業遭「排除」在川普對中關稅管道之外——《Politico》",
         "descZh": "企業被「排除」在川普對中關稅渠道之外&nbsp;&nbsp;《Politico》"
-      }
-    ]
-  },
-  {
-    "date": "20260923",
-    "fetchTime": "2026-09-23 07:03",
-    "count": 12,
-    "articles": [
-      {
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-        "desc": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 05:50",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在聯合國演說中威脅要「殲滅」伊朗，同時官員們在會議間隙舉行會晤",
-        "descZh": "美國總統在演說中思索，究竟能否達成和平協議，還是他必須對伊朗採取極端行動。"
-      },
-      {
-        "title": "Trump says he would back ban on diesel exports",
-        "desc": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
-        "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 04:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普表示，他將支持禁止柴油出口",
-        "descZh": "隨著美國柴油價格飆升至歷史新高，共和黨議員已向總統施壓，要求其限制出口。"
-      },
-      {
-        "title": "American power, AI and a walkout - key moments from Trump's UN speech",
-        "desc": "BBC correspondents who covered the president's address on Tuesday assess five key moments.",
-        "url": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 03:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國的實力、人工智慧與集體退場——川普在聯合國演說中的關鍵時刻",
-        "descZh": "報導總統週二演說的BBC記者們，針對五個關鍵時刻進行了評析。"
-      },
-      {
-        "title": "What is the White House pool and why is it in a row with Trump?",
-        "desc": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-        "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 03:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "什麼是「白宮記者團」，為什麼他們會與川普站在同一陣線？",
-        "descZh": "白宮記者團已成為唐納德·川普總統與各大電視網之間一場重大爭執的焦點。這究竟是怎麼一回事？"
-      },
-      {
-        "title": "Opinion | What a new survey shows about Trump’s tariffs - The Washington Post",
-        "desc": "Opinion | What a new survey shows about Trump’s tariffs&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFNUU1PQmdMNmlpNjEydjN5d3k5UGdIbjk1aXdnTmhQbC1VUnFjeEtLSGZCVW02NElXU0Y5VjZPYnFNLXFCeXZMU0dVc0tQaWNOZWpicUNxZ0lmb2RfRXR5SmZxZjNpcTE2blhnOVVEeU9Xekc5bW91S3ppSWVlZGFTbXcwUVZkd05zSjMxcw?oc=5",
-        "pubTime": "2026-09-23 01:45",
-        "source": "news.google.com",
-        "titleZh": "觀點 | 一項新調查揭示了什麼關於川普關稅的資訊——《華盛頓郵報》",
-        "descZh": "觀點 | 一項新調查揭示了什麼關於川普的關稅？&nbsp;&nbsp;《華盛頓郵報》"
-      },
-      {
-        "title": "Japan’s New CIA Could Be Takaichi’s Trump Card - Foreign Policy",
-        "desc": "Japan’s New CIA Could Be Takaichi’s Trump Card&nbsp;&nbsp;Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRORFdvaDhPQ0xBcFowdVA5ZWtNU3BTdU1qdjBLZU42aEZETUtQTVRaR0xGaHNaVXJINHZsOTlVa21zN05KSzd2VG5wYVl1VW1FaXNHS3dCT3dSd0dLVWhSVS1YMmZKYThjMzRlUlhLQzlMTkJDTW5FSjhrRENwalBCdDJYWTZpOG50dWpTSEZfMm9xNS1POTVvX3Fqb2hwcFhJOW9CLVZjM3BnS1l4MDVjNTVVdkpNM1NwNg?oc=5",
-        "pubTime": "2026-09-22 21:23",
-        "source": "news.google.com",
-        "titleZh": "日本的新版「中情局」或將成為高市的王牌——《外交政策》",
-        "descZh": "日本的新版「中情局」可能是高市女士的王牌&nbsp;&nbsp;《外交政策》"
-      },
-      {
-        "title": "America’s Allies Are No Longer Waiting for Trump to Leave - The Atlantic",
-        "desc": "America’s Allies Are No Longer Waiting for Trump to Leave&nbsp;&nbsp;The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUJTM1Vra0QwX18zYXVaNHJuaDFfSndlZVpVbXlJR0l6NU5WWkhNWlFnUFVDMzVwc1E3dDl1MzJ0bUNhQVU1Tzgxcmo5X2doQkFkeXVHdDVVaU9SRC1BZEYtUHBGc0JUTDlIa0JvTmJ3T3FDaFBaWUZ4dGtUbDV3c3RMajdQSmdHU0hjRHpERXBLUHgxZmtDNDMwd04?oc=5",
-        "pubTime": "2026-09-22 19:00",
-        "source": "news.google.com",
-        "titleZh": "美國的盟友不再等待川普下台——《大西洋月刊》",
-        "descZh": "美國的盟友不再等待川普下台&nbsp;&nbsp;《大西洋月刊》"
-      },
-      {
-        "title": "What to expect as world leaders descend on New York - and who won't be there",
-        "desc": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
-        "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-22 12:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "當世界各國領導人齊聚紐約時，我們可以期待什麼——而誰又將缺席",
-        "descZh": "英國廣播公司（BBC）的莎拉·史密斯概述了川普即將會晤的各國領導人，以及預計將列入議程的關鍵議題。"
-      },
-      {
-        "title": "NVIDIA CEO to Join Apple, Microsoft, and OpenAI Leaders at Trump-Xi Dinner - The Coin Republic",
-        "desc": "NVIDIA CEO to Join Apple, Microsoft, and OpenAI Leaders at Trump-Xi Dinner&nbsp;&nbsp;The Coin Republic",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXM5UC1rWlZ1NGdCVVpEY3FibXN2UFhiNzE3eW4yU2RPckU5UmlFR0ZnZkJpeVVPWV9MYTROUml4SU5DU0EySmN1di1GeFBVbW9VZmxsd1FQazNZYloybzZYejV5d1FnWGl2RDAwalpuWVZrTjdneUFLbklrRVAzVzBzSVcxOFVxblFVUDlUWWk2YXpueGZ5dU9pT0xCRGpQZzAwMy1fR05tSThibmR1djdVdkJrdEHSAbwBQVVfeXFMUHlQcW13eEhGYTBURVZNaktyTWhMa3VHM0FiNm1CM3R2QVJFMzN0dWc5YVZGdzdVdndaSnp4bV8zX2xVYnNsWHVCdEpLRjhheGhPV05NRzhIaEN2MFZJRmVfVGtQR3hHN2pqSGNLNXY4S3dnRVhnZFp5ZTZGdnVQRjM0b0RtX24wVFk3bmRVd3dnZ1ZDSnpfTXF3d013YWFyMm5HWWhsV3NQczBaQjhLWF9kdGppTGg0ZGVZTVU?oc=5",
-        "pubTime": "2026-09-22 00:00",
-        "source": "news.google.com",
-        "titleZh": "NVIDIA 執行長將與蘋果、微軟及 OpenAI 高層共同出席川普與習近平的晚宴 - The Coin Republic",
-        "descZh": "NVIDIA 執行長將與蘋果、微軟及 OpenAI 高層一同出席川普與習近平的晚宴&nbsp;&nbsp;The Coin Republic"
-      },
-      {
-        "title": "Trump’s bumbling foreign policy threatens US 'ruin': military expert - AlterNet",
-        "desc": "Trump’s bumbling foreign policy threatens US 'ruin': military expert&nbsp;&nbsp;AlterNet",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42dWxhb1NCVzZOVG9SMDdQMlhSLXNMYVpvcm44a3JWSzBuTVpBZUZidU11UEFIZUYxdjZsdFl2MGdXNUdsSzdaWnFsd1FzV2ZkMnIwYg?oc=5",
-        "pubTime": "2026-09-21 23:06",
-        "source": "news.google.com",
-        "titleZh": "軍事專家指出，川普笨拙的外交政策威脅將使美國「走向毀滅」——AlterNet",
-        "descZh": "川普拙劣的外交政策威脅將使美國「走向毀滅」：軍事專家&nbsp;&nbsp;AlterNet"
-      },
-      {
-        "title": "Trump tariffs lose appeal among working-class voters as higher prices become a concern, says political analyst Ronald Brownstein - Business Today",
-        "desc": "Trump tariffs lose appeal among working-class voters as higher prices become a concern, says political analyst Ronald Brownstein&nbsp;&nbsp;Business Today",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOTJkUFJXeEVSSnJyNlZxcExyMnZDaEV6WjlDY2Iza29KdldZeWlfdjlyc2RCRFdWcW1VZ1ZDV0xqQ1NUdC13UGlybWZPUXhBUEZtdzEzaWJPajdPdWFyOWR5ZEZLeFVlck5CbjBCcTR0R2l3Si1GdkUxWmhjMUs4ZWdMQU1DTW1NR2tmU3J5SWhjcXRNTzBOaE5qMzhIcm9QM01laGg0R0c1ZjBleTNUaHp4eWhyWTJwdWFHWXgxbngxZFo0MTZ2VEwxNmlIRUNDcHdYWjN3MzlXQlJrSG5relFsYTNIZkNObGVFRENSMnpIRWVFQ3E3M3BWd19PYmdKNlhZSV91THBNUmpxZF8wa0k1Z1LSAZoCQVVfeXFMTzJLakZNNjQ2TjZsWV9FSGxCUzdTSDNjSjhDVHViaHo4WGxoaEFsNmZpbXZReUZJRGM0STBXak96MFI0R21wdEhhVmdkdVRrNHBENUQ4cTRhOXZ0VFVPVEJTRExZZlI0cl9oaVNKN20yUkFtbUV4Zi1Ea0VzT3phT1FJR0lUOWhJTTlqU2t3MlZ1RjBjUHFUWU1GLTNKNE8yZW9wS1FUYlBrMjBnWVNRVVg2d3U0bmlwOWF5SUlVbGE2akFub3kxWEJGV2VFN1BNOWxYUDc4d0k1RWI1c1Vid1I2anVjS3ZZRFVJVGNVWkNPUmI2aWhmNzQ5by1FRXppdnkzRnVFTklFZG9xZUNrQTgyU0xRSVFfeERR?oc=5",
-        "pubTime": "2026-09-21 17:55",
-        "source": "news.google.com",
-        "titleZh": "政治分析師羅納德·布朗斯坦指出，隨著物價上漲成為選民關切的議題，川普的關稅政策在勞工階層選民中的吸引力正逐漸減弱——《今日商業》",
-        "descZh": "政治分析師羅納德·布朗斯坦表示，隨著物價上漲成為選民關切的焦點，川普的關稅政策在勞工階層選民中的吸引力正逐漸減弱&nbsp;&nbsp;《今日商業》"
-      },
-      {
-        "title": "Explained: How Trump’s new tariff law impacts India - Forbes India",
-        "desc": "Explained: How Trump’s new tariff law impacts India&nbsp;&nbsp;Forbes India",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX3lSSEJkSmVXcmtXdE5aQnluOC05QlZFbHRNMExhNkYzNlRFTWsyNzk2djJSc1MtZDhXMXFUSnUyaVUzeHNHWnZJdllaNmZFZTFRZmRBV0EtSVNFVEQ5WlBCbzhuZTJVV3ZJb2hsQlhTSGYwcUk2VGtfTmNTcWpPaVFoOWpMVGZMd3pTMTBnSjlqZVZvam5BVng3clBSeXF6dHfSAacBQVVfeXFMT1piU0swVGQ5VjJsUDhRQm9VN0dnUXFjbE93UDV6RzVrVVk1NFFSQVRHODBvTTZYb2xTZWhaR2xSLVdFLTEwQkpPQkhPOE5CSmZndmV1RWVGekxWLUlJMnk2S1NsLW13YzhrSVh5M3M3Ukc2MGdvenVOSzM2dVF4WTdNeWpWQkFRNTBhc3B3US02dnVka3JnVjNoREwyY3k3bGEzYjdYZUU?oc=5",
-        "pubTime": "2026-09-21 16:20",
-        "source": "news.google.com",
-        "titleZh": "深度解析：川普的新關稅法案如何影響印度——《富比士印度版》",
-        "descZh": "深度解析：川普的新關稅法如何影響印度&nbsp;&nbsp;《富比士印度版》"
       }
     ]
   }
