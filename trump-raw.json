@@ -1,5 +1,138 @@
 [
   {
+    "date": "20261024",
+    "fetchTime": "2026-10-24 07:15",
+    "count": 14,
+    "articles": [
+      {
+        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-24 06:54",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著中期選舉臨近，白宮取消了對部分加拿大商品的關稅",
+        "descZh": "自 10 月 30 日起，部分產品（包括某些機械）的關稅將予以放寬，而其他產品（例如地毯）則將被徵收關稅。"
+      },
+      {
+        "title": "Trump administration cancels some Canada tariffs amid close midterm races - NBC News",
+        "desc": "Trump administration cancels some Canada tariffs amid close midterm races&nbsp;&nbsp;NBC News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVElRUlRYNE1DeV9WMkYwaXlScS01OTI1MVotc2Rob1AtZW90Tk13eGJuWWFhOVpEQndDUzBZeFQ3ZFlQcWJJZ0ZZdDdtaFlnTHg2WjdTT25wVm1FUkNEMFQwakN0c2NidkVrUlRseEJCd0g3cW1haXJVS1dhVURvWm9iTldyQWZPOHFjS1dIdVBtZk5nTmk5a3NB?oc=5",
+        "pubTime": "2026-10-24 03:53",
+        "source": "news.google.com",
+        "titleZh": "特朗普政府在中期選舉選情膠著之際，取消了針對加拿大的部分關稅 —— NBC新聞",
+        "descZh": "在期中選舉選情膠著之際，川普政府取消部分針對加拿大的關稅&nbsp;&nbsp;NBC新聞"
+      },
+      {
+        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+        "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-24 03:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮表示，梅拉尼婭·川普為這座「瀕臨災難」的烏克蘭城市斡旋達成停火協議",
+        "descZh": "烏克蘭與俄羅斯確認，在俄軍佔領的奧列什基（Oleshky）已達成停火協議；當地居民為求生存，甚至不得不靠吃菜園裡的雜草維生。"
+      },
+      {
+        "title": "A New Jersey importer is fighting Trump's tariffs — and a Lindsay dairy’s goat cheese is why - Toronto Star",
+        "desc": "A New Jersey importer is fighting Trump's tariffs — and a Lindsay dairy’s goat cheese is why&nbsp;&nbsp;Toronto Star",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZURRYlVaSHVYT3oyWDFja09DYXJndHRQQzJDUmVTWjBFZ0hJTnVoaDJjOVF2VWpRQTJTdHRFYkZtQlIzX200RHRhU2ZkY0czVGFNcXVxaFlxcy13V3lma2pTSmw1U09qRkRyWExOZ0R2VDdXZWVlNk1UQWI0Vm1TbFJZTUh2dmR6cnNOaUdPRXh2Y0YtX3VvRFVZNDZseC15Z0N3MnNiTS1WbFZrN2FBdmQ4TVRaQUNOc0NKRThKeWRka1I0OHdIbWxDTzhSbkl0a1dONFpzS1RiSVMzb3p4bGxpQ3hrSGdtMUl6SEpBd1BYSE0?oc=5",
+        "pubTime": "2026-10-24 03:19",
+        "source": "news.google.com",
+        "titleZh": "新澤西州一名進口商正對抗川普的關稅——而這一切都源於林賽一家乳品廠的山羊奶酪 - 《多倫多星報》",
+        "descZh": "新澤西州一名進口商正對抗川普的關稅——而這一切都源於林賽一家乳品廠的山羊奶酪&nbsp;&nbsp;《多倫多星報》"
+      },
+      {
+        "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project - Mashable",
+        "desc": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project&nbsp;&nbsp;Mashable",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM?oc=5",
+        "pubTime": "2026-10-24 02:54",
+        "source": "news.google.com",
+        "titleZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單 —— Mashable",
+        "descZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單&nbsp;&nbsp;Mashable"
+      },
+      {
+        "title": "Trump administration sues to block certification of upcoming Alaska election",
+        "desc": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+        "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-24 02:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普政府提起訴訟，試圖阻止即將舉行的阿拉斯加選舉結果獲得認證",
+        "descZh": "司法部已提起訴訟，主張將兩位名為丹·沙利文（Dan Sullivan）的候選人列入選票，可能會造成選民混淆。"
+      },
+      {
+        "title": "Trump dropping some Canada tariffs but 'replacing' them with other products - CNBC",
+        "desc": "Trump dropping some Canada tariffs but 'replacing' them with other products&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRldNNFF3MkZkQUhiRlkxWkh2bVRjR2VzR0dZYU1HV1lPNjFNYVU3Qk5ITmR5cWUtNElyY1NMTDVBS3Byd2xhOW5RMGtMUjNkOHpiaWFEMWZKMGxkcUZJWVpUdkNmbVk1cUJxdG9tT2xpVTltLUFmU0R5c9IBgAFBVV95cUxPblFJUHU1ejBUc2tkSldDdEdPOHFld1JPendmRDZwR28zYW9jc0JtemdYZDVqSElTVlNZMUdoUkVzUzlMQWMtcTNWZlFtWkIwWkUwRC1uYjRWUm5tRDNiZzY4cmdRalJUQTUyY1BaQ2FIZWZaOERuUmhIZzdRd3NtOQ?oc=5",
+        "pubTime": "2026-10-24 02:18",
+        "source": "news.google.com",
+        "titleZh": "川普取消部分對加拿大關稅，但以其他產品「取代」這些關稅——CNBC",
+        "descZh": "川普取消部分針對加拿大的關稅，但將以其他產品「取代」這些關稅&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "US justice department investigating Corey Lewandowski over DHS role",
+        "desc": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-23 22:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國司法部正就科里·萊萬多夫斯基在國土安全部（DHS）的職務展開調查",
+        "descZh": "據報導，川普的前競選經理因涉嫌利用其在國土安全部的職務謀取私利，目前正接受調查。"
+      },
+      {
+        "title": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi talks - South China Morning Post",
+        "desc": "‘Opportunistic’: experts weigh Manila’s minilateral agenda ahead of Trump-Xi talks&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTktQZzBReVJzdlltQnQwTzZOWFlqdUV0RjBoQ2NrdXBlaTZoNWthUHhxUjhJSDNCZ0tFblAtQnpjZ0thOE8teEwwdmpLejVJMmNjdmlCd2o5dV9TV0pTUTN0U2d2ZHU5OHhzNmZqdVpYazIzb2JseEx0OGdXVXFPT1JXcm01eklTSlNhOHNUYUR5bFp2aXMxMUYxSEdsNzQxUXFIRjQtLUpiSnlRdFRRN0FWOEFIR29ZSmhNWU9Lc0J3VnpGdGtZbFZVaENCN2kz0gHQAUFVX3lxTE9BRkU1SW1ya2FCWVRFZ2NWS2oyOFFIV2FjWldUZlBscVZGaWFHVU9JVzFVbFJPTEkxcjhQNmhQMGctNHREQnNSRFB5MDZzZjMtWC01SWpiS2NjcWJrZGc4d0hsdzNEUmZuLVZTUmJJUGl5OEZNMWphVnhBMnFPWmpUYXNFclBxY09pWU5BbEVRQ1MwU2RwcFNEMmM0VFctYkFZeXNFS1NIRkJTU0xBZzJfcTdhS1dGeTJmMW5EcVNubHdaSmYtcFVuT19tdEF5eHM?oc=5",
+        "pubTime": "2026-10-23 22:00",
+        "source": "news.google.com",
+        "titleZh": "「投機取巧」：專家評析馬尼拉在川普與習近平會談前推動的小多邊議程——《南華早報》",
+        "descZh": "「投機取巧」：專家評析馬尼拉在川普與習近平會談前推動的小多邊議程&nbsp;&nbsp;《南華早報》"
+      },
+      {
+        "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+        "desc": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-23 17:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "拉丁裔選民曾助特朗普上台——但在德州，形勢可能正在逆轉",
+        "descZh": "近期民調顯示，在中期選舉前夕，總統在該州正面臨嚴峻的逆風。"
+      },
+      {
+        "title": "Democrats face crack-up on Trump’s tariffs - Politico",
+        "desc": "Democrats face crack-up on Trump’s tariffs&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGhBUnBlUklCTW9vcHFmeFdNU0IwZGpTRVFOYXNsVkxabVNGOTFGTnAzd21qYlZVb3VTdEZMb0dCR3h5dncxTVZRNVhrWWdOTU53TFJqbGdrdEFxc056M3VyZzRCNjlOOFZLUVE3UWNxQVdzSVo4WDFXNVljaGdGNVVaUjVjWUZSNHB5Tw?oc=5",
+        "pubTime": "2026-10-23 16:45",
+        "source": "news.google.com",
+        "titleZh": "民主黨因川普的關稅政策面臨分裂危機——《Politico》",
+        "descZh": "民主黨因川普的關稅政策面臨分裂&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "desc": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-23 09:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普被勒令在BBC訴訟案中宣誓作證",
+        "descZh": "川普正就《全景》節目的一集內容對英國廣播公司（BBC）提起訴訟，該集節目將他於2021年發表的一場演說中兩個不同的片段剪輯在一起。"
+      },
+      {
+        "title": "Exclusive | Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit - South China Morning Post",
+        "desc": "Exclusive | Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2RHQ3pJVlR1YjJWbzdGbThOcXM4X3RveXpoOEYtNlNndFJSdkZRUjhIbXNLSzJheGE2eEJXU25kZG9LRXpPczFhX2FhUEx2YzJXdWJQcGQ1eV9pRWY5VWFkMFp0dlFzbDNaZEk0Ql8tSWFvM3AzaklJcko1SGl1am10LTgwaG1ESVY2Szc5MWc5QmtlazBreFRoUjVHeXFsanB5bWJyS2FzWkhnWGlLVUYxQnRJTjFWSnV0RFpGTDhnLTjSAcMBQVVfeXFMT2F1MmJoWS12SDh1MDhmZkJ4bzRDTjlqWFg4aWtNVEF4OGM1LVQ4T2VIMG0ycGY2SnRQMG1uaXJfa2JHcHk4cEVwRnJlVml5WWtSbER2MjA1X2lOdUllUExNRWowWmlLTEJoMjhWTEtxQ3ViaUg2NTJWTGZseUpLem9rdGcwYkRob2FiWXllZUZaN1M1dy1jY1VYUG12TEozWFF6NEJodkVDVWFtcXNEb2xra2JBSHU0bm9sT28yV1JaSlBV?oc=5",
+        "pubTime": "2026-10-22 23:00",
+        "source": "news.google.com",
+        "titleZh": "獨家｜「四方會談」獲證實，馬尼拉特使暗示在川普與習近平峰會前可能舉行「四方」會談——《南華早報》",
+        "descZh": "獨家｜「四方會談」獲證實，馬尼拉特使暗示在川普與習近平峰會前可能舉行「四方」會談&nbsp;&nbsp;《南華早報》"
+      },
+      {
+        "title": "How US midterms could affect Trump's tariffs, defence spending and foreign policy - Moneycontrol.com",
+        "desc": "How US midterms could affect Trump's tariffs, defence spending and foreign policy&nbsp;&nbsp;Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVdxdDgybEI1MnVvN1lDRVlfQV9NZEdmZXVtcDZhMnpKUjJLWkt6SFBZWl9LYjBKSkQtaU9Pd0ZHTkdfbFdHSzA1c3hkZ2t5MXBPOEFFR0JoWFhzRHh1Z3dQUFQ2TllYcktNekJ2UFVaNVVWWW9RakpXU0RkYU9MVEFrVF96bnRHYURmQi1mR0JmVUVhdkZSa2lWdWwzYTB5TmV1czh5eFNWV1ZSUnVsejE2c3dhdWFaM2lRaGdWZHR1SjlRM3NGSzVJc2E1Q1EtVnZZ0gHYAUFVX3lxTE9TTHR6dDdQWERwTVZlVGxEanFnQTQ1ME85Mzd6OXBZN2pRUHFyczB3akZRamJTX2h0SnFwX2ppWlRtSWFQSzJVaVdyQlB1V3NPNl9iZFdLTTAwa2RPc1FBeDY4bnJIaVNWd1F3a0NrVG92U29uQjFJR196X3hXNGlWMTJ0eW5vaWEtakMwV1NGZFRiVUNIcUF5YTFBbHNRMFRsUHFkcDA2ZVBsQXpFZHJfNlNkalZzaWx6UzBac29aUFI5dmRlZUs1bWo3aWZnejlWakFrV2NUVA?oc=5",
+        "pubTime": "2026-10-22 17:09",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉可能如何影響川普的關稅政策、國防開支及外交政策——Moneycontrol.com",
+        "descZh": "美國中期選舉可能如何影響川普的關稅政策、國防開支及外交政策&nbsp;&nbsp;Moneycontrol.com"
+      }
+    ]
+  },
+  {
     "date": "20261023",
     "fetchTime": "2026-10-23 07:27",
     "count": 8,
@@ -2773,148 +2906,6 @@
         "source": "news.google.com",
         "titleZh": "別指望川普與習近平的峰會會有什麼驚人舉動——《外交政策》",
         "descZh": "別指望川普與習近平的峰會會有驚人舉動&nbsp;&nbsp;《外交政策》"
-      }
-    ]
-  },
-  {
-    "date": "20260924",
-    "fetchTime": "2026-09-24 07:00",
-    "count": 15,
-    "articles": [
-      {
-        "title": "Federal judge delays ruling on White House media ban",
-        "desc": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-        "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-24 05:53",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "聯邦法官推遲就白宮媒體禁令作出裁決",
-        "descZh": "在長約45分鐘的聽證會上，代表CNN、《Politico》及《MS NOW》的律師駁斥了川普政府所稱「此禁令是基於國家安全考量」的論點。"
-      },
-      {
-        "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-        "desc": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-24 00:42",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普揭露其持有價值數百萬美元的科技巨頭及人工智慧相關股票交易",
-        "descZh": "微軟、英偉達和太空探索科技等大型企業的股票，是受美國總統委託進行買賣的。"
-      },
-      {
-        "title": "White House rolling out red carpet for historic Xi Jinping visit",
-        "desc": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 22:32",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "白宮為習近平歷史性訪問鋪設紅地毯",
-        "descZh": "預計在習近平對華盛頓進行為期數天的訪問期間，川普與習近平將就從貿易到人工智慧等一系列議題進行討論。"
-      },
-      {
-        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-        "desc": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
-        "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 19:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普與習近平在美國境內會晤——此舉意味著什麼？",
-        "descZh": "BBC 的中國特派記者與美國編輯，為您詳解在華盛頓特區舉行的川普與習近平會晤前，您需要了解的一切。"
-      },
-      {
-        "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-        "desc": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-        "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 17:48",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "自馬杜羅奪權以來，川普首度與美國支持的委內瑞拉總統會面",
-        "descZh": "由川普親自挑選擔任委內瑞拉領導人的羅德里格斯遭逮捕並被帶往美國"
-      },
-      {
-        "title": "India, Canada & Mexico's $8 trillion trade math looks for cover amid Trump tariff bullet - The Economic Times",
-        "desc": "India, Canada & Mexico's $8 trillion trade math looks for cover amid Trump tariff bullet&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZWRNWkpiTnh3UUwxODVaaXJRa3BxWXBzV1Fyb3hoMUFDR0htNV9WY2szNDhfLWR5bXN5dU5TVjkyYWgxNlNNSmZsdjJ1TlFlbHRKTEs0UTVGNVlmM1JtZ2hWTDR6clVNd2pNdElsd0lYbjhLUldTTWk0dGFxbGxKcDBBX3hIaFBHbkRDX0ZTbU04cXJkVi1ZOFFrbzNkbjNTMjktWS1Va2RyOUgtLTJBcHdXbWFCT1FUc0dDUXE2SnpJd3hXWkllRHcwenloR09UVk5ZNjgxUGh0Nm1NcGdKc2FVREdzMFUycnRqQ1ZRSXdnZ0FxWFpj0gH8AUFVX3lxTFBZNEo5WE50ZE5EQWJkZkhkWHRyeVh1cEQ0QXotaUhyc0pwMld3M0Z4U1NUQTBRak5VWnFRcXdOWDBRZ1U3TlN0SEJEcGlqSzBEN1NWS3JVeXJLUkZmM00yTGNseEdRQzdFb0FySUtPdUJiNWF4dnhDTkJMbnNBQUJ1aVNVRkZLeDdtRnY0WS1EOUp6WGxsNzY2WEtUc1dSZ0ZzOGZMa2RzZTNzVkFOTm1idFNjZHY1NlN6Y3cybW1RZllJYUV1SjdlOHhDXzU4akZtbkNyY1BuUVZpZUI5cXhxaDBxeFNuYXN5X0hobVhQeWdYcl9xWnR3UFlrNw?oc=5",
-        "pubTime": "2026-09-23 14:53",
-        "source": "news.google.com",
-        "titleZh": "印度、加拿大與墨西哥的 8 兆美元貿易算盤，在川普關稅「子彈」下尋求庇護——《經濟時報》",
-        "descZh": "印度、加拿大與墨西哥的 8 兆美元貿易算盤，在川普關稅「子彈」下尋求庇護&nbsp;&nbsp;《經濟時報》"
-      },
-      {
-        "title": "Don’t Expect Fireworks From the Trump-Xi Summit - foreignpolicy.com",
-        "desc": "Don’t Expect Fireworks From the Trump-Xi Summit&nbsp;&nbsp;foreignpolicy.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVNrQXQ2aWZRQkpmY0hLTHNXV1habkpvaktSOUQ3cEIxeVJTN1otRV9Jb3BuS2d5bFBGWXpwYVNpX2k0YUEtMlpubWFkOHJ0Vjc2d0E5MElqbWszY0Jwbm1QM2plTkJ6WV9CMzdqSC1TbC1RdzE4czc1VFJZdTlaa0tBSEk0RjhBU0V0SlROQkRVYkJwSmMzZEpvb2RvMXExYWhR?oc=5",
-        "pubTime": "2026-09-23 14:47",
-        "source": "news.google.com",
-        "titleZh": "別指望川普與習近平的峰會會有驚人舉動 - foreignpolicy.com",
-        "descZh": "別指望川普與習近平的峰會會有什麼驚人舉動&nbsp;&nbsp;foreignpolicy.com"
-      },
-      {
-        "title": "Senators Press Trump Trade Rep Jamieson Greer Over $166 Billion Tariff Refunds, Ask How Consumers Will Get Their Share - TradingView",
-        "desc": "Senators Press Trump Trade Rep Jamieson Greer Over $166 Billion Tariff Refunds, Ask How Consumers Will Get Their Share&nbsp;&nbsp;TradingView",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYlY5enZFQ2VYb3NBWk1kRTlRTHNJRVNyc1RmcGFjdmdvZXJWMEVkOF9oeFBTdHZnRWNvWEZELWVwQ1RkWW5VUldHSzZjU1ZPeUhwS2RMZWctS0lHTTI5cGtUOTNMZllmM3BGYmpSbFU3RFZ1Wm9MT3VFUzd4OEdzcmRWUGlmc2pYb25md1FMczBodF9sTExiN2ZDd20wdjJYa09tRHl0NDNMTDV1bW5rb251Wmh5V2V1SFQ5UWIxa1Yxd3hVaXhzTEdyenVBT0pybDI2eUx1MDZTVmNVdWl4MnV2dzVudVBiajdtZTRXUUR4SU1DbC1Td1BTNy0zRVVHd2dpSkJ3?oc=5",
-        "pubTime": "2026-09-23 12:37",
-        "source": "news.google.com",
-        "titleZh": "參議員就 1,660 億美元關稅退款一事向川普政府貿易代表傑米森·格里爾施壓，並詢問消費者將如何獲得應得份額 - TradingView",
-        "descZh": "參議員就 1,660 億美元關稅退款一事向川普政府貿易代表傑米森·格里爾施壓，詢問消費者將如何獲得應得份額&nbsp;&nbsp;TradingView"
-      },
-      {
-        "title": "American power, AI and a walkout - key moments from Trump's UN speech",
-        "desc": "BBC correspondents who covered the president's address on Tuesday assess five key moments.",
-        "url": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 03:44",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國實力、人工智慧與集體退場——川普聯合國演說中的關鍵時刻",
-        "descZh": "報導總統週二演說的BBC記者們，針對五個關鍵時刻進行了評析。"
-      },
-      {
-        "title": "What is the White House pool and why is it in a row with Trump?",
-        "desc": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
-        "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-23 03:25",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "什麼是「白宮記者團」，為什麼他們會與川普站在同一陣線？",
-        "descZh": "白宮記者團正處於唐納德·川普總統與各大電視網之間一場重大爭執的風暴中心。這究竟是怎麼一回事？"
-      },
-      {
-        "title": "Ten Issues to Watch at the Trump-Xi Summit in Washington - cfr.org",
-        "desc": "Ten Issues to Watch at the Trump-Xi Summit in Washington&nbsp;&nbsp;cfr.org",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNUF6aXI5R0RTOTRHOTZFU1JDYVlUV2FXZVNNSl9kYlZDTzNkTW52WFppc3dvWWhKdGFXOVVJR3hjMklFc3NYbVRfZklqWUZFNERBUU9LR1pmcDZ1VFVzOXZaTDRrbTg?oc=5",
-        "pubTime": "2026-09-23 02:56",
-        "source": "news.google.com",
-        "titleZh": "華盛頓川普－習近平峰會的十大關注焦點 - cfr.org",
-        "descZh": "華盛頓特朗普－習近平峰會的十大關注焦點&nbsp;&nbsp;cfr.org"
-      },
-      {
-        "title": "Opinion | What a new survey shows about Trump’s tariffs - The Washington Post",
-        "desc": "Opinion | What a new survey shows about Trump’s tariffs&nbsp;&nbsp;The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFNUU1PQmdMNmlpNjEydjN5d3k5UGdIbjk1aXdnTmhQbC1VUnFjeEtLSGZCVW02NElXU0Y5VjZPYnFNLXFCeXZMU0dVc0tQaWNOZWpicUNxZ0lmb2RfRXR5SmZxZjNpcTE2blhnOVVEeU9Xekc5bW91S3ppSWVlZGFTbXcwUVZkd05zSjMxcw?oc=5",
-        "pubTime": "2026-09-23 01:45",
-        "source": "news.google.com",
-        "titleZh": "觀點 | 一項新調查揭示了什麼關於川普關稅的資訊 - 《華盛頓郵報》",
-        "descZh": "觀點 | 一項新調查揭示了什麼關於川普的關稅？&nbsp;&nbsp;《華盛頓郵報》"
-      },
-      {
-        "title": "Japan’s New CIA Could Be Takaichi’s Trump Card - foreignpolicy.com",
-        "desc": "Japan’s New CIA Could Be Takaichi’s Trump Card&nbsp;&nbsp;foreignpolicy.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRORFdvaDhPQ0xBcFowdVA5ZWtNU3BTdU1qdjBLZU42aEZETUtQTVRaR0xGaHNaVXJINHZsOTlVa21zN05KSzd2VG5wYVl1VW1FaXNHS3dCT3dSd0dLVWhSVS1YMmZKYThjMzRlUlhLQzlMTkJDTW5FSjhrRENwalBCdDJYWTZpOG50dWpTSEZfMm9xNS1POTVvX3Fqb2hwcFhJOW9CLVZjM3BnS1l4MDVjNTVVdkpNM1NwNg?oc=5",
-        "pubTime": "2026-09-22 21:23",
-        "source": "news.google.com",
-        "titleZh": "日本的新版「中情局」或成高市智子的王牌 - foreignpolicy.com",
-        "descZh": "日本的新版「中情局」或將成為高市女士的王牌&nbsp;&nbsp;foreignpolicy.com"
-      },
-      {
-        "title": "America’s Allies Are No Longer Waiting for Trump to Leave - The Atlantic",
-        "desc": "America’s Allies Are No Longer Waiting for Trump to Leave&nbsp;&nbsp;The Atlantic",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUJTM1Vra0QwX18zYXVaNHJuaDFfSndlZVpVbXlJR0l6NU5WWkhNWlFnUFVDMzVwc1E3dDl1MzJ0bUNhQVU1Tzgxcmo5X2doQkFkeXVHdDVVaU9SRC1BZEYtUHBGc0JUTDlIa0JvTmJ3T3FDaFBaWUZ4dGtUbDV3c3RMajdQSmdHU0hjRHpERXBLUHgxZmtDNDMwd04?oc=5",
-        "pubTime": "2026-09-22 19:00",
-        "source": "news.google.com",
-        "titleZh": "美國的盟友不再等待川普下台——《大西洋月刊》",
-        "descZh": "美國的盟友不再等待川普下台&nbsp;&nbsp;《大西洋月刊》"
-      },
-      {
-        "title": "Businesses ‘frozen out’ of Trump’s tariff channel with China - Politico",
-        "desc": "Businesses ‘frozen out’ of Trump’s tariff channel with China&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRFRIVGlQZTZxTUxmQVJBUmJIdFhoVHRZdGVQU1Ywa01XMGJnQ3Jqa0hKOXNWemd6UUcwZVY3bGt3cEpocDI4RkJWYVNMUUxwYkFiOGR2cEc5dHZpaGNUNEpyQW1pd0FoWWdueDQ0RlZnZU9fZi0yQzNuZzBXZlB1WDZQUXNFbnVCbEUtbQ?oc=5",
-        "pubTime": "2026-09-22 17:00",
-        "source": "news.google.com",
-        "titleZh": "企業遭「排除」在川普對中關稅管道之外——《Politico》",
-        "descZh": "企業被「排除」在川普對中關稅渠道之外&nbsp;&nbsp;《Politico》"
       }
     ]
   }
