@@ -1,5 +1,84 @@
 [
   {
+    "date": "20261029",
+    "fetchTime": "2026-10-29 08:04",
+    "count": 8,
+    "articles": [
+      {
+        "title": "Four investigations Democrats could launch if they win control of Congress",
+        "desc": "Democrats have promised a wave of probes into the Trump administration if they win back the House.",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-28 19:00",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "若民主黨贏得國會控制權，可能展開的四項調查",
+        "descZh": "民主黨人承諾，若能奪回眾議院控制權，將對川普政府展開一波調查。"
+      },
+      {
+        "title": "Trump’s Tariffs Will Have Another Day in Court - Foreign Policy",
+        "desc": "Trump’s Tariffs Will Have Another Day in Court&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TVHdCWEhWODl3d3hETmx0RHI5MVptcnJBNzV3LV9qYXNzYV9UZjRDbUFSaUxkam5NdW91azJFd2JlZnl3YVVtajYzYXBuUzQ2eFFyUDFObzJnaml4VkpHdXdId3FMdUFUa2J2elhBUVZ1SE81NVBFRFlUaVh5dw?oc=5",
+        "pubTime": "2026-10-28 12:20",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施將再度接受法庭審理——《外交政策》",
+        "descZh": "川普的關稅措施將再度接受法庭審理&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "The Affordability Crisis v. Trump Trade Policy - Shepherd Express",
+        "desc": "The Affordability Crisis v. Trump Trade Policy&nbsp;&nbsp;Shepherd Express",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkwwTkRWZE5obEJXWW8yR21GTmNDaHJ0VGJ2b0xIemxpSlpjRGZad2tpSUdxSkticUVlR1UwaVZVNy1KRDhONlNYLXo2dmpGOXBWRlJnajBfdmxheUIxVlMzdVNvYzdSVjZlQy1fY2VOMVdoWFg2TGlwZzVqaDNRdlNoSkRVaHVtZllxaS1WMnRFc0VtdHdSNFJYNGdsWEE?oc=5",
+        "pubTime": "2026-10-28 06:05",
+        "source": "news.google.com",
+        "titleZh": "「負擔能力危機」對決川普貿易政策——《謝潑德快報》",
+        "descZh": "「可負擔性危機」對比川普的貿易政策&nbsp;&nbsp;《謝潑德快報》"
+      },
+      {
+        "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+        "desc": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims.",
+        "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-28 05:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普稱美國選舉舞弊「猖獗」——但證據顯示此類情況極為罕見",
+        "descZh": "在美國總統對中期選舉的安全性提出質疑之際，BBC Verify 對其說法進行了查證。"
+      },
+      {
+        "title": "High Tariffs Are Not Just Bad Economics but Bad Politics, Too - Cato Institute",
+        "desc": "High Tariffs Are Not Just Bad Economics but Bad Politics, Too&nbsp;&nbsp;Cato Institute",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeno3RVVUN3ltUl9ZWE1JWVA0ZGtNRU5TbUw4WDM4eV84ejZTMTBUc1lPSVVfUlRLbnFrVVhlT3plMl9VV2tVVTZVWHNUbWZWSXZKXzdXYXRkQ2tSVXVDSUpJYWxkbFVKMnVrbEpab0FEX0ZvWmJjZzVBRERZcGpoSmt6TUtUYWpjcFE?oc=5",
+        "pubTime": "2026-10-28 01:52",
+        "source": "news.google.com",
+        "titleZh": "高關稅不僅是糟糕的經濟政策，更是糟糕的政治策略——卡托研究所",
+        "descZh": "高關稅不僅是糟糕的經濟政策，更是糟糕的政治策略&nbsp;&nbsp;卡托研究所"
+      },
+      {
+        "title": "Understanding Trump's tariff reversals - Peterson Institute for International Economics",
+        "desc": "Understanding Trump's tariff reversals&nbsp;&nbsp;Peterson Institute for International Economics",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHQ5ZHJrMHNTSU14WVQ1UTB2LW82d2JHQlRibVV3U2VmTWpGZW9LcmFxaVdYalhuVWRUT040SzgxYjFmRHhyd1NfNDd1VGtRZWZvSTdGNXktY3Y2U3U5VHRPd0YxX0R6TzVRY3JVZVlsSjItdDNZbW5HWHhtRFJlM0xoZ2ZZVk01VjNSM3h3ZVM1dw?oc=5",
+        "pubTime": "2026-10-27 23:51",
+        "source": "news.google.com",
+        "titleZh": "解讀川普的關稅政策逆轉——彼得森國際經濟研究所",
+        "descZh": "解讀川普的關稅政策逆轉&nbsp;&nbsp;彼得森國際經濟研究所"
+      },
+      {
+        "title": "Trump v Obama - which president has the star power to get out the vote?",
+        "desc": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout.",
+        "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-27 21:59",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普對決歐巴馬——哪位總統擁有足以帶動選民投票的明星魅力？",
+        "descZh": "BBC記者莎拉·史密斯跟隨現任與前任總統的行程，因為兩黨都希望其最重量級人物能帶動中期選舉的投票率。"
+      },
+      {
+        "title": "Donald Trump's biggest economic problem looks strangely familiar",
+        "desc": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-27 14:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "唐納德·川普面臨的最大經濟問題，看起來莫名地似曾相識",
+        "descZh": "唐納德·川普在美國中期選舉前夕，面臨著與其政治對手喬·拜登相似的議題。"
+      }
+    ]
+  },
+  {
     "date": "20261028",
     "fetchTime": "2026-10-28 07:51",
     "count": 14,
@@ -2989,49 +3068,6 @@
         "source": "news.google.com",
         "titleZh": "美國大使表示，川普曾詢問習近平中國是否有意購買美國武器——《衛報》",
         "descZh": "美國大使表示，川普曾詢問習近平中國是否願意購買美國武器&nbsp;&nbsp;《衛報》"
-      }
-    ]
-  },
-  {
-    "date": "20260929",
-    "fetchTime": "2026-09-29 08:26",
-    "count": 4,
-    "articles": [
-      {
-        "title": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms - The Tribune-Democrat",
-        "desc": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms&nbsp;&nbsp;The Tribune-Democrat",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd0xUVVhJSW5lMklrcUxSalpmRGJSUFdYS3dER2RmVGw1cGdVOXRLVTNNZUpwdjlrOTdoNTkyZ3FoZ25WYVFaQTNXcEtfN2ROc2ZmRTd3S0FpSXZ0VlRncjZfdGwxdDNWMmtjcUpVTHZpd1pTbWs4Wk1XNlk2c0M3Um1YMUQ5MlV3SlhyU3hmc0hwYVppWGtUN0xXSVNZOEIycnR2LXJveHRueG1BNEdweExHUHF2WHpvbnJzaFN0MElST3JKeG1Ld0RRX2lCeDRmYThZLW5vTlpieWdiWXJoRml0UnhWczg0ZEllZEQ4SmFnVjM1c3YzQkZTMW8?oc=5",
-        "pubTime": "2026-09-29 03:46",
-        "source": "news.google.com",
-        "titleZh": "川普否認其大使所稱他曾詢問中國國家主席是否想購買美國武器的說法——《論壇民主報》",
-        "descZh": "川普駁斥其大使的說法，即他曾詢問中國國家主席是否想購買美國武器&nbsp;&nbsp;《論壇民主報》"
-      },
-      {
-        "title": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn - Fortune",
-        "desc": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmZNTFlENjFBSWdKUXE3VktLMFhINWdyOEdkMjRRSUhHN2VZd3E2ZndRM3hLMEpkX054Y1drRWFJWkp5XzAyMVQyUlBzMEt0NDB3SDlPbi1OR0hjU2tiaGpfVTc1bENGakMta2ZZalZKYTd1RlNkLXNrOXZjVUhaeGJYMm8yR1hnN2dIRmdoa1Y0VF92R0VPQ2k0X09XWEMxNVYzamc0Q2UwOGNpUGRlUVJxUWN6a3o1ZXdDMmx2anQ?oc=5",
-        "pubTime": "2026-09-29 03:33",
-        "source": "news.google.com",
-        "titleZh": "「令美國夥伴感到不安」：專家警告，川普提議向中國出售武器，等同於承認他並未認真看待中國的安全威脅——《財星》",
-        "descZh": "「令美國夥伴感到不安」：專家警告，川普提出向中國出售武器的提議，等同於承認他並未認真看待中國的安全威脅&nbsp;&nbsp;《財星》"
-      },
-      {
-        "title": "Veronique de Rugy: As Trump and Xi meet, can we get some clarity on trade policy? - Maui News",
-        "desc": "Veronique de Rugy: As Trump and Xi meet, can we get some clarity on trade policy?&nbsp;&nbsp;Maui News",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazZBNk5pS0Q1cktyRWVxOHMxNGtERUljSGtETThtdjZjWlZRM1V2dUJ3R0NPTzBYRE9rYWRoTko3eGxIU1FyQ0lDX3ZkNzVRenp2eVJZQkRYR19DZG92VnkwT0dwUW92RlpfY1BPR0pkYmExVEIwcFRSaW1uckU4RTcwUFJiam9CLUZ2VlhHZDFvNlFPZFhoVkdUV3VyR21KZmtEODgxS2h1ZC1nZmdWbWY4dkpaSlk4S1FfbW9yd3VHTktzVVJ3?oc=5",
-        "pubTime": "2026-09-28 19:37",
-        "source": "news.google.com",
-        "titleZh": "維羅妮克·德·魯吉：隨著川普與習近平會晤，我們能否對貿易政策有更清晰的了解？——《茂宜新聞》",
-        "descZh": "維羅妮克·德·魯吉：隨著川普與習近平會晤，我們能否對貿易政策有更清晰的了解？&nbsp;&nbsp;《茂宜新聞》"
-      },
-      {
-        "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says - The Guardian",
-        "desc": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says&nbsp;&nbsp;The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelRqcWtQX1BYWFlaN1FtYkRTc0g0eU55WGcwcWpMdEtDdjd5NENXb2FDUjRYVklwR3gxYzRQaWZmSXJHUjlnQldYN2ExZXFPZ3ZCTzFuLXpZNGNRd0dmVGM1Y3M4dXpQeXlvVnpBeUtzaDZmdGoxREcxalZLcmhKdUVCNVZrdzA?oc=5",
-        "pubTime": "2026-09-28 08:52",
-        "source": "news.google.com",
-        "titleZh": "美國大使表示，川普曾詢問習近平，中國是否願意購買美國武器——《衛報》",
-        "descZh": "美國大使表示，川普曾詢問習近平，中國是否願意購買美國武器&nbsp;&nbsp;《衛報》"
       }
     ]
   }
