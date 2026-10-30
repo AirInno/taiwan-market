@@ -1,5 +1,156 @@
 [
   {
+    "date": "20261031",
+    "fetchTime": "2026-10-31 07:54",
+    "count": 16,
+    "articles": [
+      {
+        "title": "Trump’s engagement with Kim falls flat as North Korea’s nuclear arsenal grows - The Washington Post",
+        "desc": "Trump’s engagement with Kim falls flat as North Korea’s nuclear arsenal grows&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX09vU011MGc4anRkQ3Z4eDlWc0d2Y3l6ZUl4bm5rcGVvT194cWgxTFU0MjlHYUhPNTVwSllNd1JzVVJuY1hxYm5XTFJVaGRpckt6Ym1FY3c1ZXR1U2JhLVZ0MS1kWmRNQjlDek4xekNmOWM4bzRDazM0ZjF0Z2FtUm9sS1ZsVzJBTzR4bnNfbkxRcDZBUzdwbG1wVjRfaEFEZENYZERaOWhxUU1qbVA4VkRZM2t4Z1drREk1enoxS1hRcnNFSklxQlp2THl0UQ?oc=5",
+        "pubTime": "2026-10-31 07:27",
+        "source": "news.google.com",
+        "titleZh": "隨著北韓核武庫不斷擴張，川普與金正恩的接觸成效不彰——《華盛頓郵報》",
+        "descZh": "隨著北韓核武庫不斷擴張，川普與金正恩的接觸成效不彰&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Judge investigating whether Trump administration lied about golf course renovations",
+        "desc": "A judge grilled Trump lawyers about what they knew of plans to close the golf course next month and said .",
+        "url": "https://www.bbc.co.uk/news/articles/cmj6jpn8px28o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-31 05:19",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法官正在調查川普政府是否就高爾夫球場翻新一事說謊",
+        "descZh": "一名法官嚴厲質詢川普的律師，詢問他們對下個月關閉高爾夫球場的計畫知情多少，並表示……"
+      },
+      {
+        "title": "Trump Tariffs Retain Support Despite Rising Consumer Costs - Demokratis.co.id",
+        "desc": "Trump Tariffs Retain Support Despite Rising Consumer Costs&nbsp;&nbsp;Demokratis.co.id",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jdzMtUFBPN2tTd0tKRUF3VkJOaXItQkJBa0NrOWRwM1JfTUdreEpFWjJ5VUw4Y3BIV0xpQnc5eHhQNjY4QldLMDBRU0ZRM3p1d1Frc2NpQ0owODVTM2RTSVJJdld4b0hsbmY3VVFlS0s?oc=5",
+        "pubTime": "2026-10-31 03:33",
+        "source": "news.google.com",
+        "titleZh": "儘管消費者成本上升，川普的關稅政策仍獲得支持 - Demokratis.co.id",
+        "descZh": "儘管消費者成本上升，川普的關稅政策仍獲支持&nbsp;&nbsp;Demokratis.co.id"
+      },
+      {
+        "title": "‘Asleep at the wheel’: Wallace slams Trump over China spy report involving Nvidia CEO - MS NOW",
+        "desc": "‘Asleep at the wheel’: Wallace slams Trump over China spy report involving Nvidia CEO&nbsp;&nbsp;MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rblFPdUxOMXpMYUZRNHF3WjU5eksyQzFmaWNjblZ6dkMtanBUaDNxQlpNNWdIa3Uzd19RZEVCOXlRT3FUa1dOZmlyRVFGNTllZTFKYjZWUDFXbDRKalNyeTljbm1tNVBZRVVtUQ?oc=5",
+        "pubTime": "2026-10-31 03:18",
+        "source": "news.google.com",
+        "titleZh": "「在駕駛座上打瞌睡」：華萊士抨擊川普，指其對涉及英偉達執行長的中國間諜報告處理不當 - MS NOW",
+        "descZh": "「在駕駛座上打瞌睡」：華萊士抨擊川普，指其對涉及英偉達執行長的中國間諜報告處理不當&nbsp;&nbsp;MS NOW"
+      },
+      {
+        "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+        "desc": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-30 22:48",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "教宗利奧十四世成為首位在美國大選中投票的教宗",
+        "descZh": "這位出生於芝加哥的教宗與川普關係緊張，他已郵寄了中期選舉的選票，此次選舉將決定美國國會的控制權歸屬。"
+      },
+      {
+        "title": "The Surprising Staying Power of Trump’s Tariffs - Council on Foreign Relations",
+        "desc": "The Surprising Staying Power of Trump’s Tariffs&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV005LWdFdzZKckY4UFY0bE03X1phbm02MGc2MVlFZFViUDVoMnUtTXZoa1ExQW1ZcURuS2hNbWFMUjlqNXp4NDZyS2l2YUtoMkFycjZzVDJGUjhpNlktRWxrOTlIay1iSEx6NE94bGZWQ2pkWmc2Um5Bb1VvQ2MzZw?oc=5",
+        "pubTime": "2026-10-30 21:55",
+        "source": "news.google.com",
+        "titleZh": "川普關稅令人驚訝的持久力——美國外交關係協會",
+        "descZh": "川普關稅令人驚訝的持久力&nbsp;&nbsp;外交關係協會"
+      },
+      {
+        "title": "Trump’s Midterm Troubles Could Leave India Exposed - StratNews Global",
+        "desc": "Trump’s Midterm Troubles Could Leave India Exposed&nbsp;&nbsp;StratNews Global",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUdIWTNTb2cxQzFVdjJ1b2VQTHlKY2dZVWxtaF8wRVhDRG1wLWh5TDF0NVpSZVQwaGR3SDE1VE51eDk1VXVrVE5QTUp4ZU1la1BER2VOZk5udGIzV2FOLVMySHFuUHo0UzFHdlZPRWw0dTZWcmUwT3hUYmNybUh3NV9VT1h1U0RTYVQxUTRENEo?oc=5",
+        "pubTime": "2026-10-30 21:15",
+        "source": "news.google.com",
+        "titleZh": "川普的中期選舉困境可能使印度陷入險境——StratNews Global",
+        "descZh": "川普的中期選舉困境可能使印度陷入險境&nbsp;&nbsp;StratNews Global"
+      },
+      {
+        "title": "Why did anyone think Trump’s tariffs would be popular? - Washington Examiner",
+        "desc": "Why did anyone think Trump’s tariffs would be popular?&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXBtQUpfTXRZQlZLQm1MVnhBZnQtelE1WkxCYlU0MFRzZ3Boa2hrSndMYjJhWkJTLWRYb0M5RmlSTWh6eW1fbGhsckx2dk9PRkdvVU10NVB2bEt3SDVrczB4SS1RUW45MW92MFluLWR6ZUIyZDV0cUZvUnVPQ09zTTF0X2loLXdPbGNSenVZd1A3ZTVYODlESUlVWkpWRV9VZ3l2VW14U1F3bFdFMDVJ?oc=5",
+        "pubTime": "2026-10-30 20:14",
+        "source": "news.google.com",
+        "titleZh": "為什麼有人會認為川普的關稅會受到歡迎？——《華盛頓觀察家報》",
+        "descZh": "為什麼有人會認為川普的關稅措施會受到歡迎？&nbsp;&nbsp;《華盛頓觀察家報》"
+      },
+      {
+        "title": "What's at stake for Trump in the US midterms?",
+        "desc": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+        "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-10-30 18:19",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國中期選舉對川普而言，究竟意味著什麼？",
+        "descZh": "安東尼·祖切爾闡述了中期選舉的結果將如何重塑川普總統任期剩餘時間的局勢。"
+      },
+      {
+        "title": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say - The Guardian",
+        "desc": "Trump’s foreign policy, from Ukraine to Iran, raised fears of world war three. Americans are about to have their say&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXR5bFdUc1ZVTWJ1aXVaLWFjekF4LXRXYXdqLWN6WDhQekxBQXhzV0kyb0VteEpGNnU0N2xkOF9fUURFMU5wMzU4UzQ2M2JkeWJKM1BuTU5oV3pVS0NiUGZXb0JWcGc0NWo0UnJyRmtIdEhhQ3JVbjhSbzB3ZXhlaHhYRDFQdDBYVXpCSm9iYU1hWkZMOFE?oc=5",
+        "pubTime": "2026-10-30 16:00",
+        "source": "news.google.com",
+        "titleZh": "從烏克蘭到伊朗，川普的外交政策引發了對第三次世界大戰的擔憂。美國人民即將表達他們的意見——《衛報》",
+        "descZh": "從烏克蘭到伊朗，川普的外交政策引發了對第三次世界大戰的擔憂。美國人民即將發表他們的看法&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump's tariffs fail to cut US trade deficit, IW report shows - Yahoo Finance",
+        "desc": "Trump's tariffs fail to cut US trade deficit, IW report shows&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEt0aDBsQU5jbTdpUE9ZYWVEcnNWU182bkJ2ZDkxZGVxWWREcW5PSkd0Q01iVG9ncWhiUnl4Sm45WVp4WHNzZ2lmd1N6cnJRb3pTc2ZRV2FmV21DMjZyUnNvS0JxamNYaDhLb2xNQzUwajhnc1pTdWc1ZnU2V01ad2NNaHFmRURGU2lfR3VJcE5FMU04VHc?oc=5",
+        "pubTime": "2026-10-30 15:03",
+        "source": "news.google.com",
+        "titleZh": "IW報告顯示，川普的關稅未能縮減美國貿易逆差 — 雅虎財經",
+        "descZh": "IW報告顯示，川普的關稅未能縮減美國貿易逆差&nbsp;&nbsp;雅虎財經"
+      },
+      {
+        "title": "The U.S. and EU could break their tariff truce over a… - inkl",
+        "desc": "The U.S. and EU could break their tariff truce over a…&nbsp;&nbsp;inkl",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSkR2blE1TDloVi1PN2twbGZGallBQWhpQWRjVVpBQTNlYXhzaXJqRjNlSnowV00ydkRUUWNqTF9KcXF5eEtyWW1lNURINEwxNGhpRXgwUEFqdVE4cGJzNWY3WHNNQ2Y1NkR3OHdHeGp6bmo2OTBhT1hmXzl1UFNoeEVIZlBfdVlfeENqN25hSzRUcGkwRmI5Y0hHMGJnT2tOa1lKR0RYUTNEU25lLVJRZ2VjOGl2YXRDQ0tsbjZ3c3RQdWpKMFpkaDJUanhGbzhXR3VNSHkxTnlNdEVUc1pLSEprLUZrVnNpcEZDSFFseHBWN1V1c1VGMDdGUzdMbWRqeVlXMQ?oc=5",
+        "pubTime": "2026-10-30 06:24",
+        "source": "news.google.com",
+        "titleZh": "美國與歐盟可能因……而打破關稅停火協議 - inkl",
+        "descZh": "美國與歐盟可能因……而打破關稅停火協議……&nbsp;&nbsp;inkl"
+      },
+      {
+        "title": "How War, Tariffs, and Other Foreign Policy Issues Could Affect the U.S. Midterms - Council on Foreign Relations",
+        "desc": "How War, Tariffs, and Other Foreign Policy Issues Could Affect the U.S. Midterms&nbsp;&nbsp;Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVlPVkVnYnAxQlg3WXpENjk5YlhnM1M5eXYwYm9hektFZjNEeHU5ZkI0NVZCVzBZR25jdmJSdVFnVW1jOUZnUVV6Tm1aVFpMdG9MVGpMYjNPeGxDX19RSWxEdFRQc3BXenktMkpMVUhPNHZHNURzek1sdmgxemwtYmtLTmduSzdlZTA0UG12YTFhc3ZOT0pmRjkyTXBNRXJyWTgxeFg3MnN2VmNN?oc=5",
+        "pubTime": "2026-10-30 03:33",
+        "source": "news.google.com",
+        "titleZh": "戰爭、關稅及其他外交政策議題可能如何影響美國中期選舉——美國外交關係協會",
+        "descZh": "戰爭、關稅及其他外交政策議題可能如何影響美國中期選舉&nbsp;&nbsp;美國外交關係協會"
+      },
+      {
+        "title": "'Political manipulation': Trump admin alleges Chinese biotech companies use 'forced labor' - Fortune",
+        "desc": "'Political manipulation': Trump admin alleges Chinese biotech companies use 'forced labor'&nbsp;&nbsp;Fortune",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalE0X2ZCZzBkUDVtQ2dOaDJsTFpCSDJHa3ZNSkRXVnpsa0tZa1RnTER5bzJxdzNESWROSWZGOHFRMFFZOHFEOUtfbTMxSG1qSEtyQ05KbHJ4TkRwOVJmQWJ1NWpFeWotNVkwWHBLS2ZHeEZIX3Y4SE9qSXVPRWxmQzhVOGd5TkU?oc=5",
+        "pubTime": "2026-10-30 00:33",
+        "source": "news.google.com",
+        "titleZh": "「政治操弄」：川普政府指控中國生物科技公司使用「強迫勞動」——《財星》",
+        "descZh": "「政治操弄」：川普政府指控中國生物科技公司使用「強迫勞動」&nbsp;&nbsp;《財星》"
+      },
+      {
+        "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
+        "desc": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot&nbsp;&nbsp;The New York TimesTrump ignored intel on China’s Nvidia spy to protect company’s stock, report says&nbsp;&nbsp;Ars Technica",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+        "pubTime": "2026-10-29 17:01",
+        "source": "news.google.com",
+        "titleZh": "Nvidia 執行長黃仁勳被視為中國間諜陰謀的目標——《紐約時報》",
+        "descZh": "Nvidia 執行長黃仁勳被視為中國間諜陰謀的目標&nbsp;&nbsp;《紐約時報》報導稱，川普為保護該公司股價，刻意忽視有關中國對 Nvidia 進行間諜活動的情報&nbsp;&nbsp;Ars Technica"
+      },
+      {
+        "title": "$360 million secret beneath Aussie farmland could solve Trump's China problem - Yahoo News Australia",
+        "desc": "$360 million secret beneath Aussie farmland could solve Trump's China problem&nbsp;&nbsp;Yahoo News Australia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0NHREhZbkEzQV9iZzVzRlR4dHVWcUNkaUx4SWdmbEpIc0FHTkNXeVRvS3VYQWQzNHlNWjAzQW5CM3IwMTB4OUdRNF9EeWJPRXYzZUh1YnBiUjY2cERDc1E1VXJZWGpidFBjbTFfaFBNeEpiMFFBUVRsTTJCWXFjNlVJRnhhZzhxdVRzYTJzdzQ2ZTZWdEVnNi1NbGhLWWd6OWthSnZwb2h3V2Exdnd6WFl6ZkVYenM?oc=5",
+        "pubTime": "2026-10-29 16:15",
+        "source": "news.google.com",
+        "titleZh": "澳洲農地之下價值 3.6 億美元的秘密，或可解決川普的「中國問題」——雅虎新聞澳洲版",
+        "descZh": "澳洲農地之下埋藏的 3.6 億美元秘密，或許能解決川普的中國問題&nbsp;&nbsp;雅虎新聞澳洲版"
+      }
+    ]
+  },
+  {
     "date": "20261030",
     "fetchTime": "2026-10-30 08:00",
     "count": 4,
@@ -2881,139 +3032,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普「超級智慧」峰會的三大重點",
         "descZh": "此次白宮會議召開之際，部分科技業高層與專家正呼籲針對人工智慧制定更嚴格的規範。"
-      }
-    ]
-  },
-  {
-    "date": "20261001",
-    "fetchTime": "2026-10-01 07:59",
-    "count": 14,
-    "articles": [
-      {
-        "title": "A Trump adviser's outburst and a new poll suggest Canada’s tariff strategy is landing - National Post",
-        "desc": "A Trump adviser's outburst and a new poll suggest Canada’s tariff strategy is landing&nbsp;&nbsp;National Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFBkbmF4a09MelJEa0lHYjl0d0JJb2NyUXNOY2RSZExpd0dVcDEycEVCUTVaTktqOTZKVjdKZ25XcDd3QVVxQm54RmsyMHR2am1kSUpCVU1pcnFxdTdJV3piWXk0U2MxNllndy1MaEV3dGh2QXFhd3o3M2hnWEsza1BwdnlXWTA3QlpYZzFpem9jVUwwX3h3TlRnVW4xN0lSUHN5aUEwd2pvVTJ4aGVjSlUxVQ?oc=5",
-        "pubTime": "2026-10-01 03:28",
-        "source": "news.google.com",
-        "titleZh": "一名川普顧問的激烈言論以及一項最新民調顯示，加拿大的關稅策略正在見效——《國家郵報》",
-        "descZh": "一位川普顧問的激烈發言以及一項最新民調顯示，加拿大的關稅策略正見成效&nbsp;&nbsp;《國家郵報》"
-      },
-      {
-        "title": "New Challenge Targets Trump’s 10% to 12.5% Tariffs in Trade Court - NBC Palm Springs",
-        "desc": "New Challenge Targets Trump’s 10% to 12.5% Tariffs in Trade Court&nbsp;&nbsp;NBC Palm Springs",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLURZYW50TjJ0dVh2MGlHUnYxNkxVTjFJVHZsMUhXYWdRUm45d3lLdS1mclg5eDBJcFI1Nm5MM2pGYzM3Q2RndDN1aXVNbFVvMUJOOVNyRWJnWC1rTlBuMGpJMGpiY0JZajN6dGlkdE82VldoZWMybzl4bWdnNFBVR1B1anl2S1MtczdWSElQd05LNThyM3V3S0IycjcyRzB5OVR5RUptZ1o3bzRmSHJ4N1JvNXdSdXNaTGRz?oc=5",
-        "pubTime": "2026-10-01 03:21",
-        "source": "news.google.com",
-        "titleZh": "貿易法庭針對川普政府10%至12.5%關稅的新挑戰 - NBC棕櫚泉",
-        "descZh": "貿易法庭針對川普政府10%至12.5%關稅的新挑戰&nbsp;&nbsp;NBC棕櫚泉"
-      },
-      {
-        "title": "Milwaukee hosts G20 trade talks amid tariff tension - Milwaukee Journal Sentinel",
-        "desc": "Milwaukee hosts G20 trade talks amid tariff tension&nbsp;&nbsp;Milwaukee Journal Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFNPeGZnNm1JdTNyVl9DXzI0UFJ5aDN3bWhBOTJUbkhOZXBNZWVHVjlGVWRzMEdxU1l6Y0UtZU9lOVZTSUZ4QXBZb3Z4NGRuSEV6M2ROaG1rNThvR3JLTHdwUlpzMzhWVVF6Y05QNlVNQ0tybWVWRWcwbko4ZzZJSnlRbXlYSktMdXo3aldrQXUyZUI0YWloX0MwUkZZMEFHTDBvWGJGbEdBYzZvVE1qZTRySQ?oc=5",
-        "pubTime": "2026-10-01 02:26",
-        "source": "news.google.com",
-        "titleZh": "密爾瓦基在關稅緊張局勢下主辦 G20 貿易會談 —— 《密爾瓦基日報先驅報》",
-        "descZh": "密爾瓦基在關稅緊張局勢下主辦 G20 貿易會談&nbsp;&nbsp;《密爾瓦基日報哨兵報》"
-      },
-      {
-        "title": "Trump's 'Forced Labor Tariff' Legality Battle Heads to U.S. Court of International Trade - finance.biggo.com",
-        "desc": "Trump's 'Forced Labor Tariff' Legality Battle Heads to U.S. Court of International Trade&nbsp;&nbsp;finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIZHhtN0RmN2lTRTYxZkphX01OQ2VoT09FQWN6UHV6QnoyVDNIWEdiOUcxTnNOVVdOQVJxamd4TDlVVzFRR2FEOUJWNTRMLS1HWEpQRFV5ekRIQXlscGFyOTFLa2E2TVN4N3BXRDhTMWRjcm5uaFE?oc=5",
-        "pubTime": "2026-10-01 00:25",
-        "source": "news.google.com",
-        "titleZh": "川普的「強迫勞動關稅」合法性之爭移交至美國國際貿易法院 - finance.biggo.com",
-        "descZh": "川普的「強迫勞動關稅」合法性之爭將移交美國國際貿易法院審理&nbsp;&nbsp;finance.biggo.com"
-      },
-      {
-        "title": "G20 trade ministers open talks under strain of Trump tariffs - Bangkok Post",
-        "desc": "G20 trade ministers open talks under strain of Trump tariffs&nbsp;&nbsp;Bangkok Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT3cxb2xmWkJON3M5TEtySHlxQk9vQ3BQa2VlUjl2bE9abFJPRElJdkIyZVRrbzlOT3hNR24tX0EwTXhmTl9hbjVBZXVDbkR3akNKU3V5Q2U3cHh4Q0dPTEM2el8yLUlxUnpBMWhzOEx2M0VuVi1lWUZVeDdkQjc4X2FkdFhCb0VJUzRiX3dwRVZnQnp0Z2FzcHpXTkNiUi1xamRmZ19mR19ad1lfbk04TmdHcw?oc=5",
-        "pubTime": "2026-10-01 00:01",
-        "source": "news.google.com",
-        "titleZh": "G20貿易部長在川普關稅壓力下展開會談——《曼谷郵報》",
-        "descZh": "G20貿易部長在川普關稅壓力下展開會談&nbsp;&nbsp;《曼谷郵報》"
-      },
-      {
-        "title": "Trump's latest global tariffs face trade court challenge - cnbc.com",
-        "desc": "Trump's latest global tariffs face trade court challenge&nbsp;&nbsp;cnbc.com",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WUEkwUU1RcnNnRlFNTmRvZnd5OW52NDZWNFBPY0JieXdnYzFDZGVlZUE3aXFnUmNkTTZZQzQxYTd6X09LSFVtZjFCSFJBZlBfZExOdl8yVmZ6NkdXVGxlbnJZSGZ4TnM1T29sTXh1YUVVUdIBd0FVX3lxTE5DamtzTGRfTVVSSXVkbzdVVHh0X016TkxzTENCdy1NVWQ1aGowTjF0WGFTSmw3b3JpaThIY1kwdkhkcW9yUGxuaWplR0t5cDhSWjVmMks5UDFmeXNoZDl6MkhCaEs2U3hReFNydGRaWHhlbEJnODRj?oc=5",
-        "pubTime": "2026-09-30 22:04",
-        "source": "news.google.com",
-        "titleZh": "川普最新一輪全球關稅面臨貿易法庭挑戰 - cnbc.com",
-        "descZh": "川普最新的全球關稅措施面臨貿易法庭的挑戰&nbsp;&nbsp;cnbc.com"
-      },
-      {
-        "title": "Trump’s tariffs loom over talks as G20 meets in US - France 24",
-        "desc": "Trump’s tariffs loom over talks as G20 meets in US&nbsp;&nbsp;France 24",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmZBMVoyR0RReUY0bGxFaGlvak56Y3F5LU8yc1BIVHZWc1BDYkVQTzVfYkFfREV4dEwycVpsMkQ1dDdGNkN1OU81NzNVbXhsVzhyZXFlSnpYNWtZS3pkRUxaeGlBSTdoZnBYdFNXdDVOVW5SNHFuMDlFd3NNRVBudTR6VC1oM1ZUa3hEc096ZDdlV1VTdTJvZHVlYzY?oc=5",
-        "pubTime": "2026-09-30 13:29",
-        "source": "news.google.com",
-        "titleZh": "G20峰會在美國召開之際，川普的關稅措施為談判蒙上陰影 — 法國24台",
-        "descZh": "G20 峰會於美國召開之際，川普的關稅措施為談判蒙上陰影&nbsp;&nbsp;法國24台"
-      },
-      {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "desc": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-30 12:01",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普「超級智慧」峰會的三大重點",
-        "descZh": "此次白宮會議召開之際，部分科技業高管與專家已呼籲針對人工智慧制定更嚴格的規範。"
-      },
-      {
-        "title": "Trump Advisor Navarro Pushes Tariff Overhaul with Allies - chosun.com",
-        "desc": "Trump Advisor Navarro Pushes Tariff Overhaul with Allies&nbsp;&nbsp;chosun.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0dVT2NzXzFnRUYzV0tmVjRfRV9BR3J6aDdDTldOLXJ2R2dfWHR0b3RUQTFVQTN0eDUzb2hGTzhIZThtUWpEOFcwM0ZDOGZWUVg1emZTMTBsamlyTnFiSl9kcVVnRlRvQjVidy1ZVS1GRk82Wm4wUmYza0l2a1NSLVdWVFI?oc=5",
-        "pubTime": "2026-09-30 09:28",
-        "source": "news.google.com",
-        "titleZh": "川普顧問納瓦羅與盟友共同推動關稅制度改革 - chosun.com",
-        "descZh": "川普顧問納瓦羅與盟國推動關稅制度改革&nbsp;&nbsp;chosun.com"
-      },
-      {
-        "title": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms - CBC",
-        "desc": "Trump trade adviser says Canada will 'pay even more dearly' if 'you interfere' in U.S. midterms&nbsp;&nbsp;CBC",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHE0TzhHU0tCM1ZoWmxwQ0x0X2QxS3RLMXY0dVQzektyTWk1YXNqSnRkZHctbWllazJrUkM0NWR2aEM0Ri12NmtlMjJiT0QxUTZjcE16ZlBXY0V5a2JtMDVPaUJuTVRieDhDTlVtU3Q0eWp4THRORXNxR1FKa0VHYU1FOUNpVW96RmgtYW5Ub2d4eWFlZFVYT2dCWlI?oc=5",
-        "pubTime": "2026-09-30 02:59",
-        "source": "news.google.com",
-        "titleZh": "川普貿易顧問表示，若加拿大「干預」美國中期選舉，將「付出更沉重的代價」——CBC",
-        "descZh": "川普貿易顧問表示，若加拿大「干預」美國中期選舉，將「付出更慘重的代價」&nbsp;&nbsp;CBC"
-      },
-      {
-        "title": "Trump’s Global Tariffs Are Likely to Fail in Court (Again) - Foreign Policy",
-        "desc": "Trump’s Global Tariffs Are Likely to Fail in Court (Again)&nbsp;&nbsp;Foreign Policy",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXNnMEY1WDdCV1VNUG9kNUh2M0JXX2xlLUEwRDdHNWJQNzlpa09TRk1YbG14UVRQV1R3VGVVd1V1c1FhLVdsRExzc2dEdWhkSi1BMWhFejV6ZUJvYmdIYjY4ZmUwcmJQdHV0YmNUbU9XeHU1YjlzWXdXaDFmZmNma0RRODlwNzJOS1ZtZ0JIWnY3WWFUelZpWA?oc=5",
-        "pubTime": "2026-09-30 01:36",
-        "source": "news.google.com",
-        "titleZh": "川普的全球關稅政策很可能在法庭上（再次）失敗——《外交政策》",
-        "descZh": "川普的全球關稅措施很可能（再次）在法庭上受挫&nbsp;&nbsp;《外交政策》"
-      },
-      {
-        "title": "Global trade remains resilient despite Iran war, Russia's war in Ukraine, COVID and Trump's tariffs - DW.com",
-        "desc": "Global trade remains resilient despite Iran war, Russia's war in Ukraine, COVID and Trump's tariffs&nbsp;&nbsp;DW.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObU1FOEFSOUVMX3hnRUdITGtVU1FpMzB2ZmVoTVB6ekxLY0NCRGhIRVc2bjFlMllYTXpzdjdQU08tM29kSHFfbHlRd0VGay1tOEU5M2Jpemd6dXVJcjdGZFhOd2x4MmxiZkhDZ3NMazZjTmhydEphMnk2V0tDQ0k2RUhicTlHaVBrWG5JWndFONIBjwFBVV95cUxOSkpCY3ByaUl0aUxlQnhkZWd2aHVnbWVPd3pCMEhmb2dLX05nbDU0dERyZ2VIcXRiVHl1SGR3RjJuUzdSTkFQbVptVldqWmxCZzIycUJuWVV0Vi1adlFaUElDNy1Fa05zNlN0czQ5TWIyVUpEbWZUcUF1QWZCc2h6YkZ2R01NcXBJa296bnZURQ?oc=5",
-        "pubTime": "2026-09-30 00:55",
-        "source": "news.google.com",
-        "titleZh": "儘管面臨伊朗戰爭、俄羅斯入侵烏克蘭、新冠疫情以及川普的關稅措施，全球貿易仍展現出韌性——DW.com",
-        "descZh": "儘管面臨伊朗戰爭、俄羅斯入侵烏克蘭、新冠疫情以及川普的關稅措施，全球貿易仍展現出韌性&nbsp;&nbsp;DW.com"
-      },
-      {
-        "title": "Taiwan Shapes the Strategic Equation Between Xi and Trump - usthadian.com",
-        "desc": "Taiwan Shapes the Strategic Equation Between Xi and Trump&nbsp;&nbsp;usthadian.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUVTbDJDdGdHSzdCcGtqb0UzY0pCOTZza3VJaUpjUzRhRG5aekxKUnItRWxhT2pvZ2RzQmMzNHlsZFpISTU3OVM5RnhjcGI5LUVKZ21qSWNrT0Q1QjhGZUtraHNQRFBpaWZNMDdBbll4T3V2MjdMZUVPc25meFpIUF9XWXlYSjJtWWN2Tg?oc=5",
-        "pubTime": "2026-09-29 13:08",
-        "source": "news.google.com",
-        "titleZh": "台灣塑造了習近平與川普之間的戰略格局 - usthadian.com",
-        "descZh": "台灣形塑習近平與川普之間的戰略格局&nbsp;&nbsp;usthadian.com"
-      },
-      {
-        "title": "Are Trump's US government funded ads illegal?",
-        "desc": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-09-29 09:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "由美國政府資助的川普廣告是否違法？",
-        "descZh": "川普總統因出現在由美國政府出資的廣告中，而遭到批評。"
       }
     ]
   }
