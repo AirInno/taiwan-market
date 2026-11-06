@@ -1,5 +1,372 @@
 [
   {
+    "date": "20261106",
+    "fetchTime": "2026-11-06 08:59",
+    "count": 40,
+    "articles": [
+      {
+        "title": "Democrats target Trump’s tariffs after midterm gains - 동아일보",
+        "desc": "Democrats target Trump’s tariffs after midterm gains&nbsp;&nbsp;동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NRjFWU1dHLU9RNVdlbG55QXlXbkZERDlaLTQ1QVV3Q1BIYmZQMWh2Ymd3YmEzdUdqZzQxbzQyTlZHRFg1MjBRMWJTSmFXWERpYkhQbHlyUllxdVZwWmxudzZiTmF5UQ?oc=5",
+        "pubTime": "2026-11-06 08:05",
+        "source": "news.google.com",
+        "titleZh": "民主黨在中期選舉取得進展後，將矛頭指向川普的關稅政策 - 東亞日報",
+        "descZh": "民主黨在中期選舉取得進展後，將矛頭指向川普的關稅政策&nbsp;&nbsp;《東亞日報》"
+      },
+      {
+        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+        "desc": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-06 03:08",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "梅拉尼婭·川普在接待俄烏官員時，呼籲烏克蘭實現持久停火",
+        "descZh": "美國第一夫人因在停火協議中發揮了關鍵但未具體說明的作用，而獲得各方的一致肯定。"
+      },
+      {
+        "title": "US midterms upended Congress, but Trump still commands foreign policy - The Straits Times",
+        "desc": "US midterms upended Congress, but Trump still commands foreign policy&nbsp;&nbsp;The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2xSX2tNcFRlUFBSWk1MNXRKRmZ4Mk1SN0NiT0I1UlpPZjViaEs4QlI4VjhRMlEzRnRGcGI1eTJDOW1VZFdfekxZY2RSVnkyVDFMTTFPd05fbWFnUFFQY1NyaHRRVjF2Rk9CcjY2OFJLMExhOW1VbkFfUUNYalZyVXBjNGsyQWNFanlBLVpDUnMwVXB5Yl9lM2ZDYXdlUk1mbnp3dkFPekhDay02XzFJanJzaG8?oc=5",
+        "pubTime": "2026-11-06 02:52",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉顛覆國會格局，但川普仍主導外交政策——《海峽時報》",
+        "descZh": "美國中期選舉顛覆了國會格局，但川普仍主導外交政策&nbsp;&nbsp;《海峽時報》"
+      },
+      {
+        "title": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers - The Washington Post",
+        "desc": "Analysis | Trump’s favorite economic policy was among Tuesday’s biggest losers&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVW1ybXNFaVdKR3V2UVVoOENIVkNscGpuVHhqZjEtR19zNVVwdFRzOFdBM1Vhc3dKcTVkZTRRUWJ2RUpUYnk4eUctZndfbzh2cDhLZlJIel92b3dTeFF4Wi0xOVZRSnVjNndUWk51XzZ1cWVJVlJfRml4NGVIV1FpTA?oc=5",
+        "pubTime": "2026-11-06 02:00",
+        "source": "news.google.com",
+        "titleZh": "分析｜川普最鍾愛的經濟政策成為週二最大輸家之一——《華盛頓郵報》",
+        "descZh": "分析｜川普最鍾愛的經濟政策是週二最大輸家之一&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Trump's Lame Duck Risks Reckless Foreign Policy Moves - 조선일보",
+        "desc": "Trump's Lame Duck Risks Reckless Foreign Policy Moves&nbsp;&nbsp;조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURXVkQxX0t0c25iWVl1andoWEtaLWdtQXpaVDV2UTRjMU5ndUhCdkFEbkxkWUw4YzN3NG41NENMVlUyNC1sT2d5XzRmTXNuOG16UmFRRFNQdnNaQm5YZDFERzM0Ny1rVE9RcFRYZEZ3M1F6VHpSTmdQa1RHXzd1Q2VTQmY?oc=5",
+        "pubTime": "2026-11-05 23:45",
+        "source": "news.google.com",
+        "titleZh": "川普的「跛腳鴨」任期恐引發魯莽的外交政策舉措 - 《朝鮮日報》",
+        "descZh": "川普任期屆滿前的「跛腳鴨」時期　恐引發魯莽的外交政策舉措&nbsp;&nbsp;《朝鮮日報》"
+      },
+      {
+        "title": "Trump Loses Congress: Will His Tariffs Be Next? - AgroLatam",
+        "desc": "Trump Loses Congress: Will His Tariffs Be Next?&nbsp;&nbsp;AgroLatam",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFlOMUtGb3ZDN3RWaktvUkVPbjF5Q2hrRnBnOVE1RUU0bVc5WVRCTnJZS2l5VHhHajM4bjMxQm13cXRncjVTX3F0NHBYTm5wTGFMV1prVEJicElZNy1sZ081TzVKUm9XTFZtS1dPdDV0by03SUJLNHhBNGVSS3dFV1dtdkx2dw?oc=5",
+        "pubTime": "2026-11-05 19:54",
+        "source": "news.google.com",
+        "titleZh": "川普失去國會控制權：他的關稅政策會是下一個目標嗎？ - AgroLatam",
+        "descZh": "川普失去國會控制權：他的關稅政策會是下一個目標嗎？&nbsp;&nbsp;AgroLatam"
+      },
+      {
+        "title": "Foreign trade president: Trump's tariff policy will persist - Fashion United",
+        "desc": "Foreign trade president: Trump's tariff policy will persist&nbsp;&nbsp;Fashion United",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjVNb3B5Uy1xcnZWWGRKci1LRHo2U3FMRl9fQ3c4RFBxZFBDcGpLdFR6b2RKN2hiNkVoeE9oN25RWmRRaDhGWm15MUpJeFRab3FPWnM4Uk5VbTdZa1JnQTJQSVEzQm9LUng2UWNqeGxhMGNMWTU2QTNFcXZJRFRJdnZ1c3drQ0NPVTNHRTloejByckdkaGtmdHBXakxZeG1hNE53LUx1dlZBOFpOUThv?oc=5",
+        "pubTime": "2026-11-05 16:34",
+        "source": "news.google.com",
+        "titleZh": "外貿協會會長：川普的關稅政策將持續下去 - Fashion United",
+        "descZh": "外貿協會會長：川普的關稅政策將持續&nbsp;&nbsp;Fashion United"
+      },
+      {
+        "title": "Democrats prepare to challenge Trump's tariffs after election victory, but the president has a powerful weapon - Dagens.com",
+        "desc": "Democrats prepare to challenge Trump's tariffs after election victory, but the president has a powerful weapon&nbsp;&nbsp;Dagens.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOalROV1NLVTZULUlaS2xxejB4LWY3eFBpUkI3MURWWmVPS1c5QWEzdHpvdHRYNVU0aHlqZk5VMkR4OE54ZDJHRllJa05PeXJqUGctZS1NVWFHV0doV1lwQkQ4emhveXUtdnMtRkpVUTNac1Bzei05VDZXckZ5ekVfMVdxTFdhV2g0enZBOHExVURXZDgxYXZKV2hUVkk1VWxfbTVEMi1XUWtEa01yTWRBRl9XUlJzVlVnMVh5dnp3S0NIWjZNcTNyWC1fSlhOdVgxbGc?oc=5",
+        "pubTime": "2026-11-05 16:06",
+        "source": "news.google.com",
+        "titleZh": "民主黨在選舉勝利後準備對抗川普的關稅措施，但總統手中握有一項強大武器——Dagens.com",
+        "descZh": "民主黨在選舉勝利後準備對抗川普的關稅措施，但總統手握一項強大武器&nbsp;&nbsp;Dagens.com"
+      },
+      {
+        "title": "Midterms make Trump admin ‘lame duck’: How it impacts India-US trade, immigration - The Federal",
+        "desc": "Midterms make Trump admin ‘lame duck’: How it impacts India-US trade, immigration&nbsp;&nbsp;The Federal",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFVzbW1NN3pvT0VxSzlSamtCZUM0bE9mSzRyX2pVX1FSSUJacFhXVXUwbmIzY0R1RUEwYnlOSmJSSHlYOW5HOENBNDlVS2s3Y0pGV1hSRUhud1FSWk54Ty15b1V2RzRpZmZkdi1VRmpteEtpdngwalcycEVDRmExYUExVW8xNmd5bzhtcENFb0dhOTNfRms2SVZtR1I?oc=5",
+        "pubTime": "2026-11-05 15:32",
+        "source": "news.google.com",
+        "titleZh": "期中選舉使川普政府淪為「跛腳鴨」：這將如何影響印美貿易與移民政策——《聯邦報》",
+        "descZh": "期中選舉使川普政府淪為「跛腳鴨」：這將如何影響印美貿易與移民政策&nbsp;&nbsp;《聯邦報》"
+      },
+      {
+        "title": "Democrats face hurdles in reversing Trump tariffs - Profit by Pakistan Today",
+        "desc": "Democrats face hurdles in reversing Trump tariffs&nbsp;&nbsp;Profit by Pakistan Today",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMERleTE2ajgtb3ZsTkl5b1NYeTlfMFVuUFg1TkwtTzkyY3lNbjA2RW5CcjFIMmRYZlRFRjY1OVNfTkIzOW5PWElBbFRvVFdpRG5LUXdCVEFFRlpyd0t1S1dPSk9KUlktZVIwUWlKaFFfSFNlTjhCcW12N0ZKR0tqaUZvU2dnUjRhZ1JxblNKbW16d2QyVUNNVHpTU3huWDRFWl9ubVRYRjFDVVRKZkpkN1NkRGFwbTR4NmI1Nk9uQWFNUGQzdkhaNTZnSQ?oc=5",
+        "pubTime": "2026-11-05 15:16",
+        "source": "news.google.com",
+        "titleZh": "民主黨在推翻川普關稅方面面臨障礙——《巴基斯坦今日報》「Profit」專欄",
+        "descZh": "民主黨在推翻川普關稅方面面臨障礙&nbsp;&nbsp;《巴基斯坦今日報》專欄"
+      },
+      {
+        "title": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs - Reuters",
+        "desc": "COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUk1naVB2YlNzNHNsUVA1ZVp4ZU5QaUNocUZjdkt0VVdHZVVmZXdRZzhSdUt5RFROWXlBclNEM0p0NnJTc3dqaWlBWVhoUWRVczliT2JGR3l3RXU0R1N0aGZicXFZSkdiNjd6dmZJWVVoRWp4X21wNUJNd2EzOG5CMnJoR1ExaW1lX1Q4R0o0cHhBM1lZX0lnd0NLMkFVaTJZZ0FvUVNfejFaaFViQU9tX3REV2ZBNjdCOHU3ak1EcUdJX2xsbFdCWE9pVzk?oc=5",
+        "pubTime": "2026-11-05 15:00",
+        "source": "news.google.com",
+        "titleZh": "評論：亞洲希望民主黨能緩解川普發動的伊朗戰爭及關稅帶來的衝擊——路透社",
+        "descZh": "評論：亞洲寄望民主黨能緩解川普發動的伊朗戰爭及關稅帶來的衝擊&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Can Trump’s midterm setback work in India’s favour during trade talks? - Firstpost",
+        "desc": "Can Trump’s midterm setback work in India’s favour during trade talks?&nbsp;&nbsp;Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2ZiOVhYVnNGUWhpWTlRYmhjbWJUZEctbU9wQzdlUV9uVWZ4TzRSenBTQWlwV29kUDNWc1VZTEF5c3AtWm9hQnhJcFREcF9EcFNsTmt5TUxUX0pOa01IQ0QyV2t1NF9HQTJhb2hiVDZLSTVJaW5PR3hYMGliUUpBR3c5bkxhMUMxVnhYNklqNUVmVDBqVHVMSnR4VlZjTi1SR2RjNTl1Z1VUMWpuVWFTNWJqWHFyT2Y4ZkVkWko4WdIBxAFBVV95cUxPOXVkY2k4b2tFSExzZkF5YWFpbEo3akNkMmt0eTZKaU5XdDIyN2Z2VF9zSTZqVWF6WnRldmx6d2ltNWxWMXdURDhIOUhMal9Zblh6LWo1RzhQaV9uZWltN2Y4OEd2X1pNaG0tVHZLcWxmR0l1REk1dVllLUIwZUQxbkkzcDFBR3RTOU5QdU5XcjRtZ2l5YWZyT2RwVzZHcGg5SFFGZnNVSDh6bkdVZjQwRXVUVzJVcVRPLVc3eXBpblVicnky?oc=5",
+        "pubTime": "2026-11-05 15:00",
+        "source": "news.google.com",
+        "titleZh": "川普在中期選舉的挫敗，能否在貿易談判中對印度有利？——Firstpost",
+        "descZh": "川普在中期選舉中的挫敗，能否在貿易談判中對印度有利？&nbsp;&nbsp;Firstpost"
+      },
+      {
+        "title": "Breitbart Business Digest: Trump’s Tariffs Are Bringing Down the Trade Deficit - Breitbart News",
+        "desc": "Breitbart Business Digest: Trump’s Tariffs Are Bringing Down the Trade Deficit&nbsp;&nbsp;Breitbart News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXktdFZEemRGNFRwcjA3OTZRMkZsR1NQeWo0RElTYzdEeHRIV3VfUlpvNE1JcGx3aF9wMjJ2Nm1yRFVZZTY5aXoyZG1HMWR6MUR5Mko2NUVndERJOVpjdHJ0T012X0hpZmV1VjRhek1yMGVoWjNUcDBHcmNrMXJ4UWJVaEl6YkJ4cXEzOXFCQW10RnBGRWprR0xkQkpFdDdZcERvQXFQOUQ0bDlRTnh0d3E2MVd2Mmg3aU1FUzZmY9IBxAFBVV95cUxOMkRyaVphQlFDSDVtME0wanQ2bkNONWNPY0hVWTZESkRncFlpNzdhaTJZVkRtM3d0NFEyWVM0ZXZTbm1IWnktZDVZVHhSYTJfZHpOM0dsaTNUQnpMb2xoTm1XZHdfU0QwUi1OR1RaaWV1SmtsZmpaNUUzZ1o3MktIZEZMRGlzaFd3UlNYWHNiblpxTFhuUks3bXJhMkZTYzhpYTZPaFhjTmc1Vks5WTJFenBkeEtYWHotX1FxUm9SVzVYaVpK?oc=5",
+        "pubTime": "2026-11-05 14:00",
+        "source": "news.google.com",
+        "titleZh": "《布萊巴特商業摘要》：川普的關稅正使貿易逆差減少——布萊巴特新聞",
+        "descZh": "《布萊巴特商業摘要》：川普的關稅正使貿易逆差下降&nbsp;&nbsp;布萊巴特新聞"
+      },
+      {
+        "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy - SupplyChainBrain",
+        "desc": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy&nbsp;&nbsp;SupplyChainBrain",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5",
+        "pubTime": "2026-11-05 13:03",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉慘敗 恐難改變川普的貿易政策 - SupplyChainBrain",
+        "descZh": "美國中期選舉慘敗不太可能改變川普的貿易政策&nbsp;&nbsp;SupplyChainBrain"
+      },
+      {
+        "title": "Impact of Trump Tariff Taxes on Republicans: Implications for Indian H-1B Visa Holders, Russian Oil, and Trade Deals Following US Midterm Results - Observer Voice",
+        "desc": "Impact of Trump Tariff Taxes on Republicans: Implications for Indian H-1B Visa Holders, Russian Oil, and Trade Deals Following US Midterm Results&nbsp;&nbsp;Observer Voice",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYTlnc0xkdHhnb2E3eHB1WHNpeUs2SEFhUUdnX0o5YlRkeVU1LTR2OGo5RFdUN2UxVWZnb2tlSDhKRkxsc0IwOW9IaXNuX3BYdk9JMVQ5SVRrb180TEdrZ0hiRVBfb2Z6NWNRaGQtRkZ5Y1lPX3RVd1lnOW9aYTJtSXJWQXRnbmgzUGZ1R3lGbXBYWk1GN2NDaVpNLVY1NzdOUmRFTHdaeFVSZFJUT0dqLVhxRzlWaGhSUk1CY3IzeElZR0F2bjgyb1FKYVJ2ejJfOTdiV3p3VDlabFd6akxxLVVleTYyZkc4em5VenpOcWdldVBpSklRNElSQ0dkenR4LWZGWG9ITQ?oc=5",
+        "pubTime": "2026-11-05 12:55",
+        "source": "news.google.com",
+        "titleZh": "川普關稅對共和黨的影響：美國中期選舉結果出爐後，對印度 H-1B 簽證持有者、俄羅斯石油及貿易協議的啟示——《觀察家之聲》",
+        "descZh": "川普關稅對共和黨的影響：美國中期選舉結果後，對印度 H-1B 簽證持有者、俄羅斯石油及貿易協議的啟示&nbsp;&nbsp;《觀察家之聲》"
+      },
+      {
+        "title": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power - The Conversation",
+        "desc": "Voters have sent a message to Trump on tariffs, but the White House still holds significant power&nbsp;&nbsp;The Conversation",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlNDR3k4bXlCRG0zUmZjRnJHbEItWnVXRFp4c2FoelNKQVlMeXY2dnlmTXcxYXdfR25Da2JzXzV5NW40czRGdzREOUtGMEJONTl4cEtwdkhhM0ZKVlJYVkJZNDFLRWxZNk5OWWkxb013enlleHQybjVPaXo0b2VwQXc2VnU0V2E4N3FvNlFvSWsxcDk1elR2MkNfTGF1TkVVM2FscEdyWXpqX2laT2wwRHd3YUNJRHJkbGRMdkVsVUlYak5KcWlmNE8xSQ?oc=5",
+        "pubTime": "2026-11-05 11:50",
+        "source": "news.google.com",
+        "titleZh": "選民已就關稅問題向川普傳達了訊息，但白宮仍握有相當大的權力——《The Conversation》",
+        "descZh": "選民已就關稅問題向川普傳達了訊息，但白宮仍握有相當大的權力&nbsp;&nbsp;《The Conversation》"
+      },
+      {
+        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "desc": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-05 11:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "范斯在對選舉提出尖銳批評並將責任歸咎於伊朗戰爭的同時，正試圖在特朗普的立場上走鋼索",
+        "descZh": "副總統對共和黨選舉失利所作的直率評估，可說是近年來與現任總統之間最尖銳的決裂之一。"
+      },
+      {
+        "title": "Democrats Gain Congressional Majority, but Veto Power Keeps Trump’s Tariffs in Place - Forth.News",
+        "desc": "Democrats Gain Congressional Majority, but Veto Power Keeps Trump’s Tariffs in Place&nbsp;&nbsp;Forth.News",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iOVhjZFltVVVDNlhRektKZWxYaFhneU04akJOc0YxYVNrdUlTRTFIQlF2aWJ1Z1RLWGJGWmJwSmtrWlZxSEgzc0pkZ1R2TG93ZVlDRExWX1pYbUg4OUVnZlRB?oc=5",
+        "pubTime": "2026-11-05 09:53",
+        "source": "news.google.com",
+        "titleZh": "民主黨在國會取得多數席次，但否決權使川普的關稅措施維持不變 - Forth.News",
+        "descZh": "民主黨在國會取得多數席次，但否決權使川普的關稅措施維持不變&nbsp;&nbsp;Forth.News"
+      },
+      {
+        "title": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall - Reuters",
+        "desc": "Democrats gain influence over trade agenda, but tariff repeals to hit Trump veto wall&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzNLUjBwZFJZSVE0U0NxbTVYbVotU0R1ak1zb2g1LTR2a0MtYkxVcGZFOFhZNkcza1hhTlpobGN4bU1hVmZhUGs5UFk5TC1kYWdXS181NHdZZlJGdEJMc0NNcHl5dndpaHo2SXpJcUxjeHkwVkZQTkhBX2xVVlg0eWNkZXRkcGx6NEpRQlFiLWtXdElVcllTWHhGZWxvUEREWXEzM2RocjFjbXBIbm1wOVhUSkEzOGFCb3ZMZ21WdElEU3l3em15cGZtZkdUQQ?oc=5",
+        "pubTime": "2026-11-05 09:51",
+        "source": "news.google.com",
+        "titleZh": "民主黨在貿易議程上影響力增強，但關稅廢除案將遭遇川普的否決壁壘——路透社",
+        "descZh": "民主黨在貿易議程上影響力增強，但關稅廢除提案將遭遇川普的否決&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Democrats Win Congress, but Trump's Tariff Powers Survive the Veto Wall - BigGo Finance",
+        "desc": "Democrats Win Congress, but Trump's Tariff Powers Survive the Veto Wall&nbsp;&nbsp;BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WaFExZWMxenpHWjNUQWpBZXpnaGk0aGozUEJoMlRyTXVqb1llRVlva2hmODlWaDlBRnlseGhLRXJfdTY3bXRPX3liU3hfNWVqTE5hTGlGSmFrZW1jcVRzT3F3dTlFV3ZfM1J4S2FYZS1GaDhFM2c?oc=5",
+        "pubTime": "2026-11-05 09:35",
+        "source": "news.google.com",
+        "titleZh": "民主黨贏得國會控制權，但川普的關稅權力成功突破「否決壁壘」——BigGo Finance",
+        "descZh": "民主黨贏得國會控制權，但川普的關稅權力仍能突破「否決壁壘」&nbsp;&nbsp;BigGo Finance"
+      },
+      {
+        "title": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies - WWD",
+        "desc": "Democrats’ Midterm Blowout a Referendum on Trump’s Trade, Economic Policies&nbsp;&nbsp;WWD",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdGZl9QOTNoMldCeUlBTS1jaTVnSXF2LVJzUUljM3Y4bVpRX3dPMDVVWkxLeXR3UWJqWkJ2OG4wM0ZVWXo4NnZIN0ViaDJTM2pIcnBab0gzTUZhUVNuRF9yaW1JcFk5Q25VeFh4UXFGaFNXVVVXd1ZTSDhfNkExUV92TktnbkRtM2s5b2lzUW1GU0hwdGZNRDlMRmlVdzJoQ1JDTzhNM1J4azgybWI4dnBlbm1jWmc?oc=5",
+        "pubTime": "2026-11-05 08:40",
+        "source": "news.google.com",
+        "titleZh": "民主黨在中期選舉大獲全勝，實為對川普貿易與經濟政策的公投——WWD",
+        "descZh": "民主黨在中期選舉大獲全勝，實為對川普貿易與經濟政策的公投&nbsp;&nbsp;WWD"
+      },
+      {
+        "title": "With Congress flipped, what does Trump do next?",
+        "desc": "The BBC's Nada Tawfik breaks down what the president could do now after losing both chambers of Congress in the midterm elections.",
+        "url": "https://www.bbc.co.uk/news/videos/cwkg5xmlpj4jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-05 06:50",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著國會權力易主，川普接下來會怎麼做？",
+        "descZh": "BBC記者娜達·塔維克（Nada Tawfik）分析了總統在中期選舉中失去國會兩院控制權後，目前能採取哪些行動。"
+      },
+      {
+        "title": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs - CBC",
+        "desc": "Senior Democratic congressman says party 'going to put an end' to Trump's tariffs&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2pTTndHcUU0OU81NkZYWWhOTW4zN3UxMlBsd2RtTHVfUGU2Q3c3Wk9oakUyVlE0NHlvSDl1V2JwWnlCRXVKZjZ6OWJmZHBjRUJBUXJmZVoxQUZwSVFIX3hsOGpEb09hRTlObTkxTVllUDJHVVdSRU5XVjl1dzV2aS0xa3BGRjV6aDhZckhFaTJfZw?oc=5",
+        "pubTime": "2026-11-05 06:21",
+        "source": "news.google.com",
+        "titleZh": "民主黨資深國會議員表示，該黨「將終結」川普的關稅政策——CBC",
+        "descZh": "民主黨資深國會議員表示，該黨「將終結」川普的關稅政策&nbsp;&nbsp;CBC"
+      },
+      {
+        "title": "US midterms: Democrats' victory puts Trump's China diplomacy to the test - CNA",
+        "desc": "US midterms: Democrats' victory puts Trump's China diplomacy to the test&nbsp;&nbsp;CNA",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0NnZ3NUUWNWSXFkQURfNWdHUENqZ3hiWUNBOWdxdTFNMmdNRzJOajhTVkJFVEtZLW81SkVBTFNQajRjbWRjeFkydldrTjdpOWtZT3Y1d0xxVTVZR0lEM3l0Q1E1R2k2WGtyaGl5WGNwOTlrTUVGR2xrcFE4eWVkbmo2cXYta25fYi1vbXJyOWRMZnlWNUE?oc=5",
+        "pubTime": "2026-11-05 06:00",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉：民主黨勝選將考驗川普的對華外交政策——CNA",
+        "descZh": "美國中期選舉：民主黨勝選將對川普的對華外交構成考驗&nbsp;&nbsp;CNA"
+      },
+      {
+        "title": "Anthony Zurcher: Midterm carnage weakens Trump but he still wields power for now",
+        "desc": "Trump has given conflicting messages about how he might deal with Democrats in Congress after his party's resounding defeat.",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdg093e589o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-05 04:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "安東尼·祖切爾：中期選舉的慘敗削弱了川普的勢力，但他目前仍掌握著權力",
+        "descZh": "在共和黨遭遇慘敗後，川普對於如何應對國會中的民主黨人，釋出了相互矛盾的訊息。"
+      },
+      {
+        "title": "Democrats prepare to challenge Trump’s tariff agenda - Muslim Network TV",
+        "desc": "Democrats prepare to challenge Trump’s tariff agenda&nbsp;&nbsp;Muslim Network TV",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXo3U3FBc3hKeXJxUmstVFlrcjJfeXktRWhnbE45cmJuUnV3NDJONGNFWGE2OUJrM0I2cVZOXzhDWlN1N0lSQVBybHZjUGhRTnhLb1pIM21oVzh5N1NaQi1obXpYLXVKS0c4aGg4NzBaSWVfNUtMWDZjVXF0T01LdUhZZWhoN0Jj?oc=5",
+        "pubTime": "2026-11-05 03:55",
+        "source": "news.google.com",
+        "titleZh": "民主黨人準備挑戰川普的關稅政策 - 穆斯林電視網",
+        "descZh": "民主黨人準備挑戰川普的關稅政策&nbsp;&nbsp;穆斯林電視網"
+      },
+      {
+        "title": "Democrats 'got their wish': Voters react to midterm results",
+        "desc": "People in the US react after the Democrats won the Senate and the House, taking control of Congress for the rest of Donald Trump's presidency.",
+        "url": "https://www.bbc.co.uk/news/videos/cqe8le668e13o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-05 03:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "民主黨「如願以償」：選民對中期選舉結果的反應",
+        "descZh": "在民主黨贏得參議院和眾議院席次、並在唐納德·川普餘下的總統任期內掌控國會後，美國民眾紛紛作出反應。"
+      },
+      {
+        "title": "Debt Limit, Tariffs Top List of Likely Deals in Trump’s New Era - Bloomberg.com",
+        "desc": "Debt Limit, Tariffs Top List of Likely Deals in Trump’s New Era&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh1bE9OcW9Db0prLTY1Ykpsb1plR3Z5WVZlakFSUEZKZGV2THJURUJWQWdxLVZ5MWtRV2tmVFc5ekpaNk5DQWlLODRjdEs5dTVrVWR5M1d5dFUxX2l2QUU1SjY4eU52ZDVkLVZHWlNwcVo0SWhkNDFaRU00UlJoalprZXlYV1JIOGpqSk5vOHdRVHgtYWt0NEE5RXV6d1RnQ3VEbHF0UEdhLTdBbjJNOXhvZw?oc=5",
+        "pubTime": "2026-11-05 02:45",
+        "source": "news.google.com",
+        "titleZh": "債務上限與關稅位居川普新時代可能達成協議的首位 - Bloomberg.com",
+        "descZh": "債務上限、關稅位居川普新時代可能達成的協議榜首&nbsp;&nbsp;Bloomberg.com"
+      },
+      {
+        "title": "Trump's midterm drubbing could give trade partners room to resist - Reuters",
+        "desc": "Trump's midterm drubbing could give trade partners room to resist&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1l2eFV1eVp6bE01NW40RDUtcmU2REdDOUZDRU5JSmdDN0MtNElwaUZXQ3VVUUVqV0tuSFZNb3RaeTBNd2JXanAyRlJ6UUU0S1pPMVdzYjV6OUpyRW1yc1hST1o4SFozN0JZYzU4dldLSXNkc05VeUwyV0E5TXotUC1lYXhEN2FtaTBXN3hOdHR2T1FaSE1Kc2ZHdnExcFZuWUpxVWwxQQ?oc=5",
+        "pubTime": "2026-11-05 02:36",
+        "source": "news.google.com",
+        "titleZh": "川普在中期選舉慘敗，可能讓貿易夥伴有餘地加以抵制——路透社",
+        "descZh": "川普在中期選舉慘敗，可能讓貿易夥伴有餘地加以抵制&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Trump's loss limits powers at home, but it will likely be different abroad",
+        "desc": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+        "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-05 02:35",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普的敗選限制了他在國內的權力，但在國外的情況可能有所不同",
+        "descZh": "BBC國際新聞編輯撰文指出，在期中選舉慘敗後，川普總統將希望展現他仍能撼動世界。"
+      },
+      {
+        "title": "Trump’s Midterm Loss Leaves Canada to Weigh a Trade Deal or Wait - Bloomberg.com",
+        "desc": "Trump’s Midterm Loss Leaves Canada to Weigh a Trade Deal or Wait&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN2xqUFZIaDUwR3ZyQlZDWjVNSmw4TlNxUzB0QXhFOW5abEVZNjVXcEJmUFhpb1lsS0tJaUtsYUZfS2ZaTGxEQnh4bXRzNndwZFBvMVNvdE1zcVlpc3dKRWQ5d2x5LTFkRWhQMDBuQmJzUU1aQ0haTzlyRTFIc2ExdURjeWs5dnNJZWpCTjRMOWxSZEFuYUFmRnlrUXZwVjF1eUowaWV1R2FGamJfa0NPQU5LZTU3WGlQQlRBM243VDBHZw?oc=5",
+        "pubTime": "2026-11-05 02:27",
+        "source": "news.google.com",
+        "titleZh": "川普在中期選舉失利，加拿大面臨「簽署貿易協定」或「觀望」的抉擇 - Bloomberg.com",
+        "descZh": "川普在中期選舉失利，加拿大面臨「簽署貿易協定」或「觀望」的抉擇&nbsp;&nbsp;Bloomberg.com"
+      },
+      {
+        "title": "U.S. Midterms: Trump's Next Trade War Could Be With Congress - Foreign Policy",
+        "desc": "U.S. Midterms: Trump's Next Trade War Could Be With Congress&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1o5Y1g4b1BRdXBxbUF2dEdpZ3Y1bGtEeXdXVmNHcTZUM3hMN3dQM1pWNzN4MW5CeHJ2aTl2Q1F0amw4UDd6cmpFX0F5RzZ2V01aS09fVlZhUTlUTzlYWWxPTmd2M080OW5sT0lFQmxTV0s4d29Pem83MU5EVlNwVWJXczhFMzA4SGphak5BXzZMd28?oc=5",
+        "pubTime": "2026-11-05 02:07",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉：川普的下一場貿易戰可能對上國會——《外交政策》",
+        "descZh": "美國中期選舉：川普的下一場貿易戰可能對上國會&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "What Democrats can and can't do with their new power after taking Congress",
+        "desc": "Democrats can vote legislation through. But Trump still has veto power.",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-05 02:01",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "民主黨在奪回國會控制權後，憑藉新獲得的權力能做什麼、不能做什麼",
+        "descZh": "民主黨人可以推動法案通過。但川普仍握有否決權。"
+      },
+      {
+        "title": "Global trade proves stronger than Trump's tariff war - Bangkok Post",
+        "desc": "Global trade proves stronger than Trump's tariff war&nbsp;&nbsp;Bangkok Post",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2VKRGV0WHlUd2p1akhfT2Fud09tcHl0b3lmTkJ5d1ZSM0lUTFpLTTFxX0syOVhUc21zSHVDZlhBcnZvQmJSQU45ZHljSzZmb0dlSGJYMW1zQmJSSWJ0VE5EY1hxaTIxbmdYdWcwaldtb1RfUEFyU2IzTWF4VjVNRGNaZG56M2tieWR2Uk9sdTZJbkM1bDVuRk5YZHFudnZxUERUUUVn?oc=5",
+        "pubTime": "2026-11-05 02:00",
+        "source": "news.google.com",
+        "titleZh": "全球貿易展現出比川普的關稅戰更強韌的韌性——《曼谷郵報》",
+        "descZh": "全球貿易展現出比川普的關稅戰更強韌的韌性&nbsp;&nbsp;《曼谷郵報》"
+      },
+      {
+        "title": "Trade deficit narrows slightly in September: Trump's tariff policy starts to show signs of adjustment - voz.us",
+        "desc": "Trade deficit narrows slightly in September: Trump's tariff policy starts to show signs of adjustment&nbsp;&nbsp;voz.us",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0xqUlBwdUdhUUI2QW82M1F0bko2NW80RUlpMDNlVFBneEN0cE1fQU5mMUtXMjU3NW1PXzNGRWluTS1VUy04T1dUMHhLeWxMWHJxdm8wLU5uemx6bXVaa1dqTkRKdmFISlFuVGN2U25ZWjZxcGtLRTNpSkVjV1A5MWMzZ3dGeF95S0VWLWp4WlIzOU50aWVZaU1qem9UbXZMSWxjVjVXYWE1RG9GamFfLUp3TE1vMFpyQmh5cGhBd2ZBSEFndnR1NzdyOFhMOWFWeGc?oc=5",
+        "pubTime": "2026-11-05 01:04",
+        "source": "news.google.com",
+        "titleZh": "9月貿易逆差略有收窄：川普的關稅政策開始顯現調整跡象 - voz.us",
+        "descZh": "9月貿易逆差略有收窄：川普的關稅政策開始顯現調整跡象&nbsp;&nbsp;voz.us"
+      },
+      {
+        "title": "Democratic Sweep Puts Trump’s Maritime Agenda in Question - gCaptain",
+        "desc": "Democratic Sweep Puts Trump’s Maritime Agenda in Question&nbsp;&nbsp;gCaptain",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNm5UbDVLUnliQVphMnVJdjRKUXl5ekVLSlpiM1hLOG9zV0lrbk5CQnlmZnFNRFBJUlFVejZONEZnS2JYLTlxUnd3M0otMFoxR3RQUW9veGdEdDE5aFA0ampNQWNRTjgyVjZlTzV6TllrWWdwV2NnLVlMenBucmRWMnB0ZVk?oc=5",
+        "pubTime": "2026-11-05 00:41",
+        "source": "news.google.com",
+        "titleZh": "民主黨大獲全勝，使川普的海事議程面臨質疑 - gCaptain",
+        "descZh": "民主黨大獲全勝，使川普的海事議程面臨質疑&nbsp;&nbsp;gCaptain"
+      },
+      {
+        "title": "From Iran to India: How Trump's midterm loss could affect America's foreign policy - The Times of India",
+        "desc": "From Iran to India: How Trump's midterm loss could affect America's foreign policy&nbsp;&nbsp;The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLUdpc3k1RDBsYlp5SDFoN2p0bEdHVW91dmxPMG9rQ29fWjZaRklUS2RXVHNaTS14NU5aUHF4NlMwTjlEQ1NhVVpRU19fcGQwdzhmTlM5YzJpVGhHbWdrZDk5d2M4Mjh5M1VKNXpveHk0SGhob25zek1WWFFOTDMtYjVybjVjWmVTREFCTU0yTm9uQVJBTWlRWERkVnJYUjk0OU9OaXE5S0hQOGdyRG04RE1iVHlqbi1temhJQ0pCQTlocnVxZjQ4MXB3aFNiZl91V2h3ZlZIZFBGTnA2UnpWNUczQzLSAeoBQVVfeXFMTjNDUjFZVmdpd2ZETUdXUWhidWFWZ0Z6U2txVVFwZkxpN2lCTTNEcDFpRWpUdkM0eFVxTVFxdVY2eXQ1M2xEbFRrcEI3MEFQQVBiQnZaSjJ2WHJpa1gwSWhOcnY0V2dqZUJpR1JTTTItcWJQNzF6cXRUTHphTXJ0UXBmRDJYZXpPYmxxMl9KdUVBMEhiTFhMMUtBMVFWRmlmbVlnTWdtRVRxZXcwUzdZaHhQb29FbDlQU0REX2R2ajEwM1lGUmtyTW5JWWVoTExyY3E0MHNhRVR0Y1libEpZN3FQbDhtejBnaC1n?oc=5",
+        "pubTime": "2026-11-04 21:57",
+        "source": "news.google.com",
+        "titleZh": "從伊朗到印度：川普在中期選舉失利可能如何影響美國外交政策——《印度時報》",
+        "descZh": "從伊朗到印度：川普在中期選舉失利可能如何影響美國外交政策&nbsp;&nbsp;《印度時報》"
+      },
+      {
+        "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+        "desc": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-04 21:33",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「這簡直是一場災難」：憤怒的共和黨人將中期選舉敗選歸咎於川普",
+        "descZh": "部分共和黨人向英國廣播公司（BBC）表示，總統過於關注自己的歷史地位，卻對選民的關切漠不關心，這讓他們付出了代價。"
+      },
+      {
+        "title": "ELECTION REJECTION: What a U.S. Trump “Rejection” Could Mean for Canada–U.S. Trade Negotiations - EnergyNow",
+        "desc": "ELECTION REJECTION: What a U.S. Trump “Rejection” Could Mean for Canada–U.S. Trade Negotiations&nbsp;&nbsp;EnergyNow",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmQwaVI5NWpFbTVLWTc4ZG81YVE0clpONS1NM1VTT0FMREdUVVpkWml1c2t1ZU5fdm9KMmljcU9IX2FCOTFvTDg4S1ptLUFxdmtodDdsN0hyMFdmdlN4RFM4TFVIM2hfcEhtQXJ6dno1OXBEbjBpYmQtRjNXN080WkFjTlBHVW4wMWljd0FSX0FQSXFPVzBxZzdIcGNPcTlYbnlwWVR6SWpoUzJpaVdwTlM0NW9SV1YzR25ESw?oc=5",
+        "pubTime": "2026-11-04 20:59",
+        "source": "news.google.com",
+        "titleZh": "選舉結果遭否決：若美國「否決」川普當選，將對加美貿易談判產生何種影響？——EnergyNow",
+        "descZh": "選舉結果遭否決：若美國「否決」川普當選，將對加美貿易談判產生何種影響？——EnergyNow"
+      },
+      {
+        "title": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say - Reuters",
+        "desc": "US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFREOVI1am9RMmxtb1dOZTc2dFNqaDZLMENlSFQwZEg3SWthaFdPVVV3QXEyMjlKTE5zZHI3Nk1RclhjZWt3SmZuQjNyMVM3c2RLZFo4Z0JEOEZCdXNPZFBPLVpCZnlmUkFBNWE5Zk0zcWFyTTNBZHlMR1FtaFFRVnNXWS04LTlocmtSTEFscG9GTlh6aGd3SC0tVHRmSWtYdnhKWnRqVmNHa0NhaEhkTENiRnJEaWJOREtuOEN1dVRrQQ?oc=5",
+        "pubTime": "2026-11-04 20:56",
+        "source": "news.google.com",
+        "titleZh": "高管表示，美國民主黨勝選短期內恐難緩解企業的成本與關稅困境——路透社",
+        "descZh": "企業高管表示，美國民主黨勝選短期內恐難緩解企業的成本與關稅困境&nbsp;&nbsp;路透社"
+      }
+    ]
+  },
+  {
     "date": "20261105",
     "fetchTime": "2026-11-05 08:56",
     "count": 40,
@@ -3286,76 +3653,6 @@
         "source": "news.google.com",
         "titleZh": "儘管川普實施關稅，美國貿易逆差仍創下17個月來新高——《紐約時報》",
         "descZh": "儘管川普實施關稅，美國貿易逆差仍創下17個月來新高&nbsp;&nbsp;《紐約時報》"
-      }
-    ]
-  },
-  {
-    "date": "20261007",
-    "fetchTime": "2026-10-07 07:54",
-    "count": 7,
-    "articles": [
-      {
-        "title": "Before the Midterms: What Americans Think About Trade and Tariffs - Council on Foreign Relations (CFR)",
-        "desc": "Before the Midterms: What Americans Think About Trade and Tariffs&nbsp;&nbsp;Council on Foreign Relations (CFR)",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlktX1ljNjdYTXJlc2JHWlEyYmM0LVZvcEdIUUpoTk40Njh6dWZTZzhHTmxabm8tSWRDRGlqbkUyeF9xUGtEZWtnOFgyOHNkZ1Vyd0lnQlBUMFVTcm5tTHdwcGRzS1RlMkZtU2ZyZWJkZ0hyQW40V2xKQVMzVmVWc3FrSDNxWTFSeGdRUEtPMGRVSFdGSWdZOQ?oc=5",
-        "pubTime": "2026-10-07 04:52",
-        "source": "news.google.com",
-        "titleZh": "中期選舉前：美國人對貿易與關稅的看法——外交關係協會（CFR）",
-        "descZh": "中期選舉前：美國人對貿易與關稅的看法&nbsp;&nbsp;外交關係協會（CFR）"
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "desc": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-07 04:15",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "白宮為川普「讓伊朗『摧毀』洛杉磯和聖地牙哥」的言論辯護",
-        "descZh": "加文·紐森稱這些言論「瘋狂」，但白宮表示，川普是在警告伊朗擁有核武的風險。"
-      },
-      {
-        "title": "A separatist party just won power in Quebec - what does that mean?",
-        "desc": "Canada's Parti Québécois has promised it will hold the province's third vote on independence, but said they won’t do so until Donald Trump is out of office.",
-        "url": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-07 02:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "魁北克一個分離主義政黨剛剛贏得執政權——這意味著什麼？",
-        "descZh": "加拿大魁北克黨承諾將舉行該省第三次獨立公投，但表示在唐納德·川普卸任之前不會這麼做。"
-      },
-      {
-        "title": "What are the US midterms? A simple guide",
-        "desc": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-06 07:40",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "什麼是美國中期選舉？一份簡單指南",
-        "descZh": "美國選民將於11月3日前往投票站投票，此次投票結果可能對唐納德·川普的總統任期產生重大影響。"
-      },
-      {
-        "title": "Trump: US 'had a threat' that led to withdrawal of bombers at RAF Fairford",
-        "desc": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America.",
-        "url": "https://www.bbc.co.uk/news/videos/c3vgxwg081yqo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-06 04:16",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普：美國「曾面臨威脅」，導致駐英國皇家空軍費爾福德基地的轟炸機撤離",
-        "descZh": "五角大廈週日證實，已將其轟炸機——據信約有十餘架 B-1 轟炸機——從該基地撤回美國境內的駐地。"
-      },
-      {
-        "title": "Days after Xi-Trump summit, top Taiwan diplomat opens de facto consulate in US - South China Morning Post",
-        "desc": "Days after Xi-Trump summit, top Taiwan diplomat opens de facto consulate in US&nbsp;&nbsp;South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPelJwQ00zakotM1NnLS1VYmtPWHRqT2FHenlnMjc3RWZMLUhCWW4wc1AwMEJfR0R1dXR3TkRjd0NsaDJTWklscl9EcjdSMEJ4bFNyT0VCNHdoYmQ2STBnNXc2ekZVOXlseWdXWUlnMkd1OVRIeG9hZ3d1b0FmVXBuM0NpQkNVYVRmTC1sMDBDQzlWMGFYUDIwQ2lYUzNHZ0tOUmlNMjQ2WFkwdjlhSmE3bllNX0YyWWZUTFNmeVFFcE5tX1M5OGJFRlRxMDXSAcwBQVVfeXFMT2stOGNTcTJVOUpQQ3JIdDhEYjJvVnA2Nnl2UHo2Z1lucHFqaEU1UFRfbDRwRU85UHgybDJrbXJYWDhlR281RlFDcmhONEpnaG1fa3NiR19jUzBCWHA2UFIySzVPc2kwaU9JSDJjdlJnUjRFYl9ZU25HdFhvUjQ2a20yTHVMQTJFbU1JX2FDTm8xcVlqUkU3NW1JT1BFLTREeHpFajJHU2h0emh5OUVmdFpTdF8yTmpKR2FBc1d3UWhPbzVRaUFBTnBYUGZi?oc=5",
-        "pubTime": "2026-10-05 15:13",
-        "source": "news.google.com",
-        "titleZh": "習近平與川普峰會數日後，台灣外交高層在美國開設實質上的領事館——《南華早報》",
-        "descZh": "習近平與川普峰會數日後，台灣外交高層在美國開設實質上的領事館&nbsp;&nbsp;《南華早報》"
-      },
-      {
-        "title": "How Trump’s new Greenland deal locks China out - ThinkChina",
-        "desc": "How Trump’s new Greenland deal locks China out&nbsp;&nbsp;ThinkChina",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWZ0TlltcUNwbndJeXVnMW1XY3dlRkVpY2JGVlA2V0doYVVTcG1hUV9YTTN6UDcwTG1KNEExN0hzSnRIYWxhb1dJalJCRktrUUV1M1A4ZWhQVGJjdVhxdlJENDk0a3R4RzJ0MTBxZGdTY0UyNUZLTlJFSXVZVG5HM04xbTV1bE0?oc=5",
-        "pubTime": "2026-10-05 14:59",
-        "source": "news.google.com",
-        "titleZh": "川普的格陵蘭新協議如何將中國排除在外 — ThinkChina",
-        "descZh": "川普的新格陵蘭協議如何將中國排除在外&nbsp;&nbsp;ThinkChina"
       }
     ]
   }
