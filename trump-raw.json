@@ -1,5 +1,282 @@
 [
   {
+    "date": "20261108",
+    "fetchTime": "2026-11-08 07:43",
+    "count": 30,
+    "articles": [
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "desc": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-08 06:29",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「達娜，拜託你接受這份工作吧！」——川普邀請UFC總裁出任白宮新聞秘書",
+        "descZh": "英國廣播公司（BBC）已向白宮及UFC詢問，總統的這份工作邀約是否屬實。"
+      },
+      {
+        "title": "Rebuilding US foreign policy after Trump - The Hill",
+        "desc": "Rebuilding US foreign policy after Trump&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMEhLanRvYzQ5bUdPNldWcGg5TEZuNDItXzJxOTJoOVhSRkxqRnpOVmZWeFM5TU9wc3lNSmlpX0s3YS1tVVR5T3JLLTBWd21zdE1tNmNBU01LWm5HbkN4dVlwbmxmWnIwcGxmZUVSWkw5NXRxVWdpcmhabFdyZTY0c1JhZ0JQSXp3SWfSAY8BQVVfeXFMTnN2VDduQnN3TkgyTWFOcmVZNWxaeVlNR0xCYUR5MmxFUjVIVkJ0b0J4RjdCYU83V3BJNERuWXJQNDlBX0taZ1R0cTNyRU1ycVpvYjlXb2hQZ04tc1VTRVZuRXAyejN2UXptVDNadkR1MUhxRTJJUDVnc0habG1sYzFvT0xPY203SmkxWGx6QlE?oc=5",
+        "pubTime": "2026-11-08 04:00",
+        "source": "news.google.com",
+        "titleZh": "特朗普時代過後，美國外交政策的重建——《The Hill》",
+        "descZh": "川普時代過後，美國外交政策的重建&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "America’s midterm earthquake: Will Trump’s foreign policy face a Democratic roadblock? - BLiTZ - Fears None But God",
+        "desc": "America’s midterm earthquake: Will Trump’s foreign policy face a Democratic roadblock?&nbsp;&nbsp;BLiTZ - Fears None But God",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbHNOcjlaNWVSeUVlSEJLcENsUWRTY0k5MmhPOGl1RmprQUlabGtNdXJQb3BkaWdYc2ZQclhMT0NoMFBWQnBQV1NxdWxIcF9pTm5GQXpQZTBwbGh2b1dES3k3UV9DNzlxMll3XzQ5UEo2WTlVVmplcjhsZDNuMFAtVkU1ZWV2SnlfYVIxMmsyajE5SUZYdGZMYjlSTjJYZWdzbnJCSWZTQktKRHR6NVRSbkIyVkF2ejF2b3c?oc=5",
+        "pubTime": "2026-11-08 02:20",
+        "source": "news.google.com",
+        "titleZh": "美國中期選舉的「地震」：川普的外交政策會遭遇民主黨的阻撓嗎？ - BLiTZ - 唯獨敬畏上帝",
+        "descZh": "美國中期選舉的「地震」：川普的外交政策會遭遇民主黨的阻撓嗎？&nbsp;&nbsp;BLiTZ - 唯獨敬畏上帝"
+      },
+      {
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "desc": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-08 02:14",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國懸賞2,000萬美元，徵求有關伊朗核計畫的線索",
+        "descZh": "唐納德·川普一再提及可能再次對伊朗核設施發動空襲的可能性。"
+      },
+      {
+        "title": "US lawmakers vow to reverse Trump's tariffs - The Financial Express",
+        "desc": "US lawmakers vow to reverse Trump's tariffs&nbsp;&nbsp;The Financial Express",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1hLcU5kMzRDZzA3UlRDRUNCV2dVeTE5LXc1T1E0eTRHMjNKYmZBVEtlbWxRZFhWcWVTYmNRVnpHcllzOTZ3eUxETnFOMFY2ZUtqNnhlUHZ3QzY2RWxXX2JSMC12X21JQmtIZzNuWUM4WjVnR2RCaHUwQTdTYjhhS0F0WUo2dHdKczJDX1lFX3pvNzI3ZUln?oc=5",
+        "pubTime": "2026-11-07 20:51",
+        "source": "news.google.com",
+        "titleZh": "美國國會議員誓言推翻川普的關稅政策——《金融快報》",
+        "descZh": "美國議員誓言推翻川普的關稅政策&nbsp;&nbsp;《金融快報》"
+      },
+      {
+        "title": "Four things we learned this week about 2028 White House race",
+        "desc": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-07 20:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "本週關於2028年白宮選戰的四大發現",
+        "descZh": "民主黨在國會取得的壓倒性勝利可能會影響總統大選的走向，那麼，誰在這一晚表現亮眼？誰又在暗中布局呢？"
+      },
+      {
+        "title": "Trump’s war secretary Pete Hegseth and Admiral Paparo may ‘soon visit China’ - South China Morning Post",
+        "desc": "Trump’s war secretary Pete Hegseth and Admiral Paparo may ‘soon visit China’&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0xfX2J3NHZhSXlJSlZyUm1yRElOLXMydmVfQ0djR083M1NfSzhUTDQxOVZlQUg2TVV0SEswb2QzUEN2bTBvNldhTnZORlBQc0t1cGhhU0xnc2U3cE4ydU5qRDB6UmN4WmVzcERwTGpwNm9UekJIQWtQS2NFSXdSSGo2eE1POEU4d0dpemZjYWlwRXJJRm11THU4cm9Gcl8zQkRodzlOdTE0YlJEVkdyZUlaQS1fcVRSVGU3TFk1b1FtTS00SWF6SVJIeXRLOExDT3A2YzV30gHWAUFVX3lxTE5STklyNUxNdElwVE5XX2t6Vm0tNjI4b295Y1lyZW5kMmt4MkhRRUFjNzhsYS1ncDJVbHNtM3JfSEhab3dVVF9FaXpXS1JaQ2wtX2lvdXU4YW1GZEs4Mlg5UXhFWkNwOGRtMGFrMW5kS1Z5ZmV5VHBMNjlGZ1Nnb2tXWjFpdFljSkVtYUlHeFRaX3NMSVlLU2lVMXdDZWlvSV9QaHV4ZlRudjdLTGtNVWxyalcwSVdNZ2t2NS0tWXVpMEZROFpqQ282MDRvc1lYU3ZSMndQMWc?oc=5",
+        "pubTime": "2026-11-07 19:06",
+        "source": "news.google.com",
+        "titleZh": "川普的「戰爭部長」皮特·赫格塞斯與帕帕羅海軍上將可能「即將訪問中國」——《南華早報》",
+        "descZh": "川普的「戰爭部長」皮特·赫格塞斯與帕帕羅海軍上將可能「即將訪問中國」&nbsp;&nbsp;《南華早報》"
+      },
+      {
+        "title": "Democrats could target Trump tariffs after midterm sweep with some GOP aid - Washington Examiner",
+        "desc": "Democrats could target Trump tariffs after midterm sweep with some GOP aid&nbsp;&nbsp;Washington Examiner",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLVhydEZjQ3ZsSW1yUnlGX2k5SXlSVEN5OElESV9Yd2h4VmZyV09SSkdhZURyOVdLY05FT3UzU01sYm1sa19ybDVNMGtUOUR6ZVRKQlNPa2UxWEhBbzMtN0hBMzVpUjlJb3l3RHV4Zk84bU9ZdElVWlZVUzhvSnBqemVKRHRpMWdfVWhyM0ZjRmhvaTVadlJiLTZoQmNrTWdLYXZmd25wM0s4XzRXdGRIMnJoVUhXWS1pbE1HYW10TV9kS2c5ZE4wTExaUVBGSW54STE2OWRRXzR1eUZURm1aOVhwX3Y?oc=5",
+        "pubTime": "2026-11-07 18:48",
+        "source": "news.google.com",
+        "titleZh": "民主黨可能在中期選舉大獲全勝後，在部分共和黨人的協助下，針對川普的關稅措施採取行動——《華盛頓審查報》",
+        "descZh": "民主黨可能在中期選舉大勝後，在部分共和黨人的協助下，針對川普的關稅措施採取行動&nbsp;&nbsp;《華盛頓審查報》"
+      },
+      {
+        "title": "Democrats target Trump tariffs after midterm victory, but can they actually roll them back? - The Financial Express",
+        "desc": "Democrats target Trump tariffs after midterm victory, but can they actually roll them back?&nbsp;&nbsp;The Financial Express",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemxrcVFmU0IwQ18zSy04QTV6VXZrbS1OMWcwNmNfWFBLUG9xVEFrM2R2dmpRUmlGVmI4Vno1akQ5M3dJcEdoOGFzb24yT24wSUoyNmIwaTgxVGxxVDh6dUhKSmJKZjlFcVBZeHhyU2hBS1BualVDcnI5RHNLQXczYjNWN20wMjhDMDBxbE1hdmRRY3pzX2pXaldvNXZiaUVMTkRqdmpCeUtTV2xyVmZKaUFSelNEVGxpcUE5Mi1VZnBLWGhTQU5ZQU4wbWc5T3dPc0FSSjFUZU9zd9IB4AFBVV95cUxQTDRJRjlORUJ1V2RZT2RWZ1lzcEZnSU4zUU9LWXJscEtCM3FKYm9sdFNjSzNQZ3pZdy1qLUhiaUJzODQ2dFBrQ0lBaXBMQ1JrV2Y0YS1kdnROeGtjajdpWHQ4c3plempGdFhTREJDVDVaYU1uMzctWWFJNFI5bFBlakhNVnhaM0U0RE5LSUNWS1ktRjNMbXBFa01DNm02OXlCbUwtLUM3ank4WElDT1pYeHB0YzBJZHl0SGdmdW9fdi0xRTJEcnYzSXEzZWstMzltVkxzTWwteW9XN3lWaE9Paw?oc=5",
+        "pubTime": "2026-11-07 15:08",
+        "source": "news.google.com",
+        "titleZh": "民主黨在中期選舉勝選後將矛頭指向川普的關稅政策，但他們真的能撤銷這些關稅嗎？——《金融快報》",
+        "descZh": "民主黨在中期選舉勝選後將矛頭指向川普的關稅政策，但他們真的能撤銷這些關稅嗎？&nbsp;&nbsp;《金融快報》"
+      },
+      {
+        "title": "CHINA THREATENS RETALIATION AFTER TRUMP ADMINISTRATION SANCTIONS TWO CHINESE COMPANIES OVER ALLEGED MILITARY SUPPLIES TO CUBA - OGM News NG - Digging Deep for Verifiable Truth",
+        "desc": "CHINA THREATENS RETALIATION AFTER TRUMP ADMINISTRATION SANCTIONS TWO CHINESE COMPANIES OVER ALLEGED MILITARY SUPPLIES TO CUBA&nbsp;&nbsp;OGM News NG - Digging Deep for Verifiable Truth",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTVtRkxwbjlwd29VNDBxOWRQLUhWeVpNWDY1c0ZtSFR3RFItUUU2Y0kxVTlHY3Fva01taTk0RTB0a0dxSzZwS2dUSDFOeDBKNW9WYmhQUHRYaEFuSXRlNlpZV1c4T1NBYlFsUl9vTjFQYnAwNVpoUWU0Zm9lRFVJZw?oc=5",
+        "pubTime": "2026-11-07 15:02",
+        "source": "news.google.com",
+        "titleZh": "特朗普政府以涉嫌向古巴供應軍火為由對兩家中國企業實施制裁後，中國威脅將採取報復措施——OGM News NG——深入挖掘可驗證的真相",
+        "descZh": "特朗普政府以涉嫌向古巴供應軍火為由對兩家中國企業實施制裁後，中國威脅將採取報復措施&nbsp;&nbsp;OGM News NG —— 深入挖掘可驗證的真相"
+      },
+      {
+        "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion - The Guardian",
+        "desc": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
+        "pubTime": "2026-11-07 14:42",
+        "source": "news.google.com",
+        "titleZh": "烏克蘭戰爭簡報：《衛報》——北京證實正在商討歷史性的習近平、川普與普丁三方會晤",
+        "descZh": "烏克蘭戰爭簡報：《衛報》：北京證實正在商討史無前例的習近平、川普與普丁三方會晤"
+      },
+      {
+        "title": "China confirms discussions are underway on a historic Xi-Trump-Putin meeting - NBC News",
+        "desc": "China confirms discussions are underway on a historic Xi-Trump-Putin meeting&nbsp;&nbsp;NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjZpbkQ0NG5ZSk55anFubXEwenJmOVdiTWxpeDRVbGV2WkVFVDZhLUV4S3FXWm90Sk1UQ1NnUkVNc2tpcjJjdERyVTZKeHhwd2dyN2taSTRRZk53c2xMT0tlaG9RYkZXWFBmekpsMWhTbDdxeERrVnV6NVl2MlNqMW9femROUDVyMDhWeHBtWl9LQm43bzdGOWlMMTFFQ2lHSEt6ZUVzaURqMTRvclZLZXdKcmFXYnQ5?oc=5",
+        "pubTime": "2026-11-07 07:53",
+        "source": "news.google.com",
+        "titleZh": "中國證實，關於一場具有歷史意義的習近平、川普與普丁三方會晤的討論正在進行中——NBC新聞",
+        "descZh": "中國證實，關於一場具有歷史意義的習近平、川普與普丁三方會晤的討論正在進行中&nbsp;&nbsp;NBC新聞"
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "desc": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-07 07:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "隨著史蒂芬·米勒的任命，川普正為一場戰役做準備",
+        "descZh": "美國總統提拔米勒——這位忠誠且激進的黨派人士——擔任其新任幕僚長，此舉勢必將引發與國會之間的衝突。"
+      },
+      {
+        "title": "Top US House Democrat on trade issues committed to reversing 'unjustified' tariffs - Reuters",
+        "desc": "Top US House Democrat on trade issues committed to reversing 'unjustified' tariffs&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXNkS0ZtWVFhNnE4MDNEU3NnaVJUbW5pbHRUUENOWC1zUDdCZEt1S252bElIZ29nMENqUGxjd0pvdmZ4UGxnVFI3eFBxdF9PQUt6bXFRQ2otaUd4R2xKY3VxODdzNjFOVDVfZG41Yy1fQVVEelZna3RvdlNWaTlpQ0E3WENNbTR1dk9xLUxiajJfc3p0cUQtWkpKQWZGQ05SQVR2S0xFVVF6bXF5LWZOSzc3TWp5c2c5NTB3NTAwU1dqdV9FR1E?oc=5",
+        "pubTime": "2026-11-07 05:37",
+        "source": "news.google.com",
+        "titleZh": "美國眾議院貿易事務首席民主黨議員致力於撤銷「不合理的」關稅——路透社",
+        "descZh": "美國眾議院負責貿易事務的首席民主黨議員致力於撤銷「不合理」的關稅&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
+        "pubTime": "2026-11-07 04:51",
+        "source": "news.google.com",
+        "titleZh": "卡尼歡迎民主黨在中期選舉勝選後推動終止川普對加拿大實施的關稅 —— ABC新聞 —— 突發新聞、最新新聞與影片",
+        "descZh": "卡尼歡迎民主黨在中期選舉勝選後推動終止川普對加拿大實施的關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "How Democrats Could Impact Trump’s Tariffs In Congress (And Possibly Undo Them) - Forbes",
+        "desc": "How Democrats Could Impact Trump’s Tariffs In Congress (And Possibly Undo Them)&nbsp;&nbsp;Forbes",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT2J0QmxmVnk1dHhUNS1OM3ptV1BhbjRHRWdqckdlbjZHREJEWG5JNW9FMlJWdW90Qzk2aGVIbzRaQjBRNFU1b3RQY29jek5ZRWp2cWpra094SURpamNvNW1SQ2ttZlVHZXRWb0tCTHpVcXJzamxyTEdKZEkxaVVIQWNwXy0ySkt5M0NCVU5TcmFMM3gxUHR5cjRZVlRvZWFwc0V0NGJyX2w4VmFKM2VhaHotS3NyczFpLWVRNWlJemRLVmd2T2FOeGY1QVByc3ZqS05QSmVCa2pYaUJiQVFDVV9B?oc=5",
+        "pubTime": "2026-11-07 04:34",
+        "source": "news.google.com",
+        "titleZh": "民主黨人如何在國會影響川普的關稅政策（甚至可能推翻這些關稅）——《富比士》",
+        "descZh": "民主黨人如何在國會影響川普的關稅政策（甚至可能推翻這些關稅）&nbsp;&nbsp;《富比士》"
+      },
+      {
+        "title": "Trump names Stephen Miller as new White House chief of staff",
+        "desc": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-07 04:11",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普任命史蒂芬·米勒為新任白宮幕僚長",
+        "descZh": "米勒被視為川普強硬移民政策的幕後推手，將於週一正式接任該職位。"
+      },
+      {
+        "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
+        "desc": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs?&nbsp;&nbsp;Carnegie Endowment for International Peace",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
+        "pubTime": "2026-11-07 02:10",
+        "source": "news.google.com",
+        "titleZh": "中期選舉慘敗後，川普能否在不放棄關稅的情況下改變方針？——卡內基國際和平基金會",
+        "descZh": "中期選舉慘敗後，川普能否在不放棄關稅的情況下調整方針？&nbsp;&nbsp;卡內基國際和平基金會"
+      },
+      {
+        "title": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz - Bloomberg.com",
+        "desc": "Trump, Congress Set to Clash on Politically Toxic Tariff Blitz&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGNzcGItR1hEcEVGTTl2MTBubWZUWnpOVTdKdUNEQUFDbjdiV0ZtbU1xRXhHM3NpRGl0Q1diOWM1a3dUNVJsQ2NXeFZoM2lsZnVjZ0hDWUs2SmJBaEQxWGlTZmUtV1d0N0tPUWRIcU1HRjRKNTVKdFNLZGtsWHJfODY1V2pkdXZIYzZhT2ZWVTVxSEp4dGk1RnpqV3hzWUpfVVZQSVlKR2FFWkY2SzVCSG93?oc=5",
+        "pubTime": "2026-11-06 21:40",
+        "source": "news.google.com",
+        "titleZh": "川普與國會將就這波政治上極具爭議的關稅攻勢展開對峙 —— Bloomberg.com",
+        "descZh": "川普與國會將就這波政治上極具爭議的關稅攻勢展開對峙&nbsp;&nbsp;Bloomberg.com"
+      },
+      {
+        "title": "Republicans ran away from Trump's Canadian tariffs, but not far enough - CBC",
+        "desc": "Republicans ran away from Trump's Canadian tariffs, but not far enough&nbsp;&nbsp;CBC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFla0RpSXFaM3ZSOEdGakVISDdqcm5ZamlNM0VpQVRJVkFkNVl2WmZ4ZTRWdVVCaXNzSkZ2cEg2VjdxNHczY21EVkszR3gyaDJURDN2bXlXbi11dDlDM1M2T0RZTmk5ZklHNWJfS0pEeGZtbHhUTDdjR3VuS25hQkFqeGFUaGdsQjNz?oc=5",
+        "pubTime": "2026-11-06 20:31",
+        "source": "news.google.com",
+        "titleZh": "共和黨人雖與川普對加拿大徵收關稅的政策劃清界線，但距離還不夠遠——CBC",
+        "descZh": "共和黨人雖對川普對加拿大徵收關稅一事避之唯恐不及，但距離仍不夠遠&nbsp;&nbsp;CBC"
+      },
+      {
+        "title": "US Democrats Seek Republican Support to Repeal Trump's Canada Tariffs - Tempo.co English",
+        "desc": "US Democrats Seek Republican Support to Repeal Trump's Canada Tariffs&nbsp;&nbsp;Tempo.co English",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDZhZVRtUlkyQmM0dTJpOTRVbWgxWlhRNGt3UUliUDVFRGhNM2RoQUpVLU1TTVVMbDRJbnBSaW83UTF1d0JkVVZvRXl1Ylk0RldXUDdlWW1KSmd4dkI5YWJQbEFHX1ZNbEdMSmFFTEQxZ1FnTl82anlQazNfUElVVkgxUHlzcXZxSy1tWWFUdjFQYWZHaEVMYjZKRWFqN1VPSVpR?oc=5",
+        "pubTime": "2026-11-06 19:11",
+        "source": "news.google.com",
+        "titleZh": "美國民主黨尋求共和黨支持，以廢除川普對加拿大徵收的關稅 - Tempo.co 英文版",
+        "descZh": "美國民主黨尋求共和黨支持以廢除川普對加拿大徵收的關稅&nbsp;&nbsp;Tempo.co 英文版"
+      },
+      {
+        "title": "Trump retains broad foreign policy powers despite Republican losses in Congress - سانا",
+        "desc": "Trump retains broad foreign policy powers despite Republican losses in Congress&nbsp;&nbsp;سانا",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxNWE4ZUU3XzVvWXpJM0ZDOXlwMDhBRDF0UDZfYXFidFVFcEhNeDluRDRraDMyWWhIV1VrNkhiRTlnSmJUQUNGMF9Xc3g?oc=5",
+        "pubTime": "2026-11-06 18:58",
+        "source": "news.google.com",
+        "titleZh": "儘管共和黨在國會選舉中失利，川普仍保有廣泛的外交政策權力 - 薩那通訊社",
+        "descZh": "儘管共和黨在國會選舉中失利，川普仍保有廣泛的外交政策權力&nbsp;&nbsp;薩那通訊社"
+      },
+      {
+        "title": "Trump signs order to preserve Oval Office as national monument",
+        "desc": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-06 17:19",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普簽署命令，將橢圓形辦公室列為國家紀念地",
+        "descZh": "這項命令是在川普對橢圓形辦公室的裝潢進行了一系列重大變更，並拆除了白宮東翼之後頒布的。"
+      },
+      {
+        "title": "Trump Faces New Foreign Policy Challenges After Democrats Win Congress - Dainik Jagran MP CG",
+        "desc": "Trump Faces New Foreign Policy Challenges After Democrats Win Congress&nbsp;&nbsp;Dainik Jagran MP CG",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVVNNMjJ5cHVwd2dhNmp2Y050QjRNc3hMYkMwTERkLWtBeHltb2JqbTJWNUxCaFdOVE5HTU5hSWJvZXowNHRDNkNPMVI5dmFZSW5obkNYNU5IUTFZdVRLM2l5N1JDWm9CTEpGZV9ONll2QkFlSWt0R3lzN3FIT1FLQmIyaWlpR2h4VktCbHU1dVpCOHROZG5tb2IwX1IzcHdMc1hiQTlKYzJQZ3F4Tkd4SlQ4ME5BVGI1TkJRLWtJQnY2NFdNUmhlSHIwV090UzlK?oc=5",
+        "pubTime": "2026-11-06 16:10",
+        "source": "news.google.com",
+        "titleZh": "民主黨贏得國會控制權後，川普面臨新的外交政策挑戰——《Dainik Jagran》MP CG版",
+        "descZh": "民主黨贏得國會控制權後，川普面臨新的外交政策挑戰&nbsp;&nbsp;《Dainik Jagran》國會版 CG"
+      },
+      {
+        "title": "Democrats control Congress, but Trump retains global policy power - IDNFinancials",
+        "desc": "Democrats control Congress, but Trump retains global policy power&nbsp;&nbsp;IDNFinancials",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzV5T1RqQ0Mwejl6QU5BaXpyTkp5TTlEYmVaN0ZLeVFianlZdXRLaU1CdnYtUHdyYW5yMlgzSkptbHZtSG1kSTdPd2h4TUhGMU9Wa3I3cFVmeEF1T0h6RTFiY0JWbHUwNUduMHF1MmxneHNEa05aQU94c3I3aWk1M0lmeDF5WnVmeVBMRHZwYmJKQWloX25sUC1oZVJ1YTExU0kzb1ZERXc?oc=5",
+        "pubTime": "2026-11-06 13:20",
+        "source": "news.google.com",
+        "titleZh": "民主黨掌控國會，但川普仍掌握全球政策主導權——IDNFinancials",
+        "descZh": "民主黨掌控國會，但川普仍掌握全球政策主導權&nbsp;&nbsp;IDNFinancials"
+      },
+      {
+        "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them. - The New York Times",
+        "desc": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGxKZlQwYlRxUnZ0RjY2SVJTVU5kRS01Smx0aFU5RDdLT3VzOFliLUNzeTBFYXIzT0JYcnFkNjBOcFl4NFBlb3BtRXFaOUJzamROMk82UlZDTTJva1NOX1d2UE9tYUNyZ3NMVndDdFNNNkVIM0xYNlVVNU9uaEZMNUNVTzM?oc=5",
+        "pubTime": "2026-11-06 13:01",
+        "source": "news.google.com",
+        "titleZh": "川普、普丁、習近平峰會？對其中一人來說，這恐怕會有些尷尬。——《紐約時報》",
+        "descZh": "川普、普丁與習近平的峰會？對其中一人來說，這恐怕會有些尷尬。&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "desc": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-06 10:08",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "白宮否認赫格塞斯與魯比奧將在共和黨選舉失利後離職",
+        "descZh": "美國媒體報導，有人呼籲撤換皮特·赫格塞斯（Pete Hegseth），他同時也面臨可能的彈劾投票；而據傳馬可·盧比奧（Marco Rubio）正考慮參選總統。"
+      },
+      {
+        "title": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs - WSJ",
+        "desc": "Exclusive | Democrats Are Hatching a Plan to Reverse Trump’s Canada Tariffs&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVhNeS1XX0xDd1ZkN3JZMkdWcUJkaFhONTBWSmprcWxkRVpqbU02QUQxWnRVRXdlTHBzaVJNMENWaE5HaFcyU2pCVDl3SkpXV3Y4UTlEMzM4STJFc3FGVVByUW1xUHh1QWlqOWx2bHBKQTZxb09zSDQtMklkRFpsRENDbWRiNzg3dzlwMnVqbVpLQkhRVWwwT0F6UUxFODdybWFqekNqUVhrcEZKNzZz?oc=5",
+        "pubTime": "2026-11-06 10:02",
+        "source": "news.google.com",
+        "titleZh": "獨家報導 | 民主黨正策劃一項計畫，以撤銷川普對加拿大徵收的關稅 —— 《華爾街日報》",
+        "descZh": "獨家報導｜民主黨正策劃一項計畫，以撤銷川普對加拿大徵收的關稅&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "India-US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief? - Business Today",
+        "desc": "India-US trade deal: Democrats may challenge Trump's tariff policies, but will exporters get relief?&nbsp;&nbsp;Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR2h0RFJfMVZkdGZnWDFwWDE5ZmFNQU5TTTJDWkNNWENod2RqVGF5OEVKS2c4V2ZVVThZRUFxbHQzMTJWNGpKMlIwMEU5NkJSTEtmZTQ5QnZzaVl2TnpFUXp2VnJIQWJHTUJfWnBUanNIOXpULWxFWndKd2d6VWRMN3RWcFAwTktjU2l3eVFja25SNzdBSzNiRDBWV09tOGtxOEYycWl1QXBGU1BiZ184eUEzUmd4RThPTWVvOVRGNDdYNTFzcy1iaVM4eWFmaVFRWkw4V1ZPcGhScTQteVkzZFFQaDJIYkhxb3p1STN4SklMT1A0NWlj0gH8AUFVX3lxTE91SE1hTlZRaWtuU3pQWmZvMVFBekI4MjZ1S203SllaQzlzaTlHNTRjTmJROVJqclRDV0RvYklFSHJKT1F3emh6cV9ZWmFwOFNoQklQaXVNMWtLbnFXMFRjclp2ZUJhODZGbDcyODM0dnRCTXo4WUNtRmxDUlhxVm1NenFrb3FLX0dWS19BRTlEV3dicmNBRVJQbDRIdnhyRnBqYTBEbll1MVVoZzBfSVJZN0ZMRDhOQXpXZzZ2WElXYmJFRU9BSjBzYlhrQlBBUkVpd3NoUmZibTRQaHpGRnJnLURkNXR6bTZMZVRkNGtfT3VUa2lIN1BJZDdiOA?oc=5",
+        "pubTime": "2026-11-06 09:50",
+        "source": "news.google.com",
+        "titleZh": "印美貿易協定：民主黨人或許會挑戰川普的關稅政策，但出口商能否因此獲得紓解？——《今日商業》",
+        "descZh": "印美貿易協定：民主黨人或許會對川普的關稅政策提出挑戰，但出口商能否因此獲得紓解？&nbsp;&nbsp;《今日商業》"
+      },
+      {
+        "title": "Democrats target Trump’s tariffs after midterm gains - 동아일보",
+        "desc": "Democrats target Trump’s tariffs after midterm gains&nbsp;&nbsp;동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NRjFWU1dHLU9RNVdlbG55QXlXbkZERDlaLTQ1QVV3Q1BIYmZQMWh2Ymd3YmEzdUdqZzQxbzQyTlZHRFg1MjBRMWJTSmFXWERpYkhQbHlyUllxdVZwWmxudzZiTmF5UQ?oc=5",
+        "pubTime": "2026-11-06 08:05",
+        "source": "news.google.com",
+        "titleZh": "民主黨在中期選舉取得進展後，將矛頭指向川普的關稅政策 - 東亞日報",
+        "descZh": "民主黨在中期選舉取得進展後，將矛頭指向川普的關稅政策&nbsp;&nbsp;《東亞日報》"
+      }
+    ]
+  },
+  {
     "date": "20261107",
     "fetchTime": "2026-11-07 08:09",
     "count": 40,
@@ -3808,103 +4085,6 @@
         "source": "news.google.com",
         "titleZh": "為何美元能逆特朗普關稅、交易員及聯準會而行——《澳洲金融評論報》",
         "descZh": "為何美元能抵禦川普的關稅、交易員及聯準會的影響？&nbsp;&nbsp;AFR"
-      }
-    ]
-  },
-  {
-    "date": "20261009",
-    "fetchTime": "2026-10-09 08:29",
-    "count": 10,
-    "articles": [
-      {
-        "title": "White House blocks Microsoft from foreign worker hiring program",
-        "desc": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-09 05:37",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "白宮阻止微軟參與外籍勞工僱用計畫",
-        "descZh": "多年來，一項國際簽證計畫一直允許美國科技公司從海外聘請高技能人才。"
-      },
-      {
-        "title": "’Canada is not our enemy’: Michigan Republican Senate candidate breaks with Trump on trade war - Radio-Canada",
-        "desc": "’Canada is not our enemy’: Michigan Republican Senate candidate breaks with Trump on trade war&nbsp;&nbsp;Radio-Canada",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMW9JTDBqS3FIVmhPU0pYWUd6WWYwWkZvYl9PT0V6VDVoNHpjSUxnUmMwVkoya3prSnNiMmJIQUNQUnB2ajhYMGpoNXVuUTlxY004RmdIV0VKeUg5WEJfelhEWDlDMkE3WTVxaThTVlktWlVCOGJQZXVJNVRNQm93VFJGcVkyVXN2b2RPUGswemJRN1ExTzhSMlprZmJxLUcxNUNSWjNhQzlWZUMwVDhFUlV5Rkx6Y3Q0eHRqd3l2OVVvbEhndjc2cDJCbnFpc1d3WVpYZmh3?oc=5",
-        "pubTime": "2026-10-09 02:25",
-        "source": "news.google.com",
-        "titleZh": "「加拿大不是我們的敵人」：密西根州共和黨參議員候選人就貿易戰立場與川普劃清界線 —— Radio-Canada",
-        "descZh": "「加拿大不是我們的敵人」：密西根州共和黨參議員候選人就貿易戰與川普立場相左&nbsp;&nbsp;Radio-Canada"
-      },
-      {
-        "title": "The AI Investment Boom Trumps Tariff Policy - Seeking Alpha",
-        "desc": "The AI Investment Boom Trumps Tariff Policy&nbsp;&nbsp;Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2NsTmhKX0NDdHk3VkJLRXVhSzhlMFp3UFN0eDBwNmVtN3ZwczN2eHlQQ3NCcG1oN0hEMEduVkpXZ2dNaFBNRHBxcXBwbG9sLWpMMHkwOUZReU1CbFJPQnV5Umx2Yy1pSDlxTGFQN2FpWFJESTlLTEs1b2Q5aVExM2NCamMzQ1U?oc=5",
-        "pubTime": "2026-10-09 02:15",
-        "source": "news.google.com",
-        "titleZh": "人工智慧投資熱潮壓過關稅政策 — Seeking Alpha",
-        "descZh": "AI 投資熱潮蓋過關稅政策&nbsp;&nbsp;Seeking Alpha"
-      },
-      {
-        "title": "Republicans Are Getting Grilled Over Trump's Tariffs - Reason Magazine",
-        "desc": "Republicans Are Getting Grilled Over Trump's Tariffs&nbsp;&nbsp;Reason Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1EydDU2TWtPd0NoTW54aGlyanZJMUpHWTNyV2I4ajlEWUU4anBzdWVqU0lEY3lTVzV5a0VPZjItUldLNG9NRHpFdTQtNG5fNVExZG1tUnhpY0gxRnR6RDU0UjRZVmwyWHZkUjhlU3JwcU9OY191cS1ZTDZ0bXdXYzZ5VU5DRUk0NUE?oc=5",
-        "pubTime": "2026-10-09 00:30",
-        "source": "news.google.com",
-        "titleZh": "共和黨人因川普的關稅政策而備受抨擊——《Reason》雜誌",
-        "descZh": "共和黨人因川普的關稅政策而備受抨擊&nbsp;&nbsp;《Reason》雜誌"
-      },
-      {
-        "title": "Americans blame 'boring' Trump policy for rising costs - AlterNet",
-        "desc": "Americans blame 'boring' Trump policy for rising costs&nbsp;&nbsp;AlterNet",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tbWNMNVdleTdFZlc5ZENDTTVKQUdkNGF4RnpMbk04eTBPWlZLemNDVnhPTmJ4X0RaVEtjcXg2VmxoYWlMN2hNM3NKUDBGMzVNZTZ0TDUzdw?oc=5",
-        "pubTime": "2026-10-08 19:14",
-        "source": "news.google.com",
-        "titleZh": "美國人將物價上漲歸咎於「乏味」的川普政策 —— AlterNet",
-        "descZh": "美國人將物價上漲歸咎於「乏味」的川普政策&nbsp;&nbsp;AlterNet"
-      },
-      {
-        "title": "Why the greenback has defied Trump tariffs, traders and the Fed - AFR",
-        "desc": "Why the greenback has defied Trump tariffs, traders and the Fed&nbsp;&nbsp;AFR",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMHd5bmRpSktBLWpuOGRJOG9LY2dqc3R1bWhqd0o2b200dTlkX0Z5ajdtU0pkeUZjandoQ1JYYXNBYURnUFh5V0ZxWFlfS0xZdWZKbjU4VV9FWERXejBTNktlYXVBeXZjaHktUlRaV2pubWRqbVliUW5KSlQ2OWlGbWZmZkUxWDNscEtkbnU3S1pGQ003SWNKT05YaXk1ZWllWHdqZWdxOVhoRlE4c3QxcHEyVjl5djE2TUxaRFplbUxJbk5rRXc?oc=5",
-        "pubTime": "2026-10-08 09:00",
-        "source": "news.google.com",
-        "titleZh": "為何美元能逆特朗普關稅、交易員及聯準會而行——《澳洲金融評論報》",
-        "descZh": "為何美元能抵禦川普的關稅、交易員及聯準會的影響？&nbsp;&nbsp;AFR"
-      },
-      {
-        "title": "Mike Rogers changes tune on tariffs, trade war with Canada - Detroit Free Press",
-        "desc": "Mike Rogers changes tune on tariffs, trade war with Canada&nbsp;&nbsp;Detroit Free Press",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWp6bDlZclZYVm5hTFlZa2VUN180SjhDRHJWVU1NeWh6dWpUUHUzRFlLenhGT2R2eDUyYzRGR1p3ZjMwRFFWOTF1YlQ3d19odkpnaGdZbHJoVXRXOFEyRmJqeXVTSTRCZnV2RTBCb1JPcFBRSlNtdXNVbW1tVnNxYnNwdER1dUFqZTBqM0ZDenhaY1Y2YWwxbTIzWnN1ZUZGbEJRcmRUU0FOM3ZqbWl6VXJGNUhDMnBKX0UxUG82Yw?oc=5",
-        "pubTime": "2026-10-08 06:15",
-        "source": "news.google.com",
-        "titleZh": "麥克·羅傑斯對關稅及與加拿大的貿易戰改口——《底特律自由報》",
-        "descZh": "麥克·羅傑斯對關稅及與加拿大的貿易戰改口　《底特律自由報》"
-      },
-      {
-        "title": "Trump’s tariffs were meant to shrink the trade deficit—but it’s now the widest since Liberation Day - Fortune",
-        "desc": "Trump’s tariffs were meant to shrink the trade deficit—but it’s now the widest since Liberation Day&nbsp;&nbsp;Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS25JN3VGdVQ4YVJvdGtHRkJVbkJJMEFEalFIVHNRdkFxMjhXYXdhZll5NkV1LThxRzZxcXh1d291R2taMVFtRkRrOFNmQzBCOUZtZTRpTE9OQmNVX2FvTUEycF9ob0dxaldLckNJbHQ4QjB5anpNRjAzNFZMUEtGcGtnaW16YUgwMmFQVGRJMy0xSHVNZ0NyQWRxbmFvdjFleTI3RXhwQ0JsLTUxOFY4aDVLZ2dlYk5RU3pxX0lkYmlhQQ?oc=5",
-        "pubTime": "2026-10-08 02:15",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅原本旨在縮小貿易逆差——但如今逆差規模已創下「解放日」以來的最高紀錄 - 《財富》",
-        "descZh": "川普的關稅原本旨在縮小貿易逆差——但如今卻創下解放日以來最大逆差紀錄&nbsp;&nbsp;《財星》"
-      },
-      {
-        "title": "US trade deficit widens, raising fresh questions about Trump’s tariff strategy - The American Bazaar",
-        "desc": "US trade deficit widens, raising fresh questions about Trump’s tariff strategy&nbsp;&nbsp;The American Bazaar",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRUFiU1pRUTBzNlFWUGxCaERJTzR6Nm1RYkpCZGZnUldqZ0JRcVZNRjViSERLbS1ONTRrZ2x5Uy12RGExa2N0dXhQN3BpUlAtR0c3SVcxWUNERnZKWFY4UE1wNWhJdjg4LVFydkVSQmpicHRHdGVhRHpxODVIaEFZejYxMlVJMmpRTnV0UHdBeXM0VkRlRGEzdktjVTk2VVA4X0RtZmtoYmNqSHRDQ3hfYWdvVDdUUQ?oc=5",
-        "pubTime": "2026-10-08 01:19",
-        "source": "news.google.com",
-        "titleZh": "美國貿易逆差擴大，引發外界對川普關稅策略的新質疑 —— 《美國集市》",
-        "descZh": "美國貿易逆差擴大，引發外界對川普關稅策略的新質疑&nbsp;&nbsp;《美國集市》"
-      },
-      {
-        "title": "The Republican candidates walking a Trump tightrope",
-        "desc": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
-        "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-07 13:00",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "共和黨候選人正走在「川普」這條鋼索上",
-        "descZh": "部分參加十一月選舉的候選人正考慮是否要與這位仍主導其政黨、卻不受歡迎的總統保持距離。"
       }
     ]
   }
