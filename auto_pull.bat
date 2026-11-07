@@ -1,8 +1,8 @@
 @echo off
 REM taiwan-market auto sync (Task Scheduler daily 04:45 / 16:30)
 REM Logs are split monthly into logs\pull_YYYYMM.txt with timestamp; files older than 180 days are purged.
-cd /d "C:\Users\lifongye\Documents\taiwan-market"
-set "REPO=C:\Users\lifongye\Documents\taiwan-market"
+cd /d "%~dp0"
+set "REPO=%CD%"
 set "LOGDIR=%REPO%\logs"
 if not exist "%LOGDIR%" mkdir "%LOGDIR%"
 

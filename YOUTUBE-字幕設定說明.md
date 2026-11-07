@@ -12,7 +12,7 @@
 
 ## 一次性設定（只需做一次）
 
-1. **註冊排程**：在 `C:\Users\lifongye\Documents\taiwan-market\` 資料夾，
+1. **註冊排程**：在 `%USERPROFILE%\Documents\taiwan-market\` 資料夾，
    找到 `register_youtube_task.bat`，**雙擊執行**。
    - 看到「Done. Two daily tasks created」就成功了。
    - 若被擋，對它按右鍵 →「以系統管理員身分執行」。

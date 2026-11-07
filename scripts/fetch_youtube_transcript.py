@@ -19,13 +19,15 @@ BRIEFINGS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__f
 
 def main():
     api = YouTubeTranscriptApi()
-    for attempt in range(3):
+    # YouTube RSS 會間歇性回 404（頻道本身正常），間隔拉長多試幾次
+    delays = [30, 60, 120, 240]
+    for attempt in range(len(delays) + 1):
         try:
             resp = requests.get(RSS_URL, headers=HEADERS, timeout=30); resp.raise_for_status(); break
         except Exception as e:
-            if attempt == 2:
-                print(f"[ERROR] YouTube RSS 連續失敗 3 次：{e}"); return 1
-            print(f"[WARN] RSS 失敗，15 秒後重試 ({attempt+1}/3)：{e}"); time.sleep(15)
+            if attempt == len(delays):
+                print(f"[ERROR] YouTube RSS 連續失敗 {attempt+1} 次：{e}"); return 1
+            print(f"[WARN] RSS 失敗，{delays[attempt]} 秒後重試 ({attempt+1}/{len(delays)+1})：{e}"); time.sleep(delays[attempt])
 
     ns = {'atom':'http://www.w3.org/2005/Atom','yt':'http://www.youtube.com/xml/schemas/2015'}
     root = ET.fromstring(resp.content)

@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\lifongye\Documents\taiwan-market"
+cd /d "%~dp0"
 echo [Fix Stock Rankings]
 python scripts\smart_pull.py --fix
 if errorlevel 1 ( echo [ERROR] & pause & exit /b 1 )

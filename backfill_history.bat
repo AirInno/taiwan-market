@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\lifongye\Documents\taiwan-market"
+cd /d "%~dp0"
 echo [Historical Backfill] 20251001 ~ 20260228
 echo.
 python scripts\backfill_history.py --start 20251001 --end 20260228

@@ -13,7 +13,7 @@ echo %CYAN%   Taiwan Market - Deploy%RESET%
 echo %CYAN%==============================%RESET%
 echo.
 
-cd /d "C:\Users\lifongye\Documents\taiwan-market"
+cd /d "%~dp0"
 if !ERRORLEVEL! NEQ 0 (
   echo %RED%[ERROR] Folder not found.%RESET%
   goto :END

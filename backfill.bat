@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\lifongye\Documents\taiwan-market"
+cd /d "%~dp0"
 echo [Sync + Fix + Backfill + Auto Push]
 python scripts\smart_pull.py
 if errorlevel 1 ( echo [ERROR] sync & pause & exit /b 1 )
