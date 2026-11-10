@@ -1,5 +1,228 @@
 [
   {
+    "date": "20261110",
+    "fetchTime": "2026-11-10 10:48",
+    "count": 24,
+    "articles": [
+      {
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy - BBC",
+        "desc": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5",
+        "pubTime": "2026-11-10 09:44",
+        "source": "news.google.com",
+        "titleZh": "川普表示，聯邦調查局正在調查英偉達執行長與一名涉嫌為中國間諜的女子之間的婚外情——BBC",
+        "descZh": "川普稱聯邦調查局正在調查英偉達執行長與一名涉嫌為中國間諜的女子的婚外情&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+        "desc": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+        "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-10 09:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "共和黨國會議員將迫使國會就國防部長赫格塞斯進行彈劾表決",
+        "descZh": "這項努力很可能以失敗告終，但眾議員湯瑪斯·馬西希望在民主黨明年啟動自己的彈劾程序之前，迫使川普解僱赫格塞斯。"
+      },
+      {
+        "title": "US President Trump’s midterm humbling offers little relief for Southeast Asian exporters - Asia News Network",
+        "desc": "US President Trump’s midterm humbling offers little relief for Southeast Asian exporters&nbsp;&nbsp;Asia News Network",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmQ5d3l2aWczZjNxQnVBOVVPNE5oVzdpLW1oZUZnLWV6MlZxSmEyVTNZZ1c2SFA2VUJZS1FVcjZMbGtlY3lQTWhlcVdFT0tOaGtrZW9mMXZRSktCTVZkaVZ6SFhLa1pJSmZsR1ZrRTdJU2R1UU9qU3lSR2NIT29pQWU5c2xvMUlDRVk1Mms4R3I0Q291dTNZcFFhVHA4OGthV2NJSFlzQXY3ZUJYcV9FS29Jaw?oc=5",
+        "pubTime": "2026-11-10 08:40",
+        "source": "news.google.com",
+        "titleZh": "美國總統川普在中期選舉中慘敗，對東南亞出口商而言幾乎毫無緩解作用——亞洲新聞網",
+        "descZh": "美國總統川普在中期選舉中遭遇挫敗，對東南亞出口商而言幾乎毫無慰藉&nbsp;&nbsp;亞洲新聞網"
+      },
+      {
+        "title": "5 takeaways from Trump’s surprise White House briefing - The Hill",
+        "desc": "5 takeaways from Trump’s surprise White House briefing&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnNhVXdXejdTcjJDUlhCVGdacF96RW54cWk5NG5ZQkZVZnIwVGNkV180TVo4dWhkcUhiRVB1ak5UWEpCNkRtV0JjSmNYUm5KNVVSdzg4OWJmVk5sczE2ZUdvcDlpclJlMGhvRFdEcThyUndiTTE4b0FQYm9xbjlNMU9LekJFUXJCaWRPclNwdW03VmR2UWfSAZsBQVVfeXFMTnV3R0JEdHB5QVlENDBfMEVadTVoQnB6Tl9WVkk4V0UyTFlmNnkwZU1BV3VzZFV4bVlGN2gtUFFGaVNKc1ZVa2EwWmZNcEdJZEZUUXdlT2tvcDBkYk1FdVpPYXZyM0FXbnVXclZQSWc3NHZScUpEVXBldS1DM1dfNTVSVHRDM1hEZng4UEhHTENORVBjNnpRTmNwam8?oc=5",
+        "pubTime": "2026-11-10 08:09",
+        "source": "news.google.com",
+        "titleZh": "川普在白宮舉行的突發簡報會：5大重點 - 《The Hill》",
+        "descZh": "川普在白宮舉行的驚人簡報會的 5 大重點&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot - The New York Times",
+        "desc": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVdORGUzSXZqX3lyWG91Z051MmJsbExiTHotVnAyMnV3b0FNeDBuWlgtMDdINW50Y1I2WGlIS3hHX3pfSzU1eEtKR1pfejlEdGQ4QUFqM28yeEt5bWNpSlZpQTlha3NqZ0NxY0xFNTNtdDJKU2gzbnRkQTl6S1BZbEZaVQ?oc=5",
+        "pubTime": "2026-11-10 07:48",
+        "source": "news.google.com",
+        "titleZh": "間諜陰謀爆發之際，民主黨人要求就川普的 AI 政策作出說明——《紐約時報》",
+        "descZh": "間諜案爆發之際，民主黨人要求就川普的 AI 政策作出說明&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit - WSJ",
+        "desc": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
+        "pubTime": "2026-11-10 04:37",
+        "source": "news.google.com",
+        "titleZh": "獨家 | 美國對中國要求嚴格控制特朗普、習近平與普京峰會流程的提議持保留態度 — 《華爾街日報》",
+        "descZh": "獨家｜美國對中國要求嚴格安排特朗普、習近平與普京峰會一事持保留態度&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "Trump questions midterm elections integrity after previously accepting results",
+        "desc": "Trump made the claims, without evidence, on Truth Social on Monday.",
+        "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-10 01:47",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普先前雖已接受中期選舉結果，如今卻對選舉的公正性提出質疑",
+        "descZh": "川普週一在「Truth Social」上發表了這些說法，但並未提供任何證據。"
+      },
+      {
+        "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies - Forbes",
+        "desc": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies&nbsp;&nbsp;Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+        "pubTime": "2026-11-09 22:32",
+        "source": "news.google.com",
+        "titleZh": "中期選舉選民不認同川普的關稅與移民政策 —— 《富比士》",
+        "descZh": "中期選舉選民不贊同川普的關稅與移民政策&nbsp;&nbsp;《富比士》"
+      },
+      {
+        "title": "Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? - South China Morning Post",
+        "desc": "Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs?&nbsp;&nbsp;South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWTU2Nm5fSXluekdmeHdxZ2xhV3pHaDlkRVJRb1R1SzVxelNhVXNuaThOeWU0bGNwYlp6NERIY2lnQ01xVGo3bG1mdHZzY2N2MHVVcVdzZXhlbkdfQWw1YXZGQmZ2V0pSMGt1eTVYaGZYUEFlcFNWRFVlcl9LeUY4VDJPdV9FWHlrTG9YeTdtU250VEVkY2doSUFocWdKT2tZbHlFYmVjeEVmSkU0dU9hSjNIRjJhb3NNc2lHZS1NS2Y0SFlsamtz0gHHAUFVX3lxTE9kd1lzVUl3VGRXMEJXbTBKOC1MaFZaR2k3TV80RFg1MFA5RjdJa0lNdmtJYVlEV3o5NE40LUVuUWRKb090NWM5d1VVczd6YlpuTEJIMzBSekpCTTdzeV95bU5LcElKbFVsekhQZ0lPNl80VEkySDdabWUwS2dQcE1yQXRTNWNHSGNLVE5tbGJIMHJzdUZnVnBkbjZVQUFyTTdjOWE0RXZnUG5zOHFxTFRrN29ROUsxVFZjUXFBa2VKczh1V2VrbVE?oc=5",
+        "pubTime": "2026-11-09 22:00",
+        "source": "news.google.com",
+        "titleZh": "習近平與弗拉基米爾·普京能否為唐納德·川普提供他所需要的「伊朗退出方案」？——《南華早報》",
+        "descZh": "習近平和弗拉基米爾·普京能否為唐納德·川普提供他所需要的「伊朗退路」？&nbsp;&nbsp;《南華早報》"
+      },
+      {
+        "title": "What Donald Trump needs to understand about China and Taiwan - The Economist",
+        "desc": "What Donald Trump needs to understand about China and Taiwan&nbsp;&nbsp;The Economist",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3UzbjNnbWc1T3VXRDE2OW1PUTZqV2lkRWItSWMxR1J5ekh6NXdXMnpLaV82M28zYjhuSzdaVnZ5dFc0d04wNENpNUZTVnlSa1FONW44dk9ETzVtT1E5R0dLNWdqNjZpcEJ1RUxNNFVKTGFWSENkT1JlMEFoaXo3bVhDeG5uNjN1dV9PSnpXMUM1LUJQLVZLa1FFNXdSQU5VNml1MXg1OHZVTWlfWFBsag?oc=5",
+        "pubTime": "2026-11-09 20:58",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普需要了解的關於中國與台灣的事——《經濟學人》",
+        "descZh": "唐納德·川普需要了解的關於中國與台灣的事實&nbsp;&nbsp;《經濟學人》"
+      },
+      {
+        "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
+        "desc": "Southeast Asia rides out the return of Trump’s tariffs&nbsp;&nbsp;East Asia Forum",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
+        "pubTime": "2026-11-09 19:04",
+        "source": "news.google.com",
+        "titleZh": "東南亞安然度過川普關稅重啟的衝擊 - 東亞論壇",
+        "descZh": "東南亞安然度過川普關稅重啟的衝擊&nbsp;&nbsp;《東亞論壇》"
+      },
+      {
+        "title": "Trump loses at the ballot box, but he remains powerful (and unpredictable) in foreign policy - EL PAÍS English",
+        "desc": "Trump loses at the ballot box, but he remains powerful (and unpredictable) in foreign policy&nbsp;&nbsp;EL PAÍS English",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM0xzMUkyQmdiMkpnc0VfU0NlN211RjlHbGh0RldWQ2hxV0ZCWXBzZFR0NWtDeXJtaDVhRVJkQzNNMzR0NXVBNGRqVHJFYmJxXzc3U3I3N21zZjBwYmFMdHVBNEU2VDZEN25fakRJWHNIaWd5S242SWJ1Q2VKQU12NzU4d29NbkJxR3RyeDBpTTNuLTlqRnNPUDhqc2NLa3ZaRjlGTUo2TFQ3WFJTYjM5TzNDZ29XSEdyM3dfNktOcFlLa2hsRHpoWDAzUDJIc3JzS1HSAeYBQVVfeXFMTjlzZnhGLUZ6TE12dmV4V2FBUFluT0lsTXVkQWRwXzNuN2lhRVIwYU9rV25LQ002dUZrVm9TUWFvWHpjUGtKZ0xwTTEtWkFIR0RfWHJjckhuVVpaendkOVpTZmNUSmVpSzBtejdMRFppMjFMZmxXSXRvbXJ4RHlDN1p6bFpJT0h5MWlVTnBSd1R5NUdKUTFpX2o4WlFFOXRKVEpUc01XVmllbXFZcXA2MDdFUHV0aUc1VWtIZ3FtS2JPMXVjMHZ5NEJaM014OWJQZm5VeGtKYWdaWUVMRC1hX3ZhdG42dXc?oc=5",
+        "pubTime": "2026-11-09 17:49",
+        "source": "news.google.com",
+        "titleZh": "川普在選舉中落敗，但在外交政策上仍掌握著強大（且難以預測）的影響力——《國家報》英文版",
+        "descZh": "川普在選舉中落敗，但在外交政策上仍具影響力（且難以預測）&nbsp;&nbsp;《國家報》英文版"
+      },
+      {
+        "title": "A weakened Trump could mean more volatile US policy for Africa - ISS Africa",
+        "desc": "A weakened Trump could mean more volatile US policy for Africa&nbsp;&nbsp;ISS Africa",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1hYWVhSazhtWmcwT2I5QnBQR2Nud1VRai10V1B5S1JON2xBbTRoLVFXVFpNTmRhV0k3UWFiRWxrZmp1TGQ3b0xveVRDVEtYN2daM2s0NnVsZmJFUDNiTUQtSU5nd0lNb1FvbHhTZXZ4TmhyTnNzRm15a09qV0pVeHlReEF4TUdmZVV6bTd2OUtHRnBDYUlHVURR?oc=5",
+        "pubTime": "2026-11-09 17:06",
+        "source": "news.google.com",
+        "titleZh": "特朗普勢力削弱可能意味著美國對非洲的政策將更加動盪——ISS Africa",
+        "descZh": "特朗普勢力削弱可能意味著美國對非洲的政策將更加動盪&nbsp;&nbsp;ISS Africa"
+      },
+      {
+        "title": "A Recipe for Disaster in Taiwan - Foreign Affairs",
+        "desc": "A Recipe for Disaster in Taiwan&nbsp;&nbsp;Foreign Affairs",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEpSVzVad0lhSGo3ZjdXbVZYX0VBa2dQN096dFU2X1ZEYjJTVURQR29HOUtHd1B4eXhFbThUMEpxcl9TSFo0V2hfVk1PaXpNUmFhTTJEVE8xcHFEbkVxblllc1FraHJ0TEp3QmVWaFo4V3RKbjZQUTF5cmVEbHV4N25INjZOQ2s?oc=5",
+        "pubTime": "2026-11-09 17:00",
+        "source": "news.google.com",
+        "titleZh": "台灣的災難配方——《外交事務》",
+        "descZh": "台灣的災難配方&nbsp;&nbsp;《外交事務》"
+      },
+      {
+        "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+        "desc": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+        "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-09 16:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，關於向達納·懷特提供發言人職位的提議，他只是「開玩笑」",
+        "descZh": "總統週六在 Truth Social 上發文，告訴終極格鬥冠軍賽（UFC）老闆：「請接下這個職位。」"
+      },
+      {
+        "title": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security - The SAIS Review of International Affairs",
+        "desc": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security&nbsp;&nbsp;The SAIS Review of International Affairs",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMW9SbzVnOVVlc09NdnBXeUItblE0b18wTWdwZVlkMG84ZVN6amdwcXRWdlA4SDRSOGxjMHVLSDBtRk1nMXd0Qksza3BDTnF1QlZsc01wUlhhNmozQXdpallpVFdCUEVkb1NGOEd6Tm04VlhwQ29FUmszVG93MC1MbHUzZmhuYkRYbnFXbjBCZXYxdldrYmRNNVJJMGIxRkk?oc=5",
+        "pubTime": "2026-11-09 10:00",
+        "source": "news.google.com",
+        "titleZh": "不確定時代下的主權：台灣的安全路線圖——《SAIS國際事務評論》",
+        "descZh": "不確定時代下的主權：台灣的安全路線圖&nbsp;&nbsp;《SAIS國際事務評論》"
+      },
+      {
+        "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+        "desc": "The president tells the CBS programme 60 Minutes he had been politically \"hurt\" by sweeping deportations.",
+        "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-09 09:51",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，移民 crackdown「過於嚴厲」，並在期中選舉敗選中扮演了一定角色",
+        "descZh": "總統在接受哥倫比亞廣播公司（CBS）節目《60分鐘》採訪時表示，大規模驅逐出境行動在政治上令他「受挫」。"
+      },
+      {
+        "title": "Democrats Can’t End Trump’s Tariffs Without Republicans - Eurasia Review",
+        "desc": "Democrats Can’t End Trump’s Tariffs Without Republicans&nbsp;&nbsp;Eurasia Review",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmVhcE5qR3ZQOHJ3Nmk2Vmw2Z0hJZXpVUEd3ZVNrR3hpRWNQQkFYd1VyMmlkOFRCTFhuOGUtbVRpa1d3U1Z6dGVfbHltcTh4WjljeUFMbnBRMTJZbVFQQjZnMUx2VldTMVBHczZkcnlOai04UDlyUVl1dUc5UVRUMDloVjR1Y2ZzSW9yZ0hiVDM4QkNhMG1HTw?oc=5",
+        "pubTime": "2026-11-09 08:57",
+        "source": "news.google.com",
+        "titleZh": "沒有共和黨的配合，民主黨無法終結川普的關稅政策——《歐亞評論》",
+        "descZh": "沒有共和黨的配合，民主黨無法終結川普的關稅&nbsp;&nbsp;《歐亞評論》"
+      },
+      {
+        "title": "After Midterm Defeat, Democrats Take Aim at Tariffs, With Canada Trade War as First Target - BigGo Finance",
+        "desc": "After Midterm Defeat, Democrats Take Aim at Tariffs, With Canada Trade War as First Target&nbsp;&nbsp;BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10WnhMNU9PRU9jWnluYlF3UUhjUVMyYXo1RTRqREhiOXBMNEpndVBKYzRBU0R1YUlPWnNyMDdnOWM0cno0dzlPSzh0M1VYNlBia05naS1VS3UwUXJGUFhGTzhkNzBRRWJUV1UyZW9iSW0zZkhOUkE?oc=5",
+        "pubTime": "2026-11-09 07:55",
+        "source": "news.google.com",
+        "titleZh": "期中選舉失利後，民主黨將矛頭指向關稅，首個目標鎖定與加拿大的貿易戰 - BigGo Finance",
+        "descZh": "期中選舉失利後，民主黨將矛頭指向關稅，首個目標鎖定與加拿大的貿易戰&nbsp;&nbsp;BigGo Finance"
+      },
+      {
+        "title": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall - Firstpost",
+        "desc": "Democrats take aim at Trump’s tariffs, but a rollback faces a veto wall&nbsp;&nbsp;Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnduekJNTXNkR29DYl9OYWhMc1hUVkdwN0F2Tk1NcUVjXzJFMU1QQ1QzTi1rWmFwVVNDR1lIOUh0a1FNMXZJSXBYRkd1X1B6U3AwMnJ4UEE1cEd5VTBoTzgwTFJpQlN0SEZrUWpESmxkTE9XSFNhNUlZalZ2b1FoOUVNa2hYUnZaUlpUcUtockJ3OUFIWEVENnJVQXMyR3RzaWpNTEJlS3dkR3ZOQlgxbDRfWTVUaDlvNDZnS3AySGhEQVF2Nk5yNNIBzgFBVV95cUxPdjFHNTVEUUllMGY3M1BhSFdLWk02a0lmS2dRal8xaDBhbUZrcUprblpRdnIyMGowYkRvalRYZE1FV2h2UktiYzc3TG9fSnQxUHRVMW03TnlpazBKM1p1SU9WS0pTSWRNbHVVUEpxd1pPOXhxcF9LcnM2ZXZEdlo2YkpZWngtRkhJa21rZ2xyOHhmR01SZFE3TWpYM2xQNERBeXpBeXNXZGh2akdaS0JmTm1pcDU4N1FESnZ4YWRvOXpTLUFvN1ViOS1QZTMydw?oc=5",
+        "pubTime": "2026-11-09 03:14",
+        "source": "news.google.com",
+        "titleZh": "民主黨人將矛頭指向川普的關稅政策，但撤銷關稅的提案面臨否決的阻礙 - Firstpost",
+        "descZh": "民主黨人將矛頭指向川普的關稅政策，但撤銷關稅的提案面臨否決的阻礙&nbsp;&nbsp;Firstpost"
+      },
+      {
+        "title": "Democrats can’t end Trump's tariffs without Republicans - Just The News",
+        "desc": "Democrats can’t end Trump's tariffs without Republicans&nbsp;&nbsp;Just The News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVhfWEtZM3h3RU5rcmpERGU3cTVJY1NNNlBnOTBlNzRQOUhxVmZReVJPT24yR00yOHhnSUxReGZPblIyeTE0ZnlXc25HZk5mTFV4cEpNUXNpejEyS25qVlo5cGNzRXNZSmttU3k1djBlVEZFU01kSWR3YTRZVzRCUFIxalo4dWRaQUtyTXl3X0ZsUmRrR29CQVVLNFkwbVlRbnZzV3V0Y2I?oc=5",
+        "pubTime": "2026-11-09 00:20",
+        "source": "news.google.com",
+        "titleZh": "沒有共和黨的配合，民主黨無法終結川普的關稅政策 - Just The News",
+        "descZh": "沒有共和黨的配合，民主黨無法終結川普的關稅&nbsp;&nbsp;Just The News"
+      },
+      {
+        "title": "How Democrats will try to end Trump's tariffs - CNBC",
+        "desc": "How Democrats will try to end Trump's tariffs&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWI0OVBzQ3FYTmpucWxZaDZkeWx4OTY2WDNHX0d1MXJOV0I1dF8tdHN5UkxUYmNTcmQzb1RIVlA2X1dhMU83Nm1uUDBGU0pRYkJQVElmaXV1b1NXMjZPaUs2OWJjd1FKX29aaGxIZXpZd1ZINjQ5Nl9zWDVhS0p2bTVn?oc=5",
+        "pubTime": "2026-11-08 21:00",
+        "source": "news.google.com",
+        "titleZh": "民主黨將如何試圖終結川普的關稅措施——CNBC",
+        "descZh": "民主黨將如何試圖終結川普的關稅？&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Five Ways Trump Can Still Change the World - Bloomberg.com",
+        "desc": "Five Ways Trump Can Still Change the World&nbsp;&nbsp;Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTJ4ZF9VTUpRM0JVaExJZE12S19hZGg5d291N1QzekpudTl6WUdneV94NXBXR3hPOXRjZlJDRkl2QnVOVGlDeF9KelJuRUIzUFhvMFRSTVl4ckpYWXc0MzRLOVNTTEpQWDVwYm90VXdpWTNiVXpobFF2S254SU5TNmpueC0tYk4weXhTQkVtVWdlT3dCQUNoNnVNbWw?oc=5",
+        "pubTime": "2026-11-08 21:00",
+        "source": "news.google.com",
+        "titleZh": "川普仍有五種方式能改變世界——Bloomberg.com",
+        "descZh": "川普仍能改變世界的五種方式&nbsp;&nbsp;Bloomberg.com"
+      },
+      {
+        "title": "How Canada Inflicted Maximum Midterms Pain on Trump - Politico",
+        "desc": "How Canada Inflicted Maximum Midterms Pain on Trump&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXJXbDVQZnhtc1Vva2NDUTB3VHotRDFjUzk4QzZIX3pqYU1hdDhKYklUZDJDM2xYU3hqMXZMRlphQXo1dXYyTGZIaGYtNWpYMFg1a25PQTA0UzhES2ZQRERLRFNId1RhRE5lVXJYSFA3V1pKaEJvSXFXYmMwaUFuRENBRjd3NFBKWG9CTmxxd3JqbkNHUkhOUVNmb0hqcFVURUE?oc=5",
+        "pubTime": "2026-11-08 20:00",
+        "source": "news.google.com",
+        "titleZh": "加拿大如何讓川普在中期選舉中遭受最大打擊——《Politico》",
+        "descZh": "加拿大如何讓川普在中期選舉中遭受最大打擊&nbsp;&nbsp;《Politico》"
+      }
+    ]
+  },
+  {
     "date": "20261109",
     "fetchTime": "2026-11-09 07:49",
     "count": 21,
@@ -4114,76 +4337,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "川普宣布與俄羅斯達成柴油供應協議，而澤連斯基則稱此舉是送給普丁的禮物",
         "descZh": "烏克蘭總統嚴厲批評此舉，稱其為「對戰爭的投資，而戰爭必須結束，而非延續」。"
-      }
-    ]
-  },
-  {
-    "date": "20261011",
-    "fetchTime": "2026-10-11 07:40",
-    "count": 7,
-    "articles": [
-      {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-11 03:28",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "澤連斯基譴責柴油交易後，川普表示：「是時候讓烏克蘭迎來新總統了」",
-        "descZh": "烏克蘭領導人曾表示，與俄羅斯達成的將柴油出口至美國的協議，將有助於莫斯科為戰爭籌措資金。"
-      },
-      {
-        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-        "desc": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-10 23:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "諾貝爾和平獎得主表示，美國對國際刑事法院的制裁「不可接受」",
-        "descZh": "納維·皮萊表示，川普政府對該國際法庭實施的全面制裁是「前所未聞的」。"
-      },
-      {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "desc": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-10 22:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普宣布與俄羅斯達成柴油供應協議，澤連斯基則稱此舉是送給普丁的禮物",
-        "descZh": "烏克蘭總統嚴厲批評此舉，稱其為「對戰爭的投資，而戰爭必須結束，而非延續」。"
-      },
-      {
-        "title": "US midterms 2026: Why a Democratic House may not ease Trump's tariff pressure on India - Business Today",
-        "desc": "US midterms 2026: Why a Democratic House may not ease Trump's tariff pressure on India&nbsp;&nbsp;Business Today",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRTYyQmgwU2hfQ3MwcjJ4M1JaV2pVcDBIc0Fjb09oY0huX2NQUzI2WGdDWUN0TVd3cFRwM2ZBYW9FNVlUcFZ1cGREYjYwRTJnXzVDdFVkYVdQbjVJS2dRcTVydC1ORmRWY2ExdndjbkdTeUpKWDVTY3dmVGwweG11dmNQOE11bzVjZV9neVo2N1JGczlZMk5QOUpBOE4tTzdMZjZHdWJOTVp3djRtMUVNekJmNW1fdVUza3BadmRIY0NqLVN2OVJ4N0NWRElDUUpaT3J2NHdfOHhlRTjSAeABQVVfeXFMT2thQzlGVk1teW5yRl9NSGJvdFZJQlNDaFhqN3BveVhic3ZxcjZUc1U5ZjhwUFUxbnd3NDNpTlRBRXJ6WkI5TWtsaEhnQVpmMVptUDJaOFVqMVdoWWcwTUxLMXV6WlpaRl9TV1VPNWdvTHVBbWctYmNQbjZmZTdRZ3F1MEUzamptVWZnRkM4OUpJX09rTmpwQ2RRZGMycmdONkRVcEN1X0p4YVJyNS1CNEFBNW5ZM3NnUVViUDlrVHJnVFdjME9DZEEzaG5ZTHUzRG92cVJRRTIyWDY4WUF2UzQ?oc=5",
-        "pubTime": "2026-10-10 11:18",
-        "source": "news.google.com",
-        "titleZh": "2026年美國中期選舉：為何民主黨掌控的眾議院未必能緩解川普對印度的關稅壓力——《今日商業》",
-        "descZh": "2026年美國中期選舉：為何由民主黨掌控的眾議院未必能緩解川普對印度的關稅壓力&nbsp;&nbsp;《Business Today》"
-      },
-      {
-        "title": "Commentator Katie Zacharia picked as new White House press secretary",
-        "desc": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-10 06:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "評論員凱蒂·扎卡里亞獲任命為新任白宮新聞秘書",
-        "descZh": "這位保守派評論員目前在川普媒體與科技集團擔任傳播顧問。"
-      },
-      {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-10 06:30",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "分析：川普與俄羅斯的驚人協議凸顯出遏制燃料價格所面臨的壓力日益增大",
-        "descZh": "BBC北美特派員撰文指出，美國總統希望在下個月的中期選舉前，緩解其所屬政黨所承受的壓力。"
-      },
-      {
-        "title": "Trump Administration Expands Tariffs Under Alternative Trade Laws - Legis1",
-        "desc": "Trump Administration Expands Tariffs Under Alternative Trade Laws&nbsp;&nbsp;Legis1",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVkx4dUR0Y3J6SVZyaTAtYTl6dUhZMGVqbE5aVllkbmo3OFo2Qnc4Vm1FckE5UkphMTc1MWhYdHg3TXhVVWpiVFNXakhUQXJmNmdmVHJHZkxXNmh4SDI4U2RXa2VuRmRMMnJGOGw1UUYwQkk?oc=5",
-        "pubTime": "2026-10-09 21:55",
-        "source": "news.google.com",
-        "titleZh": "川普政府依據替代性貿易法擴大徵收關稅 - Legis1",
-        "descZh": "川普政府依據替代性貿易法擴大加徵關稅&nbsp;&nbsp;Legis1"
       }
     ]
   }
