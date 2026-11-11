@@ -1,5 +1,156 @@
 [
   {
+    "date": "20261111",
+    "fetchTime": "2026-11-11 08:43",
+    "count": 16,
+    "articles": [
+      {
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "desc": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-11 08:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國眾議院暫時阻止了針對國防部長皮特·赫格塞斯（Pete Hegseth）的彈劾動議",
+        "descZh": "川普對這一結果表示歡迎，並稱讚赫格塞斯是「偉大的美國愛國者」，但民主黨人明年仍可再試一次。"
+      },
+      {
+        "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang - The New York Times",
+        "desc": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang&nbsp;&nbsp;The New York TimesTrump says FBI investigating Nvidia boss's affair with alleged Chinese spy&nbsp;&nbsp",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?oc=5",
+        "pubTime": "2026-11-11 03:27",
+        "source": "news.google.com",
+        "titleZh": "儘管予以否認，川普在訪中期間仍被告知有關監控英偉達執行長黃仁勳一事——《紐約時報》",
+        "descZh": "儘管予以否認，川普在訪中期間仍被告知有關監控英偉達執行長黃仁勳一事&nbsp;&nbsp;《紐約時報》川普表示，聯邦調查局正在調查英偉達執行長與一名涉嫌為中國間諜的女子之間的緋聞&nbsp;&nbsp;"
+      },
+      {
+        "title": "Whitmer asks Trump administration to end food tariffs, reimburse Michiganders for increased costs - Michigan Advance",
+        "desc": "Whitmer asks Trump administration to end food tariffs, reimburse Michiganders for increased costs&nbsp;&nbsp;Michigan Advance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMHNIejZMNnRKWlkxWkhXSjhXU3AxalJ4ZVNEcDFTSTBVOFQ3a014R3dYR0VOUlpWOWdJSmRIQnJoV3c3LUpQdXNmWEVzdjBXT0kwTXZtUzdEamFabTdkMEZQUVhqLTFoWk8yWVc2UVhObG91VzhXT09ucklSWjVKN0trZW16dW1IM3Bwa0JqdTIwS3BMR21xc0JQWlpid3JUYmV2bGVQaUZCYk1IdWlPWk5jRFhBLXlSZUlicE42VHdSb3ZHM3R1Z2M5QjZJVDdmZFE?oc=5",
+        "pubTime": "2026-11-11 02:27",
+        "source": "news.google.com",
+        "titleZh": "惠特默要求川普政府取消食品關稅，並補償密西根州居民因成本上漲所造成的損失 —— 《密西根先驅報》",
+        "descZh": "惠特默要求川普政府取消食品關稅，並補償密西根州居民因成本上漲所造成的損失&nbsp;&nbsp;《密西根先驅報》"
+      },
+      {
+        "title": "If Dems Want to Erase Trump's Tariff Policy, There's a Problem - Townhall",
+        "desc": "If Dems Want to Erase Trump's Tariff Policy, There's a Problem&nbsp;&nbsp;Townhall",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2M0cWw2VERyNlVqc1R6VWRJclVjNlFtdTdOZm1fcWJwTGpSeFhocnFlOWNUMTRmc3RVVEw0cVN1WUJmNmRnQUh0Z3RFajhzTk53YUZJZTd3eG8ycFZhaG8zUkk4VzB2NVppaTN2RE5HSDRLOFBDcnlJMzNvWXhrMlF0U01kMG1iMUVEZDNZeldsRDVvbU9wU3RGTDhHSEtmMkNab0hZSV9lNkY1dGlBck84NGRwQQ?oc=5",
+        "pubTime": "2026-11-10 19:55",
+        "source": "news.google.com",
+        "titleZh": "若民主黨人想推翻川普的關稅政策，將面臨一個問題——《Townhall》",
+        "descZh": "若民主黨人想推翻川普的關稅政策，會遇到一個問題&nbsp;&nbsp;Townhall"
+      },
+      {
+        "title": "China defiant over Nvidia spying allegations ahead of Trump-Xi meeting - The Globe and Mail",
+        "desc": "China defiant over Nvidia spying allegations ahead of Trump-Xi meeting&nbsp;&nbsp;The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1VJdVFjcWJpZ2JQWk02UVBFQ0FZazNwMjRlSkNJUVNoN3dCOEI2dTAtbmlqZjFxbGtjS2ROdzBrYTdCaGw2czhPM3BPQ1B5ZUNHa3JnTDZKYWE1czZlV0UxUDR3YXdmZzgxYXVrSUhRZUNmYUpYb3M0b3B4TmwxMXBONTVVUUk?oc=5",
+        "pubTime": "2026-11-10 18:53",
+        "source": "news.google.com",
+        "titleZh": "在川普與習近平會晤前夕，中國對英偉達間諜指控態度強硬——《環球郵報》",
+        "descZh": "在川普與習近平會晤前夕，中國對英偉達間諜指控態度強硬&nbsp;&nbsp;《環球郵報》"
+      },
+      {
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-10 17:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，美國對伊朗發動更多攻擊「極不可能」",
+        "descZh": "總統表示，美國目前與伊朗維持「現狀」，但若局勢有所變化，美國仍將「隨時準備應對」。"
+      },
+      {
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-10 16:23",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，聯邦調查局正在調查英偉達執行長與一名涉嫌為中國間諜的女子之間的婚外情",
+        "descZh": "美國總統表示，他週一與黃仁勳進行了通話，並向他詢問了與該名涉嫌間諜的緋聞一事。"
+      },
+      {
+        "title": "How the Midterms Could Reshape US Foreign Policy - 想想Thinking Taiwan - 想想台灣，想想未來 - 想想論壇",
+        "desc": "How the Midterms Could Reshape US Foreign Policy - 想想Thinking Taiwan - 想想台灣，想想未來&nbsp;&nbsp;想想論壇",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GS1F0Um03SGhDcjJRNFFKWGtQUkh4Sk00ai13XzZDak1KeWE4UEtyVURiQThsakxVQkRGWXZ4b2xpUndTYWNTU21ERlpKNmtHTS0wamJMekRSaEow?oc=5",
+        "pubTime": "2026-11-10 14:00",
+        "source": "news.google.com",
+        "titleZh": "中期選舉將如何重塑美國外交政策 - 想想Thinking Taiwan - 想想台灣，想想未來 - 想想論壇",
+        "descZh": "中期選舉將如何重塑美國外交政策 - 想想Thinking Taiwan - 想想台灣，想想未來&nbsp;&nbsp;想想論壇"
+      },
+      {
+        "title": "A week after the Democrats’ blue wave, Trump’s biggest tech allies are still silent - Fast Company",
+        "desc": "A week after the Democrats’ blue wave, Trump’s biggest tech allies are still silent&nbsp;&nbsp;Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUN3UUhNam4xVW5fWFJWY0tvNUs3NklFc2hKcHFfRzVyNGQyVkVFRnJzWmJTZVpONTZsaTJWZVdiOXdzYUhHZ2JIRnl5VzJ6YTRVcXhXVFNyMU92Y1Q4LTQ0QkFNN0pPREo2ZmYza3ZWaDVEdWdGanFudC1RY0NFam1Ic1lMMlBqWHNqa05qZWNWYm9aR3FzRFhFX1R3LUFnZHhTRHhkU2NROGFWUDFXUDRvckw3enpn?oc=5",
+        "pubTime": "2026-11-10 13:08",
+        "source": "news.google.com",
+        "titleZh": "民主黨「藍色浪潮」席捲一周後，川普最重要的科技界盟友仍保持沉默——《Fast Company》",
+        "descZh": "民主黨「藍色浪潮」席捲一周後，川普最重要的科技界盟友仍保持沉默&nbsp;&nbsp;《Fast Company》"
+      },
+      {
+        "title": "US President Trump’s midterm humbling offers little relief for Southeast Asian exporters - Asia News Network",
+        "desc": "US President Trump’s midterm humbling offers little relief for Southeast Asian exporters&nbsp;&nbsp;Asia News Network",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmQ5d3l2aWczZjNxQnVBOVVPNE5oVzdpLW1oZUZnLWV6MlZxSmEyVTNZZ1c2SFA2VUJZS1FVcjZMbGtlY3lQTWhlcVdFT0tOaGtrZW9mMXZRSktCTVZkaVZ6SFhLa1pJSmZsR1ZrRTdJU2R1UU9qU3lSR2NIT29pQWU5c2xvMUlDRVk1Mms4R3I0Q291dTNZcFFhVHA4OGthV2NJSFlzQXY3ZUJYcV9FS29Jaw?oc=5",
+        "pubTime": "2026-11-10 08:40",
+        "source": "news.google.com",
+        "titleZh": "美國總統川普在中期選舉中慘敗，對東南亞出口商而言幾乎毫無緩解作用——亞洲新聞網",
+        "descZh": "美國總統川普在中期選舉中遭遇挫敗，對東南亞出口商而言幾乎毫無慰藉&nbsp;&nbsp;亞洲新聞網"
+      },
+      {
+        "title": "Dana White declines Trump’s offer to be White House press secretary",
+        "desc": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+        "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-10 06:46",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "達納·懷特婉拒川普邀請其出任白宮新聞秘書",
+        "descZh": "上週末，總統在社群媒體上發文，邀請UFC老闆接任該職位，但後來表示自己只是「開個小玩笑」。"
+      },
+      {
+        "title": "Biden says Trump should carry weight of US Capitol riot 'to his grave' in new book",
+        "desc": "Biden sharply criticises Trump in his soon-to-be released memoir, while the White House calls Biden the worst US president.",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0yqwz925o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-10 04:53",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "拜登在新書中表示，川普應將美國國會山莊暴動的罪責「背負至死」",
+        "descZh": "拜登在其即將出版的回憶錄中嚴厲批評川普，而白宮則稱拜登是美國史上最差的總統。"
+      },
+      {
+        "title": "US Democratic Congress offers Mexico new channel, not quick tariff relief - BNamericas",
+        "desc": "US Democratic Congress offers Mexico new channel, not quick tariff relief&nbsp;&nbsp;BNamericas",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM19QMnU4NmJTRmdhWGFjWnhLcEtvbTRDallpRE83MFFreG0wSmd2eGhjNDBfa0xsa3BpYVJua2NRQUtSY3lEcTFJR1dJcHNhMUQ2N0dhY3A3QnVxVm9LdldFcV9DbjVrNlQ4bDNRWV8ycjdodU12LTF0NDBEVXVkdDRsbDN6UlpGenUyQWt3RTM0M1loSDR0T25qZkY1M1VQWmlWSWF4dHBJVjdpVDB4aQ?oc=5",
+        "pubTime": "2026-11-10 04:20",
+        "source": "news.google.com",
+        "titleZh": "美國民主黨國會提出新管道供墨西哥利用，但不會迅速減免關稅——BNamericas",
+        "descZh": "美國民主黨國會為墨西哥開闢新管道，但不會迅速減免關稅&nbsp;&nbsp;BNamericas"
+      },
+      {
+        "title": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies - Forbes",
+        "desc": "Midterm Voters Disapproved Of Trump’s Tariffs And Immigration Policies&nbsp;&nbsp;Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHowVm5MaWdLbnZhbVJmb0o3Rk5MSzNDZXN0bU1BTWpkMGJaTWU5aFpGRGFteEtudmU5YXN1VzNoRGI4MnRzVmRpMUlDRkRzUTk1eHpEckIzWkl0RkVOczhmc1dfc191S1ZDYlZmX2lzenlibF90TEtsQVd1NHNQcW01WjRwYXR0aUNOdjF1bW55allXN2pNRTdQblhrQTR2bTNJNEFYbDdZLUR1NWdSWmdqQTNhWmo3UWZMWjBmVUo0ZjQ?oc=5",
+        "pubTime": "2026-11-09 22:32",
+        "source": "news.google.com",
+        "titleZh": "中期選舉選民不贊同川普的關稅與移民政策 —— 《富比士》",
+        "descZh": "中期選舉選民不贊同川普的關稅與移民政策&nbsp;&nbsp;《富比士》"
+      },
+      {
+        "title": "Spy plot claims ensnare rock star CEO, a powerful Trump ally who pushed to bridge U.S.-China divide on AI - NBC News",
+        "desc": "Spy plot claims ensnare rock star CEO, a powerful Trump ally who pushed to bridge U.S.-China divide on AI&nbsp;&nbsp;NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1c0SUc0alRCYVhjdG9kZVl0TzhSR0xnUElZLW96LVA5dGxuZlJzbDFxV19sUDZ2WHBWR01JTlhtM28yVjhhUVpZVXhTSHZuYkF4WjNGUWVEMFZ6cjhVRWF4WFluN1plT01OSmttMzRVY01aV3RtTF82QUJhaWJPWElHbnRCQ1RJZGVrSmxMVklZRU1OT1ZYS2tSb3dKZi1haG1vZFExY2E?oc=5",
+        "pubTime": "2026-11-09 19:29",
+        "source": "news.google.com",
+        "titleZh": "間諜陰謀指控牽涉一位搖滾巨星出身的執行長——這位身為川普的強大盟友，曾致力於彌合美中在人工智慧領域的分歧——NBC新聞",
+        "descZh": "間諜陰謀指控牽涉一位搖滾巨星出身的執行長——這位特朗普的強大盟友曾致力於彌合中美在人工智慧領域的分歧——NBC新聞"
+      },
+      {
+        "title": "Southeast Asia rides out the return of Trump’s tariffs - East Asia Forum",
+        "desc": "Southeast Asia rides out the return of Trump’s tariffs&nbsp;&nbsp;East Asia Forum",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFNXzAxYlB2M0g2SkhWY3F6ZEFFbXl5TzkzUWZFSkxWVUMxRHoxRU4tMnlUV180VjNtaFZWNFNpTEwyckVQRVZOYnZGZEtJS0FmZloybFZzU1VJS0cxaEJPVXZPZTJjU29MMF9BMFkxajZYQlVab0U0M2FMSTNaZTh0R1FmSl9wS0t3eVpsclIyWHV3RWc?oc=5",
+        "pubTime": "2026-11-09 19:04",
+        "source": "news.google.com",
+        "titleZh": "東南亞安然度過川普關稅重啟的衝擊 - 東亞論壇",
+        "descZh": "東南亞安然度過川普關稅重啟的衝擊&nbsp;&nbsp;《東亞論壇》"
+      }
+    ]
+  },
+  {
     "date": "20261110",
     "fetchTime": "2026-11-10 10:48",
     "count": 24,
@@ -4231,112 +4382,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "美國司法部就電視台對川普記者團的報導展開調查",
         "descZh": "白宮曾禁止美國有線新聞網（CNN）、MS Now 和《Politico》進入，導致這些媒體不得不限制聯合採訪的範圍。"
-      }
-    ]
-  },
-  {
-    "date": "20261012",
-    "fetchTime": "2026-10-12 07:46",
-    "count": 11,
-    "articles": [
-      {
-        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-        "desc": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
-        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-12 05:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普聲稱的「能源停火」獲得澤連斯基歡迎，但俄羅斯保持沉默",
-        "descZh": "澤連斯基表示，基輔將支持這項停火協議。莫斯科方面尚未發表評論。"
-      },
-      {
-        "title": "Watch: What's behind Trump's energy ceasefire claim?",
-        "desc": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
-        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-12 04:55",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "影片：川普所謂的「能源停火」聲明背後有何玄機？",
-        "descZh": "美國總統透過社群媒體貼文宣布了這項消息，這顯然讓烏克蘭感到意外，而俄羅斯尚未發表評論。"
-      },
-      {
-        "title": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs - ABC News - Breaking News, Latest News and Videos",
-        "desc": "Republicans face midterm backlash from factory workers squeezed out of jobs by Trump's tariffs&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEhKUUFIQU5lU09wWHVKS2hoSkM5UHA2SXpydjJyZjZtUGR0S1JCc3RxTlBRaVk0UlVhTGVNLVFfT1NnMDFOUDkzOGwwYWlYakNkeVVDVU5vamRnSlhPVllleWtLVmR1TVBfTVRVcFhya2dIb3Z2cGFqRjNNczZKcU5BeXY4cFJXaTRJSjRLVWs0RzdGV3VmamUxVEZhNVh4eFRWbGQwcU1nSG9hMXNTZHFn0gG3AUFVX3lxTE1TYkhqa2dueWV3Y0ViNnVMc3l1cmRiTFRQQWFtTFVVRG5NQjFnMFE0bjBXMzZkODR0dVJySEU5SEtjbkEzMmRfTnhMQllNM0JURkxWWVo2dkhtZmYtb2pWN1FLVU9NOXRzM0hMUzg4NFJwU2JON0tDbVlJaXcyY0ZUcGttemdiczh0eUZoU3NJZWVaX1JSRDg5SWVCbURoVGozOHRfYnZHc0tFbWVUbTN5cGdNWXlkMA?oc=5",
-        "pubTime": "2026-10-11 21:24",
-        "source": "news.google.com",
-        "titleZh": "共和黨面臨來自工廠工人的中期選舉反彈，這些工人因川普的關稅政策而失去工作 —— ABC新聞 —— 突發新聞、最新新聞與影片",
-        "descZh": "共和黨面臨中期選舉的反彈，原因在於工廠工人因川普的關稅政策而失去工作&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
-      },
-      {
-        "title": "Trump’s tariffs fuel US factory job losses, put Republican support at risk ahead of midterms - Firstpost",
-        "desc": "Trump’s tariffs fuel US factory job losses, put Republican support at risk ahead of midterms&nbsp;&nbsp;Firstpost",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0s0MVVNX1BmZVdlVXVxQmpCNUxWV1hzT3o4dWJOT2pSLUxPczJQODlnSHVkWHNpQlA0UGNLLXVwb1FTNklwWnhXZzFTVTJhYm5ucWtZN2tFYWxscURQY1ZtNDNCd1dfZVplZG5aaVVvYS0yM0NYX0p3eGdnODNiWFp6TWlmS2M2QVBrQTB2MHBzTW8xbDgzWDdzTHg2TnRWY2JseGlSZjVTT2g3alJXMUM4aU9qdm5qdlNkUm91Z0VDN2JLd3E1cFhsSFRxcm11dVZ0eFNqZFR4clRfY2lzQThDenjSAeoBQVVfeXFMUDBkczB3MlZ3dnZfaXhKMU5DbmV6N2lUNElGYzhQR0h2eTQ4b2V1bVh2Tlh1NXRpWkZHdlN1R0ItQWdGWTZFRjdkU19DT0hSVzRpWlZKem5QaEs4LThNQVA4ZGFSMzN5NUEtYlBobmY1WFY2dHZsMS1PclBHY3RrMVNrM3hNQXY3ZlAtR0RVQk9QdEZlQWhXeVp3ejFkTDZBdUt5S2xHRzRFWFVsV2JmbTBqbE04Q3RJRGlpLUJfMFBYOVpjTU84SXBJYWkzVkpRV2tYcnZjU1BnaXVMSWNRcjN4YU1TYkhJc2dn?oc=5",
-        "pubTime": "2026-10-11 21:09",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅加劇美國製造業就業崗位流失，在中期選舉前危及共和黨的支持基礎——Firstpost",
-        "descZh": "川普的關稅加劇了美國製造業就業崗位流失，並在中期選舉前危及共和黨的支持率&nbsp;&nbsp;Firstpost"
-      },
-      {
-        "title": "Trump sticks with tariffs despite rising prices and voter unease before midterms - India Today",
-        "desc": "Trump sticks with tariffs despite rising prices and voter unease before midterms&nbsp;&nbsp;India Today",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1HX1RaUzlHUmQzLUptVjRiUU1ReXN1bjMySW9GM2tMSWlORHA0SzJwWVZvUE9aWV95cmEtcmZiU01WamFSd0VOTkhha1dJNS1NelJvY29ZYjZscmZURkIwdUhUMVRHMXVrTGZFMno2Y2gzT0lWbDkyeTdKbVFXZ19fTC1YTWVYU2hONjlNZks0NG1KYVpJVHlYajJUSlZTVW9iRzJNX2dCazlqNjRGdGRPdDIxbDFJVVFFTWo3c9IBxAFBVV95cUxNbGtHbmRZcnN0eEFtVExBcW1IWERkNWdaVkVTaWxTU2RHVlo2aEt4YzdUQ0ljS09RVmp3YWxHT3J1UHVEaXRqMTR3c1VSNTVDRTVBVjR0Q1dwemduT3VIZHliUlA4cERnSTctN1JfamdmejJ6UHE1YkZJM0pzV1lUN0JCbHU3alhrQ0JWd19naFN4Y1QxamJKSXJpbEJpV3FRTTJ1WUtka3JVNmVsRG5yNTNyNko2SHo1VXd3OHBKU0NsOVdY?oc=5",
-        "pubTime": "2026-10-11 20:28",
-        "source": "news.google.com",
-        "titleZh": "儘管物價上漲且選民在中期選舉前感到不安，川普仍堅持徵收關稅——《今日印度》",
-        "descZh": "儘管物價上漲且選民在中期選舉前感到不安，川普仍堅持徵收關稅&nbsp;&nbsp;《今日印度》"
-      },
-      {
-        "title": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms - CTV News",
-        "desc": "Trump sticks with tariffs even as U.S. voters turn against them before the midterms&nbsp;&nbsp;CTV News",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVExyTlBjTV9vODUtSjB1ZkRybGcwald3eV82YW00ejZjRnFIOGlyQmxnZkJBbnA2QTZKZFQ1ZjczWEtNVXZCY0tfd1dvUjlVSE1QQ044dHdOdTdiY2NrTkNFd3A5T0VweGdvZnJDWU9LUXpOSV9OQVdYY0xxM3ItOUQxVnJqQVVsX05Eck0zanNVUmZkZmVSUzlOMjBIY2MtaHJLLWJwS0x2Q2JncHNCUVNOYVBPb1BYRVNfNDFfeHpDVDVVOGpPT0NKemd2b00?oc=5",
-        "pubTime": "2026-10-11 20:25",
-        "source": "news.google.com",
-        "titleZh": "儘管美國選民在中期選舉前已開始反對關稅，川普仍堅持實施關稅政策 —— CTV News",
-        "descZh": "儘管美國選民在中期選舉前已開始反對關稅，川普仍堅持實施關稅&nbsp;&nbsp;CTV News"
-      },
-      {
-        "title": "US justice department investigates TV networks over Trump pool coverage",
-        "desc": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-11 13:05",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國司法部就電視台對川普記者團的報導展開調查",
-        "descZh": "白宮曾禁止美國有線電視新聞網（CNN）、MS Now 和《Politico》進入，導致這些媒體不得不限制聯合採訪的範圍。"
-      },
-      {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "desc": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-11 09:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "澤連斯基譴責柴油交易後，川普表示：「是時候讓烏克蘭迎來新總統了」",
-        "descZh": "烏克蘭領導人曾表示，與俄羅斯達成的將柴油出口至美國的協議，將有助於莫斯科為戰爭籌措資金。"
-      },
-      {
-        "title": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International - Rti 中央廣播電臺",
-        "desc": "Trump mentions US$500 billion Taiwanese chip investment in US-News-Radio Taiwan International&nbsp;&nbsp;Rti 中央廣播電臺",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUHB5anRjVHFhMGVVc3ZDWVhjQVNZdjVFR2VFdGhYVU9JMnliUUtvM3dCVEVJRTlpamVhOU1HalBPVktMTm9TT0FNLTByeHl0SVlJRHhaM0VCdm8?oc=5",
-        "pubTime": "2026-10-11 02:43",
-        "source": "news.google.com",
-        "titleZh": "川普提及台灣在美投資5,000億美元發展半導體產業｜美國新聞｜台灣國際廣播電台 - Rti 中央廣播電台",
-        "descZh": "川普提及台灣在美投資5,000億美元發展半導體產業——美國新聞——台灣國際廣播電台（Rti）中央廣播電台"
-      },
-      {
-        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-        "desc": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-10 23:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "諾貝爾和平獎得主表示，美國對國際刑事法院的制裁「不可接受」",
-        "descZh": "納維·皮萊表示，川普政府對該國際法庭實施的全面制裁是「前所未聞」的。"
-      },
-      {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "desc": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-10 22:24",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普宣布與俄羅斯達成柴油供應協議，而澤連斯基則稱此舉是送給普丁的禮物",
-        "descZh": "烏克蘭總統嚴厲批評此舉，稱其為「對戰爭的投資，而戰爭必須結束，而非延續」。"
       }
     ]
   }
