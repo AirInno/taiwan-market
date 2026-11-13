@@ -1,5 +1,372 @@
 [
   {
+    "date": "20261113",
+    "fetchTime": "2026-11-13 09:14",
+    "count": 40,
+    "articles": [
+      {
+        "title": "Trump Wants Apple’s Cook to Run Nvidia. Why That’s a Bad Idea. - Barron's",
+        "desc": "Trump Wants Apple’s Cook to Run Nvidia. Why That’s a Bad Idea.&nbsp;&nbsp;Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTU4Yzc3QWpSS2dJSmExczZmM1ZIbG9KV1Jxcnc0UmxvTEpUV0pzRkxUWW9hMkpfN1pzWkswUFQ4c2ZXdlNhY2F4RTQ5YklCSW10bklReWVENE50S0l6UUM3SzF5NFFHc1dnd3ExNVBnU3B1bWVIUlVIeG1nT2ZRYWJB?oc=5",
+        "pubTime": "2026-11-13 06:31",
+        "source": "news.google.com",
+        "titleZh": "川普希望蘋果執行長庫克接掌英偉達。為何這是個糟糕的主意？——《巴倫周刊》",
+        "descZh": "川普希望蘋果執行長庫克接掌英偉達。為何這是個糟糕的主意？&nbsp;&nbsp;《巴倫周刊》"
+      },
+      {
+        "title": "Trump’s suggestion for the next Nvidia CEO is another tech titan he’s already close with - Fast Company",
+        "desc": "Trump’s suggestion for the next Nvidia CEO is another tech titan he’s already close with&nbsp;&nbsp;Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSW9RXzhPNWlObUdyOHJoN25vVzlfVDhXczFDRkdLRDZ4SV9jZ2xyY0lvbHA5dUFnXzBFWHRDTDdrNVMzRzBmVlkyMzlacFZoVlFIc0k0cUY5X2s4U2VKLTEtUkVhY0JZQzJ0Y256RWE4YVJ4LTQwVWhVcHhaSjZSNXRta1pSTVBOOXRlaHdLLTFYZjloTjlEdjREOUUtQXhKQThn?oc=5",
+        "pubTime": "2026-11-13 05:34",
+        "source": "news.google.com",
+        "titleZh": "川普對下任英偉達執行長的人選建議，是另一位他早已關係密切的科技巨擘——《Fast Company》",
+        "descZh": "川普對下任 Nvidia 執行長的人選建議，是另一位他早已關係密切的科技巨擘&nbsp;&nbsp;《Fast Company》"
+      },
+      {
+        "title": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next - Reuters",
+        "desc": "Tim Cook for Nvidia CEO? Trump and the world ponder who's next&nbsp;&nbsp;ReutersTrump Had Urged Nvidia’s Jensen Huang to Fight for His Job&nbsp;&nbsp;The New York TimesTrump says 'there is only one m",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2otbkdEb3FkYXpTSlFhcnBmRk9lNDZzOHpKQnpUd0dyR3dqWWhqcy02c016NGpfNVRNeGNKQVFfUTZhc2taTHBfWGJ0WWNwTGxlWG5tSW9NUk55R2l0dTNrMFlhemdQaXFWWnNmamhrYWdNaUJlcTc0UWVObjQ2cVp4cC15anFUVXJ0dHc4N1ZuOEFjWGJra3BKUmVGTmR2VGlQSFVHUQ?oc=5",
+        "pubTime": "2026-11-13 04:35",
+        "source": "news.google.com",
+        "titleZh": "提姆·庫克將接任英偉達執行長？川普與全球都在猜測下任人選是誰——路透社",
+        "descZh": "提姆·庫克將接任 Nvidia 執行長？川普與全球都在猜測下任人選是誰&nbsp;&nbsp;路透社 川普曾敦促 Nvidia 的黃仁勳為保住職位而奮戰&nbsp;&nbsp;《紐約時報》 川普表示「只有一個 m」"
+      },
+      {
+        "title": "Bipartisan push possible to curb Trump tariffs - Manufacturing Dive",
+        "desc": "Bipartisan push possible to curb Trump tariffs&nbsp;&nbsp;Manufacturing Dive",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHZfWVlRVlczZnd4MnM2QjEtd2FkbTNvWkdpUWRGWWdiZV92eXBXVEZ2STZ1bjRZLWxrMWcyRzU1cTZWaWVyWG1FTm1pRDZWeFdxU3ltS0NNZUhWc0hULXZBVXhVMDZLaUYwZllUbVMyaFB4bFFDMG05QkMxeEFveHRXYjFWVzZPWDRfbTRSeG9kalQzZnVTVA?oc=5",
+        "pubTime": "2026-11-13 04:06",
+        "source": "news.google.com",
+        "titleZh": "兩黨可能聯手遏制川普的關稅措施——《Manufacturing Dive》",
+        "descZh": "可能出現跨黨派推動以遏制川普的關稅&nbsp;&nbsp;《製造業深度解析》"
+      },
+      {
+        "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
+        "desc": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO&nbsp;&nbsp;USA Today",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
+        "pubTime": "2026-11-13 04:04",
+        "source": "news.google.com",
+        "titleZh": "川普表示，蘋果執行長提姆·庫克應接替黃仁勳擔任英偉達執行長——《今日美國》",
+        "descZh": "川普表示，蘋果執行長提姆·庫克應接替黃仁勳擔任英偉達執行長&nbsp;&nbsp;《今日美國》"
+      },
+      {
+        "title": "Hire Tim Cook to lead Nvidia, Trump says - The Telegraph",
+        "desc": "Hire Tim Cook to lead Nvidia, Trump says&nbsp;&nbsp;The Telegraph",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZno1dGFHdDJXQWFtclhMZFpqcUpibk5VQXNFb2NqWEoyamNQU0ZfSlhpYWpQSGNicENuN2dhTG9FbGVWbDZ6Z2pkSEYwRDRiWG9BSW0wY2ZiYUJSeW9qNUlJeF82ck82ZXljbjFIcU40U2dMUWZ5aU9EXzFSU0F3anJ3Z1RTdkJWWkNKaGFqRTdOVlhrNHJnUFhRWktNZw?oc=5",
+        "pubTime": "2026-11-13 03:57",
+        "source": "news.google.com",
+        "titleZh": "川普表示：聘請提姆·庫克領導英偉達——《每日電訊報》",
+        "descZh": "川普表示應聘請提姆·庫克領導英偉達&nbsp;&nbsp;《每日電訊報》"
+      },
+      {
+        "title": "Trump: ‘There’s Only One Man’ To Replace Ousted Nvidia CEO - The Daily Caller",
+        "desc": "Trump: ‘There’s Only One Man’ To Replace Ousted Nvidia CEO&nbsp;&nbsp;The Daily Caller",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1VaSy1jdjc2Wl9PZ2lkQlBtZWFyUVJIZUUtMkpvODJCVGNodUVCUnhIS1hxSU1sNGVIR1lpZERkdkt4STFmaExxaEl2ZmFUREdJdG1PaHpoTThzTkdpSXpqbVlJZkprUDV3OTVyUXl0YnVuYXQ3aS1rbFRZWUR6QUJCS3ZRUEJVTkk5VEhybWhhZkgyRGsxekZodXVQaDVhei1mcTRvRnVxcmJCdTRjTFN3?oc=5",
+        "pubTime": "2026-11-13 03:51",
+        "source": "news.google.com",
+        "titleZh": "川普：接替遭罷免的英偉達執行長「只有一人」——《每日來電者報》",
+        "descZh": "川普：「只有一人」能接替遭罷免的英偉達執行長&nbsp;&nbsp;《每日來電者》"
+      },
+      {
+        "title": "'We just ran' - One killed, four injured in shooting near Washington DC gym",
+        "desc": "The shooting began Thursday morning local time at a gym in an apartment building about a mile (1.6km) north of the White House.",
+        "url": "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-13 03:24",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "「我們只是跑了」——華盛頓特區附近一間健身房發生槍擊案，造成一人死亡、四人受傷",
+        "descZh": "槍擊事件發生於當地時間週四上午，地點位於白宮以北約一英里（1.6公里）處一棟公寓大樓內的健身房。"
+      },
+      {
+        "title": "Trump wants Apple's Cook to replace Huang as Nvidia CEO | Daily Sabah - Daily Sabah",
+        "desc": "Trump wants Apple's Cook to replace Huang as Nvidia CEO | Daily Sabah&nbsp;&nbsp;Daily Sabah",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUNKRGwxcEtrejloWVBQMWE3cTRib1BPT2ZIeWwtenRsYkdJcUtHZ3U0V0YxRjZtMVduY29KU3lXM1B0YUZsdHc3LW1pZld6V0dlV0ZhbVJFUE5WT29GeDFhWWxZd0V2aGZBQ1c4c0xyNTk5OUcxVXJKVGJMbmhaSlVFdkhjRXJEU3VTWGV5THRwQy1PZHZQVXpDX2U2R2_SAaQBQVVfeXFMTmRjZ25OX3Y5ZDNlN0FwaWl3Y1hiR1dBd2xwU2NzWjVyLU9UanNrMkVfSXowOTFvLWQ3SFM4Q1hPSUd2dVIyNzJ3Q2ZXMmszdjZKZW5WRnp2LUxIX0lkUmtiQzltZFRNVmFMUTJuNXlKWWVMbFNMN2ZGVlIyZ1dIZUw5cU9GNllNU3BvVUx2S3B3cUZ2blprZ1M5d2M0TkRyemxwd1k?oc=5",
+        "pubTime": "2026-11-13 03:00",
+        "source": "news.google.com",
+        "titleZh": "川普希望蘋果執行長庫克接替黃仁勳擔任英偉達執行長 | 《每日薩巴》 - 《每日薩巴》",
+        "descZh": "川普希望蘋果執行長庫克接替黃仁勳擔任英偉達執行長 | 《每日薩巴赫》&nbsp;&nbsp;《每日薩巴赫》"
+      },
+      {
+        "title": "Trump backs former Apple CEO Tim Cook to replace Jensen Huang at Nvidia - ProtoThema English",
+        "desc": "Trump backs former Apple CEO Tim Cook to replace Jensen Huang at Nvidia&nbsp;&nbsp;ProtoThema English",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3lVcVNXWklXb0F5bWVGbXV5Q0J1QnYtSVJCanU2cUdwbUJpMGVwdnpoRGc1N0RFZUVVM251QVpCNnM3UTVfM1Y1V01DbnhtSkRVNUI4c1pfQTBfb0psbnlpV0RXQld1akw1QW9OSl9NZFlrV0s1YkM3ckVuenJoVDlwZWp0SlRHSEo0VzBfbzZZN3VvZEN2TkpIZnRRUXc4ZHZuTjFZVWt1eVdK?oc=5",
+        "pubTime": "2026-11-13 01:31",
+        "source": "news.google.com",
+        "titleZh": "川普支持前蘋果執行長提姆·庫克接替黃仁勳出任英偉達執行長 - ProtoThema 英文版",
+        "descZh": "川普支持前蘋果執行長提姆·庫克接替黃仁勳執掌英偉達&nbsp;&nbsp;ProtoThema 英文版"
+      },
+      {
+        "title": "Trump backs former Apple CEO Cook to lead chipmaker Nvidia after founder Huang resigns amid scandals - Just The News",
+        "desc": "Trump backs former Apple CEO Cook to lead chipmaker Nvidia after founder Huang resigns amid scandals&nbsp;&nbsp;Just The News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGhzMzV6LVRxUEFUcEMzMFE0UlZrR0ZDd1VoTEhvMzBpTDY1Y08wNktDVnhpOVZET2ctVnVvOTFOazlCbHpZUURMclo2LU1FeWxUbXZuYUQ2OWx5TGQ5S0dSRFZfOGRsV3FhUlFCX3ZZdS1JZzM2UWFTa0ljV3c2VkFGQTNQREVkTzZ3aUZleU5WWEFDZ3hkMDA1Z2txVkRIS1Nib1M3S2NqN0tONG5iZDZBYzVnemVW?oc=5",
+        "pubTime": "2026-11-13 01:26",
+        "source": "news.google.com",
+        "titleZh": "川普支持前蘋果執行長庫克接掌晶片製造商英偉達，因創辦人黃仁勳在醜聞纏身下辭職 —— Just The News",
+        "descZh": "川普支持前蘋果執行長庫克接掌晶片製造商英偉達，因創辦人黃仁勳在醜聞纏身下辭職&nbsp;&nbsp;Just The News"
+      },
+      {
+        "title": "Orthodox Jewish Couple Behind $100 Million Furniture Business Say Trump’s Tariff Policies Left Them Disappointed - VINnews",
+        "desc": "Orthodox Jewish Couple Behind $100 Million Furniture Business Say Trump’s Tariff Policies Left Them Disappointed&nbsp;&nbsp;VINnews",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2ZiN2dwN2V3Zkw2WVQtOHZ2ZW1SWGxRQ0JiaEJoWGVzQ3pOd0w4TS03TnBSMDVJdF9HQnlYUFRReHk1ZVpFWFJPLVN2eW4yMlV0QzAtWURmSnZ1cVVBNi11eDRtOG1JcmlXRWQ2ZWZpbWZLam5HWUxpaTRqeThsTFVvbmFOaUxtMEJFeTk5ZmdkSGp6dWlEOWRrdk5IRXJwNEVCaTBFVGFMTnhhR0hYbXRLRDYwR2stN2Y1VS1XbzM0eTRsT3BhMUVJa0N5b0VIcUVHTWxuTXNDZw?oc=5",
+        "pubTime": "2026-11-13 01:24",
+        "source": "news.google.com",
+        "titleZh": "經營價值 1 億美元家具事業的正統派猶太夫婦表示，川普的關稅政策令他們感到失望 - VINnews",
+        "descZh": "經營價值 1 億美元家具事業的正統派猶太夫婦表示，川普的關稅政策令他們感到失望&nbsp;&nbsp;VINnews"
+      },
+      {
+        "title": "Trump: Fmr Apple CEO Tim Cook should become Nvidia CEO after Jensen Huang's resignation - One America News Network",
+        "desc": "Trump: Fmr Apple CEO Tim Cook should become Nvidia CEO after Jensen Huang's resignation&nbsp;&nbsp;One America News Network",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWS1iV2VxaXFjZ0xWZjE3eFZuUzM0VVl6ZmNUbmRyUUlNV1pKRGVuaWYwTjFETnFfYUtDMmk1VXk4ZEdXcmo1UFZneUFvVzFNU0tOMVpBbHVhNTRReEdoTm1wN2JLTXVaT3Vnem15LVZRVEstQWl1OHZfSXNpSUwzV29rVVJXbXlfbGd2bjhKQ2tsVHN1TndWSzNMbS1zaWF3aVJubkVudmNoYTh5cTU2S0lWYm10TzQ?oc=5",
+        "pubTime": "2026-11-13 01:16",
+        "source": "news.google.com",
+        "titleZh": "川普：前蘋果執行長提姆·庫克應在黃仁勳辭職後接任英偉達執行長 —— 《One America News Network》",
+        "descZh": "川普：前蘋果執行長提姆·庫克應在黃仁勳辭職後接任英偉達執行長&nbsp;&nbsp;One America News Network"
+      },
+      {
+        "title": "Trump backs Tim Cook to replace Jensen Huang as Nvidia CEO - Gulf News",
+        "desc": "Trump backs Tim Cook to replace Jensen Huang as Nvidia CEO&nbsp;&nbsp;Gulf News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYlBqd3Y5d3FId0dIWlV5NzVSV3UzQXNnRFRqUG9rQWNWNm4wQWhKNDBKcjkxZFpodFJjanpSaTFLU2pCVDgyNzdqd2o2SmdpOFV1ejNVenl5NWFQY2Q3cGV1NlhQdXFYSFlLbzJoZks5Qm1iNms3ekdEMklnOUw0dHZNSjNwOHJ4TFlWc1hHaVBFbnBUTWdwM1dvaFZnMGt1MkRCZ3hTVTJ1elN5eVZZb3ZZNXBKb0VPVWhacDhSMEhQQdIB1AFBVV95cUxQVEhzLXEwaGxKY0VxQ0xkR1N5WlZtZWl3cENCODNpZTh3RUQ4N3IyOGdhTEk4Sm1KazdIOEllUTEyWEVDcUR2OHdoeURmTXBoQ0xzZVQ2MzNSVlhCVFo0YnZSemZmenh5c25YZ0gzNldDajNFd1MxUEwtazJjMXJ3Zm1KSlRESkV4UVJQMWNweTBxTHoxS1BhdUtKZlBGUXBidHBmVnhCM0NZUG1JQlZMRDVjS3VtVFVZcm50eUdtWFdhb1JYcEZfek1YR0F4dEpmbzFRTA?oc=5",
+        "pubTime": "2026-11-13 01:15",
+        "source": "news.google.com",
+        "titleZh": "川普支持提姆·庫克接替黃仁勳出任英偉達執行長——《海灣新聞》",
+        "descZh": "川普支持提姆·庫克接替黃仁勳擔任英偉達執行長&nbsp;&nbsp;《海灣新聞》"
+      },
+      {
+        "title": "Trump suggests Apple's Tim Cook as Jensen Huang's successor - The Star, Kenya",
+        "desc": "Trump suggests Apple's Tim Cook as Jensen Huang's successor&nbsp;&nbsp;The Star, Kenya",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW9yV3ZJU0I1b0Vid2JwenA5NWljVDFGX0FCdWxHb1ZiTDZ2QUM4VUVpSG1TTl9yX1NCRVVMeWVhWEtlUXZWYXg2M2VkWkI3SHc4ejdRZVpLUzJCd1RoaE1iN2t0dEpQbnVjbld4VlMtZ1ZScUtNY2xjeUs0SkNRa2twb0R6VlZhcUtsQVRiOU5tQk80OGc3M3F0OVBYZTBF?oc=5",
+        "pubTime": "2026-11-13 01:00",
+        "source": "news.google.com",
+        "titleZh": "川普提議由蘋果執行長提姆·庫克接替黃仁勳的職位——《星報》，肯亞",
+        "descZh": "川普提議由蘋果執行長提姆·庫克接替黃仁勳&nbsp;&nbsp;《星報》，肯亞"
+      },
+      {
+        "title": "Trump Floats Tim Cook to Replace Jensen Huang as Nvidia CEO - Newsweek",
+        "desc": "Trump Floats Tim Cook to Replace Jensen Huang as Nvidia CEO&nbsp;&nbsp;Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzNQNkhOeXMwcDA3amhPdFM4NUQtRHUxSjE0OUdkUVVRYlNQRHBUS01jSlNFSTNJNnlPR19rd3R6R3p6ZW5pMm5FY0N6R1lVWHV0dmRMY3BBX0ZkZERqTGYtVnJsZy1ZVGROODgtNEdmNDJZOTBXWGNGSEpIM0JPMzFROG9sZjA?oc=5",
+        "pubTime": "2026-11-13 00:45",
+        "source": "news.google.com",
+        "titleZh": "川普提名提姆·庫克接替黃仁勳擔任英偉達執行長——《新聞週刊》",
+        "descZh": "川普提名提姆·庫克接替黃仁勳擔任英偉達執行長&nbsp;&nbsp;《新聞週刊》"
+      },
+      {
+        "title": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO - Gizmodo",
+        "desc": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO&nbsp;&nbsp;Gizmodo",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcE4td1h6T1F3VTB5MUtHbnB3ZHBmQUh0a2Rfcldhcmt2b2Rtd3pfNGlPM1FhckVfOExTT0Q0YXpXU0VvcFM4MDRSV3R5STFSNHp5V21lMWtrYlR2X1BvT3pidkhhbmVGQTgxWm9pR29GdlVs?oc=5",
+        "pubTime": "2026-11-13 00:45",
+        "source": "news.google.com",
+        "titleZh": "川普希望提姆·蘋果接替黃仁勳擔任英偉達執行長 — Gizmodo",
+        "descZh": "川普希望提姆·蘋果接替黃仁勳擔任英偉達執行長&nbsp;&nbsp;Gizmodo"
+      },
+      {
+        "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
+        "desc": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5",
+        "pubTime": "2026-11-13 00:25",
+        "source": "news.google.com",
+        "titleZh": "川普呼籲提姆·庫克接替黃仁勳擔任英偉達執行長 —— 《The Hill》",
+        "descZh": "川普呼籲提姆·庫克接替黃仁勳執掌英偉達&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Donald Trump says Tim Cook should replace Jensen Huang at Nvidia: All about former Apple CEO who once took - The Economic Times",
+        "desc": "Donald Trump says Tim Cook should replace Jensen Huang at Nvidia: All about former Apple CEO who once took&nbsp;&nbsp;The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNYWJGNlExNXJxSE9acmkyaG9id1M4S21oWjhKbG9jOFVLalJuUE5OcDlQcEl1RVdnUko0cXVNeXFmZjBibWhkbUJvcE1oUDNJQnU0Qnd3ZUdISW8zY2IwTmFvSXhWQ1dPOThFZktoN1NsWkpyOHZHVWFfOFBhRWlFczhwMzVYbGJSOGpERUFjTUJqRkZPZ0lGOFRUZkdaY2pZd3ZZemQ4Ul9JNnU5djg2M3pIejJZSVFtdnp4WFFrcHRKdGZrek1oQWhkelV2bmRUZ0J3b21zM2VKNENEWk54M2dsRHZLVlVYTDhodWVMcU9xWER6ZkZubG5uQ0pTRmE3Vk45NkY1OTZHeWV2NmlUbWF3RHE4cVdaUDRYMFk4enBtLVlpMW5HSElwZFVRYUpoQmF6NWdDbVBvQ1dZTDRsZWFDOWpXdEF3c2RJ0gHQAkFVX3lxTE9ucEV6NlBqUGl6Z2tKNWlyV2FnbjVKWUh2c3daUDg5NEZzZlBrNHBQSmRFeThzczJNSGlhaXE3SklIYkV5SUN3N3JwYVJ4eFluR09FOTVIMFJ1WkVOd0xZNmxLVXItc0g1TjQ0ci1LYUhrSjBNY0ZtNlNFcjhCWlpWYUR5WTAxZVRTeUFjd3VjOHNjS3Azb29SZzAxUTFBcTJXM1hGTGw3RVFxcHBrcDJIWXA1dm9CNG5hRGV4ZHBHc3NDUEwzMkc0U0FRZURvQ0hvUmRtenJybUpfZmlQVXJmQkRCdE1SWkFwcjE3SGhrSDJMSzY1OGlzTDIzSEY3Z2RXT21ia29lRVQyb1dpN1E3M1ZDdU16RVR1RnhNelR3dVg2LWM4Z2Vwcko5M2dIY3ByOVpDTUhraGpmclZjSkJBUDNpeWEwZE1Nakt6TWp0Qg?oc=5",
+        "pubTime": "2026-11-13 00:23",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普表示，提姆·庫克應接替黃仁勳出任英偉達執行長：關於這位曾任蘋果執行長的人物的一切——《經濟時報》",
+        "descZh": "唐納德·川普表示，提姆·庫克應接替黃仁勳出任英偉達執行長：關於這位曾任蘋果執行長的前任高層的一切&nbsp;&nbsp;《經濟時報》"
+      },
+      {
+        "title": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters",
+        "desc": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
+        "pubTime": "2026-11-13 00:12",
+        "source": "news.google.com",
+        "titleZh": "川普稱前蘋果執行長庫克是「傳奇人物」，應接替黃仁勳執掌英偉達——路透社",
+        "descZh": "川普稱前蘋果執行長庫克是「傳奇人物」，應接替黃仁勳執掌英偉達&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Takaichi looks to meet with Trump to head off defense spending demands - Nikkei Asia",
+        "desc": "Takaichi looks to meet with Trump to head off defense spending demands&nbsp;&nbsp;Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmV6OVpmdkx1OTRVMF93eGFNd09QVl9LR0pjbUVkSXlWOHVidXpwendzT3VzeWVOMmR2TmpxamJ1QXo3S09OSmlYWXlsNkhoT0ItdTRoa3ZiSXF2bGpRdjl5RV9QZWRKcFNBckpNYjMtaU1JX29NVW53WHBYNnVOeXJRenRLeWJFcVdlOC1EUnpVMGNFaFk2V1ZhcmRPTDNkaDRYeXhYUTczTlp4LWIzVzh2WG5teEcxNmZKcWhJcF9HME41aUE?oc=5",
+        "pubTime": "2026-11-13 00:00",
+        "source": "news.google.com",
+        "titleZh": "高市希望與川普會面，以化解國防開支要求 —— 《日經亞洲》",
+        "descZh": "高市希望與川普會面，以化解國防開支要求&nbsp;&nbsp;《日經亞洲》"
+      },
+      {
+        "title": "Trump-Kim Summit Talks Revisited Amid Asia Tour - 조선일보",
+        "desc": "Trump-Kim Summit Talks Revisited Amid Asia Tour&nbsp;&nbsp;조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDVwcXVqeFZHSGlVQkwwU3hFUGdUb0stTUgyWl9LOEpTSnRyZWNlQms2T2F5TEtMTUlaTDFoaVpWSjk1NmJwWDVnNE40b05YZWV6bHc4YU16cldjMUlISFd3NnpMdVBxR1dVNFBReVkxTGl4R3U1S2JqYldjX0FQV2g3U1dJSVFN?oc=5",
+        "pubTime": "2026-11-12 23:58",
+        "source": "news.google.com",
+        "titleZh": "亞洲之行期間，重新審視川普與金正恩峰會談判 - 《朝鮮日報》",
+        "descZh": "亞洲之行期間，重新審視川普與金正恩的峰會談判&nbsp;&nbsp;《朝鮮日報》"
+      },
+      {
+        "title": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’ - Livemint",
+        "desc": "Trump endorses former Apple CEO Tim Cook to replace Jensen Huang as Nvidia CEO: ‘A legend replaces a legend’&nbsp;&nbsp;Livemint",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZmZ3U2l5RDV4MVBobUoxR2lGd2k5UDFtcVI5d0M4UzNPbVdNQzJzZG8wTlV4NXdzZGxfQ0ZXamtpN25XQkpqR1o0SkNGMmQyOE9sN2hRSnZNcDZVc25EYU11NEM2ZHV6Z0k3STVoQmU4RkJwMS1PNVhZZmprN3N2cUdPT0RsbU9hbzJFSVYwZEQtZzRrVzlGZVZTY2hxRkZESXQ0NU5nbEVMTHp4RU5pVjNHS0pzMENsbVVDX21Zb3Q2Z3F6cTd6ZERneWpSVXB3dTY3eTF5UUJIRDl6YzVMR0hBRVJYQ1ZITVBV0gHwAUFVX3lxTE9lUVh5OU9BZ0w5ZVNCQUplYzVVU0dEV2VZMU9yR1dLVVZESkgzckw1dEh4UEV0UmYyN3dITm5OM0hZV1VpeGpVNl80X2ZRV1ZIZl9jdW1jemhSTmVTYW1Hei0wV1hfbFowMkxmUUR6UldRQlFGRElla3EwbFVLY3RNSWFWY010OTB5amJwUFhJMm5lTEtKeWY3SnJXcnp0OUdWeWdBX0FoUk9ISEFvZUtKN0d0bVRCV0dtQ2JGQnZDS0ttM2k2R1R0MXotcE5ocVJac2FLQU5qRkcxWFRxNnExVnZGandUTTZjTXhseC12RQ?oc=5",
+        "pubTime": "2026-11-12 23:55",
+        "source": "news.google.com",
+        "titleZh": "川普力挺前蘋果執行長提姆·庫克接替黃仁勳出任英偉達執行長：「一位傳奇接替另一位傳奇」——Livemint",
+        "descZh": "川普力挺前蘋果執行長提姆·庫克接替黃仁勳出任英偉達執行長：「一位傳奇接替另一位傳奇」&nbsp;&nbsp;Livemint"
+      },
+      {
+        "title": "'A legend replaces a legend': Trump backs Apple's Tim Cook to succeed Jensen Huang as Nvidia CEO - Business Today",
+        "desc": "'A legend replaces a legend': Trump backs Apple's Tim Cook to succeed Jensen Huang as Nvidia CEO&nbsp;&nbsp;Business Today",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUV5SnFJaHZYUzNNQTJxdFJBVmt6MV9WT2kzQVhBWV9sSVpTNExDZ2w4dDN3Z0lBVnV0UjV0X2VaYjFoMy1rLWF0azhrdDJmeWZCbVpvUnowWC1oRDE0ZFRCU3VmdU12QXlGVzhBOGZ6ak4wZ0VNekpJazlmOGlCUk44OU01Ry1hVkplM1R1cHRJbWR4NXdGY2k2U3FBX1R3azZrVUtHcDFKQ2tnWkx2bXZQejVHQ29FMHFnbzg2TlVtNVpLcUdrcUl5YWFDRV9kYkN3UGdHbHV2VFBKVGF5TXZ2a3htTEl3Sm1RbldobkJkZjTSAfgBQVVfeXFMTUZGcVVDM29lTFJDc0FScW9PQU9TVDl0WFRWNE5KZlZiNmxaQTZqM2l3Z0Q1TkRoT08xcl9CU0M1aFowaHJjUXIwVGFqV05oUUs2SlJxZXlqa1FZT1VvbXlsejBSTU5EcFd1dmQzaEd1VE9kYVJHMC0tZTZHbzBUSE4ycFN1dmZIWlQwb21HU1FYalEtR21UalVKY3c2MC1BWkxDeXdlVmk2N3FEMlFkTEZHRFdwRFEyZVJzYXByanlwVW9WWTNBUU1EakdPNkQ0aW9qRmVqZzNtYmxQbE0xSi1mVlVQZE5YM202WHF1UlcxSWxfQ2czN3Q?oc=5",
+        "pubTime": "2026-11-12 23:54",
+        "source": "news.google.com",
+        "titleZh": "「傳奇接替傳奇」：川普力挺蘋果執行長提姆·庫克接替黃仁勳，出任英偉達執行長——《今日商業》",
+        "descZh": "「傳奇接替傳奇」：川普力挺蘋果執行長提姆·庫克接替黃仁勳，出任英偉達執行長&nbsp;&nbsp;《今日商業》"
+      },
+      {
+        "title": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang - The Times of India",
+        "desc": "'Legend replaces a legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang&nbsp;&nbsp;The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOFJ4cTB2X3lGTmhNcGc0enNBUmFhMVdWRGFMTW1oT3RlR2FGdGlLcXExUEw0YVVPYVBoOGN4MHBoTllEZjY4TS1BRUtzOWZPQnJPSkNjdW5GT1Y1TGVQS1JDNlJhVWVadGt4NFdHbzEzRzVfWVZ0Q1pjRnM4WU9zY2RneWhEaExzOGpwSGhkRk5TVlNpZ1ZPdTZaOXo4WVBwZlFBOFhFZHFTYk05ek5aUFlLSGU5NnBqcklKekltNmFZMng4blFZV2JUYmx6Si1qTDFrTjNYT0sxX1VpVEd4YWxIanpWUWFYVlB4Y1lJVTFXWnRoMndfQ0Y1b3ZWMVAxLXB2VtIBigJBVV95cUxNRXg5QlNRTFpoQUc5TnJPMThfc0h5VTczWlRiWTg2YW5NOHROaFNIcXNRSHY2T2dUZlZWQVlLNWhTNl9mQ1VfWUFOUjVaV3BfWktEODJReU1ZbV9yU1UxTk9nQ2hyOGNEM1NzdVp5Y2pDVmNnLUl2THlOYWdBTE9yRkZGa1N4SUF5d0RFNWw4bnlTQnczdEdNVWpMT2JkMUdBcnk3X09BRmdacDVCQnJzenJYOUxWSWd0UTJseEtzdFBfdFQ0WTBnSVRNaDZpWGFTbmdFWGVXdm5DUTNWeHp1R19BY3F4S3BuWTF6T3J2dmJVZWZpcjcxbzlLQ0dSaTBibl9IbVpMSlk3Zw?oc=5",
+        "pubTime": "2026-11-12 23:50",
+        "source": "news.google.com",
+        "titleZh": "「傳奇接替傳奇」：川普希望提姆·庫克接替英偉達執行長黃仁勳 —— 《印度時報》",
+        "descZh": "「傳奇接替傳奇」：川普希望提姆·庫克接替英偉達執行長黃仁勳&nbsp;&nbsp;《印度時報》"
+      },
+      {
+        "title": "Trump suggests Tim Cook should replace Jensen Huang as Nvidia CEO - Crypto Briefing",
+        "desc": "Trump suggests Tim Cook should replace Jensen Huang as Nvidia CEO&nbsp;&nbsp;Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FM1pLVGkzRmlfcFJkMzgyeVVZZXJHcHVnbHhNUk8xU0xzRmNxV05hLWtMbXRtR1VCdkcxLUVSR0UzbFhlM2tTbnpqZDJTQklMekJfWkVyYlk0cTVsMlJPZ3JLR0JvNUwyQmt1STRmdFJHeGt2MjJpcXl3?oc=5",
+        "pubTime": "2026-11-12 23:40",
+        "source": "news.google.com",
+        "titleZh": "川普建議由提姆·庫克接替黃仁勳，出任英偉達執行長 —— Crypto Briefing",
+        "descZh": "川普建議由提姆·庫克接替黃仁勳擔任英偉達執行長&nbsp;&nbsp;《Crypto Briefing》"
+      },
+      {
+        "title": "'Legend Replaces A Legend': Trump Wants Tim Cook To Run Nvidia After Jensen Huang's Exit - NDTV Profit",
+        "desc": "'Legend Replaces A Legend': Trump Wants Tim Cook To Run Nvidia After Jensen Huang's Exit&nbsp;&nbsp;NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMDBjeFZET0stTURJLTFWcTRmWFUxQU9RYVpsYkI5a1h5TDZVVW94MW1pNzYtaDlXLUx5UUREUHlGUEF3RmpIdDhzeTJMSnoxb0dFWmtxb0lkSnEtYVpOc0lpSjF5V0pCZGh1bTV3U2ZQeEx1LUZsTjh5TTVWMnFXZkc0aVp5T3RDLS14WTZKSTNxZUI3RDNnbXkzanVhUW10aXFLclh1TkVGTHFWWEMtVHNKcmlsb0laQmMzTDhYdGZsTHPSAcsBQVVfeXFMTkpHZXJkaE85QmxZNnBvUXpRbTdlVnpFOGJLVUF0RGRrVUpTSTVISW11QVBYNlBoT3BxZUVheHN1b1BIbWx4QUVNVmd5cXRBMGpRWUY4bDhYeXJqUlQ2b0h6cklSblJoaldnTUJ1bDdFZnR2NkdGYXYwRUw0VUM3dFV6bHl2TkNIMFRLSG4yWm1ZXzl2V28yODBhMmFnbFdoVHNrdVI4Q0kxZkZYcUIwNUI2VC0tYTNwaG56MEZlYUtISGltV3U2X0dReWc?oc=5",
+        "pubTime": "2026-11-12 23:38",
+        "source": "news.google.com",
+        "titleZh": "「傳奇接替傳奇」：黃仁勳離任後，川普希望提姆·庫克接掌英偉達 - NDTV Profit",
+        "descZh": "「傳奇接替傳奇」：黃仁勳離任後，川普希望提姆·庫克接掌英偉達&nbsp;&nbsp;NDTV Profit"
+      },
+      {
+        "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
+        "desc": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy&nbsp;&nbsp;Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS09ONzhRcWgxeFF1TTJoSDlHbW9xRVZTZWozVm5EcWdNNTBJcUFnWS04V1V0X2Y2NDEtOFlhVnZSSUlKZ0N6U05GMG1TemRkLTRUNXhXVzhOSm5abVg3ajJlZEtCQ3hWc212Y3BOM3lwZUF6T0U2eGJ2bGNucWVaVjVlSERUNjlq?oc=5",
+        "pubTime": "2026-11-12 22:37",
+        "source": "news.google.com",
+        "titleZh": "加拿大警告將損害美國經濟，川普關稅政策適得其反——《新聞週刊》",
+        "descZh": "川普關稅招致反效果　加拿大警告將損害美國經濟&nbsp;&nbsp;《新聞週刊》"
+      },
+      {
+        "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise - CNBC",
+        "desc": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREd1Qk8yb2FyRTJnblVuX0lQNkhyZWFfckhCVjZVTVJBR0RwbUtNZEppUHVWZ015aThqZGY1bG9BRExVRVhIM0E5NEhOa05wRENZNmswWWQ1TXlnWTlEZVJzSnhhLThZWDB5QS1QVElqMkFyZzBuZnJXOGNEd19XcnZFQU5YTk9S0gGOAUFVX3lxTE12b1JISnFVV18zV2RlTzAxX3lyX2pHSmg3Qkh2b3VuNmFXcjlCUExLaHd5TGZjQ0JCRmNwTy0yc19iQ2FEa1ktRDdZeExMSm9mZ2lQcWNnSHFCYzVzRmg4NUR4MWJzdHpfNDY5Zjl2QmNnSkJlTXYtRUZNb0pfWkY1Z1BCSmpBU3NBeE0xZUE?oc=5",
+        "pubTime": "2026-11-12 21:31",
+        "source": "news.google.com",
+        "titleZh": "隨著關稅威脅升溫，川普政府貿易負責人格里爾接受《Squawk Box》專訪——CNBC",
+        "descZh": "隨著關稅威脅升溫，川普政府貿易主管格里爾接受《Squawk Box》專訪&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+        "desc": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-12 20:56",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "民主黨人史考特·科洛姆創下歷史，成為自19世紀以來密西西比州首位非裔參議員",
+        "descZh": "在這個兩年前川普曾以22個百分點優勢勝出的州，科洛姆的勝選延續了民主黨在參議院的一連串勝利。"
+      },
+      {
+        "title": "‘There are still some tough issues to resolve’: Carney says Trump’s White House will call the shots on trade, even after midterm defeat - Money.ca",
+        "desc": "‘There are still some tough issues to resolve’: Carney says Trump’s White House will call the shots on trade, even after midterm defeat&nbsp;&nbsp;Money.ca",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kbmQ2dHdSeTI2YlhaWm1iQ0RtSHBJQWVHS2xRT05idUV2ak5WUHdLclk1T2tBMVY2Z0QwQ3ZiZThEMWV5eTlJOEF5NnFqQXRMVUNVSGRuNi0tWHZMQVNtQWJHcTlPSzktNzVwMjVjYnRJTzY0c2NtSWRMOA?oc=5",
+        "pubTime": "2026-11-12 19:30",
+        "source": "news.google.com",
+        "titleZh": "「仍有若干棘手問題待解決」：卡尼表示，即使在中期選舉失利後，川普的白宮仍將在貿易問題上掌握主導權 - Money.ca",
+        "descZh": "「仍有若干棘手問題待解決」：卡尼表示，即使在中期選舉失利後，川普的白宮仍將在貿易問題上掌握主導權&nbsp;&nbsp;Money.ca"
+      },
+      {
+        "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end - CNBC",
+        "desc": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80V0syTE1ELXIwZUwybW9ET0h0cktNc1k0Sjc2b2tuUk1QR1hnTzNRNGJDYmVWV0dhWW1kQkV0VmVEd2VBQlRkdXR4YlBacHd3Z2VPeDJQS3lDR3EwSmpCejRGTm1qRGNwTGo5TE1nMk5qbW45azlHSlNB0gF_QVVfeXFMTzgwOHVPWEp5eXc4RjhidjVNekNmTHRUc1BwWXZSNVBVbGJfbTRnVGJLU25jWG5ubFpYVFpBQmlHNHZQNDNueml5dXlmbDh0QkJ1VC0zcnlOMVhxb2RYVi1QVnhwOEhBN3JzZHE1WEV3MUotVWlXSlZNNC1aRS11aw?oc=5",
+        "pubTime": "2026-11-12 07:57",
+        "source": "news.google.com",
+        "titleZh": "《Inside India》電子報：川普民調受挫，提振年底前達成美印貿易協定的希望 —— CNBC",
+        "descZh": "《Inside India》電子報：川普民調受挫，為年底前達成美印貿易協定帶來希望&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment - CNBC",
+        "desc": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSU1YMHJMZ1Z5dkdxNWx5S3gyOUlSSVZiQW9LNEZvVmlTblc1SW1vVFZiZ2R1alZDQjI3QnZERy1VNmxxcUZUSlNrNzBVd0xEUUp2dlRUd2tNVzNjX0lRYl9iV0Y1cjR0cmE5NHE1VzBqVFU4WndsdGtEN1RqRmUxa2dOb3FBVmPSAYwBQVVfeXFMTjByOGROU19PWUV1RnEwbXZUQWd0Zm5DYWp1SDNxRUd0am42UWVHU3M5UHlGWUtIRHhVdGhMV0NlTFNaMHlidUsxU1ZlTE8wejNaUHh4RC15Z1ZFR3M3bGVPeUkyVkptS2g4Sjc3VExtcnNleTZPNDhsZVFNOFVGTmNwRHluQkJYSzh3aUg?oc=5",
+        "pubTime": "2026-11-12 04:02",
+        "source": "news.google.com",
+        "titleZh": "加拿大大使警告，川普的關稅正推高成本，威脅美國投資 - CNBC",
+        "descZh": "加拿大大使警告，川普的關稅正推高成本，威脅美國投資&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trump says 'we won' Iran war during Veterans Day service",
+        "desc": "US President Donald Trump placed a wreath at the Tomb of the Unknown Soldier before making remarks at the Veterans Day ceremony at Arlington National Cemetery.",
+        "url": "https://www.bbc.co.uk/news/videos/cke89dqmlp2eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-12 03:30",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在退伍軍人節紀念儀式上表示，我們在伊朗戰爭中「贏了」",
+        "descZh": "美國總統唐納德·川普在阿靈頓國家公墓舉行的退伍軍人節儀式上致詞前，先在無名戰士墓前獻上花圈。"
+      },
+      {
+        "title": "Spy scandal highlights contradictions at heart of Trump’s China policy - The Washington Post",
+        "desc": "Spy scandal highlights contradictions at heart of Trump’s China policy&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDVzYVlOQlpmSUtwLVh6RWUtdUljTUZMM0tFZmFXRGc4YUNaUVEtZHdxdXZjd2d6VlVUUmxqOElObzFFSnBkRUJqMzdBYmdFVVpIc2pGbTB2WWVaNFVpOGJRSXlYX2dRTlozOUNIbmhsWEpvUTNNTUNqTHBUa1RVX05JdndwN183aF82akFWTFMzaHJjYURqbjViRl8zWjBNNkVJTjM2T3Q?oc=5",
+        "pubTime": "2026-11-12 02:00",
+        "source": "news.google.com",
+        "titleZh": "間諜醜聞凸顯川普對華政策核心的矛盾——《華盛頓郵報》",
+        "descZh": "間諜醜聞凸顯川普對華政策核心的矛盾&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "desc": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-12 00:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "美國財政部長史考特·貝森特在據稱遭到伊朗威脅後調任他處",
+        "descZh": "貝森特目前是因安全考量而居住在軍事基地的幾位川普政府官員之一。"
+      },
+      {
+        "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy - The New York Times",
+        "desc": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWlBQbTI3NE1qbVR5d2g0V1NTQ1Jva1NlSFZ4ejRESy1qNFY3eFBFZUdnR1hOVm5FS0liOFo5SVk5NGhlLUk4clp2aGNOSmQ5bHNfM3ItdWpycGNza1FEQ0pPUFhfNzZUbWZ1aUpJTEs1cFRB?oc=5",
+        "pubTime": "2026-11-11 22:57",
+        "source": "news.google.com",
+        "titleZh": "Nvidia 醜聞揭露特朗普與習近平外交背後正激烈進行的間諜戰 —— 《紐約時報》",
+        "descZh": "Nvidia 醜聞揭露了特朗普與習近平外交背後正激烈進行的間諜戰&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "How midterm results reshape the trade landscape as tariff relief, Canada talks and USMCA review loom - Automotive News",
+        "desc": "How midterm results reshape the trade landscape as tariff relief, Canada talks and USMCA review loom&nbsp;&nbsp;Automotive News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHAzLW1WODlTS1hnSHNpUWV3U0NIb0dMajZTb0xfUG9wVVVxZ0NWMTFqOEdoTEE5TnRVTVdjTmxnYm9oQlhacl9HZzRIYTBJU0JuczlvdW1HRnpsOGN2Nm9DYTltbWJWZzhEVEZoVlBXeUZZVk9ick9jVV9TM3NwUzVTdw?oc=5",
+        "pubTime": "2026-11-11 20:00",
+        "source": "news.google.com",
+        "titleZh": "期中選舉結果如何重塑貿易格局？關稅減免、加拿大談判及《美墨加協定》審查迫在眉睫 - 《汽車新聞》",
+        "descZh": "中期選舉結果如何重塑貿易格局？關稅減免、加拿大談判及《美墨加協定》審查迫在眉睫&nbsp;&nbsp;《汽車新聞》"
+      },
+      {
+        "title": "Trump Is Facing a Very Different North Korea - Foreign Affairs",
+        "desc": "Trump Is Facing a Very Different North Korea&nbsp;&nbsp;Foreign Affairs",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVhXVDNrdFJJRmFOSk9jZWYtSkVZVkFqWjZNVHJLU2dkS2hlV3RVVnRuQUcyTGtLYS1DU2xoQ3Q3OU53YjR5SWpWMVhqNW1tM2pCVkhNOHRMcjM4aEtsLVZNX3Btc0drUi1XTmtBT1JVXzlibGJyNlk1dVBZSDlDclRmY3pWcXVhSFE?oc=5",
+        "pubTime": "2026-11-11 17:00",
+        "source": "news.google.com",
+        "titleZh": "川普面臨的是一個截然不同的北韓——《外交事務》",
+        "descZh": "川普面臨的是一個截然不同的北韓&nbsp;&nbsp;《外交事務》"
+      },
+      {
+        "title": "Democrats Win Big in U.S. Midterms, Congress Set to Reclaim Tariff Authority — \"Beginning of the End\" for Trump's Trade Policy - BigGo Finance",
+        "desc": "Democrats Win Big in U.S. Midterms, Congress Set to Reclaim Tariff Authority — \"Beginning of the End\" for Trump's Trade Policy&nbsp;&nbsp;BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XOUdOTEI2aVNqUFdOcnNjalRuaDhnWWxLTjJZNFVUYm1kOEtBM2R4Y2NiRnpWaTV1cXd5WnNmNE9WeHpYZVFmcGZWOU9WTjR4SldUS3BzZU5uUXNKRlVkeFJHWXFIMmdzSnpILTk1VWxyUGd0eEE?oc=5",
+        "pubTime": "2026-11-11 11:55",
+        "source": "news.google.com",
+        "titleZh": "民主黨在美國中期選舉中大獲全勝，國會即將重掌關稅權力——川普貿易政策的「終結序幕」 - BigGo Finance",
+        "descZh": "民主黨在美國中期選舉中大獲全勝，國會即將重掌關稅權力——川普貿易政策的「終結序幕」&nbsp;&nbsp;BigGo Finance"
+      }
+    ]
+  },
+  {
     "date": "20261112",
     "fetchTime": "2026-11-12 09:56",
     "count": 30,
@@ -4519,58 +4886,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "美國中期選舉的勝負關鍵何在",
         "descZh": "深入剖析這場將決定川普總統任期最後兩年走向的選舉前，各項關鍵民調、選戰態勢及議題。"
-      }
-    ]
-  },
-  {
-    "date": "20261014",
-    "fetchTime": "2026-10-14 07:45",
-    "count": 5,
-    "articles": [
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "desc": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-14 03:23",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "川普在貪腐指控後解除了金伯莉·吉爾福伊爾的美國駐希臘大使職務",
-        "descZh": "吉爾福伊爾表示，有關不當行為的指控是虛假的，並稱擔任大使是「一生難得的榮譽」。"
-      },
-      {
-        "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-        "desc": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-        "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-14 01:04",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "凱蒂·扎卡里亞在她的首次——且非常簡短的——白宮簡報會上表現如何？",
-        "descZh": "BBC記者莎拉·史密斯當時就在現場，她描述了扎卡里亞的表現，以及她獨家披露金伯利·吉爾福伊爾被要求辭職的那一刻。"
-      },
-      {
-        "title": "Democrats say Trump’s trade deals were corrupt. They’re gearing up to investigate. - Politico",
-        "desc": "Democrats say Trump’s trade deals were corrupt. They’re gearing up to investigate.&nbsp;&nbsp;Politico",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVlYNjRqOTI0Z3hWcFJ0LW82M3lUN0N5N3IyUm9QQ3ZKdjFuVlFOSjM0YTljcV9VbW5mUG5FU2lUODYtR0FhQTFzMHhneHNiWmFjRmpSVEJJMHNzRy1TWklqU3hQN2FKam00ekxEd1djLThpc041bUN0dkxuUl9KTk90ZlYza0hRMGMtZTlrQjhKQQ?oc=5",
-        "pubTime": "2026-10-13 16:45",
-        "source": "news.google.com",
-        "titleZh": "民主黨人指稱川普的貿易協議存在貪腐問題。他們正著手展開調查。——《Politico》",
-        "descZh": "民主黨人指稱川普的貿易協議存在貪腐問題。他們正著手展開調查。&nbsp;&nbsp;《Politico》"
-      },
-      {
-        "title": "Where the US midterm elections will be won and lost",
-        "desc": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-13 13:02",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國中期選舉的勝負關鍵何在",
-        "descZh": "深入剖析這場將決定川普總統任內最後兩年走向的選舉前，各項關鍵民調、選戰態勢及議題。"
-      },
-      {
-        "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-        "desc": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-13 05:07",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "分析：關鍵選舉前幾週，川普面臨的全球難題日益加劇",
-        "descZh": "隨著選舉日日益臨近，總統將目光投向海外，尋求解決一項迫在眉睫的國內問題的協助。"
       }
     ]
   }
