@@ -1,5 +1,201 @@
 [
   {
+    "date": "20261117",
+    "fetchTime": "2026-11-17 10:59",
+    "count": 21,
+    "articles": [
+      {
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "desc": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-17 10:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Nvidia 駁回「讓詹森回來」運動，而川普則支持讓前執行長復職的努力",
+        "descZh": "多位科技界人士已響應一項呼籲，要求這家人工智慧晶片巨頭讓黃仁勳重返崗位。"
+      },
+      {
+        "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
+        "desc": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlDQ0VJUFBIZS1nQTJUN281Z2JRbmJ4N3JFSEo2cDJYdlpXOWhIWkw4Mm95ZXZXWkQ1MjJGRnZCVkVKUWlVakVub2ZwU0dhVUJKeGtJclFVa2pMZFVMZjRmYUhTbFBZV1BGdENBdGkzMV9nZGRaUkhFcVJMYUtITkN3M0pwRFlsQmkxUXNIaEpPanZIRll1TVNXRFJpVzlDOTNLUTVaNDY1Ql9TVXdV?oc=5",
+        "pubTime": "2026-11-17 10:09",
+        "source": "news.google.com",
+        "titleZh": "川普政府下令商務部堵住英偉達醜聞核心的晶片漏洞——《華盛頓郵報》",
+        "descZh": "川普政府下令商務部堵住英偉達醜聞核心的晶片漏洞&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access - CNBC",
+        "desc": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access&nbsp;&nbsp;CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTBVdnBsa3dsRmN0X3c2YjR4REozem9ZUW5UcGx4WEdMTS1qYUhjbjNRU3J5UE81VjhPR0Q4cUV1UFBVSlUzSEtwTW5saFh0QTE3ZkJkZXF1V013cDFMaTNXRThwT2lBdkF0aVdxZXlIRXc4cFR4WXJjOTNMZUJZMtIBhgFBVV95cUxQMGFndkM3RUMtUkFEVDRPZmZmTHZVdXlVbl9GQ1RWY3dsMUhSVzE5SjNGcVJOLUVJb2szbmNudy1oZUVScGhoQklaUzdPV0hpTmZvYktWUFpBLXhVMnV3WG5PVkdIdTFDU1NKQ3o5al9TM1Q5VDE2Ul9GUFVEQWIwWUUzcFlTQQ?oc=5",
+        "pubTime": "2026-11-17 05:52",
+        "source": "news.google.com",
+        "titleZh": "隨著黃仁勳獲得白宮接見機會，川普旗下帳戶持有的 Nvidia 股票交易額最高達 9,750 萬美元 —— CNBC",
+        "descZh": "隨著黃仁勳獲得白宮接見機會，川普名下帳戶持有的 Nvidia 股票交易額最高達 9,750 萬美元&nbsp;&nbsp;CNBC"
+      },
+      {
+        "title": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win - Aurora Sentinel",
+        "desc": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win&nbsp;&nbsp;Aurora Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakVVX2NOMndES2dhRFl0SVQ5OTFIWmZBWnlWb2xZY2x1NEpPY3hMc0FTSzV2elk4RVlqRTZZaU4xWlVPVE9xamowbmdBOHg5ZjFreVp0NDBNNHg1cTFQVm5DSmZJcHZSWjVPSmVpd3JJekVHYmZGQWQybEVsUUJLbjhnXzBqSXozcHlQRENfb0FXWnJ1WjVGTFkyeGJHelNrV3ZVdVN3b2NwX09SR3JBV1VzTVp0WlRxWFZtSGpHNEJKZ1NIZnQtM2JwWVZnbFU?oc=5",
+        "pubTime": "2026-11-17 05:23",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些關稅仍非易事——《奧羅拉哨兵報》",
+        "descZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些措施仍將十分困難&nbsp;&nbsp;《奧羅拉哨兵報》"
+      },
+      {
+        "title": "Trump says he 'would not mind' Huang returning as Nvidia CEO - KABB",
+        "desc": "Trump says he 'would not mind' Huang returning as Nvidia CEO&nbsp;&nbsp;KABB",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY242eTBPWm1IVDROcWZTQzBGdmtvUnNfc19OWFRFQmItSHVQcGFOMUtPdW9zcl9MMTBtU0ktZVc4MTZMU1FGLWJTRWdLbkRRWldCQ1hXS0x1Szl6NnZMWHVGUkpVYXE3T092eDhucmhWSHJvSDBWaXVHWDVqaWYtNjd2NmVaeFZ4dGVseTVDLW1UTnRhbmt6T0R1MS14dFVkWjBJQlFFWWxVeERIZjMxdkJ2MG9ldDQ4LUM3Qk5IaEIwUDZqeExsTEI2cGVDWDdFb1JTQ2s3VHBUN3M?oc=5",
+        "pubTime": "2026-11-17 04:09",
+        "source": "news.google.com",
+        "titleZh": "川普表示，他「不介意」黃仁勳重返英偉達擔任執行長 —— KABB",
+        "descZh": "川普表示，他「不介意」黃仁勳重返英偉達擔任執行長&nbsp;&nbsp;KABB"
+      },
+      {
+        "title": "Donald Trump Says He Would Welcome Jensen Huangs Return As Nvidia CEO, Raises Questions Over China Spy - Free Press Journal",
+        "desc": "Donald Trump Says He Would Welcome Jensen Huangs Return As Nvidia CEO, Raises Questions Over China Spy&nbsp;&nbsp;Free Press Journal",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnlIMjNKUnhhcnhFZkI3SGt0cVEzV2ZGVXZhQkhaR0tHV2g5d3g1Zy0xVmlGTUI2S2Vudnc2YTl5Z3RmcXhwZjVYejJXX3cxaHlQRDVETzBnLVVFTGZ1eDkyS1lwNlZ1NHh5NFlfeWtjYzBFNFhBTUhLeDY4ZkdxaVlEaVpjbnpKenlyZ1QxSWdBaU9NTUhhb2JlazljTUtfM3QwZzhvaVlJNkdUXzBBYnNjTFVKT3pXM1NqRWh0a0RrUk56S3hoLVItZHF5d3Znd2NXQ1F5T2Ixa09raHZLZDd5WUbSAeoBQVVfeXFMT0ZiTUlBNkpvZWNUSzhWM2ItMkZERlA4WnlwVHFHbEJYQ012X0lxOHczWGF4cEszZmVsclVmUEMtWmJzQThMMXIzXzFEbUg2VHl6a2pXcHl2UnlhNHB4aFFvZWl6aWktV1BXVlhIMG5FWl9JdUYtSnhfZVBUU0phaUUwSEFMektNMWZJcml4MDFHR3Bad2k4Q0lDOVBTbnhEOUZFc3VkRXR6R2lpd2Q1bmc0U2xJckYxaTlVRGlUMnpNQUdxcG9VV2t3NDZYUE1ZUnRjNGJpVzV0QzE4NmhWUUhtanlMblF1N3pR?oc=5",
+        "pubTime": "2026-11-17 02:02",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普表示，他樂見黃仁勳重返英偉達擔任執行長，但對其涉及中國間諜活動一事提出質疑——《自由新聞報》",
+        "descZh": "唐納德·川普表示，他樂見黃仁勳重返英偉達擔任執行長，但對中國間諜一事提出質疑——《自由新聞報》"
+      },
+      {
+        "title": "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi - Time Magazine",
+        "desc": "U.S. to Clamp Down On AI Chip Loophole Ahead Of Trump Meeting With Xi&nbsp;&nbsp;Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYU5GWVh2bE4xM0M3OE1Ca2ZEZFlKUzFWWDBSSHBnbElDRHowLVk4N0pMNEt4ZlJ0anR3Qlk3Z3JEUlNFc2tFT2YwN2dsMzJfa1ZVRzhnWXY2SFFmalVONW4zeXVGcG9MVGU3TDYtM3VUTWExU1ZreWdNNHZPTE01dmV5MXB4Zw?oc=5",
+        "pubTime": "2026-11-17 01:58",
+        "source": "news.google.com",
+        "titleZh": "美國將在川普與習近平會晤前收緊人工智慧晶片管制漏洞 —— 《時代》雜誌",
+        "descZh": "美國將在川普與習近平會晤前，嚴打人工智慧晶片管制漏洞&nbsp;&nbsp;《時代》雜誌"
+      },
+      {
+        "title": "Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks - Fox News",
+        "desc": "Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks&nbsp;&nbsp;Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmFlSmxFWWdpRlJsMG83ZkpVYmVXR0lmRWZNUGNJcnBLUjg2dmNRLWY3WG1sM1VkTUkza1VnYWYwNjEyQk5DM2piOEVyT0hnOXJ4czBNSV9VMk5UNnYxUnVfOFNxaThrLWVvcllCSjY2N0V3Qzdwc1djcFNEQk1aS2tfcDVpdzVJM2RPODhXWHNlVWljNEJoYUdrYW9vamtXUjFtS2VoX1NYZEFDYjFteWVqQXlxZzE5WXU5eEd5VVBUTVXSAcgBQVVfeXFMT0paYnFERktJM3Jiek0zS1VjbDlNa1p5RFpvUUxOZkhuX3JxMlg2NDJRQzhrZHBHc1VWRXpWQ1NPN181T0RTcXhORmFFTzZrUk04bVl6b0NxRkd5dS1OOTJvS05FMjVxYTdtUlpGNVgtemt1Zi0tOTlZd0xtQUM4WHlwSkZtako0cExrSVlLd002Y3h1MDdKLTJwM2pBTjVKSUx0NGZEdXEtYVdkdTYzMmh3Sm1Vc3hxVTZvbUd4Nk0ycUIya1ZwYTA?oc=5",
+        "pubTime": "2026-11-17 01:55",
+        "source": "news.google.com",
+        "titleZh": "在備受爭議且事關重大的會談之際，川普率領兩位立場分歧的內閣要員訪華——福斯新聞",
+        "descZh": "在備受爭議的高風險會談之際，川普率領兩位立場分歧的內閣要員訪華&nbsp;&nbsp;福斯新聞"
+      },
+      {
+        "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
+        "desc": "After the Blue Tsunami: Getting rid of Trump’s tariffs&nbsp;&nbsp;Peterson Institute for International Economics",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+        "pubTime": "2026-11-17 01:13",
+        "source": "news.google.com",
+        "titleZh": "「藍色海嘯」之後：擺脫川普的關稅 —— 彼得森國際經濟研究所",
+        "descZh": "「藍色海嘯」之後：擺脫川普的關稅　彼得森國際經濟研究所"
+      },
+      {
+        "title": "Trump says he may meet with North Korea's Kim Jong Un during China trip - ABC News - Breaking News, Latest News and Videos",
+        "desc": "Trump says he may meet with North Korea's Kim Jong Un during China trip&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUtHYnVlaWdlcExUdkJCSGNHMXgyd3cxQUNmNlQ2eXBMNnFfczVPZ0loYldxc2MycjFpU09OQl9YWkpQQV9SWjYxWHE1X0tRalJFX0c1TEZEZklDXzZSamxNUkJMQjJ1OTd0NjEtNFptT0xmSE9iMWxISV9NdklSOTdwNWY0MUtENUozQVFTSDJQNWZBQmRYMlF5UHTSAaIBQVVfeXFMT1kxeEZOcnFfSVFpd1ZRVzNQOThoUlBHcmxQd1VzUGVsaFZ2NHkxYkdIYmRqNmdVb1NtXzNXS2tObmg1aFNYWGEtS2VkWmt2UkJxQy1tRDBhVHNGMHR6aWFJWkJ2UUFFS09nWi1MNnZMOXFnVkV0aGpzNzdyMTJTcU1KWkl0aHBxOUdERnpzdHFOS1djVWMyYjU3bUNETUFwWjRB?oc=5",
+        "pubTime": "2026-11-17 00:44",
+        "source": "news.google.com",
+        "titleZh": "川普表示，他可能在訪華期間與北韓領導人金正恩會面 —— ABC新聞 —— 突發新聞、最新消息與影片",
+        "descZh": "川普表示，他可能在訪華期間與北韓領導人金正恩會面&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
+      },
+      {
+        "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk - CNBC",
+        "desc": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk&nbsp;&nbsp;CNBCTrump backs calls for reinstatement of Jensen Huang as Nvidia CEO&nbsp;&nbsp;The GuardianTru",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVZuVWJHaTJ6elZWYk81VFhVenZSVVJVa1NHb0lycThIQVBXZFNyNHZpNHVzZnNib28tOGt0XzdOMmotZkxCVXhnNFlrMk9wb09uRTZxdVBkSkNYbDVUcDFWV0M2czFlNmd2MzQ3RGMxdmp4elBTeGY1aGpteVB2TTNKeG9FUUpCaVBwRHAzbmNCUdIBlwFBVV95cUxPeDdvNW94aFJlaVExSzIyR19OWERVUGV2SWdiNUFkWWxQSF80U1VzTU90Z0FVX3BKMDl5LTJKZGRoNDl0MzNNWVdfX2t5R19KV0ZueGh5aU1zQ1FVTDduRXlIVTZLdV9tdFJBcmJ5VVlIbU9PdFVjT2tmaXlDV194NUY3UmF1Y3R4UGhteVdmUWo5eUUtSlBJ?oc=5",
+        "pubTime": "2026-11-16 22:58",
+        "source": "news.google.com",
+        "titleZh": "川普表示，他對黃仁勳重返英偉達擔任執行長一事並無異議，且認為這不會構成國家安全風險——CNBC",
+        "descZh": "川普表示支持黃仁勳重返英偉達執行長職位，認為這不構成國家安全風險&nbsp;&nbsp;CNBC川普支持讓黃仁勳重返英偉達執行長職位的呼聲&nbsp;&nbsp;《衛報》Tru"
+      },
+      {
+        "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - The Killeen Daily Herald",
+        "desc": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win&nbsp;&nbsp;The Killeen Daily Herald",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaUdULVNKMUhWaXgybVJpRzhRODBJWDFwdU1ydXpXU3BqZWo3TXgtQUQ3Um42eGIwWGVHZTVKaUY0NS1lRERBcUF3MWJac2pEVTN6aU55cVB6YWRKcjRwR1BrcEtBOGlpOWF1RXlFQWlmU2p2X2tTc2c0N2xxcks3d1Q2T3dFbTlXQlZPZDY0WUZ6VXNBU3UyanFjbmF0QjJubDRzdEhTUkdPdENDUHVYWjJCSEFVaVAxWjhHc0kweGdSeGRfYXQzS1hKazBybUFQMUdUZUR5YzNvek16LWlKcUJXbFZpLUVoNE9UQWZ0SHBpMVhuRHc?oc=5",
+        "pubTime": "2026-11-16 20:35",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些關稅仍非易事——《基林每日先驅報》",
+        "descZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些措施仍將相當困難&nbsp;&nbsp;《基林每日先驅報》"
+      },
+      {
+        "title": "Democrats target Trump’s tariffs. Can they agree on what’s next? - The Christian Science Monitor",
+        "desc": "Democrats target Trump’s tariffs. Can they agree on what’s next?&nbsp;&nbsp;The Christian Science Monitor",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VYUklFWlJPYklZMWJhZ0x5R29ZRmhPSmV2Sm9GbkY4cjhmTy02ZGpNbS1VY2xtUTBwaXgzbnFWUTBZakNWX291cGtuQU8wM1lDYk03Nl9jMnZxLVpIZV9CNkU3ZkFDazlpMTI5UElZX0Z0d2RHTWJSRjE5QmxHRFZURlJBUzBOWWVXSA?oc=5",
+        "pubTime": "2026-11-16 13:00",
+        "source": "news.google.com",
+        "titleZh": "民主黨人將矛頭指向川普的關稅政策。他們能否就後續行動達成共識？——《基督教科學箴言報》",
+        "descZh": "民主黨將矛頭指向川普的關稅政策。他們能否就後續行動達成共識？&nbsp;&nbsp;《基督教科學箴言報》"
+      },
+      {
+        "title": "Trump’s tariffs cast shadow over APEC talks - The Straits Times",
+        "desc": "Trump’s tariffs cast shadow over APEC talks&nbsp;&nbsp;The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazVKcWhyQWZrODBEeUktaFdWdTVvZG1WTzBiU285LTcxQVdUeUdqdkNMNjJwaE8xU0gwT1B5bXlNR2pSUkRoZ0dNV0haSFIxbHRHd1ptVkFobzBScWRpdkQ5LU5ndjNXWUVITkhrUmo2bzhPSDlCbnN1Rng1dzBFUFhScHY5MUxBZ1VyeExRSQ?oc=5",
+        "pubTime": "2026-11-16 12:46",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅為亞太經合組織（APEC）會談蒙上陰影——《海峽時報》",
+        "descZh": "川普的關稅為亞太經合組織（APEC）會談蒙上陰影&nbsp;&nbsp;《海峽時報》"
+      },
+      {
+        "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’ - WSJ",
+        "desc": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
+        "pubTime": "2026-11-16 11:59",
+        "source": "news.google.com",
+        "titleZh": "獨家報導｜川普政府將把英偉達列為人工智慧「國家冠軍」之一——《華爾街日報》",
+        "descZh": "獨家｜川普政府將把英偉達列為人工智慧「國家冠軍」之一&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "Donald Trump Proposes Tim Cook as Nvidia CEO to Replace Jensen Huang - VOI.ID",
+        "desc": "Donald Trump Proposes Tim Cook as Nvidia CEO to Replace Jensen Huang&nbsp;&nbsp;VOI.ID",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zUklzZkdyWmlPeHRqeU5IQVQzZXAwTWxIQ3k4RXVRLXNBOEFiS2VBdS04U2tNUmoxZEdEOWFUVjhnOXNiTDdzYnZxRdIBQkFVX3lxTFBQM0pqZWQxQVF1VnBVaGRXdFMzQkp3TnFLYlR0MVZhc0FPMGVuT3ZtWm4tNHdrRk1xNjRYdW0xRzdVUQ?oc=5",
+        "pubTime": "2026-11-16 05:05",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普提名提姆·庫克接替黃仁勳出任英偉達執行長 - VOI.ID",
+        "descZh": "唐納德·川普提名提姆·庫克接任英偉達執行長，接替黃仁勳&nbsp;&nbsp;VOI.ID"
+      },
+      {
+        "title": "Opinion | The Success of President Trump’s Tariff Policy - WSJ",
+        "desc": "Opinion | The Success of President Trump’s Tariff Policy&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
+        "pubTime": "2026-11-16 01:57",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 川普總統關稅政策的成功——《華爾街日報》",
+        "descZh": "觀點 | 川普總統關稅政策的成功&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+        "desc": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-15 23:57",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "法官阻止川普於週日關閉華盛頓特區的「垃圾島」高爾夫球場",
+        "descZh": "這項臨時禁令是針對美國總統計劃將東波托馬克高爾夫球場升級為錦標賽級球場所引發、持續數月的法律挑戰的一部分。"
+      },
+      {
+        "title": "Donald Trump Slammed Online Over ‘Bad Idea’ To Replace Disgrace... - SheFinds",
+        "desc": "Donald Trump Slammed Online Over ‘Bad Idea’ To Replace Disgrace...&nbsp;&nbsp;SheFinds",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOG44clVsQTFnOHZEYkwwdWN2VWdQakE0eXFnbXUtMTNjZHZOOGNRa0lJYzk4S19HeXhWZDR0MlNMTzQtNXBucTdOclplOG4zbzFjMGhXcWFLNER4WmtIT3h0c1NSMmFPY2FYUWc4N0E2d195OHRQdHZBOG5KaGlLV1V3a2NYaDRFQTJsX1RjYTRtQzhWVnVRRWdmVjBWR21DMDJPRnlKQXE5OWlETXRRWTUzZ3JPREtza0t4RVFNWWpyUWp6a2p0aWJqaDFUZ1VFdmp5R0xHZzJyUXV1N1AyRFNqNXkwb04yZFVfdS05dnVmeHFoTUUtVEw2cHM?oc=5",
+        "pubTime": "2026-11-15 23:30",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普因提議以「糟糕的主意」取代身陷醜聞的……而在網路上遭到猛烈抨擊 - SheFinds",
+        "descZh": "唐納德·川普因提議以「糟糕的主意」取代「身陷醜聞」而遭網友抨擊……&nbsp;&nbsp;SheFinds"
+      },
+      {
+        "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped - CNN",
+        "desc": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped&nbsp;&nbsp;CNN",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFRZSHdlc3JTOWRKaE83aXNqbWVPZU13Tjdsc0JMRGZYLUJSWWxqN3VBemJ6U0hLYWNpRTNEMl9TUlRNZGhPSHFpcVgzUUl1RVg5c3lLUG05T1JnbDJab1hWNkhoNFBKRmNOcUlaSjJZald1M2JBaVhTSzJpMEZhMEN3d3hEZw?oc=5",
+        "pubTime": "2026-11-15 18:00",
+        "source": "news.google.com",
+        "titleZh": "盧特尼克遭抨擊：在晶片管制鬆懈之際，川普的商務部長如何培植英偉達執行長——CNN",
+        "descZh": "盧特尼克遭抨擊：在晶片管制鬆動之際，川普的商務部長如何培植英偉達執行長&nbsp;&nbsp;CNN"
+      },
+      {
+        "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise - Yahoo Finance",
+        "desc": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise&nbsp;&nbsp;Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEFBb2VRbzM5SGExQkZ4SUprQ01IRmNrVDNtalk1Vmp3NnJJb3VNODBaUVVRY19abG1LQkV6S2VMbGVhaVh2bUQ3SkJtRVBFcENrOHBjS0dsVWlRQjZzZlRVcUJvMHMzUU1GRjIxbEsxbDRxRFRXSmxhYzhOR19uWVlUTkxqVGFTc29NelVQLXUxMk1lY0VMU092bl9zaC13eTllNA?oc=5",
+        "pubTime": "2026-11-15 17:26",
+        "source": "news.google.com",
+        "titleZh": "總統唐納德·川普聲稱：「關稅不會引發通膨，反而能創造財富」——但經濟數據卻顯示並非如此 - Yahoo 財經",
+        "descZh": "總統唐納德·川普聲稱：「關稅不會引發通膨，反而能創造財富」——但經濟數據卻顯示並非如此&nbsp;&nbsp;Yahoo Finance"
+      }
+    ]
+  },
+  {
     "date": "20261116",
     "fetchTime": "2026-11-16 08:03",
     "count": 24,
@@ -5239,166 +5435,6 @@
         "source": "news.google.com",
         "titleZh": "報導指出，川普耗資 3.3 億美元的「白宮舞廳」捐款名單顯示，英偉達、蘋果和谷歌位列科技業主要捐款者之列（更新） - TradingView",
         "descZh": "報導指出，川普耗資 3.3 億美元興建的白宮宴會廳捐款名單顯示，英偉達、蘋果和谷歌位列科技業主要捐款者之列（更新）&nbsp;&nbsp;TradingView"
-      }
-    ]
-  },
-  {
-    "date": "20261018",
-    "fetchTime": "2026-10-18 06:28",
-    "count": 17,
-    "articles": [
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-18 03:19",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著與澤連斯基的爭端加劇，川普豁免了多項針對俄羅斯的制裁",
-        "descZh": "美國總統暫時解除國會近期基於「國家安全」考量而針對莫斯科通過的許多限制措施。"
-      },
-      {
-        "title": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list - Yahoo Finance",
-        "desc": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOENIeGpZZzRrX05HQl9mVzlBTjhsS0tfYUplRzBUYUpUbFVEenZITmxFX2Jzd3BDM0lzYUs5emxoM3c0ZlhKRjRzN01HYmd5aVJLTUJ5blVmUXBZNU8wV1VOeElxTGZvZ1BmeGxzbmlZSlM5d2NidmlFOHp2VlVGbmhXRUo4ZXI2c2hMRXZKOGNRU3pOVUpMTA?oc=5",
-        "pubTime": "2026-10-17 23:00",
-        "source": "news.google.com",
-        "titleZh": "蘋果與英偉達各捐贈 2,500 萬美元給川普的白宮舞廳——但捐款名單上卻完全找不到總統本人的名字 - 雅虎財經",
-        "descZh": "蘋果與英偉達各捐贈 2,500 萬美元給川普的白宮舞廳——但捐款名單上卻完全找不到總統本人的名字&nbsp;&nbsp;Yahoo Finance"
-      },
-      {
-        "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
-        "desc": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-        "pubTime": "2026-10-17 15:36",
-        "source": "news.google.com",
-        "titleZh": "川普即將對60個貿易夥伴國實施全面關稅 — ABC新聞 — 突發新聞、最新消息與影片",
-        "descZh": "川普即將對60個貿易夥伴國實施全面關稅&nbsp;&nbsp;ABC新聞——突發新聞、最新消息與影片"
-      },
-      {
-        "title": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore - The Economic Times",
-        "desc": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUE1WOTcydDNtY1hEVG9RNVA0cnNLZ2lJNHhlWWdSQ29XaGdqRzlCTWN4SG5VTDkzQlFET2Q2ZUcxRXRrSldGRmk3b0dYb0U2YkczcEp6MTlPZXA4N3RFaVRpbm5zOXpDTV92NDk5blk1VGhSVVZLdGhqTHlhSXNhTkFuUU5adFpyZWNFYUdhdzA1SkFQa0RCSS04R3NjdV9uczg2ODdJY0xyYnlLQXNvOGN0OEhnc1NKNDdyNjRnakVCblRaTzY1eERyWDA1X0dCemYzdHpxUDR3OHJpZWdfSnBOY2lMRExRYkp0QWtVTDJ6TzVoY2ZGbl9lLTVHZDNEcUhfS2dVc3JfTmJJdHphOTlXQ3VsQdIBmwJBVV95cUxNcm80SzlLa2Ztdk16MUhWcFVwelZZTEUzUnJwYU5QVFRrdmRhWUFEc0JXRE1OTHVZdEZXcUlMSkEyd3dyYlhabXVfNGlIN1h3S3RnMUI0YTRDRjB1M3dlTmpOREZfbl85YnRaajM2R19SVFp0ZGI2Q3hZRkd4R1UwaXpQRnFzU0NfdVVxM2c0dlhweU15ZFN1dUNBeTlZUkhQSFNEekZVdjV4UDJIYTE5VENKSnBmVnFzclVQR2FqcHlHaTFhclBxSURfT0FPcndVSVBsZWNCYXVqVFhZRTY1UDBHVldiOVhmNE1BQTZsdmJWYmE4MkRVbEU5cE84LVNHbjE0OEdxN0x5bm84SDFoRVpFdkdMMVJRSk9n?oc=5",
-        "pubTime": "2026-10-17 13:42",
-        "source": "news.google.com",
-        "titleZh": "川普對俄羅斯石油徵收 100% 關稅的政策大轉彎，背後藏著印度無法忽視的隱憂——《經濟時報》",
-        "descZh": "川普對俄羅斯石油徵收 100% 關稅的政策大轉彎，其中隱藏著印度無法忽視的陷阱&nbsp;&nbsp;《經濟時報》"
-      },
-      {
-        "title": "Trump’s Tariff Strategy Collides With $2 Trillion US Deficit - Newsweek",
-        "desc": "Trump’s Tariff Strategy Collides With $2 Trillion US Deficit&nbsp;&nbsp;Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXJTWllOamFnaXBFZ3pqWkxkeXdKbW5BSzJNUk1NVmVBTWowX1VJNEFoeEIwZ05SVkpwRENMOEF0cWZ5Vm9YZVlCemZsR28xcDNXVHBNbHpLMlRyem9BY3J5bTZoQ3U2b194SlZXMGtBaEVBTmFXdXFENDJxcWtOU3VEV0lOb2piVlFwNmRZZndScmxFY2Zv?oc=5",
-        "pubTime": "2026-10-17 10:35",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅策略與美國 2 兆美元財政赤字產生衝突 —— 《新聞週刊》",
-        "descZh": "川普的關稅策略與美國 2 兆美元財政赤字產生衝突&nbsp;&nbsp;《新聞週刊》"
-      },
-      {
-        "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Cont - Benzinga",
-        "desc": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Cont&nbsp;&nbsp;Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQm9xckYyWlBNU1RkMk8zV3BJT0t5RjVBck90Y04zRTU1aUhwZUJkMG9URTBNMF8yQ2ZUS3FtYk14SFEwN0pwakVTRGZPTFh6eUpsSlpFMFBSaEl4Z0d5ZjdsdHRvNlJhbXFWWTFBY2t1cy1GTU9sdGpvMU1rZklsNHpYTkI4Q1FzY0NqeWIyVUJvWUl6akhNLVZ6RUJwQTlhS1ZlUjN2ZjBMaVlPeXJjOW1KRHJGU2syVWstenVLaFZhbDdXNW1SNzBqSGlFT0tCS0otSF9KSkpSVHlBTjVyNGNQVHpvVExQZm1LZ3FBRnVfSzFR?oc=5",
-        "pubTime": "2026-10-17 08:40",
-        "source": "news.google.com",
-        "titleZh": "川普耗資 3.3 億美元的「白宮舞廳」捐款名單揭露，英偉達、蘋果和谷歌位列科技業主要捐款者之列 - Benzinga",
-        "descZh": "川普耗資 3.3 億美元的「白宮舞廳」捐款名單揭露，英偉達、蘋果和谷歌位列科技界主要捐款者之列 &nbsp;&nbsp;Benzinga"
-      },
-      {
-        "title": "Where the US midterm elections will be won and lost",
-        "desc": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-17 02:41",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "美國中期選舉的勝負關鍵何在",
-        "descZh": "深入剖析這場將決定川普總統任期最後兩年走向的選舉前，各項關鍵民調、選戰態勢及議題。"
-      },
-      {
-        "title": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom - 24/7 Wall St.",
-        "desc": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom&nbsp;&nbsp;24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWxxd1NjdXgtZExobEY3MWZ0VmVjY05fNmlWbFU2VjRFaF9kckNnMmd5dUJ2cDBMcFVWLUV6dE16c0czRlhsVnRNSDRLaHBTMV9XcE9WUEhHV1YtSGJOQWRJOTdMcnZEaVdTWnhsNFJKTDk2bkxPbU5TRXlRUFpEdU52dm5Zd2UzNkpJdnJwc0YtbkR3VXhPVXAyQlVZcGFuazBMSUFRSS1xU3JmWmdlcUVn?oc=5",
-        "pubTime": "2026-10-17 01:06",
-        "source": "news.google.com",
-        "titleZh": "Nvidia 與 Apple 各向川普的白宮宴會廳捐贈 2,500 萬美元 —— 24/7 Wall St.",
-        "descZh": "Nvidia 與 Apple 各向川普的白宮宴會廳捐贈 2,500 萬美元&nbsp;&nbsp;24/7 Wall St."
-      },
-      {
-        "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project - Mashable",
-        "desc": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project&nbsp;&nbsp;Mashable",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM?oc=5",
-        "pubTime": "2026-10-17 00:15",
-        "source": "news.google.com",
-        "titleZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單 —— Mashable",
-        "descZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單&nbsp;&nbsp;Mashable"
-      },
-      {
-        "title": "US midterms 2026: Trump faces growing backlash over tariff policies - Moneycontrol.com",
-        "desc": "US midterms 2026: Trump faces growing backlash over tariff policies&nbsp;&nbsp;Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVBvZDktaTNJZlpld2llZm9MaTlIX3R4ZmVoTEFmVmlsNXNxTUlIcGU5YUtfV1NDS2h6dnRsaW1ZRjZEcUY0TUNXN0NxTEYxR2FFajVlcVRaWC1tZGF5VlphUFl5Q0htSkItOXdkdmM2T0U4T3F6aUFHVlhUSUdmMGtBMzBGYVd5cmdyLTk4VlNjdDA3TENXQTdnY2NySDJzWUhOdGYwMDVLOTJxV09TWjNZQlUyQ2F0eXRQbFRRX2TSAcYBQVVfeXFMTjNQcXFmcU9HaFczSnJTZWtwRklTR0d1NEJXZlZ5WUp3MDVlRTAtTnhSak9WLTRxT0xGdTViLXVESGdhS3pEbUVwMDdocDFnQXRGWmJxVGF3LXJReGdJcm1pUnI5Y2RReUVlUmdmTHkzZ3hqcEVFRjFjWWpua19DODZzWnNNRk82dThzRFVpaFhrbmNvbS04SXhPcjRZajlWSGpaYnZvMGJlYkx4NndxVGo0eHVYMzA4SDdVdU10YlBFczd3eElR?oc=5",
-        "pubTime": "2026-10-16 23:43",
-        "source": "news.google.com",
-        "titleZh": "2026年美國中期選舉：川普因關稅政策面臨日益強烈的反彈 - Moneycontrol.com",
-        "descZh": "2026年美國中期選舉：川普因關稅政策面臨日益強烈的反彈&nbsp;&nbsp;Moneycontrol.com"
-      },
-      {
-        "title": "Apple and Nvidia Each Gave $25 Million for Trump’s White House Ballroom - The Mac Observer",
-        "desc": "Apple and Nvidia Each Gave $25 Million for Trump’s White House Ballroom&nbsp;&nbsp;The Mac Observer",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUltaTMxUndPcFBKc2dsRmt6RkFBN2lDWjFCN2VLUWJPNkdSdzAyblA2Rmt2enRnWXppdXozdEhPVnZiSjJ2NHBuNEEwSDVpbHJtb3dLQzNFLS11OWpEd0NWc1A0OFkwOHcyYVRqeXpQYkx0VURyem1xdFdaa1pkZkhPSURPdHM3SzRzejNodWxQUTV5X1hUbTEwdnZMRG9tX1NuRXl3?oc=5",
-        "pubTime": "2026-10-16 22:40",
-        "source": "news.google.com",
-        "titleZh": "蘋果與 Nvidia 各捐贈 2,500 萬美元，用於特朗普的白宮舞廳 - The Mac Observer",
-        "descZh": "蘋果與英偉達各捐贈 2,500 萬美元，用於特朗普的白宮舞廳&nbsp;&nbsp;《Mac Observer》"
-      },
-      {
-        "title": "Republicans turn on Donald Trump’s tariffs in battle for ‘political survival’ - Financial Times",
-        "desc": "Republicans turn on Donald Trump’s tariffs in battle for ‘political survival’&nbsp;&nbsp;Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEZ5aWNuTFRWSnBoRkFoZ01RSEhkWmtIUmc0VjdUOU9RLW50RnVudUhIcGtUTG5oU3llbGt3MXBzaFRSX01MVDRtSi00aUx4a0xINktTbmpkVkZkSFFOVFZ3N1Q4MkZfYzNzYjhIR3hUYURIU243NHN3SUJmd0ZJSExBdWI?oc=5",
-        "pubTime": "2026-10-16 18:00",
-        "source": "news.google.com",
-        "titleZh": "共和黨人在「政治生存」之戰中轉而反對唐納德·川普的關稅政策——《金融時報》",
-        "descZh": "共和黨人在「政治生存」之戰中轉而反對唐納德·川普的關稅政策&nbsp;&nbsp;《金融時報》"
-      },
-      {
-        "title": "Trump's Ballroom Secret Donor List Emerges: Apple and NVIDIA Each Pledged $25M to the White House Project - inkl",
-        "desc": "Trump's Ballroom Secret Donor List Emerges: Apple and NVIDIA Each Pledged $25M to the White House Project&nbsp;&nbsp;inkl",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGhkMzB4LWdXblIzSF9uczdUZVhweDRRWFItcGNSdXJUbUk3NDlRajZvU29QS2FGYlFxeUZXX09hR0RQeUVGanVmZmw4LU1USE1OdFFvZ1ZoWWNhVXQtZXpxUGJqMVJpU0xPWG1nY3pVOTVvd3oyRHptcFBqSVdhZlJVaFRUOFhUR2tDSU56QldhcnRJRk8wbWR2Y2ZDaEdYTlJKeU81cHFKS0FWUm1LUlltRUx5MlhPUGpQMHE4LVJVMV8tSXA0?oc=5",
-        "pubTime": "2026-10-16 15:04",
-        "source": "news.google.com",
-        "titleZh": "川普舞會的秘密捐款人名單曝光：蘋果與英偉達各向「白宮計畫」承諾捐款 2,500 萬美元 - inkl",
-        "descZh": "川普舞會的秘密捐款人名單曝光：蘋果與 NVIDIA 各向「白宮計畫」承諾捐款 2,500 萬美元&nbsp;&nbsp;inkl"
-      },
-      {
-        "title": "Trump ballroom project draws $330M from tech giants, Adelson family - Yeni Şafak English",
-        "desc": "Trump ballroom project draws $330M from tech giants, Adelson family&nbsp;&nbsp;Yeni Şafak English",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWG9XczhBQi1uNTlELWpjZ1FkMFVRcTREa0tta09CMFlmdG1hTDBIbHZWWHViQ0dvTVROSXI1TWxIT181R1FnN0NWMGhhUzJ1ZXgxMEE1a1V6T3hiQkNMMnlwSTJTUkxCSHdNUHI0YnpwWjhYQmdnMUtTYUkwVFJGQW45RHZ3a0tfY25mMVo5TU5sMjJ0VHl0dWo4QmNvSHVwRDcya0xDSQ?oc=5",
-        "pubTime": "2026-10-16 14:54",
-        "source": "news.google.com",
-        "titleZh": "川普宴會廳計畫獲科技巨頭與阿德爾森家族注資 3.3 億美元 —— 《Yeni Şafak》英文版",
-        "descZh": "川普宴會廳計畫從科技巨頭及阿德爾森家族籌得3.3億美元&nbsp;&nbsp;《新曙光報》英文版"
-      },
-      {
-        "title": "NVIDIA, Apple Donate to President Trump's Project Amid Conflict Concerns - 조선일보",
-        "desc": "NVIDIA, Apple Donate to President Trump's Project Amid Conflict Concerns&nbsp;&nbsp;조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWV5eWhfSGpTZEppT3hWN2dETlhUMGNZZ29jbThUOWlEdldDRXlmcnJPaXMwcEFobGNzaTVxZ1owNFdzUnVjS0JoeFlqOU1ZRkFySXF1QkZ1TUJ1dVJISndyeVpkLUhUWmNMaVlQYXg5WnM0aXhLQzhHWWdXWGNUUTdGV3NYbGl3?oc=5",
-        "pubTime": "2026-10-16 14:16",
-        "source": "news.google.com",
-        "titleZh": "NVIDIA 與蘋果在衝突疑慮下向川普總統的計畫捐款 - 《朝鮮日報》",
-        "descZh": "NVIDIA 與 Apple 在衝突疑慮下向川普總統的計畫捐款&nbsp;&nbsp;《朝鮮日報》"
-      },
-      {
-        "title": "Trump's tariffs are changing the global trade ecosystem - Al Majalla",
-        "desc": "Trump's tariffs are changing the global trade ecosystem&nbsp;&nbsp;Al Majalla",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0ZlREFzVk9KZWFNcnpIS3ptbHZTdUtsUmFqejRMODltLUpOSkFER1UwcDJJaHBfWm9MaU5nV2ZTQUV6cnJXLTVVOXNSUVV4aVJXbmtYcXZnXzgzMVZKTmhyYzZGYWtvUXN1M1d4VXhFRk4zVGFJYzhpaFdJdkd1VVFZb3daSmFiNndaQXl0VjVwMjNlYkNBUGJVS2ZvS0gwWDBySQ?oc=5",
-        "pubTime": "2026-10-16 11:52",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅正改變全球貿易生態系統——《Al Majalla》",
-        "descZh": "川普的關稅正在改變全球貿易生態系統&nbsp;&nbsp;《Al Majalla》"
-      },
-      {
-        "title": "Big Tech firms make large donations to Trump, raising concerns over policy favors - 디지털투데이",
-        "desc": "Big Tech firms make large donations to Trump, raising concerns over policy favors&nbsp;&nbsp;디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjl2WjY1U2NKQW5uMTF1M2ZvcVlIdXBWODM1RWRuWENaaDFEV0NPQm5zdG5ZOUdYTklrVEtUcEx4SmNSUVA1WS1wYXlBUjBOb3hvanNVNHBsa2czMUN4TFFmRkdKYXVPaENKcHlacXlxbU1EMTNNY1J0NVBpMHJPWVNsMnMxenR1RFM1bmVzTU83bkVGOTM1TGFhaS1VbXp0TVdtZnl6UEI3SW5FdEhzMGM2U2ItLXdMU1NOTmdrMldya2Qt?oc=5",
-        "pubTime": "2026-10-16 07:41",
-        "source": "news.google.com",
-        "titleZh": "科技巨頭向川普捐款鉅額，引發對政策偏袒的擔憂 - 數位今日",
-        "descZh": "科技巨頭向川普捐款鉅額，引發對政策偏袒的擔憂&nbsp;&nbsp;Digital Today"
       }
     ]
   }
