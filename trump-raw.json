@@ -1,5 +1,372 @@
 [
   {
+    "date": "20261118",
+    "fetchTime": "2026-11-18 10:28",
+    "count": 40,
+    "articles": [
+      {
+        "title": "Trump heads to China, betting on unscripted diplomacy with Xi and Putin - WRAL",
+        "desc": "Trump heads to China, betting on unscripted diplomacy with Xi and Putin&nbsp;&nbsp;WRALChina and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely&nbsp;&nbsp;Council on Foreign Rel",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTJ1NjdHeFM0RjZMaE9jT1ZqNklwS3FZODdIWjR1a0lrRmkxbURUTUticFpMVWpDZ3ZKX1lnLUJqVmJZRUlNNXNJZFpuWnlSNFljOEF5eDlOc2F2a1FnemQ4ajM5bUdzS0U3MVdITEFySENzckNQNFM3cUZQbGhudlBJY0JMNjU2WGVHMTNTdTJsMEc1QU0zcVMtWmVyQUpvSXhOZEo0RGgzQQ?oc=5",
+        "pubTime": "2026-11-18 08:52",
+        "source": "news.google.com",
+        "titleZh": "川普啟程前往中國，押注與習近平及普京進行即興外交 - WRAL",
+        "descZh": "川普啟程訪中，押注與習近平及普京進行即興外交&nbsp;&nbsp;WRAL中國與核武管制：為何川普與習近平在亞太經合組織（APEC）上難以取得突破&nbsp;&nbsp;外交關係委員會"
+      },
+      {
+        "title": "Trump steps onto global stage weakened at home - The Hill",
+        "desc": "Trump steps onto global stage weakened at home&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaDhpeG1sZGhfNzBJLTVmNG14Y3VIT2hoOXRtUXo2MGo4bGlzOGVHdnFURDROWUFuOFhOVzE1a05mZ0dKTVJ3NWxaTEM3R21hWE1JakQwOU5yY0t2MTFyWXJEVF9ON0p1aDlnZ05FeHc4dXZVdWNiaXFlS2NyUm1wVkdPNHF2UUZFYWU4MG16R2duZXMxcTc0ekJPYmY2WlXSAaQBQVVfeXFMT29RUTdNWnFwejRBcFU5eGNhc3J2MGpHTjRuandyenVPQ0RMNDdIOEd4YUNmM3huTkgyeFFiMkJPcFdzNHFnUjRhZnM4c0lQZmN2RlhFWGxZcU5pU2hXMTJwUDA0X3ZOMjhuZW1CbXAwNkhkcDA0VUUxM0lNUkxZRjdJYWx6X1U4NDdNaHQ2RHpCNzJoblJtLTJKemhOOGhMaGZXb0c?oc=5",
+        "pubTime": "2026-11-18 07:15",
+        "source": "news.google.com",
+        "titleZh": "川普在國內勢頭減弱之際登上國際舞台——《The Hill》",
+        "descZh": "川普在國內勢頭減弱之際登上國際舞台&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit - BBC",
+        "desc": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84T0wzOTBNLWRTS2xRZXFFYnl1d3gycUhrSXdkX1ZoRTVtNGRmT3I3RDE0ZHBnRXV2VFVHN1FwQnpadGQ1T3V4eldiVXRINlpHWDFibVFoVi1Ccnc?oc=5",
+        "pubTime": "2026-11-18 07:02",
+        "source": "news.google.com",
+        "titleZh": "Nvidia：中國擔心黃仁勳醜聞可能導致其在習近平與川普峰會前被排除在美國人工智慧技術之外——BBC",
+        "descZh": "Nvidia：中國擔心黃仁勳醜聞可能導致其在習近平與川普峰會前被排除在美國人工智慧技術之外&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Analysis: Trump is about to see up close why US efforts won’t stop China’s rise as tech powerhouse - CNN",
+        "desc": "Analysis: Trump is about to see up close why US efforts won’t stop China’s rise as tech powerhouse&nbsp;&nbsp;CNN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmVJZTVVOU02Yk9mTWxVbEltbmg4X253U0dwM3drVXNobWtMWEg2WXJDS0I2dkN2ZWV3MkNqZ0U0cEZGcTdfbm5HVGZmdDRIbXN2QzltUUFRdXN1TTN4aFdCdE9yNmczSTM0REx4bXNqSUctTmlxei1PWkJ2cWNKV0Z1OA?oc=5",
+        "pubTime": "2026-11-18 07:02",
+        "source": "news.google.com",
+        "titleZh": "分析：川普即將親眼見證，為何美國的努力無法阻止中國崛起為科技強國——CNN",
+        "descZh": "分析：川普即將親眼見證，為何美國的種種努力無法阻止中國崛起為科技強國&nbsp;&nbsp;CNN"
+      },
+      {
+        "title": "Xi Makes the Most of Trump’s Asia-Pacific Trip - Foreign Policy",
+        "desc": "Xi Makes the Most of Trump’s Asia-Pacific Trip&nbsp;&nbsp;Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUg1VjlYTjZpLUlZSFRhUE1qUkZWVFhHd29CdzBteEt4M1huLVR3YWx1d1lWRGJmSzRWaXdiTkNjd1lDSW9xVTRNYzN5T2lJZjZWMFJjZmtkZV9yVnBBU1ZObFE5WHFYQVdPSlpKUzR4bDdoUGM4bDRjNlJTVWQ2SDZFdFczdS1mc09WR3QyWUNEN0U?oc=5",
+        "pubTime": "2026-11-18 05:54",
+        "source": "news.google.com",
+        "titleZh": "習近平善用川普的亞太之行——《外交政策》",
+        "descZh": "習近平善用川普的亞太之行&nbsp;&nbsp;《外交政策》"
+      },
+      {
+        "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed - The New York Times",
+        "desc": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjlYNkZqS1JmMS1aX1ktNU5VODNFTTZ6MHJDM1hWVmhoWEFxS0RfVzBVRlhxcnVNc09xWlhROFVvbzZGd2xkMmtYR0ZteTVuLXVlX042dmFzUVp3aTlUZUJLQy1ycDF6ckNON2dUWXlTMDB6S2JxRkNnMEVIMlQ4dE1DRDFGanVqZ0RsSHBKaWpyV0J1?oc=5",
+        "pubTime": "2026-11-18 04:56",
+        "source": "news.google.com",
+        "titleZh": "面對批評，川普政府表示正在調查「Megaspeed」一事——《紐約時報》",
+        "descZh": "面對批評，川普政府表示正在調查 Megaspeed&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+        "desc": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-18 04:25",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普在亞洲訪問，即將與俄羅斯及中國國家主席舉行會談",
+        "descZh": "美國總統表示，若「條件允許」，他願意與俄羅斯總統弗拉基米爾·普京舉行一對一會晤。"
+      },
+      {
+        "title": "The Fed changes the game: The dollar finally wipes out Trump's tariff shock - Cointribune",
+        "desc": "The Fed changes the game: The dollar finally wipes out Trump's tariff shock&nbsp;&nbsp;Cointribune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmdnN2RhTEViY3pYenpacVVEY210YXA5OW1ucnoyZTN2cGlFc3ZpbHRhSkFEQUhNOFp0b2l3MzVUOFctODlIeG94MDVnQ2JhTktnNldFY01hVjJyaUtVSnBOc2pTSkJXbmd4d1c1MzJrdVFXcm9HbHRVNDJIYWFudVlFZGRJQ2RY?oc=5",
+        "pubTime": "2026-11-18 04:05",
+        "source": "news.google.com",
+        "titleZh": "聯準會改變遊戲規則：美元終於抵消了川普的關稅衝擊 - Cointribune",
+        "descZh": "聯準會改變遊戲規則：美元終於抵消了川普的關稅衝擊&nbsp;&nbsp;Cointribune"
+      },
+      {
+        "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+        "desc": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+        "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-18 02:58",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "在川普的關稅措施擠壓加拿大汽車產業之際，卡尼將目光投向中國",
+        "descZh": "總理暗示，中國汽車製造商可能在加拿大取代美國車廠——但有人認為這並非易事。"
+      },
+      {
+        "title": "Trump Will Miss Most of the ASEAN Summit - The New York Times",
+        "desc": "Trump Will Miss Most of the ASEAN Summit&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBucmRkRDRCWk5zVXh6dDVQMXdSQ2NfNThUOWJGYV9VaFRhUmtDRUxlYkNhN0lITGVGdTRaSkdLbXRKRlBPMkdEUVUwM1BkamJUT0tpNEhfcmx0VXFRZEtqUVJGZzc4bFB3ZHpVR2VhSjJQa2lyWXVHcUMyUEdNNW8?oc=5",
+        "pubTime": "2026-11-18 01:51",
+        "source": "news.google.com",
+        "titleZh": "川普將缺席東協峰會的大部分議程——《紐約時報》",
+        "descZh": "川普將缺席東協峰會的大部分議程&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+        "desc": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+        "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-18 01:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，美國對任何針對華盛頓的伊朗陰謀都「極為重視」",
+        "descZh": "德黑蘭駁斥任何指稱其正策劃對美國首都發動所謂「髒彈」襲擊的說法，稱此為「毫無根據」。"
+      },
+      {
+        "title": "Security Concerns Shadow Trump’s Use Of Qatar-Gifted Aircraft On China-Bound Trip - Foreign Policy Journal",
+        "desc": "Security Concerns Shadow Trump’s Use Of Qatar-Gifted Aircraft On China-Bound Trip&nbsp;&nbsp;Foreign Policy Journal",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0c3c0JFS3lxZ1NVcm9BVDE4RGpVcjJPbWNhelFxZmNfLW8zWXl4OVE0T2htLUloZVBnbkxPZHdwWmJWNVFNQkhIRjdZem9XQ3U3MjRKQlRqUU9EakhZLWN2MzNpcnFYVmpRRmNlRXJOSGtuUTNtNE1fcUcwSkFqWElkTDFHNVlEWm13MUh4dmw0ZkpjdmtaNkNfVG9RZmtYVDl6YzFPb2IyOGlObXdxZ3JPYzJKMmF3NjRvSll1RGUtMlhLV0ctdQ?oc=5",
+        "pubTime": "2026-11-18 00:49",
+        "source": "news.google.com",
+        "titleZh": "安全疑慮籠罩川普出訪中國時使用卡達贈送的飛機一事 —— 《外交政策》期刊",
+        "descZh": "安全疑慮籠罩川普出訪中國時使用卡達贈送的飛機一事&nbsp;&nbsp;《外交政策》雜誌"
+      },
+      {
+        "title": "Trump announces critical minerals agreements at Quad meeting in Manila - Al Jazeera",
+        "desc": "Trump announces critical minerals agreements at Quad meeting in Manila&nbsp;&nbsp;Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmJnaTU0MGVVd2k0ZnJmWDBXbU92ZUF1dnVQTHgxM0VIelpzb2c1Ml9JZnhld05EODNCM0ZJMU0tSjBhSFJVeGZOczBGQnZUaEpUTVowd19Rd0RWTm5feWduNVZsT1pGT0syS3FvaUI0clJqRVl2ZDlsSkw2TGc2Ulkyb1dOaWxzWFZORmxjSHFvTkVfTS1udXZxaFFGMVVwOGdBNFJSbFp5dGVYclFQcmdR0gG3AUFVX3lxTE5IaHI2ZjlTWmhUWXUxekpRbUNEUldBZEFkX3EtR29uTkR3R0diM2Q3TmRrSEw4UkEyaGdEeHY4OFFjSlJrWU13TTREaDZ6X1VCZlY0Z1MyeG1TbkZlOWlJY1o4Y05OdGJsS2RyN3lzdGxpVzQ3d201WW15bXgxUGNhU2VuZEE0d1R0THJaR0ZuaHdGT2VNREZOeFFUSGNLc252Y0gyRjVfSkVjSFRZcVFuZTU4NmpiWQ?oc=5",
+        "pubTime": "2026-11-18 00:03",
+        "source": "news.google.com",
+        "titleZh": "川普在馬尼拉舉行的「四方安全對話」會議上宣布關鍵礦產協議 —— 半島電視台",
+        "descZh": "川普在馬尼拉舉行的「四方安全對話」會議上宣布關鍵礦產協議&nbsp;&nbsp;半島電視台"
+      },
+      {
+        "title": "What is on the table when Trump meets Xi in Shenzhen: chips, tariffs and the January truce deadline - MLQ.ai",
+        "desc": "What is on the table when Trump meets Xi in Shenzhen: chips, tariffs and the January truce deadline&nbsp;&nbsp;MLQ.ai",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmc5ZjdRYVljU0VUWVNWNk5nTFJsR0FhVFBPTlpaTF9iQXZ6ckNWbjFTODF4OG1HSjZuUzZmYnp3cjBkcnhLM205alBlM2JUbC02WnR3MGRldkM4SFk0MTRxUVN3THVmV29adkdHblJoTkhleG9SREpzYWY5TnFzYTNMRWRzWWd3TktULVFJNkZGay1TMlBhWkVQY2tPdUROUndiTi01aDF6Y2VJM2c5N2todVpBb1h6WFE?oc=5",
+        "pubTime": "2026-11-17 22:06",
+        "source": "news.google.com",
+        "titleZh": "川普與習近平在深圳會晤時將討論哪些議題：半導體、關稅以及一月停火期限 - MLQ.ai",
+        "descZh": "川普與習近平在深圳會晤時將討論哪些議題：半導體、關稅以及一月的停火期限&nbsp;&nbsp;MLQ.ai"
+      },
+      {
+        "title": "Trump's Is Not a Hawk - Tablet Magazine",
+        "desc": "Trump's Is Not a Hawk&nbsp;&nbsp;Tablet Magazine",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mTkE1WXVGemg5TDNIM0lZYmFXeTZ5UzBPYnRyaEVPQm9PT1d4M3N0cEp5Y2Rhdy11cWExUDZ0Y1dnQ0pSazhYT2JBd0tSVFZVZHlza3dfSFRDVHVTaVJBWmJRSjhzeHQ5YmVwX2xJdWVMbjZQdWw5YUxETWw?oc=5",
+        "pubTime": "2026-11-17 21:50",
+        "source": "news.google.com",
+        "titleZh": "川普並非鷹派——《Tablet》雜誌",
+        "descZh": "《川普並非鷹派》——《Tablet》雜誌"
+      },
+      {
+        "title": "Trump Returns to World Stage After Midterm Setback - WSJ",
+        "desc": "Trump Returns to World Stage After Midterm Setback&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkkwTDR1Nm9YNDNoREQ3d0VkUXpfR2tBZjBVVTA5UVVLX1I1cEZybTZkdmVhbVoxR3N4OGl5a003emxjOUlrX0xVUDNhR0Q1VXhRb1BIZkxIamExZndxMXlXX2xNT25Bb0VvNlJxaWZRMVdGV2ZmVkU4bjB0V3Y3N0Z5TVJFZkphdFhqaGNR?oc=5",
+        "pubTime": "2026-11-17 21:35",
+        "source": "news.google.com",
+        "titleZh": "特朗普在中期選舉受挫後重返世界舞台——《華爾街日報》",
+        "descZh": "特朗普在中期選舉受挫後重返世界舞台&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "NVIDIA's Huang Comeback Campaign Has Trump's Support, but Its Signature Count Comes With a Catch - www.techtimes.co.uk",
+        "desc": "NVIDIA's Huang Comeback Campaign Has Trump's Support, but Its Signature Count Comes With a Catch&nbsp;&nbsp;www.techtimes.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPblRUSWVUdC1sUllyRUYwTUphdUp2Mm5pLXlZZktJVHlWVDF3QXVIck9qclloUEY2YjhvUWVlcXZPQlUtOVhKNU15QjhKdWtmRUpYU2puSFZ6aVBtMVNSV09KMmtwTXFUVEVsTXczUklfWGxxMTBuS2o4ZWhhNlNJSG1zc3pndXhWZTl2MTI4Mk4?oc=5",
+        "pubTime": "2026-11-17 21:11",
+        "source": "news.google.com",
+        "titleZh": "NVIDIA 的「黃仁勳回歸」運動獲得川普支持，但其連署人數有個隱藏條件 - www.techtimes.co.uk",
+        "descZh": "NVIDIA 的黃仁勳「東山再起」運動獲得川普支持，但其連署人數背後藏有玄機&nbsp;&nbsp;www.techtimes.co.uk"
+      },
+      {
+        "title": "Tech outage wave reaches US government, Trump says all is 'fine' - Reuters",
+        "desc": "Tech outage wave reaches US government, Trump says all is 'fine'&nbsp;&nbsp;Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTFrNFhKT3ZkYUp6V1R4ZTlwSnlGT2RHTnZUanZxZ1dSNEZwLUtBd2YzZGNZZk1XQ3RHT3hPU2FFaEVwSEkzbzFoNmt1d2ZkenRyTjV4MWlQcnZwWUJ6c3B3Mk5BejhqNkJUaFI3WTZZSlczN0dpYUIzQ2VnNGJ4LVNZeWJuenBuT29LQ1JheGtxbk85aC15cnJlYk85YklfYTN4UHY1aG1qTVE4YVdNSWpjTTNmUFktTnZKQ3dha0ZVSlU?oc=5",
+        "pubTime": "2026-11-17 21:08",
+        "source": "news.google.com",
+        "titleZh": "科技服務中斷浪潮波及美國政府，川普表示一切「沒問題」——路透社",
+        "descZh": "科技系統故障潮波及美國政府，川普表示一切「沒問題」&nbsp;&nbsp;路透社"
+      },
+      {
+        "title": "Canada and China Strike New Trade Deal Ahead of Trump Summit - Newsweek",
+        "desc": "Canada and China Strike New Trade Deal Ahead of Trump Summit&nbsp;&nbsp;Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWFE1WWJzY3diLXNWZUhfTHJlVUQtTkpaU003cEZ1RkQ2dVdFNldSSGpDbEdhdjBDNkxRS0lnYXJtajRUYVRkaHpoVjZSMXZ2d183ZE04bnVYTEZBMWd3Ym8tcTM5UnNRUjcwMHNMQXBfNVl4SFBKNUhB?oc=5",
+        "pubTime": "2026-11-17 20:50",
+        "source": "news.google.com",
+        "titleZh": "加拿大與中國在川普峰會前達成新貿易協議——《新聞週刊》",
+        "descZh": "加拿大與中國在川普峰會前達成新貿易協議&nbsp;&nbsp;《新聞週刊》"
+      },
+      {
+        "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance - The Guardian",
+        "desc": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1KNjNrZkNDZWpCVml2N3F2RzVwNFpuUkVZRnB0UlI2ZS1QZkVXZm1BUUQwc2JxU3E0WUQyc3ZFdk9XbnA5c0tyQVgxSE9MYk1iTlVKV3FpNmtzZjAxX1pKZ1dNeDdza1NkVUpxZVM3ellia29VcnI4c0x1cUFhcUxqR044ZWl3cUJXTEVUUUJxVDRZYUdkY09TaVN0SmVKWmlXVTI2bHBZU2hLN3J3eVNiZllyZXJDY3lzMg?oc=5",
+        "pubTime": "2026-11-17 20:20",
+        "source": "news.google.com",
+        "titleZh": "「以實力促和平」：阿爾巴內塞與川普盛讚「四方安全對話」聯盟取得的進展——《衛報》",
+        "descZh": "「以實力促和平」：阿爾巴內塞與川普盛讚「四方安全對話」聯盟取得的進展&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Donald Trump flags new military exercises as he flexes Quad relationship muscle - The Australian",
+        "desc": "Donald Trump flags new military exercises as he flexes Quad relationship muscle&nbsp;&nbsp;The Australian",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHgtc0tidVVCallad0EzX19wQm4yZWVrdzZTOWNoNVRnc3M3SjFSMmlUVWlrYTRNWks1bzBHdWs0VDlQRVZZRzJWY1I0ekpRTEctWGl1ZGFqMjJGNGIwdWRoQWFIdjV0aGtHVlJXOFl3WndzMUxLcEdPU3NRYm5nMmxtakpNNy01S01FcF9xZGNSOXlzSnZLRzJQVmhRWHhuTEhYc3FuaWltLVA4MmpTWURlTS12NHhYUE9zd3NkUWJPNVRWVTNjbzZpYzJmQ1NSakJvQXh6ekFkR2hENjNHOUN5dkdWbEp4Wk44?oc=5",
+        "pubTime": "2026-11-17 19:40",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普宣布將舉行新一輪軍事演習，藉此展現與「四方安全對話」的關係實力——《澳洲人報》",
+        "descZh": "唐納德·川普宣布將舉行新一輪軍事演習，藉此展現「四方安全對話」關係的實力&nbsp;&nbsp;《澳洲人報》"
+      },
+      {
+        "title": "Will President Trump meet Kim Jong Un?",
+        "desc": "President Trump says he would be keen to meet the North Korea leader in China.",
+        "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-17 18:13",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普總統會與金正恩會面嗎？",
+        "descZh": "川普總統表示，他非常樂意在中國與北韓領導人會面。"
+      },
+      {
+        "title": "Trump takes less secure plane to China - The Washington Post",
+        "desc": "Trump takes less secure plane to China&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbU9ZT1IycDk0ODdyN0pleWdOcDd3SnZVd3kxYVRtaFdreERQeWt2Y2t5R0tpSmdGQkU5TGVBWXNXQ2dqY056Y0x0aWxOMkhNTTRRdVhIUEUyQzZoeGhXbHpORTFDZFdGR0pKY3RkNVVSR1JkMF9mWjVCVXdRVVRmNld5M0l0dWNhRHF3QmtiY1E?oc=5",
+        "pubTime": "2026-11-17 15:00",
+        "source": "news.google.com",
+        "titleZh": "川普搭乘安全性較低的專機前往中國——《華盛頓郵報》",
+        "descZh": "川普搭乘安全性較低的專機前往中國&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+        "desc": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-17 10:38",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普表示，阿拉斯加選民選錯了丹·沙利文。數據顯示了什麼？",
+        "descZh": "阿拉斯加參議院選舉的計票工作仍在進行中，民主黨候選人瑪麗·佩爾托拉目前領先共和黨現任參議員丹·S·沙利文。"
+      },
+      {
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+        "desc": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-17 10:37",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "Nvidia 駁回「讓詹森回來」運動，而川普則支持讓這位前老闆復職的努力",
+        "descZh": "多位科技界人士已響應一項呼籲，要求這家人工智慧晶片巨頭讓黃仁勳重返原職。"
+      },
+      {
+        "title": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal - The Washington Post",
+        "desc": "Trump administration orders Commerce to close chip loophole at heart of Nvidia scandal&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlDQ0VJUFBIZS1nQTJUN281Z2JRbmJ4N3JFSEo2cDJYdlpXOWhIWkw4Mm95ZXZXWkQ1MjJGRnZCVkVKUWlVakVub2ZwU0dhVUJKeGtJclFVa2pMZFVMZjRmYUhTbFBZV1BGdENBdGkzMV9nZGRaUkhFcVJMYUtITkN3M0pwRFlsQmkxUXNIaEpPanZIRll1TVNXRFJpVzlDOTNLUTVaNDY1Ql9TVXdV?oc=5",
+        "pubTime": "2026-11-17 10:32",
+        "source": "news.google.com",
+        "titleZh": "川普政府下令商務部堵住英偉達醜聞核心的晶片漏洞——《華盛頓郵報》",
+        "descZh": "川普政府下令商務部堵住英偉達醜聞核心的晶片漏洞&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy - AP News",
+        "desc": "Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy&nbsp;&nbsp;AP NewsThe critical new geopolitical truth that explains Trump’s defense of ex-Nvidia ch",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUG5xR2UxLXNkQkhHXzNPQVliSkVQYnJSaDhia2VYdjZPeFBtU1VHN0ZHeVpuRE5Vd0hTNmpsYWtjaVh1ZFRvX2Fnd3JDQWhEQVJxNFY2RjVrLU5IcWhuSVZrZ3lFNDMzeWVwUTBYclE1RDFnUTdkR3NGUjFuaTFPd1hybm9DYzBSR1U2bDU4a19iWTA2YWc0eEdUazBGbXZ1VTc3WFAtSkEyZw?oc=5",
+        "pubTime": "2026-11-17 07:21",
+        "source": "news.google.com",
+        "titleZh": "儘管面臨與中國間諜有染的指控，川普仍支持讓英偉達執行長復職的運動——美聯社",
+        "descZh": "儘管面臨與中國間諜有染的指控，川普仍支持讓英偉達執行長復職的運動&nbsp;&nbsp;美聯社新聞——解釋川普為何為前英偉達執行長辯護的關鍵新地緣政治真相"
+      },
+      {
+        "title": "Trump says he 'would not mind' Huang returning as Nvidia CEO - KOKH",
+        "desc": "Trump says he 'would not mind' Huang returning as Nvidia CEO&nbsp;&nbsp;KOKH",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbGJIR29DdDZsTWdwbWlmZVgySzE0RnlKWUNxeXNVSTh3ZThVTWdHQUJoTVhwYXJmR0xQNzNJUlU0Z2RaTDJ0YWZ4UWpiZC1UWVpITXRuNW1xei1wVXpDdnVuZ0VWSGdiM0ZPWEgwTDR6a2VCeFY0Rlp0enNLOHFlM3FTb1lqT0xzV1ZLRHg3VlBUTlp5aDFIUWFSUWRHdzZpeDZoR3JnTXJfYmR5Ukh5ZDBPWDMzNUxvQVRNYnRPLVhuaDg0WXlkWlVPeG1iRlZQN0E?oc=5",
+        "pubTime": "2026-11-17 05:33",
+        "source": "news.google.com",
+        "titleZh": "川普表示，他「不介意」黃仁勳重返英偉達擔任執行長 —— KOKH",
+        "descZh": "川普表示，他「不介意」黃仁勳重返英偉達擔任執行長&nbsp;&nbsp;KOKH"
+      },
+      {
+        "title": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win - Aurora Sentinel",
+        "desc": "Trump's tariffs are unpopular - but they'll be tough to repeal despite Democrats' landslide win&nbsp;&nbsp;Aurora Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakVVX2NOMndES2dhRFl0SVQ5OTFIWmZBWnlWb2xZY2x1NEpPY3hMc0FTSzV2elk4RVlqRTZZaU4xWlVPVE9xamowbmdBOHg5ZjFreVp0NDBNNHg1cTFQVm5DSmZJcHZSWjVPSmVpd3JJekVHYmZGQWQybEVsUUJLbjhnXzBqSXozcHlQRENfb0FXWnJ1WjVGTFkyeGJHelNrV3ZVdVN3b2NwX09SR3JBV1VzTVp0WlRxWFZtSGpHNEJKZ1NIZnQtM2JwWVZnbFU?oc=5",
+        "pubTime": "2026-11-17 05:19",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些關稅仍非易事——《奧羅拉哨兵報》",
+        "descZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些措施仍將十分困難&nbsp;&nbsp;《奧羅拉哨兵報》"
+      },
+      {
+        "title": "Donald Trump Says He Would Welcome Jensen Huangs Return As Nvidia CEO, Raises Questions Over China Spy - Free Press Journal",
+        "desc": "Donald Trump Says He Would Welcome Jensen Huangs Return As Nvidia CEO, Raises Questions Over China Spy&nbsp;&nbsp;Free Press Journal",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnlIMjNKUnhhcnhFZkI3SGt0cVEzV2ZGVXZhQkhaR0tHV2g5d3g1Zy0xVmlGTUI2S2Vudnc2YTl5Z3RmcXhwZjVYejJXX3cxaHlQRDVETzBnLVVFTGZ1eDkyS1lwNlZ1NHh5NFlfeWtjYzBFNFhBTUhLeDY4ZkdxaVlEaVpjbnpKenlyZ1QxSWdBaU9NTUhhb2JlazljTUtfM3QwZzhvaVlJNkdUXzBBYnNjTFVKT3pXM1NqRWh0a0RrUk56S3hoLVItZHF5d3Znd2NXQ1F5T2Ixa09raHZLZDd5WUbSAeoBQVVfeXFMT0ZiTUlBNkpvZWNUSzhWM2ItMkZERlA4WnlwVHFHbEJYQ012X0lxOHczWGF4cEszZmVsclVmUEMtWmJzQThMMXIzXzFEbUg2VHl6a2pXcHl2UnlhNHB4aFFvZWl6aWktV1BXVlhIMG5FWl9JdUYtSnhfZVBUU0phaUUwSEFMektNMWZJcml4MDFHR3Bad2k4Q0lDOVBTbnhEOUZFc3VkRXR6R2lpd2Q1bmc0U2xJckYxaTlVRGlUMnpNQUdxcG9VV2t3NDZYUE1ZUnRjNGJpVzV0QzE4NmhWUUhtanlMblF1N3pR?oc=5",
+        "pubTime": "2026-11-17 02:02",
+        "source": "news.google.com",
+        "titleZh": "唐納德·川普表示，他樂見黃仁勳重返英偉達擔任執行長，但對「中國間諜」一事提出質疑——《自由新聞報》",
+        "descZh": "唐納德·川普表示，他樂見黃仁勳重返英偉達擔任執行長，但對中國間諜一事提出質疑——《自由新聞報》"
+      },
+      {
+        "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
+        "desc": "After the Blue Tsunami: Getting rid of Trump’s tariffs&nbsp;&nbsp;Peterson Institute for International Economics",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+        "pubTime": "2026-11-17 01:13",
+        "source": "news.google.com",
+        "titleZh": "「藍色海嘯」之後：擺脫川普的關稅 —— 彼得森國際經濟研究所",
+        "descZh": "「藍色海嘯」之後：擺脫川普的關稅　彼得森國際經濟研究所"
+      },
+      {
+        "title": "Trump is down with the idea of Jensen Huang returning as Nvidia CEO - Business Insider",
+        "desc": "Trump is down with the idea of Jensen Huang returning as Nvidia CEO&nbsp;&nbsp;Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVRoMEdSX1R6dUFqREdvRXpBdnZGSlEzU2JGOFk5X1E4Y2pBNmFsWVlQeWktZlNMZVBHcUp5MnU5TkRjY2xaM2JQaUhnVVd3UFU0Y0xSOW45S1NUWHpoaDg2ZU9NTlZLX0xaN2tsVUdqQjNmZXZjV3ZWeHM2NFBYcTFsaXFFM2k2ZTJkUEtVSjNDdGhHem5ZdzJDUQ?oc=5",
+        "pubTime": "2026-11-16 23:51",
+        "source": "news.google.com",
+        "titleZh": "川普贊同黃仁勳重返英偉達擔任執行長一事——《Business Insider》",
+        "descZh": "川普贊同黃仁勳重返英偉達擔任執行長一事&nbsp;&nbsp;《Business Insider》"
+      },
+      {
+        "title": "Bipartisan push possible to curb Trump tariffs - Construction Dive",
+        "desc": "Bipartisan push possible to curb Trump tariffs&nbsp;&nbsp;Construction Dive",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTJobkhYVS1Xb1lWUEFKb3hLdzNyUHRmV0QwcWRZVUZHX2x5LUZLazNOMWNKRkdKT2NiZ3JEU2xvTlZLTzNTTkx4dllQVVJSeDlYamgySUIwSVcxYzhYRlBPWXBSb2MzV29XaXdqOGZNSlBQa01JajVxNGI2Z3hQeVVyMmlhcE9iVjlFNVV2ejNXQlE?oc=5",
+        "pubTime": "2026-11-16 22:47",
+        "source": "news.google.com",
+        "titleZh": "兩黨可能聯手遏制川普的關稅措施——Construction Dive",
+        "descZh": "兩黨可能聯手遏制川普的關稅政策&nbsp;&nbsp;Construction Dive"
+      },
+      {
+        "title": "Trump’s Troubles at Home Deepen Asian Fears of a Pivot Toward China - Military.com",
+        "desc": "Trump’s Troubles at Home Deepen Asian Fears of a Pivot Toward China&nbsp;&nbsp;Military.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmM5cTRFR1RtQ3hnUTkwOEU4Uk5GWmtqeEJQV0tjY2EtNlo2ck44eHRYQUxtSm1jcWJ0LUczM1MxSnpqM0ZaU2NkSTlqcGRydUFkWkZlYm83cUNtME1hc3RqOWVEcHl1Vl9oYnVTTlFLX05odURJc1JsZjBfVEd0RUNFbUN1MWJtdUZKSl92M25YVkRHNnc?oc=5",
+        "pubTime": "2026-11-16 22:11",
+        "source": "news.google.com",
+        "titleZh": "川普國內困境加劇亞洲對「重返亞洲」政策轉向中國的擔憂 - Military.com",
+        "descZh": "川普國內困境加劇亞洲對美國「重返中國」的擔憂&nbsp;&nbsp;Military.com"
+      },
+      {
+        "title": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win - The Killeen Daily Herald",
+        "desc": "Trump's tariffs are unpopular -- but they'll be tough to repeal despite Democrats' landslide win&nbsp;&nbsp;The Killeen Daily Herald",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaUdULVNKMUhWaXgybVJpRzhRODBJWDFwdU1ydXpXU3BqZWo3TXgtQUQ3Um42eGIwWGVHZTVKaUY0NS1lRERBcUF3MWJac2pEVTN6aU55cVB6YWRKcjRwR1BrcEtBOGlpOWF1RXlFQWlmU2p2X2tTc2c0N2xxcks3d1Q2T3dFbTlXQlZPZDY0WUZ6VXNBU3UyanFjbmF0QjJubDRzdEhTUkdPdENDUHVYWjJCSEFVaVAxWjhHc0kweGdSeGRfYXQzS1hKazBybUFQMUdUZUR5YzNvek16LWlKcUJXbFZpLUVoNE9UQWZ0SHBpMVhuRHc?oc=5",
+        "pubTime": "2026-11-16 20:35",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些關稅仍非易事——《基林每日先驅報》",
+        "descZh": "川普的關稅措施不受歡迎——但儘管民主黨以壓倒性優勢勝選，要廢除這些措施仍將十分困難&nbsp;&nbsp;《基林每日先驅報》"
+      },
+      {
+        "title": "Trump to Meet Xi and Putin in China During Asia Trip Focused on Nuclear Arms and Iran - SSBCrack",
+        "desc": "Trump to Meet Xi and Putin in China During Asia Trip Focused on Nuclear Arms and Iran&nbsp;&nbsp;SSBCrack",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0kxSFZQeVZUZzNHc21kSVFHTEZUT1lxWkw4TGp1dnZTc1RSXzBMTGQ4Wkd3cExSVEY4a09EN2xHTERsS19MX0tXd0doYnF1QXFnQjVXLUVmQ3YyZHlCTldVLUZXWExaWnpIUUs4WExVcmlZa0Y5dFh6Yi1aVHRrZlFrN2JROHBJdW5lSHdsc3AxbEI4bmJrdlcyckI0a0dJWnZ2NUdHdEFNWDlUcTVkYTdn?oc=5",
+        "pubTime": "2026-11-16 20:09",
+        "source": "news.google.com",
+        "titleZh": "川普將於以核武與伊朗議題為焦點的亞洲之行期間，在中國會晤習近平與普丁 - SSBCrack",
+        "descZh": "川普將於亞洲之行期間在中國會晤習近平與普丁，此行重點在於核武與伊朗問題&nbsp;&nbsp;SSBCrack"
+      },
+      {
+        "title": "Opinion | The New Congress Must Rein in Trump’s Dangerous China Policy - The New York Times",
+        "desc": "Opinion | The New Congress Must Rein in Trump’s Dangerous China Policy&nbsp;&nbsp;The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3MxNFlBbVVGR3ZtcWN2U3JGYUpzWTVBSG4wa2UyTkQ3RVdHa2FwbGZhckF1dGhJc1ZSZncwb1ZKeGdUWjBBY1JBTXJkTkxMeGZ5Ny1JRE9CUlh4NUE4VmwwTGlIQ0FTNlFyRlFCd3BoQTdRcENQU0J6VVBMLWFoaTRR?oc=5",
+        "pubTime": "2026-11-16 14:00",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 新一屆國會必須遏制川普危險的對華政策 — 《紐約時報》",
+        "descZh": "觀點 | 新一屆國會必須遏制川普危險的對華政策&nbsp;&nbsp;《紐約時報》"
+      },
+      {
+        "title": "Democrats use Nvidia chief’s resignation to denounce Trump as insufficiently belligerent against China - World Socialist Web Site",
+        "desc": "Democrats use Nvidia chief’s resignation to denounce Trump as insufficiently belligerent against China&nbsp;&nbsp;World Socialist Web Site",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WM1ZYck1rRmpYQXVncTRNU0RJTUtkd0UtYU5QcDc1STlTWmh6LVlrYVZLTW9nNGxiLVFNUXVLU0I2aWIwbTdtT1hiS1d4dHdjNHRMZktWT2tFRWhRNWxiV3Q2cDlTTHhu?oc=5",
+        "pubTime": "2026-11-16 13:30",
+        "source": "news.google.com",
+        "titleZh": "民主黨人利用英偉達執行長辭職一事，指責川普對中國的強硬態度不夠——《世界社會主義網站》",
+        "descZh": "民主黨人利用英偉達執行長辭職一事，指責川普對中國的強硬態度不夠&nbsp;&nbsp;《世界社會主義網站》"
+      },
+      {
+        "title": "Democrats target Trump’s tariffs. Can they agree on what’s next? - The Christian Science Monitor",
+        "desc": "Democrats target Trump’s tariffs. Can they agree on what’s next?&nbsp;&nbsp;The Christian Science Monitor",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VYUklFWlJPYklZMWJhZ0x5R29ZRmhPSmV2Sm9GbkY4cjhmTy02ZGpNbS1VY2xtUTBwaXgzbnFWUTBZakNWX291cGtuQU8wM1lDYk03Nl9jMnZxLVpIZV9CNkU3ZkFDazlpMTI5UElZX0Z0d2RHTWJSRjE5QmxHRFZURlJBUzBOWWVXSA?oc=5",
+        "pubTime": "2026-11-16 13:00",
+        "source": "news.google.com",
+        "titleZh": "民主黨人將矛頭指向川普的關稅政策。他們能否就後續行動達成共識？——《基督教科學箴言報》",
+        "descZh": "民主黨將矛頭指向川普的關稅政策。他們能否就後續行動達成共識？&nbsp;&nbsp;《基督教科學箴言報》"
+      },
+      {
+        "title": "Trump’s tariffs cast shadow over APEC talks - The Straits Times",
+        "desc": "Trump’s tariffs cast shadow over APEC talks&nbsp;&nbsp;The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazVKcWhyQWZrODBEeUktaFdWdTVvZG1WTzBiU285LTcxQVdUeUdqdkNMNjJwaE8xU0gwT1B5bXlNR2pSUkRoZ0dNV0haSFIxbHRHd1ptVkFobzBScWRpdkQ5LU5ndjNXWUVITkhrUmo2bzhPSDlCbnN1Rng1dzBFUFhScHY5MUxBZ1VyeExRSQ?oc=5",
+        "pubTime": "2026-11-16 12:46",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅為亞太經合組織（APEC）會談蒙上陰影——《海峽時報》",
+        "descZh": "川普的關稅為亞太經合組織（APEC）會談蒙上陰影&nbsp;&nbsp;《海峽時報》"
+      }
+    ]
+  },
+  {
     "date": "20261117",
     "fetchTime": "2026-11-17 10:59",
     "count": 21,
@@ -5374,67 +5741,6 @@
         "source": "news.google.com",
         "titleZh": "《華盛頓郵報》報導：Nvidia 與 Apple 各捐贈 2,500 萬美元給川普的宴會廳 —— 《商業標準報》",
         "descZh": "《華盛頓郵報》報導，Nvidia 與 Apple 各捐贈 2,500 萬美元給川普的宴會廳&nbsp;&nbsp;《商業標準報》"
-      }
-    ]
-  },
-  {
-    "date": "20261019",
-    "fetchTime": "2026-10-19 06:29",
-    "count": 6,
-    "articles": [
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "desc": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-18 09:10",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著與澤連斯基的爭端加劇，川普豁免了多項針對俄羅斯的制裁",
-        "descZh": "美國總統暫時終止了國會近期基於「國家安全」考量而針對莫斯科通過的許多限制措施。"
-      },
-      {
-        "title": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list - Yahoo Finance",
-        "desc": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list&nbsp;&nbsp;Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOENIeGpZZzRrX05HQl9mVzlBTjhsS0tfYUplRzBUYUpUbFVEenZITmxFX2Jzd3BDM0lzYUs5emxoM3c0ZlhKRjRzN01HYmd5aVJLTUJ5blVmUXBZNU8wV1VOeElxTGZvZ1BmeGxzbmlZSlM5d2NidmlFOHp2VlVGbmhXRUo4ZXI2c2hMRXZKOGNRU3pOVUpMTA?oc=5",
-        "pubTime": "2026-10-17 23:00",
-        "source": "news.google.com",
-        "titleZh": "蘋果與英偉達各捐贈 2,500 萬美元給川普的白宮舞廳——但捐款名單上卻完全找不到總統本人的名字 - 雅虎財經",
-        "descZh": "蘋果與英偉達各捐贈 2,500 萬美元給川普的白宮舞廳——但捐款名單上卻完全找不到總統本人的名字&nbsp;&nbsp;Yahoo Finance"
-      },
-      {
-        "title": "Katie Zacharia leaving White House role less than five days into job",
-        "desc": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-17 17:14",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "凱蒂·扎卡里亞上任不到五天便辭去白宮職務",
-        "descZh": "她以新聞秘書身分首次公開亮相，卻因媒體對其資歷與準備程度的一片批評聲浪而告終。"
-      },
-      {
-        "title": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore - The Economic Times",
-        "desc": "Trump’s 100% Russian oil tariff U-turn has a catch India can’t ignore&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUE1WOTcydDNtY1hEVG9RNVA0cnNLZ2lJNHhlWWdSQ29XaGdqRzlCTWN4SG5VTDkzQlFET2Q2ZUcxRXRrSldGRmk3b0dYb0U2YkczcEp6MTlPZXA4N3RFaVRpbm5zOXpDTV92NDk5blk1VGhSVVZLdGhqTHlhSXNhTkFuUU5adFpyZWNFYUdhdzA1SkFQa0RCSS04R3NjdV9uczg2ODdJY0xyYnlLQXNvOGN0OEhnc1NKNDdyNjRnakVCblRaTzY1eERyWDA1X0dCemYzdHpxUDR3OHJpZWdfSnBOY2lMRExRYkp0QWtVTDJ6TzVoY2ZGbl9lLTVHZDNEcUhfS2dVc3JfTmJJdHphOTlXQ3VsQdIBmwJBVV95cUxNcm80SzlLa2Ztdk16MUhWcFVwelZZTEUzUnJwYU5QVFRrdmRhWUFEc0JXRE1OTHVZdEZXcUlMSkEyd3dyYlhabXVfNGlIN1h3S3RnMUI0YTRDRjB1M3dlTmpOREZfbl85YnRaajM2R19SVFp0ZGI2Q3hZRkd4R1UwaXpQRnFzU0NfdVVxM2c0dlhweU15ZFN1dUNBeTlZUkhQSFNEekZVdjV4UDJIYTE5VENKSnBmVnFzclVQR2FqcHlHaTFhclBxSURfT0FPcndVSVBsZWNCYXVqVFhZRTY1UDBHVldiOVhmNE1BQTZsdmJWYmE4MkRVbEU5cE84LVNHbjE0OEdxN0x5bm84SDFoRVpFdkdMMVJRSk9n?oc=5",
-        "pubTime": "2026-10-17 13:42",
-        "source": "news.google.com",
-        "titleZh": "川普對俄羅斯石油徵收 100% 關稅的政策大轉彎，背後藏著印度無法忽視的隱憂——《經濟時報》",
-        "descZh": "川普對俄羅斯石油徵收 100% 關稅的政策大轉彎，背後藏著印度無法忽視的隱憂&nbsp;&nbsp;《經濟時報》"
-      },
-      {
-        "title": "Trump’s Tariff Strategy Collides With $2 Trillion US Deficit - Newsweek",
-        "desc": "Trump’s Tariff Strategy Collides With $2 Trillion US Deficit&nbsp;&nbsp;Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWXJTWllOamFnaXBFZ3pqWkxkeXdKbW5BSzJNUk1NVmVBTWowX1VJNEFoeEIwZ05SVkpwRENMOEF0cWZ5Vm9YZVlCemZsR28xcDNXVHBNbHpLMlRyem9BY3J5bTZoQ3U2b194SlZXMGtBaEVBTmFXdXFENDJxcWtOU3VEV0lOb2piVlFwNmRZZndScmxFY2Zv?oc=5",
-        "pubTime": "2026-10-17 10:35",
-        "source": "news.google.com",
-        "titleZh": "川普的關稅策略與美國 2 兆美元財政赤字產生衝突 —— 《新聞週刊》",
-        "descZh": "川普的關稅策略與美國 2 兆美元財政赤字產生衝突&nbsp;&nbsp;《新聞週刊》"
-      },
-      {
-        "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED) - TradingView",
-        "desc": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED)&nbsp;&nbsp;TradingView",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNlFYVkNNUG9OQ25SdmN4SFpNSkdweWlJT2wyRmtvSktOQmtfRl94aGk4UmJXVXdjVHhJTFU1Z25MLXUzcWtGZUU0SlRJUkVOcjV0MUtlRDRyVThGeFc4cDFKaS1zRHF0OFNlS1k0OTVOVTdaVkNuc3p5VktGdmVILXpydDJaRXc1ZmpHYXZoUmZGVUJVRkNuT3B5V2d0dlotMmFXSHQyVnNSZ21kNUxPeV9wOGMzRGZTeGI2cGZLY0xPRVdOWl95bnFkUTQ5OE9lSmFIZFZyMkdLWklobXc3V29OOTRiUWFfcEZ2WjVVSnA5al92NEo3aHNqanJUcHpLLWxWb2xVMnY5TDBsWXhXRm53?oc=5",
-        "pubTime": "2026-10-17 08:40",
-        "source": "news.google.com",
-        "titleZh": "報導指出，川普耗資 3.3 億美元的「白宮舞廳」捐款名單顯示，英偉達、蘋果和谷歌位列科技業主要捐款者之列（更新） - TradingView",
-        "descZh": "報導指出，川普耗資 3.3 億美元興建的白宮宴會廳捐款名單顯示，英偉達、蘋果和谷歌位列科技業主要捐款者之列（更新）&nbsp;&nbsp;TradingView"
       }
     ]
   }
