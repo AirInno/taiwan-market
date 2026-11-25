@@ -1,5 +1,246 @@
 [
   {
+    "date": "20261125",
+    "fetchTime": "2026-11-25 11:35",
+    "count": 26,
+    "articles": [
+      {
+        "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
+        "desc": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-25 09:51",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "基爾馬·阿布雷戈·加西亞離開美國前往西班牙，為這場驅逐出境之爭畫下句點",
+        "descZh": "他被遣返至薩爾瓦多後又返回美國一事，成為圍繞唐納德·川普總統移民議程所引發辯論的焦點。"
+      },
+      {
+        "title": "Trump Tariff Shock Triggers TSMC's 140-Dollar Single-Day Plunge; Taiwan Stocks Briefly Shed Over 2,000 Points - BigGo Finance",
+        "desc": "Trump Tariff Shock Triggers TSMC's 140-Dollar Single-Day Plunge; Taiwan Stocks Briefly Shed Over 2,000 Points&nbsp;&nbsp;BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCcElfTlRJNV85LTBPSmxxa0d6NjVLc2lQemFDTDZKYzFqajFhYnVXeEpkNjFOR1gya2F5eUdPU3RQZExVXzI4NjJkM2t3YVUxVllqSDhRWlZzbnFUZm4tc0VaWTVTMHJKczhWRHJ0X2dYNjdKTUE?oc=5",
+        "pubTime": "2026-11-25 09:35",
+        "source": "news.google.com",
+        "titleZh": "川普關稅衝擊導致台積電單日暴跌140美元；台灣股市一度下跌逾2,000點 - BigGo Finance",
+        "descZh": "川普關稅衝擊導致台積電單日暴跌140美元；台灣股市一度重挫逾2,000點&nbsp;&nbsp;BigGo Finance"
+      },
+      {
+        "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+        "desc": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+        "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-25 09:03",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普對英偉達的干預，將他的政治前途與人工智慧熱潮緊密綁定",
+        "descZh": "美國總統為讓執行長黃仁勳復職而進行的斡旋，已使兩人的命運緊密相繫。"
+      },
+      {
+        "title": "US preparing to unveil new tariffs on global trading partners - BBC",
+        "desc": "US preparing to unveil new tariffs on global trading partners&nbsp;&nbsp;BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+        "pubTime": "2026-11-25 08:38",
+        "source": "news.google.com",
+        "titleZh": "美國準備對全球貿易夥伴實施新關稅 —— BBC",
+        "descZh": "美國準備對全球貿易夥伴實施新關稅&nbsp;&nbsp;BBC"
+      },
+      {
+        "title": "Brazos County joins high-stakes competition for TSMC semiconductor plant - Dallas News",
+        "desc": "Brazos County joins high-stakes competition for TSMC semiconductor plant&nbsp;&nbsp;Dallas News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ3BXZEd5VFJoejUtei1kLWZUZnhFSXdEUTV0WGFUbnJ6SnR1blhFRkFfQlBmamlYcC0yU2NHdUNDQ0ktTVMyRkpFWVNuWllQVUJKNml5bFJpVk00S191QU9GZi00a1BnQTVrcFpjRHI0MW5UaGVXdC1ZS204ZHlXUTgzZnpPZE5yYTVSdFBNNFpIcTA5NmJORUxpbmNoWUNsRWJicnFn?oc=5",
+        "pubTime": "2026-11-25 07:09",
+        "source": "news.google.com",
+        "titleZh": "布拉索斯縣加入爭取台積電半導體廠的激烈競爭 - 《達拉斯新聞》",
+        "descZh": "布拉索斯縣加入爭取台積電半導體廠的激烈競爭&nbsp;&nbsp;《達拉斯新聞》"
+      },
+      {
+        "title": "Trump just handed Democrats a political gift - CNN",
+        "desc": "Trump just handed Democrats a political gift&nbsp;&nbsp;CNNThe Frantic White House Push to Get Jensen Huang Back&nbsp;&nbsp;WSJWith Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeGUzR1BsUjdoWVVIZmtiaFJMNzE1bkVkbVlTUmVFMFpmQnNhbXlyWEpmQzNOemZxamxoUHhITlpCckpEYXNNQUNQTDFHRU9nRlI0XzVIYjdpQWtEckkwd0xRc0xveG4yUVhJUVJranhsc1YzcTg0?oc=5",
+        "pubTime": "2026-11-25 05:13",
+        "source": "news.google.com",
+        "titleZh": "川普剛給民主黨送上了一份政治大禮——CNN",
+        "descZh": "川普剛給民主黨送上了一份政治大禮&nbsp;&nbsp;CNN　白宮為讓黃仁勳回歸而展開的瘋狂遊說&nbsp;&nbsp;《華爾街日報》　隨著黃仁勳重返執行長職位，川普實質上推翻了英偉達的"
+      },
+      {
+        "title": "Trump prepares a new round of targeted tariffs - Axios",
+        "desc": "Trump prepares a new round of targeted tariffs&nbsp;&nbsp;Axios",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOXZTRnJTd1pRNzd0dUhFN0pGM3p5Vmcyc2kzT1BmZDMyNmxNWUV5RWFYUmNMdE5OblIxRFZyODdiaFdmWnFBWTdjYzMwX2c0d0NSSXNsSlhlTDl4S2xXTXJON1hkbDczcEw2RXFTZjROdGxO?oc=5",
+        "pubTime": "2026-11-25 04:56",
+        "source": "news.google.com",
+        "titleZh": "川普籌備新一輪針對性關稅 — Axios",
+        "descZh": "川普籌備新一輪針對性關稅&nbsp;&nbsp;Axios"
+      },
+      {
+        "title": "Watch: Trump pardons turkeys Freedom and Feathers",
+        "desc": "Donald Trump continued a long-standing White House holiday tradition, pardoning two turkeys named Freedom and Feathers.",
+        "url": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-25 04:45",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "影片：川普特赦火雞「自由」與「羽毛」",
+        "descZh": "唐納德·川普延續了白宮一項源遠流長的節日傳統，特赦了兩隻名為「自由」和「羽毛」的火雞。"
+      },
+      {
+        "title": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda - Plastics News",
+        "desc": "Democrats target Trump tariffs as midterms cloud manufacturing trade agenda&nbsp;&nbsp;Plastics News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmJqQWtraWRUR18yazZqczY2NVdUalFReUQtS04zQS0zLWQyT2RuSVNUVC0yVW1NSFgtTWxzZ1JtcG9aLUp1VktRNmhfekVjbFBfVXA0S3oyNmJVdFVYR0Z6TnBndC1zR3NadVI3ZkNLZDNSb3NYUk5aVHJVMlc1OVdEWnM1d204alRZSlB1QTNaTkQ2cG5udDJn?oc=5",
+        "pubTime": "2026-11-25 01:12",
+        "source": "news.google.com",
+        "titleZh": "民主黨將矛頭指向川普的關稅政策，中期選舉使製造業貿易議程蒙上陰影——《塑膠新聞》",
+        "descZh": "民主黨將矛頭指向川普的關稅政策，中期選舉使製造業貿易議程蒙上陰影&nbsp;&nbsp;《塑膠新聞》"
+      },
+      {
+        "title": "China tariff threat knocks Bitcoin below $60,000 - TheStreet",
+        "desc": "China tariff threat knocks Bitcoin below $60,000&nbsp;&nbsp;TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmFvYjVGek1qZFhqR19xamJJWUw0TjNDdjBlYW8xSk9SMXdKWWs4QV9BZTMyOVhGZlZQeUc3TEdfU0IwN2lHNFFqUHlzUnd4Sm9KWE0wVjRQV2g1NGU1YzRjWFNjTDhyNGFCMnMxaklFWGVaSlpnMFlIaE1BMGJhRFlKa0RPa1Joeko2dXhHbHM?oc=5",
+        "pubTime": "2026-11-25 01:02",
+        "source": "news.google.com",
+        "titleZh": "中國關稅威脅導致比特幣跌破 60,000 美元大關 —— TheStreet",
+        "descZh": "中國關稅威脅導致比特幣跌破 60,000 美元&nbsp;&nbsp;TheStreet"
+      },
+      {
+        "title": "Trump's tariff war returns: US plans fresh duties on China, EU and 14 other economies - Firstpost",
+        "desc": "Trump's tariff war returns: US plans fresh duties on China, EU and 14 other economies&nbsp;&nbsp;Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmxvMVlSNThhd3VHMkVNTVpQaDVLR210c2xuZW5LdVdSZ1pfXzdIcmxKeFhBT3NDZjZacHZYMHM2X1RoMFdJMzdtNE1fdkxHUVFLWWxMWU5KVVpBaURnWU03QlpEcndSbkt2S1U3aU4ybjVsRVFjMnRRZUVtVzN2bXdYeEhOaGQxN1pLMkMyNkxxNTVQR3ZvVUx5bEc3aWcwVVRUU1J2czhKNkFvUmRlTWVFSDRnM2IxaEpWY3BSOUd1b1JlbXFVc2l4bG8zR2c4Nm8wWC0teUJjZ9IB3wFBVV95cUxNYWd5RFJyblBuTk45ODJiTlZDQi1pME9EVHRmdmFZWnIwUlFaVWMwblU2eXc0Tlp5bGtqSXItTU5MV0Ffdk5GZkg1UTV5a2otMy1pYXAxZDAzNkVXS3hjMVNOVjg1NkZkbG9vYnRGNFRoMU5jeTJHLWo2N0hJc0w4V01PbVc5aGNGZDRNa1pkNWFMWDJEZnJ2WlBPUV9wdHcyZG5uWUlWM1BjNEFrVXFLVmp2U2w5SjdtcmRFaTB6ZGFjM3hjdDVLWjlpblduM1BzZWNhTEtzT1hydl9aaVNF?oc=5",
+        "pubTime": "2026-11-25 00:32",
+        "source": "news.google.com",
+        "titleZh": "川普的關稅戰重燃：美國計劃對中國、歐盟及另外14個經濟體加徵新關稅 —— Firstpost",
+        "descZh": "川普的關稅戰重燃：美國計劃對中國、歐盟及另外14個經濟體加徵新關稅&nbsp;&nbsp;Firstpost"
+      },
+      {
+        "title": "James Moore: Some urgent questions for Mark Carney before a tariff deal with the U.S. - CTV News",
+        "desc": "James Moore: Some urgent questions for Mark Carney before a tariff deal with the U.S.&nbsp;&nbsp;CTV News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGQ3NlFGMVJsZGRrb3BTZzk4VVJYeVBHYndiMnVyVlc1UG4yUnJYeDZkYkdqZ2NfNWtoSGM0azM0UjY2N0htaGppamxZbHE0ck4tcUpxNk80TmxzbGlQNWJNSVpGTEtDNXZwMFUwSmdnTm9jZERxNHV4Xy14VjE5UlVQc1c1TE92ZXZCcjdhaWZfNHpYb29HY29qUUFVLWdjNDRnQmtxQk9iLXlBeU9kaDR3aXJBaFl2dXlFdGpCUFBnYzNxVTB6QXNRN0V2SXdL?oc=5",
+        "pubTime": "2026-11-25 00:29",
+        "source": "news.google.com",
+        "titleZh": "詹姆斯·摩爾：在與美國達成關稅協議前，向馬克·卡尼提出的一些迫切問題 —— CTV 新聞",
+        "descZh": "詹姆斯·摩爾：在與美國達成關稅協議前，向馬克·卡尼提出的一些迫切問題&nbsp;&nbsp;CTV新聞"
+      },
+      {
+        "title": "Trump administration tees up tariff hikes on EU, China, others - Politico",
+        "desc": "Trump administration tees up tariff hikes on EU, China, others&nbsp;&nbsp;Politico",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHdmanQya1ZpbmtJaGc1SHh1NFItcHdxWXlLX2VGZG9NLUlDeV9RYWRVek5GWVlxdXpfNFRmRmlLMnpBZl9fWDVmTkx4ZFd0TnlGanhsbFA1XzJ3SjM3di1wMFl0MzREQ1RYWGJ5SDAtbmVYNm01YllCS29qN0ZfenB2N05OVXoxNVJFX1oxRkV1TFIwZ2U1RA?oc=5",
+        "pubTime": "2026-11-25 00:18",
+        "source": "news.google.com",
+        "titleZh": "川普政府準備對歐盟、中國及其他國家加徵關稅——《Politico》",
+        "descZh": "川普政府準備對歐盟、中國及其他國家加徵關稅&nbsp;&nbsp;《Politico》"
+      },
+      {
+        "title": "The world has never seen anything like Trump’s surrender in Shenzhen - The Hill",
+        "desc": "The world has never seen anything like Trump’s surrender in Shenzhen&nbsp;&nbsp;The Hill",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuTXVPbEtOVUpqV3ZWbG11aW5ZTDYzWDNKZU5feU5tckdsTXA4blZEem9IR0pCcHFOWFFDRUhtQ01ESmU1Um1DUVotUklxQVNaZjU0eTBpS0htWnB3Vm5aWDNDejBGZ2NoSThSM1A3T0RfRW8tOE5EZVdfNEd4aTTSAYQBQVVfeXFMTUc4Z3pVTXY2NG9pWi1IYzQ1WXpTeUwta1MyMndKMTNvMGtmaGpxNmJnWHdSRjBycVhKVVA3bXV6TEs2d2VzSHNBbzZMWGNUWWtCcDJST1R4QnhicnFBS0xqYnJXdFBMT29PWkZwUjhGMXRHVExyd2FSMjlEMVJvYUg0YnZv?oc=5",
+        "pubTime": "2026-11-24 23:00",
+        "source": "news.google.com",
+        "titleZh": "全世界從未見過像川普在深圳那樣俯首稱臣的場面——《The Hill》",
+        "descZh": "全世界從未見過像川普在深圳那樣俯首稱臣的場面&nbsp;&nbsp;《The Hill》"
+      },
+      {
+        "title": "Schumer visits Raymond to discuss manufacturing, vows early action to undo President Trump's tariffs - The Evening Sun | Chenango County, NY's Hometown Newspaper",
+        "desc": "Schumer visits Raymond to discuss manufacturing, vows early action to undo President Trump's tariffs&nbsp;&nbsp;The Evening Sun | Chenango County, NY's Hometown Newspaper",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZk5QQVNhcWlYSDlXZ2J6dTY5Zl9NUTJ1Q3VRc3J3cHRDLXZhdjVIYWY4RF9IeGl0LW51T1U4UTlGWkFQTDNhNDFORE5YeERTREtoTFBjVHJ0Rks4RTZ4dE1EQ1g4TXRiUjQxalFfSk5YLTF1Q2hILXAwekxQNlZBUlBzTm5RNnA5b2FiM2hOMHg2azhITmx0V1MyWkItUWZGem5xRjA1UVpXMzRTRmpzei1GZ2FvU2pMb1lnQWFNeERmVzFreGc2ZlFpc3ltT0xjUEFYUVZIemVRVG1CSi1Wbm9UeUtUOHFZ?oc=5",
+        "pubTime": "2026-11-24 22:56",
+        "source": "news.google.com",
+        "titleZh": "舒默造訪雷蒙德市商討製造業議題，誓言將盡早採取行動撤銷川普總統的關稅措施——《晚間太陽報》｜紐約州切南戈縣的家鄉報紙",
+        "descZh": "舒默造訪雷蒙德市商討製造業議題，並誓言將盡早採取行動撤銷川普總統的關稅&nbsp;&nbsp;《晚間太陽報》｜紐約州切南戈縣的本地報紙"
+      },
+      {
+        "title": "Trump Tariffs Raise Food Costs and Cloud Railcar Outlook - Limapagi",
+        "desc": "Trump Tariffs Raise Food Costs and Cloud Railcar Outlook&nbsp;&nbsp;Limapagi",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBva21GbDJMX18tOHpZeUtoaXZ6aGJjb0FldjNGcFE2ZXR6ejNvV2pFWUhSQXRwRXgzRzJBNTE4aF9xQUVRLVZVMDJqOHZMWURNNGZJaVJMYW55N3BuWExoeXJfaTdQeUU?oc=5",
+        "pubTime": "2026-11-24 22:13",
+        "source": "news.google.com",
+        "titleZh": "川普關稅推高食品價格，並使鐵路貨車市場前景蒙上陰影——Limapagi",
+        "descZh": "川普關稅推高食品價格，並使鐵路貨車市場前景蒙上陰影&nbsp;&nbsp;Limapagi"
+      },
+      {
+        "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence - The Guardian",
+        "desc": "The Nvidia case is just the latest episode of Trump disregarding intelligence&nbsp;&nbsp;The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjRjMGRucjM5RXhoTUxNTjU2RU5aU0QtVmdNMGVKTnd2TjdwMTlwMVQtdEJqZ2ZfbE9BbjUzU2k0QjlVbWwwc0VMMHJvUzNyVnNrbjhPY21RWFpfNDlGLXIxR0VmQ2NkLTVWMElKQkNWQTBMY2JpOXpTMkotX2UwVm93dE5wRFZYT3c?oc=5",
+        "pubTime": "2026-11-24 22:00",
+        "source": "news.google.com",
+        "titleZh": "Nvidia 事件只是川普漠視情報的最新一例——《衛報》",
+        "descZh": "Nvidia 事件只是川普漠視情報的最新一例&nbsp;&nbsp;《衛報》"
+      },
+      {
+        "title": "Trump's Foreign Policy Is All About Trump - Persuasion | Yascha Mounk",
+        "desc": "Trump's Foreign Policy Is All About Trump&nbsp;&nbsp;Persuasion | Yascha Mounk",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0VFZqYktEQXNKMXAzNzN6ZS1HSzBIYnhaLUxIem5BR3FxZ1VlR25HT0wwTGtsTnFqbFZQS2JJNXBfaFdXeHhQMmJ5SDA4M25RU1ltVjlaMFh2aXBWa3c1SHdRYnUyRU9K?oc=5",
+        "pubTime": "2026-11-24 21:31",
+        "source": "news.google.com",
+        "titleZh": "川普的外交政策完全圍繞著川普——《說服》｜亞沙·蒙克",
+        "descZh": "川普的外交政策完全圍繞著川普本身  說服力 | 亞沙·蒙克"
+      },
+      {
+        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+        "desc": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-24 18:53",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "川普聲稱自己「說服」英偉達讓執行長黃仁勳復職後，面臨強烈反彈",
+        "descZh": "英偉達曾面臨川普總統的壓力，要求其重新任命黃仁勳；而黃仁勳的回歸，使該公司市值增加了1兆美元。"
+      },
+      {
+        "title": "Trump administration takes two African island nations to UN aviation body over blocked Taiwan president’s flight as China hits back - Business Insider Africa",
+        "desc": "Trump administration takes two African island nations to UN aviation body over blocked Taiwan president’s flight as China hits back&nbsp;&nbsp;Business Insider Africa",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeUwtUTVmazF1am9iQnZIUGpjVzhvRmlBUTRLcm1HWTNOaUhLZVFmSjdBUEx3bU9KcUNCREJhT05TVnVRVE5WcXN1R2drZW13czBWT2FtYTdURlIycUpNOUpwV2c1LU15TFJuTlJGNjFwbmZ4X0xHQkwxbFA1OWt6N2hkbENnVVg0bFJGVTlyZW96TUJmOHAzZUViOUNKcThrNUNnTDlLZzRmSXlxYWdZUEg5dUs5QUtrdGVPZUdjdERuUXZNWVNCQjUyUEZaRzJj?oc=5",
+        "pubTime": "2026-11-24 17:15",
+        "source": "news.google.com",
+        "titleZh": "因台灣總統航班遭阻，川普政府代表兩個非洲島國向聯合國航空機構提出申訴，中國隨即反擊——《Business Insider Africa》",
+        "descZh": "因阻撓台灣總統航班，川普政府代表兩個非洲島國向聯合國航空機構提出申訴，中國隨即予以反擊&nbsp;&nbsp;《Business Insider Africa》"
+      },
+      {
+        "title": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections - Davis Wright Tremaine",
+        "desc": "What to Expect in U.S. Tariff Policy Following the 2026 Midterm Elections&nbsp;&nbsp;Davis Wright Tremaine",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYjYtY3NjVzFfTmFKMUNJTUVtQXQ0d1F5RmF4TE12N1lKZFBYTUdBM0ZLY05oWEwxeUJEUlpOR2NrczZRbElTeFdqa3BrTjhsM29wbVRiMkxNM21IMjVTN1JzcmdxTm5pUGU1SmNMQmxaRk11V1FUSnBqYkE3ZUNjdTRjWW1uZG1fNEE?oc=5",
+        "pubTime": "2026-11-24 07:55",
+        "source": "news.google.com",
+        "titleZh": "2026年中期選舉後，美國關稅政策將有何變化？——戴維斯·萊特·特雷梅恩律師事務所",
+        "descZh": "2026年中期選舉後，美國關稅政策將有何變化？&nbsp;&nbsp;戴維斯·萊特·特雷梅恩律師事務所"
+      },
+      {
+        "title": "Opinion | Trump’s Focus Moves to Foreign Policy - WSJ",
+        "desc": "Opinion | Trump’s Focus Moves to Foreign Policy&nbsp;&nbsp;WSJ",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tVGlHYTJuMGVrNVAyMS1GYWtBb3dPSlpiZ2hwWTB2SkV1UXFPWUNqSmJOckFXWmtxSVpndjJpRVBua0ZXTnpIODhGbk1WQUR1MVlYTnBXN1o4QTZTOUUzdU9DdHRRaVpwMGFlRUtweXJnZWdHNU4zRnBJV01kQQ?oc=5",
+        "pubTime": "2026-11-24 05:56",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 川普的關注焦點轉向外交政策 — 《華爾街日報》",
+        "descZh": "觀點 | 川普的關注焦點轉向外交政策&nbsp;&nbsp;《華爾街日報》"
+      },
+      {
+        "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+        "desc": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+        "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-24 05:40",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "史詩級的回歸：川普對黃仁勳重返英偉達的影響",
+        "descZh": "BBC 商業記者米歇爾·弗勒里（Michelle Fleury）闡述了川普的支持在黃的東山再起中扮演了什麼樣的角色。"
+      },
+      {
+        "title": "Opinion | What Trump’s embarrassing trip to China tells the world - The Washington Post",
+        "desc": "Opinion | What Trump’s embarrassing trip to China tells the world&nbsp;&nbsp;The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUNCcF9DcnlBN1FpdDJCUy13SGNFWmxwcTJsemdSY01GaF9XWWJicGlMcjU0Z3VWZ3k3UTNlMjV2bURidzhFODE2dGZWRmJtYW1kLXVib2ljRDVSOFFYbFhsQTF1Ul9pclhsNGUyaWl0c1VQWncwYUpXVUJBQ0NqNzZvSE9odzc3c0VuVWIyYkF5UGlrLVNkeDVJTm5DaGI3dmhjVGhB?oc=5",
+        "pubTime": "2026-11-24 03:45",
+        "source": "news.google.com",
+        "titleZh": "觀點 | 川普這趟尷尬的訪中之行向世界傳達了什麼訊息 —— 《華盛頓郵報》",
+        "descZh": "觀點 | 川普這趟尷尬的訪中之行向世界傳達了什麼？&nbsp;&nbsp;《華盛頓郵報》"
+      },
+      {
+        "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+        "desc": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+        "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+        "pubTime": "2026-11-24 02:49",
+        "source": "feeds.bbci.co.uk",
+        "titleZh": "第一夫人梅拉尼婭·川普為今年的白宮聖誕樹揭幕",
+        "descZh": "2026年白宮官方聖誕樹是一棵高18英尺的冷杉，來自威斯康辛州恩德沃市（Endeavor）的「平安夜常青樹」（Silent Night Evergreens）農場。"
+      },
+      {
+        "title": "Trump Administration Approved Sale of 580,000 Nvidia AI Chips to Chinese Military-Linked Companies for a Cut of Revenue - Yahoo",
+        "desc": "Trump Administration Approved Sale of 580,000 Nvidia AI Chips to Chinese Military-Linked Companies for a Cut of Revenue&nbsp;&nbsp;Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblhqVkt3aDV2aTktV011RFFKUEQzVlhQQ3o0SWtFVV9uc01EV1NUMERjY3dyLVZRS3dQd015OHVfTmxYVUdLaWJyRHBmYXkzUE5Wb1UwYWZFUFR0d2Nhc3lORzhmYlVsVHczSmowT0xodU9veERxVHp3TUZOaFh0OHdCUEl3aWtjWURQYVVxZkVVS0ROb19nZlpXamxELUE?oc=5",
+        "pubTime": "2026-11-23 23:49",
+        "source": "news.google.com",
+        "titleZh": "川普政府批准向與中國軍方有關聯的企業出售 58 萬顆 Nvidia 人工智慧晶片，並從中抽取部分收益 —— Yahoo",
+        "descZh": "川普政府批准向與中國軍方有關聯的企業出售 58 萬顆 Nvidia 人工智慧晶片，以換取部分收益&nbsp;&nbsp;Yahoo"
+      }
+    ]
+  },
+  {
     "date": "20261124",
     "fetchTime": "2026-11-24 12:52",
     "count": 16,
@@ -6346,94 +6587,6 @@
         "source": "feeds.bbci.co.uk",
         "titleZh": "歐巴馬在中期選舉前為民主黨助選時，抨擊川普",
         "descZh": "歐巴馬表示，這次選舉是「至少能遏制這屆政府部分荒謬行徑的最後一次最佳機會」。"
-      }
-    ]
-  },
-  {
-    "date": "20261026",
-    "fetchTime": "2026-10-26 06:40",
-    "count": 9,
-    "articles": [
-      {
-        "title": "Barack Obama mocks tariff war with Canada as U.S. midterms approach - CTV News",
-        "desc": "Barack Obama mocks tariff war with Canada as U.S. midterms approach&nbsp;&nbsp;CTV News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUE1VXo5MUNqdjR6ZWQzb0ZmQWhWZGo5Z3g0UUJKa2dXX2l2a1QwZS16anRFbER2bHdsYm90ZFZIbG51RnNneTF0RG55RmZhMkE1LTlnSnctNDdiazUwM1dNaWN0MF9SY2dSTXJUejd3Y2tENEJfTmwwRzBQQTR0bVhwQWN4SlJXVEhLMmhrNGZPVjF1MVEtNnBLZ3J4YUlaQ1J2T05iUVNxZmVETldHOWlMMVNaeVE?oc=5",
-        "pubTime": "2026-10-26 04:30",
-        "source": "news.google.com",
-        "titleZh": "美國中期選舉將至，巴拉克·歐巴馬嘲諷與加拿大的關稅戰 - CTV News",
-        "descZh": "隨著美國中期選舉臨近，巴拉克·歐巴馬嘲諷與加拿大的關稅戰&nbsp;&nbsp;CTV News"
-      },
-      {
-        "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project - Mashable",
-        "desc": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project&nbsp;&nbsp;Mashable",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM?oc=5",
-        "pubTime": "2026-10-26 03:31",
-        "source": "news.google.com",
-        "titleZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單 —— Mashable",
-        "descZh": "蘋果、Nvidia 領銜向川普白宮舞廳計畫捐款的科技公司名單&nbsp;&nbsp;Mashable"
-      },
-      {
-        "title": "US Midterms 2026: Audi’s $4.2 billion bet gives Trump tariff ammo in battleground Georgia - The Economic Times",
-        "desc": "US Midterms 2026: Audi’s $4.2 billion bet gives Trump tariff ammo in battleground Georgia&nbsp;&nbsp;The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTXdUM1BRUGpTX0wtdUdrU0M5YnNhTGdvS0ExSWhndXhZeUFNanFPbHYyWTYwck1GSW9KQjUyQU1iUktYamdXcDJsRlJ2U3cyYjdBWXRvZk9YY1FEN0lFbXVHN2lVSVljZGVfajRmTHo3dUQzcExuWkcwX3A1OTNDWXg0RzFfVVcxS25zZDVrb1YyRWpCRlIySDQtVVRUYVgyV1p2UmVNcUFIS0ZyVHV0NWFLLW1Yd1JRenUzV3BiMUpKS1dtSkF0bVl1dkkxTzBrRFZZREV3anRGS09RaXFpT2hIVGR0VWpoVDFIRjJnWllmdlpCVy1EbnptUVdGajDSAYQCQVVfeXFMUDVGWHpZaWhVaGxJYVFtN0toOE8yNV9uSWkxVXVPN3R3TXNrNG9oZ1ZuWEF4RGdlVGQyc3VZS0g0eHdweUNQanhlbTFjUkk5ZkthSERISkphT3dvTEw3dU44azdDa2dObFRiLUNBME0xOVcxc0dUbFQxVlg4QXZsY21HZzNsWk9DN1BCUG5YeHNBREU3R3ExbHJMb0M0Rnhfc0NIaFdra1NsWnFmTmNadmVUazB3ZHRjSzliRGdwX3BxcS15S0toVWIwZ1ZsS3dZNk45YjVEMkw3LXdKX0NCQXo0RXBZc3UwN21xbFpnRHdqSXZhSzRFSFhQMFAtTlUyaThmYWs?oc=5",
-        "pubTime": "2026-10-25 11:09",
-        "source": "news.google.com",
-        "titleZh": "2026年美國中期選舉：奧迪的42億美元賭注為川普在關鍵州喬治亞州提供了關稅攻勢的彈藥——《經濟時報》",
-        "descZh": "2026年美國中期選舉：奧迪42億美元的賭注為川普在關鍵州喬治亞州提供了關稅戰的彈藥&nbsp;&nbsp;《經濟時報》"
-      },
-      {
-        "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-        "desc": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
-        "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-25 10:27",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "歐巴馬在中期選舉前為民主黨助選時，抨擊川普",
-        "descZh": "歐巴馬表示，這次選舉是「至少能遏制這屆政府部分荒謬行徑的最後一次最佳機會」。"
-      },
-      {
-        "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-        "desc": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-25 03:12",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "凡妮莎·川普表示，在透露確診消息六個月後，她已完全康復",
-        "descZh": "唐納德·川普 Jr 的前妻——兩人育有五名子女——於五月宣布，她已被診斷出罹患乳癌。"
-      },
-      {
-        "title": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight - Fox News",
-        "desc": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight&nbsp;&nbsp;Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2wybjNPWnM4T3d0OEw5ekpLTVN6TWFxcjR1UnJIVXdTUFdBOHVNRy1kMUhNY3dsV3k1R2RKSWZYZ21EYXlMRi1TeVBva05WbXk0elBaMElmR0ZIN2xZaWp0ZTA3U0JTbkNRMkI2b3hRTno2eGVNR1M5ZV9tNWN0MTJBbnhEUVFkNzFRRHc2bkRyYjdsUlNMekNJQ0liRFVPOXZv0gGoAUFVX3lxTFBPWTh5NE1CTGJwQ19tYko3N0JBaXdDOW00T0pfbGRkRkhkcnFpa1U0WjNveEJsSm9heXJqWUpYNkVaVVExeGhkTGI2eVYtb3RvYUZOT0tyRjQ4Nmp2VXdPNVpGTEkyNlZqUnlrZkd4ZVZZNWFhTG4yTEdJZDQtU3pLR3lFa1I5a3MwYXFTU1ZYUnBOQUIwT1hUdHBIZEJvUkFjYU13ejFnUw?oc=5",
-        "pubTime": "2026-10-24 19:00",
-        "source": "news.google.com",
-        "titleZh": "加拿大正因川普的關稅措施而深受其害——但這場貿易戰並非一夕之間爆發的 - 福斯新聞",
-        "descZh": "加拿大正因川普的關稅措施而深受其害——但這場貿易戰並非一夕之間爆發的&nbsp;&nbsp;福斯新聞"
-      },
-      {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "desc": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-24 15:17",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "白宮表示，梅拉尼婭·川普為這座「瀕臨災難」的烏克蘭城市斡旋達成停火協議",
-        "descZh": "烏克蘭與俄羅斯確認，在俄軍佔領的奧列什基（Oleshky）已達成停火協議；當地居民為求生存，甚至不得不靠吃菜園裡的雜草維生。"
-      },
-      {
-        "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-        "desc": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-        "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-24 13:31",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "明尼阿波利斯撤軍是「投降」，川普的前邊境巡邏隊隊長向BBC表示",
-        "descZh": "格雷格·博維諾是今年稍早該市那場備受爭議的移民執法行動的公開代表人物。"
-      },
-      {
-        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-        "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "pubTime": "2026-10-24 08:36",
-        "source": "feeds.bbci.co.uk",
-        "titleZh": "隨著中期選舉臨近，白宮取消了對部分加拿大商品的關稅",
-        "descZh": "自 10 月 30 日起，部分產品（包括某些機械）的關稅將予以放寬，而其他產品（例如地毯）則將被徵收關稅。"
       }
     ]
   }
